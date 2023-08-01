@@ -1,0 +1,74 @@
+{
+   "name": "МУЛЬТИКИ",
+   "version": "1.0.0",
+   "background": "https://gas-kvas.com/uploads/posts/2023-02/1675495282_gas-kvas-com-p-fonovii-risunok-dlya-rebenka-na-rabochii-s-23.jpg",
+   "headline": "Мульт-ПОДБОРКИ",
+   "dictionary": "https://maxaon09.github.io/lampaset/msx/lang/ru.json",
+   "menu": [
+      {
+         "type": "separator"
+      },
+      {
+         "image": "https://mults.info/img/collection.png",
+         "label": "Bсе мультики.",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/lampaset/multiki/list1.m3u"
+      },
+      {
+         "type": "separator"
+      },
+      {
+         "label": "Весёлая карусель",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/lampaset/multiki/pl/karusel.m3u"
+      },
+      {
+         "label": "Ну, погоди!",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/lampaset/multiki/pl/nu_pogodi.m3u"
+      },
+      {
+         "label": "38 попугаев",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/lampaset/multiki/pl/38_popugaev.m3u"
+      },
+      {
+         "label": "Возвр. блудного попугая",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/lampaset/multiki/pl/vozvr_bl_popugaya.m3u"
+      },
+      {
+         "label": "Трое из Простоквашино",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/lampaset/multiki/pl/prostokvashino.m3u"
+      },
+      {
+         "label": "Гена и Чебурашка",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/lampaset/multiki/pl/cheburashka.m3u"
+      },
+      {
+         "label": "В.Пух/Обезьянки",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/lampaset/multiki/pl/pooh_obezyanki.m3u"
+      },
+      {
+         "label": "Айболит",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/lampaset/multiki/pl/aibolit.m3u"
+      },
+      {
+         "label": "Три богатыря",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/lampaset/multiki/pl/tri_bogatyrya.m3u"
+      },
+      {
+         "label": "Тигренок/Умка/Енот",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/lampaset/multiki/pl/tigrenok_umka_enot.m3u"
+      },
+      {
+         "type": "separator"
+      }
+   ]
+}
