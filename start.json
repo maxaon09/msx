@@ -1,5 +1,5 @@
 {
     "name": "My Example Content",
     "version": "1.0.0",
-    "parameter": "content:http://{SERVER}/msx/welcome.json"
+    "parameter": "content:https://maxaon09.github.io/msx/welcome.json"
 }
