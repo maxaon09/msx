@@ -1,0 +1,83 @@
+{
+   "type": "list",
+   "headline": "МУЛЬТИКИ",
+   "transparent": 2,
+   "preload": "next",
+   "underlay": {
+      "action": "[quiet|delay:backdrop:1:interaction:load:http://msx.benzac.de/interaction/backdrop.html]",
+      "data": {
+         "url": "none"
+      },
+      "items": [
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "0,0,6,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,2,3",
+      "area": "0,3,12,3",
+      "wrapperColor": "msx-glass",
+      "imageHeight": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover",
+      "truncation": "titleHeader|titleFooter",
+      "titleHeader": "",
+      "titleFooter": "",
+      "description": "No description available.",
+      "backdrop": "none",
+      "image": "none",
+      "selection": {
+         "important": true,
+         "action": "data",
+         "data": {
+            "actions": [
+               {
+                  "action": "invalidate:content:underlay:text"
+               },
+               {
+                  "action": "delay:text:1:update:content:underlay:text",
+                  "data": {
+                     "headline": "{context:titleHeader}",
+                     "text": "{context:titleFooter}{br}{br}{context:description}"
+                  }
+               },
+               {
+                  "action": "delay:backdrop:1:interaction:load:http://msx.benzac.de/interaction/backdrop.html",
+                  "data": {
+                     "url": "{context:backdrop}",
+                     "type": 1
+                  }
+               }
+            ]
+         }
+      },
+      "properties": {
+         "image:extension": "| {context:titleHeader}"
+      }
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}First Item",
+         "titleFooter": "Duis rutrum orci purus",
+         "description": "Lorem ipsum dolor sit amet, omittam vivendum ad mea, putant voluptaria mei an, cum saperet probatus ea. Gloriatur adolescens est id, denique oporteat inciderint an nec, ut mea veniam aliquando signiferumque. Quod periculis adversarium qui te. Ea pri facer semper, stet eleifend per ut. Eum soluta pertinacia an, vel tation tollit pertinax et. Aperiri scribentur.",
+         "backdrop": "https://maxaon09.github.io/lampaset/multiki/screen/bg.jpg",
+         "image": "https://maxaon09.github.io/lampaset/multiki/screen/bg.jpg",
+         "action": "image:https://picsum.photos/seed/msx_item0/1920/1080"
+      },
+      {
+         "titleHeader": "{col:msx-white}Second Item",
+         "titleFooter": "Orci varius natoque penatibus et",
+         "description": "Lorem ipsum dolor sit amet, duo iisque erroribus comprehensam no, at pri quis apeirian perpetua. Ea ius harum oportere, idque audiam impedit mea ei, eam ea utinam moderatius. No nam albucius voluptua fabellas, cibo ancillae at nam. Cu viris volutpat.",
+         "backdrop": "https://picsum.photos/seed/msx_item1/960/540",
+         "image": "https://picsum.photos/seed/msx_item1/264/264",
+         "action": "image:https://picsum.photos/seed/msx_item1/1920/1080"
+      }
+
+   ]
+}
