@@ -1,7 +1,7 @@
 {
    "name": "МУЛЬТИКИ",
    "version": "1.0.0",
-   "background": "maxaon09.github.io/msx/img/bg.jpg",
+   "background": "https://maxaon09.github.io/msx/img/bg.jpg",
    "headline": "Мульт-ПОДБОРКИ",
    "dictionary": "https://maxaon09.github.io/lampaset/msx/lang/ru.json",
    "menu": [
