@@ -63,6 +63,14 @@
    },
    "items": [
       {
+         "titleHeader": "{col:msx-white}Короткометражные подборки",
+         "titleFooter": "Приложение не содержит медиа-контента, а предоставляет ссылку на первоисточник",
+         "description": "Подборки короткометражных мультфильмов о прелючениях кота Тома и мышонка Джерри.",
+         "backdrop": "https://tom-dzherri.net/static/images/tumbs/tom-i-dzherri-1.jpg",
+         "image": "https://tom-dzherri.net/static/images/tumbs/tom-i-dzherri-1.jpg",
+         "action": "menu: https://maxaon09.github.io/msx/tom_jerry/menu.json"
+      },
+      {
          "titleHeader": "{col:msx-white}Фильм (1992)",
          "titleFooter": "Приложение не содержит медиа-контента, а предоставляет ссылку на первоисточник",
          "description": "Неугомонные любимые друзья в полнометражном мультфильме «Том и Джерри: Фильм». Они не гоняются друг за другом, а помогают совсем маленькой девочке найти её пропавшего отца. Но не думайте, что вы заскучаете при просмотреть мультфильма. Ведь это наши любимые Том и Джерри! Погони, море опасностей, злые козни старой злой тётки. Просто отличный юмор и радость от общения с любимыми героями!",
@@ -180,14 +188,6 @@
          "backdrop": "https://tom-dzherri.net/static/images/tumbs/tom-i-dzherri-villi-vonka-i-shokoladnaya-fabrika-2017.jpg",
          "image": "https://tom-dzherri.net/static/images/tumbs/tom-i-dzherri-villi-vonka-i-shokoladnaya-fabrika-2017.jpg",
          "action": "video: https://v.tom-dzherri.net/video/film/720/Tom-i-Dzherri-Villi-Vonka-i-shokoladnaja-fabrika-720.mp4"
-      },
-      {
-         "titleHeader": "{col:msx-white}Короткометражные подборки",
-         "titleFooter": "Приложение не содержит медиа-контента, а предоставляет ссылку на первоисточник",
-         "description": "Подборки короткометражных мультфильмов о прелючениях кота Тома и мышонка Джерри.",
-         "backdrop": "https://tom-dzherri.net/static/images/tumbs/tom-i-dzherri-1.jpg",
-         "image": "https://tom-dzherri.net/static/images/tumbs/tom-i-dzherri-1.jpg",
-         "action": "menu: https://maxaon09.github.io/msx/tom_jerry/menu.json"
       }
    ]
 }
