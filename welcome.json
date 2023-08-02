@@ -76,7 +76,7 @@
          "description": "Том и Джерри онлайн бесплатно: https://tom-dzherri.net. Ввсе серии замечательного и всеми любимого мультфильма Том и Джерри. Просмотр доступен всем без исключения и абсолютно бесплатно. На сайте собраны практически все серии мультика с русским переводом. ",
          "backdrop": "https://maxaon09.github.io/msx/img/splash.png",
          "image": "https://maxaon09.github.io/msx/img/splash.png",
-         "action": "menu: https://maxaon09.github.io/msx/tom_jerry/menu.json"
+         "action": content: https://maxaon09.github.io/msx/tom_jerry/tom_jerryu.json"
       }
    ]
 }
