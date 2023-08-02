@@ -1,0 +1,29 @@
+{
+   "type": "list",
+   "pages": [
+      {
+         "headline": "Ознакомтесь с важной информацией",
+         "items": [
+            {
+               "type": "button",
+               "action": "content: http://maxaon09.github.io/msx/welcome.json",
+               "layout": "0,5,12,1",
+               "label": "Запуск новой версии программы МУЛЬТИКИ"
+            },
+            {
+               "type": "space",
+               "layout": "0,0,12,2",
+               "image": "http://maxaon09.github.io/msx/img/bg_logo.png",
+               "imageFiller": "cover"
+            },
+            {
+               "type": "space",
+               "layout": "0,2,12,3",
+               "color": "msx-glass",
+               "headline": "{br}{br}ВАЖНО!",
+               "text": "Вышла новая версия программы МУЛЬТИКИ в связи с чем текущая версия больше не поддерживается.{br} Установить новую версию можно из HBC (Кружка) или скачав ipk файл на канале t.me/ipk_moding_chat{br}{br} Так же некоторое время можно будет запустить новую версию нажав на кнопку ниже."
+            }
+         ]
+      }
+   ]
+}
