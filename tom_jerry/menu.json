@@ -1,7 +1,7 @@
 {
    "name": "Том и Джерри",
    "version": "1.0.0",
-   "background": "https://gas-kvas.com/uploads/posts/2023-02/1675495282_gas-kvas-com-p-fonovii-risunok-dlya-rebenka-na-rabochii-s-23.jpg",
+   "background": "https://maxaon09.github.io/msx/img/splash.png",
    "headline": "Подборки",
    "dictionary": "https://maxaon09.github.io/lampaset/msx/lang/ru.json",
    "menu": [
@@ -10,7 +10,7 @@
          "label": "Короткометражные"
       },
       {
-         "label": "Том и Джерри Old c1-163",
+         "label": "Том и Джерри Old (1-163 серии)",
          "extensionLabel": "",
          "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/tom_jerry/pl/tom_jerry_old.m3u"
       },
@@ -23,85 +23,6 @@
          "label": "Детские годы (1990 – 1994)",
          "extensionLabel": "",
          "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/tom_jerry/pl/detskie_gody.m3u"
-      },
-      {
-         "type": "separator",
-         "label": "Полнометражные"
-      },
-      {
-         "label": "Фильм (1992)",
-         "extensionLabel": "",
-         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=standart&url=https://maxaon09.github.io/msx/tom_jerry/pl/film.m3u"
-      },
-      {
-         "label": "Волшебное кольцо (2002)",
-         "extensionLabel": "",
-         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=standart&url=https://maxaon09.github.io/msx/tom_jerry/pl/Volshebnoe_kolco.m3u"
-      },
-      {
-         "label": "Полет на Марс (2005)",
-         "extensionLabel": "",
-         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=standart&url=https://maxaon09.github.io/msx/tom_jerry/pl/Polet_na_Mars.m3u"
-      },
-      {
-         "label": "Быстрый и бешеный (2005)",
-         "extensionLabel": "",
-         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=standart&url=https://maxaon09.github.io/msx/tom_jerry/pl/Bystryj_beshenyj.m3u"
-      },
-      {
-         "label": "Трепещи, Усатый! (2006)",
-         "extensionLabel": "",
-         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=standart&url=https://maxaon09.github.io/msx/tom_jerry/pl/Trepeshhi_Usatyj.m3u"
-      },
-      {
-         "label": "История о щелкунчике (2007)",
-         "extensionLabel": "",
-         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=standart&url=https://maxaon09.github.io/msx/tom_jerry/pl/shhelkunchik.m3u"
-      },
-      {
-         "label": "Шерлок Холмс (2010)",
-         "extensionLabel": "",
-         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=standart&url=https://maxaon09.github.io/msx/tom_jerry/pl/Holms.m3u"
-      },
-      {
-         "label": "Волшебник из страны Оз (2011)",
-         "extensionLabel": "",
-         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=standart&url=https://maxaon09.github.io/msx/tom_jerry/pl/Volshebnik.m3u"
-      },
-      {
-         "label": "Робин Гуд и Мышь-Весельчак (2012)",
-         "extensionLabel": "",
-         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=standart&url=https://maxaon09.github.io/msx/tom_jerry/pl/Robin-Gud.m3u"
-      },
-      {
-         "label": "Гигантское приключение (2013)",
-         "extensionLabel": "",
-         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=standart&url=https://maxaon09.github.io/msx/tom_jerry/pl/Gigantskoe-prikljuchenie.m3u"
-      },
-      {
-         "label": "Потерянный дракон (2014)",
-         "extensionLabel": "",
-         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=standart&url=https://maxaon09.github.io/msx/tom_jerry/pl/Poterjannyj-drakon.m3u"
-      },
-      {
-         "label": "Маленькие помощники Санты (2014)",
-         "extensionLabel": "",
-         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=standart&url=https://maxaon09.github.io/msx/tom_jerry/pl/pomoshhniki-Santy.m3u"
-      },
-      {
-         "label": "Шпионские игры",
-         "extensionLabel": "",
-         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=standart&url=https://maxaon09.github.io/msx/tom_jerry/pl/Shpion-Kvest.m3u"
-      },
-      {
-         "label": "Возвращение в страну Оз (2016)",
-         "extensionLabel": "",
-         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=standart&url=https://maxaon09.github.io/msx/tom_jerry/pl/Vozvrashhenie.m3u"
-      },
-      {
-         "label": "Вилли Вонка и шоколадная фабрика (2017)",
-         "extensionLabel": "",
-         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=standart&url=https://maxaon09.github.io/msx/tom_jerry/pl/Villi-Vonka.m3u"
       },
       {
          "type": "separator"
