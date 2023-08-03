@@ -1,0 +1,82 @@
+{
+   "type": "list",
+   "headline": "МУЛЬТИКИ",
+   "transparent": 2,
+   "preload": "next",
+   "underlay": {
+      "action": "[quiet|delay:backdrop:1:interaction:load:http://msx.benzac.de/interaction/backdrop.html]",
+      "data": {
+         "url": "none"
+      },
+      "items": [
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "0,0,6,3",
+            "headline": "",
+            "text": "Приложение не содержит медиа-контента, а предоставляет ссылку на первоисточник"
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,3",
+      "area": "0,3,12,3",
+      "wrapperColor": "msx-glass",
+      "imageHeight": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover",
+      "truncation": "titleHeader|titleFooter",
+      "titleHeader": "",
+      "titleFooter": "",
+      "description": "No description available.",
+      "backdrop": "none",
+      "image": "none",
+      "selection": {
+         "important": true,
+         "action": "data",
+         "data": {
+            "actions": [
+               {
+                  "action": "invalidate:content:underlay:text"
+               },
+               {
+                  "action": "delay:text:1:update:content:underlay:text",
+                  "data": {
+                     "headline": "{context:titleHeader}",
+                     "text": "{context:titleFooter}{br}{br}{context:description}"
+                  }
+               },
+               {
+                  "action": "delay:backdrop:1:interaction:load:http://msx.benzac.de/interaction/backdrop.html",
+                  "data": {
+                     "url": "{context:backdrop}",
+                     "type": 1
+                  }
+               }
+            ]
+         }
+      },
+      "properties": {
+         "image:extension": "| {context:titleHeader}"
+      }
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}МУЛЬТФИЛЬМЫ",
+         "titleFooter": "Приложение не содержит медиа-контента, а предоставляет ссылку на первоисточник",
+         "description": "Коллекция мультфильмов советских времен и не только. Самые лучшие мультики из вашего детства!",
+         "backdrop": "https://sun9-18.userapi.com/impg/RJfkllLjtCk6FmtCSJ64vzp9bOLnq5d9AYqH1g/HSCpywZatIk.jpg?size=1280x906&quality=95&sign=21e407fcc8f103ed461644612ebdbbf1&c_uniq_tag=1pFomlwFEtcQnxkCUNOvlzb7JYQRTWPAKGH-h8tW6nI&type=album",
+         "image": "https://sun9-18.userapi.com/impg/RJfkllLjtCk6FmtCSJ64vzp9bOLnq5d9AYqH1g/HSCpywZatIk.jpg?size=1280x906&quality=95&sign=21e407fcc8f103ed461644612ebdbbf1&c_uniq_tag=1pFomlwFEtcQnxkCUNOvlzb7JYQRTWPAKGH-h8tW6nI&type=album",
+         "action": "menu: https://maxaon09.github.io/msx/multiki/menu.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}АУДИОСКАЗКИ",
+         "titleFooter": "Приложение не содержит медиа-контента, а предоставляет ссылку на первоисточник",
+         "description": "Коллекция аудиосказок советских времен и не только, доступны как детские аудиосказки, так и постановки для взрослых. Все они оцифрованы с советских детских грампластинок и кассет, восстановлены из записей Гостелерадиофонда.",
+         "backdrop": "https://sun9-38.userapi.com/impf/c841625/v841625354/60148/LFMjFJCLKQM.jpg?size=1080x628&quality=96&sign=8d9f2ac7d59d63ed317ad11d9b1c40bb&c_uniq_tag=QYf1E4oe2pP519e53dp8e28P3EUo-SwioQ3i3Q2desw&type=album",
+         "image": "https://sun9-38.userapi.com/impf/c841625/v841625354/60148/LFMjFJCLKQM.jpg?size=1080x628&quality=96&sign=8d9f2ac7d59d63ed317ad11d9b1c40bb&c_uniq_tag=QYf1E4oe2pP519e53dp8e28P3EUo-SwioQ3i3Q2desw&type=album",
+         "action": "menu: https://maxaon09.github.io/msx/multiki/audio_menu.json"
+      }
+   ]
+}
