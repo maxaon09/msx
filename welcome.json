@@ -69,7 +69,7 @@
          "description": "Здесь собрали для вас коллекцию мультфильмов советских времен и не только. Самые лучшие мультики из вашего детства!  Бесплатно посмотреть мультфильмы онлайн, а также скачать мультики для просмотра на компьютере или телевизоре: https://mults.info/ ",
          "backdrop": "https://maxaon09.github.io/msx/img/bg_logo.png",
          "image": "https://maxaon09.github.io/msx/img/bg_logo.png",
-         "action": "content: https://maxaon09.github.io/msx/multiki/multfilmy.json"
+         "action": "content: https://maxaon09.github.io/multiki/multfilmy.json"
       },
       {
          "titleHeader": "{col:msx-white}ТОМ и ДЖЕРРИ",
