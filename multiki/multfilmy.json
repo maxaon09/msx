@@ -1,6 +1,5 @@
 {
    "type": "list",
-   "dictionary": "https://maxaon09.github.io/lampaset/msx/lang/ru.json",
    "headline": "МУЛЬТИКИ",
    "transparent": 2,
    "preload": "next",
@@ -15,13 +14,13 @@
             "type": "space",
             "layout": "0,0,6,3",
             "headline": "",
-            "text": "Приложение не содержит медиа-контента, а предоставляет ссылку на первоисточник"
+            "text": ""
          }
       ]
    },
    "template": {
       "type": "default",
-      "layout": "0,0,6,3",
+      "layout": "0,0,3,3",
       "area": "0,3,12,3",
       "wrapperColor": "msx-glass",
       "imageHeight": 1.83,
