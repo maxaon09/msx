@@ -1,13 +1,5 @@
 {
    "headline": "Аудиосказки",
-   "ready": {
-      "action": "execute:service:video:data:http://msx.benzac.de/services/background.php",
-      "data": {
-         "url": "http://msx.benzac.de/media/atmos6.mp4",
-         "label": "Atmospheric Background 6",
-         "transparent": true
-      }
-   },
    "menu": [
       {
          "background": "https://i.gifer.com/6zjx.gif",
