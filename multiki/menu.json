@@ -18,6 +18,11 @@
          "type": "separator"
       },
       {
+         "label": "Леопольд...",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/multiki/pl/leopold.m3u"
+      },
+      {
          "label": "Незнайка...",
          "extensionLabel": "",
          "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/multiki/pl/neznayka.m3u"
