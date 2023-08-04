@@ -1,6 +1,6 @@
 {
    "type": "list",
-   "dictionary": "https://maxaon09.github.io/lampaset/msx/lang/ru.json",
+   "dictionary": "https://maxaon09.github.io/msx/dictionary.json",
    "headline": "МУЛЬТИКИ",
    "transparent": 2,
    "preload": "next",
