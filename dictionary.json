@@ -5,6 +5,7 @@
     "keyboard": "1234567890АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ,.:?!-+",
     "properties": {
       "caption:menu": "Меню",
+      "caption:view": "Вид",
       "caption:options": "Опции",
       "caption:player": "Плеер",
       "format:date": "dd/mm/yy",
