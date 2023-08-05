@@ -18,6 +18,11 @@
          "type": "separator"
       },
       {
+         "label": "Братья Пилоты",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/multiki/pl/piloty.m3u"
+      },
+      {
          "label": "Леопольд...",
          "extensionLabel": "",
          "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/multiki/pl/leopold.m3u"
