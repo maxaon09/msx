@@ -1,7 +1,7 @@
 {
    "type": "list",
    "dictionary": "https://maxaon09.github.io/msx/dictionary.json",
-   "headline": "МУЛЬТИКИ",
+   "headline": "КИНОФРАНШИЗЫ",
    "transparent": 2,
    "preload": "next",
    "underlay": {
@@ -15,13 +15,13 @@
             "type": "space",
             "layout": "0,0,6,3",
             "headline": "",
-            "text": "Приложение не содержит медиа-контента, а предоставляет ссылку на первоисточник"
+            "text": ""
          }
       ]
    },
    "template": {
       "type": "default",
-      "layout": "0,0,6,3",
+      "layout": "0,0,12,2",
       "area": "0,3,12,3",
       "wrapperColor": "msx-glass",
       "imageHeight": 1.83,
@@ -64,15 +64,7 @@
    },
    "items": [
       {
-         "titleHeader": "{col:msx-white}МУЛЬТИКИ",
-         "titleFooter": "Приложение не содержит медиа-контента, а предоставляет ссылку на первоисточник",
-         "description": "Здесь собрали для вас коллекцию мультфильмов советских времен и не только. Самые лучшие мультики из вашего детства!  Бесплатно посмотреть мультфильмы онлайн, а также скачать мультики для просмотра на компьютере или телевизоре: https://mults.info/ ",
-         "backdrop": "https://maxaon09.github.io/msx/img/bg_logo.png",
-         "image": "https://maxaon09.github.io/msx/img/bg_logo.png",
-         "action": "content: https://maxaon09.github.io/msx/multiki/multfilmy.json"
-      },
-      {
-         "titleHeader": "{col:msx-white}ТОМ и ДЖЕРРИ",
+         "titleHeader": "{col:msx-white}К ПРОСМОТРУ",
          "titleFooter": "Приложение не содержит медиа-контента, а предоставляет ссылку на первоисточник",
          "description": "Том и Джерри онлайн бесплатно: https://tom-dzherri.net. Ввсе серии замечательного и всеми любимого мультфильма Том и Джерри. Просмотр доступен всем без исключения и абсолютно бесплатно. На сайте собраны практически все серии мультика с русским переводом. ",
          "backdrop": "https://maxaon09.github.io/msx/img/splash.png",
