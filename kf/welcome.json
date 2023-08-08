@@ -21,7 +21,7 @@
    },
    "template": {
       "type": "default",
-      "layout": "0,0,12,2",
+      "layout": "0,0,12,1",
       "area": "0,3,12,3",
       "wrapperColor": "msx-glass",
       "imageHeight": 1.83,
@@ -68,7 +68,7 @@
          "titleFooter": "Приложение не содержит медиа-контента, а предоставляет ссылку на первоисточник",
          "description": "Том и Джерри онлайн бесплатно: https://tom-dzherri.net. Ввсе серии замечательного и всеми любимого мультфильма Том и Джерри. Просмотр доступен всем без исключения и абсолютно бесплатно. На сайте собраны практически все серии мультика с русским переводом. ",
          "backdrop": "https://maxaon09.github.io/msx/img/splash.png",
-         "image": "https://maxaon09.github.io/msx/img/splash.png",
+         "image": "https://maxaon09.github.io/msx/kf/img/photo1.png",
          "action": "content: https://maxaon09.github.io/msx/tom_jerry/tom_jerry.json"
       }
    ]
