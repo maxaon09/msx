@@ -42,7 +42,7 @@
                   "action": "invalidate:content:underlay:text"
                },
                {
-                  "action": "delay:text:1:update:content:underlay:text",
+                  "action": "",
                   "data": {
                      "headline": "{context:titleHeader}",
                      "text": "{context:titleFooter}{br}{br}{context:description}"
@@ -67,7 +67,7 @@
          "titleHeader": "{col:msx-white}К ПРОСМОТРУ",
          "titleFooter": "Приложение не содержит медиа-контента, а предоставляет ссылку на первоисточник",
          "description": "Том и Джерри онлайн бесплатно: https://tom-dzherri.net. Ввсе серии замечательного и всеми любимого мультфильма Том и Джерри. Просмотр доступен всем без исключения и абсолютно бесплатно. На сайте собраны практически все серии мультика с русским переводом. ",
-         "backdrop": "https://maxaon09.github.io/msx/img/splash.png",
+         "backdrop": "https://maxaon09.github.io/msx/img/kf/photo1.png",
          "image": "https://maxaon09.github.io/msx/kf/img/photo1.png",
          "action": "content: https://maxaon09.github.io/msx/tom_jerry/tom_jerry.json"
       }
