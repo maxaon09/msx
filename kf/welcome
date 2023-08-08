@@ -1,7 +1,7 @@
 {
    "type": "list",
    "dictionary": "https://maxaon09.github.io/msx/dictionary.json",
-   "headline": "КИНОФРАНШИЗЫ",
+   "headline": "МУЛЬТИКИ",
    "transparent": 2,
    "preload": "next",
    "underlay": {
@@ -15,7 +15,7 @@
             "type": "space",
             "layout": "0,0,6,3",
             "headline": "",
-            "text": ""
+            "text": "Приложение не содержит медиа-контента, а предоставляет ссылку на первоисточник"
          }
       ]
    },
