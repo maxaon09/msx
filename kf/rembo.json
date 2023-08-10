@@ -45,10 +45,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}Рэмбо: Первая кровь{col}{br}Ветеран Вьетнамской войны Джон Рэмбо в поисках однополчан путешествует по США. Он узнаёт о скоропостижной смерти от рака (очевидно, вызванного «Эйджент оранджем») своего последнего товарища и приходит в тихий провинциальный городок Хоуп. Задиристый местный шериф Уилл Тизл принимает Рэмбо за бродягу и отвозит за пределы города, заявляя, что в «его городе» не рады сброду вроде Рэмбо.",
-               "image": "https://avatars.mds.yandex.net/i?id=a859c01e566bb2794e8d000d64321c0486c6350f-8312133-images-thumbs&n=13"
+               "image": "https://sun4-12.userapi.com/AISKAngWOR2sTsRyHshvA5Yk267YNLl39ZjAqA/RHkx37iOYPk.jpg"
             }
          },
-         "image": "https://avatars.mds.yandex.net/i?id=a859c01e566bb2794e8d000d64321c0486c6350f-8312133-images-thumbs&n=13",
+         "image": "https://sun4-12.userapi.com/AISKAngWOR2sTsRyHshvA5Yk267YNLl39ZjAqA/RHkx37iOYPk.jpg",
          "action": "video:https://hye1eaipby4w.takedwn.ws/09_07_20/09/07/10/RYJPBVC7/JZYJS4DX.mp4/master.m3u8",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
@@ -96,10 +96,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}Рэмбо IV{col}{br}Вместе с Джоном Рэмбо группа наёмников отправляется вызволять пленников на базу военных. Незаметно вызволив ночью пленных, команда непроизвольно разделяется на две части. В одну попадает Джон Рэмбо, Сара Миллер и наёмник по прозвищу «Школьник», а в другую — оставшиеся четыре наёмника и остальные пленные.",
-               "image": "https://webpulse.imgsmail.ru/imgpreview?key=pulse_cabinet-image-32865fdd-26c3-444e-b0d3-49d7d628d725&mb=webpulse"
+               "image": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/423b8b9836d8369e4e5b38595cebad7b1e38e161bcc11ad31c958042b837b09a._UR1920,1080_RI_.jpg"
             }
          },
-         "image": "https://webpulse.imgsmail.ru/imgpreview?key=pulse_cabinet-image-32865fdd-26c3-444e-b0d3-49d7d628d725&mb=webpulse",
+         "image": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/423b8b9836d8369e4e5b38595cebad7b1e38e161bcc11ad31c958042b837b09a._UR1920,1080_RI_.jpg",
          "action": "video:https://hye1eaipby4w.takedwn.ws/10_03_20/10/03/00/AR5BGQDF/3RADGK6V.mp4/master.m3u8",
          "properties": {
             "image:extension": "| {col:msx-white}Fourth Item"
@@ -117,7 +117,7 @@
             }
          },
          "image": "https://i2.wp.com/teaser-trailer.com/wp-content/uploads/Rambo-5-Movie-Sylvester-Stallone.jpg?ssl=1",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/08_12_20/08/12/13/MPADOL3X/M3LOZNWP.mp4/master.m3u8",
+         "action": "video:https://ab.takedwn.ws/04_25_20/04/25/07/4LPVWGYR/QMP6R4W6.mp4/master.m3u8",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
          }
