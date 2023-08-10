@@ -97,7 +97,7 @@
             "data": {
                "text": "{col:msx-white}Эпизод V – Империя наносит ответный удар{col}{br}Гражданская война продолжается. Несмотря на уничтожение «Звезды смерти», Галактическая Империя захватила базу повстанцев на планете Явин IV и продолжает поиски мятежников. Альянс повстанцев устраивает новую базу на далёкой ледяной планете Хот, на самом краю Галактики.",
                "image": "https://assets.sutori.com/user-uploads/image/96e2e0ab-cd08-4566-bc67-d079151615a3/acfaf632e434988d70a8c8f9de5fb373.jpeg"
-         }
+            }
          },
          "image": "https://assets.sutori.com/user-uploads/image/96e2e0ab-cd08-4566-bc67-d079151615a3/acfaf632e434988d70a8c8f9de5fb373.jpeg",
          "action": "https://ab.takedwn.ws/11_05_22/11/05/06/K7PAVHQL/4NQBFLNE.mp4/master.m3u8",
@@ -137,6 +137,57 @@
          "action": "video:https://ab.takedwn.ws/04_25_20/04/25/07/4LPVWGYR/QMP6R4W6.mp4/master.m3u8",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Звёздные Войны",
+         "titleFooter": "Звёздные Войны: Последние джедаи ",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Звёздные Войны: Последние джедаи{col}{br}Власть Первого Ордена безраздельна. Покончив с мирной Республикой, Верховный лидер Сноук рассылает по галактике свои легионы, чтобы установить в ней военную диктатуру. Насаждаемой тирании противятся лишь бойцы Сопротивления под началом генерала Леи Органы, свято верящие в то, что мастер-джедай Люк Скайуокер вернётся, а с ним и искра надежды.",
+               "image": "https://pbs.twimg.com/media/FGMIOJDXwAYxqGV.jpg"
+            }
+         },
+         "image": "https://pbs.twimg.com/media/FGMIOJDXwAYxqGV.jpg",
+         "action": "video:https://ab.takedwn.ws/04_23_20/04/23/07/S47LD72B/52L53FRG.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}30th Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Звёздные Войны",
+         "titleFooter": "Скайуокер. Восход",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Скайуокер. Восход{col}{br}Мертвые заговорили! Галактика услышала таинственное послание, угрозу МЕСТИ зловещим голосом покойного ИМПЕРАТОРА ПАЛПАТИНА. ГЕНЕРАЛ ЛЕЯ ОРГАНА направляет секретных агентов для сбора информации, в то время как РЕЙ, последняя надежда джедаев, тренируется, готовясь к битве против дьявольского ПЕРВОГО ОРДЕНА.",
+               "image": "https://i.ytimg.com/vi/RQAZLNwuf_Q/hqdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/RQAZLNwuf_Q/hqdefault.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/05_14_21/05/14/18/WUGDN6AB/B2Y7TYNJ.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}30th Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Звёздные Войны",
+         "titleFooter": "Хан Соло: Звёздные Войны. Истории",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Хан Соло: Звёздные Войны. Истории{col}{br}Настало время бесправия. ПРЕСТУПНЫЕ СИНДИКАТЫ борются за ресурсы: продукты питания, медикаменты и ГИПЕРТОПЛИВО. На планете кораблестроителей КОРЕЛЛИИ, коварная ЛЕДИ ПРОКСИМА втягивает беглецов в мир криминала, в обмен на кров и покровительство. В этих трущобах пытается выжить юноша, одержимый мечтой о полётах меж звёзд....",
+               "image": "https://octobercinema.ru/wp-content/uploads/3/9/e/39e397021c7852129020d93a03f2e1cf.jpeg"
+            }
+         },
+         "image": "https://octobercinema.ru/wp-content/uploads/3/9/e/39e397021c7852129020d93a03f2e1cf.jpeg",
+         "action": "video:https://ab.takedwn.ws/07_09_20/07/09/13/3UUX3LKA/HV7IWLNO.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}30th Item"
          }
       }
    ]
