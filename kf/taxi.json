@@ -62,10 +62,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}Во Францию с дружеским визитом прибывает сам министр обороны Японии. Французское правительство тщательно готовится к этой встрече – продемонстрировать нужно не только мощь французских войск, но и другие прелести Парижа, как же без этого. А главное, предстоит подписание важнейшего контракта века! Но контракт еще не подписан, а гангстерская группировка «Якудза» тут как тут. ",
-               "image": "https://sun9-65.userapi.com/impf/c844418/v844418914/283a3/IvCbEedcU5A.jpg?size=604x222&quality=96&sign=58b911dfe91304756d3574edc4a733c1&c_uniq_tag=HQd0UHKvtu6Oawow8hH6Rf8VDBUvj_71ul1goClyZt0&type=album"
+               "image": "https://image.tmdb.org/t/p/w780/xsx8KR9AlQjfKrJ98xdXFgyXvQj.jpg"
             }
          },
-         "image": "https://sun9-65.userapi.com/impf/c844418/v844418914/283a3/IvCbEedcU5A.jpg?size=604x222&quality=96&sign=58b911dfe91304756d3574edc4a733c1&c_uniq_tag=HQd0UHKvtu6Oawow8hH6Rf8VDBUvj_71ul1goClyZt0&type=album",
+         "image": "https://image.tmdb.org/t/p/w780/xsx8KR9AlQjfKrJ98xdXFgyXvQj.jpg",
          "action": "video:https://ab.takedwn.ws/07_06_20/07/06/15/WSBBBTK3/LNOOHLFU.mp4/master.m3u8",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
@@ -96,10 +96,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}Такси 4 (2007){col}{br}Спустя несколько лет после их прошлых приключений вечным неудачникам Даниэлю и Эмильену вновь предстоит бороться с международной мафией и гонять на бешеных скоростях. Да и отцовство порядком прибавляет им хлопот.",
-               "image": "https://sun9-84.userapi.com/impg/9dlmKro5wjQQ9-RZUEGHMVmENhwpBLC4V-rWOg/Z5DjQ6KZlGc.jpg?size=604x340&quality=95&sign=78e2850e9ac36d0ec926490a8162a284&c_uniq_tag=pWDiYGN-MeEqGhclePEEKdAZAt-d2sUMiE11q0iqsYA&type=album"
+               "image": "https://liveam.tv/assets/images/2021/taksi-4-poster.jpg"
             }
          },
-         "image": "https://sun9-84.userapi.com/impg/9dlmKro5wjQQ9-RZUEGHMVmENhwpBLC4V-rWOg/Z5DjQ6KZlGc.jpg?size=604x340&quality=95&sign=78e2850e9ac36d0ec926490a8162a284&c_uniq_tag=pWDiYGN-MeEqGhclePEEKdAZAt-d2sUMiE11q0iqsYA&type=album",
+         "image": "https://liveam.tv/assets/images/2021/taksi-4-poster.jpg",
          "action": "video:https://hye1eaipby4w.takedwn.ws/06_26_20/06/26/21/POJUDGYR/ITXKT4GV.mp4/master.m3u8",
          "properties": {
             "image:extension": "| {col:msx-white}Fourth Item"
