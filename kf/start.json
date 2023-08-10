@@ -1,0 +1,31 @@
+{
+   "type": "list",
+   "background": "https://catherineasquithgallery.com/uploads/posts/2021-02/1614147664_30-p-serebryanii-fon-na-telefon-33.jpg",
+   "preload": "next",
+   "pages": [
+      {
+         "important": false,
+         "offset": "0,0,0,0.25",
+         "items": [
+            {
+               "type": "space",
+               "layout": "1,1,10,5",
+               "offset": "-1.25,-1,2,1",
+               "color": "msx-glass",
+               "image": "https://maxaon09.github.io/msx/kf/img/photo_2023-08-06_21-58-52.jpg",
+               "text": "\n \n \n \n \n {col:msx-red}ЛУЧШИЕ КИНОФРАНШИЗЫ ОНЛАЙН    {col:default}Коллекция медиаподборок от {col:white}OLSIB TV",
+               "imageFiller": "cover",
+               "imageOverlay": 4
+            },
+            {
+               "type": "control",
+               "layout": "8,5,3,1",
+               "offset": "0,-0.25,0,0",
+               "image": "https://радиоинфинити.рф/images/play0.gif",
+               "label": "Просмотр",
+               "action": "content: https://maxaon09.github.io/msx/kf/welcome.json"
+            }
+         ]
+      }
+   ]
+}
