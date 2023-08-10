@@ -1,0 +1,143 @@
+{
+   "type": "list",
+   "headline": "ЗВЕЗДНЫЕ ВОЙНЫ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Звёздные войны.",
+         "titleFooter": "Эпизод I: Скрытая угроза ",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Эпизод I: Скрытая угроза{col}{br}Магистра-джедая Квай-Гон Джинна и его падавана Оби-Вана Кеноби назначают послами для урегулирования разросшегося конфликта между Торговой федерацией и планетой Набу… Однако переговорам не суждено состояться — владыка ситхов приказывает лидерам Федерации уничтожить послов и приступить к оккупации Набу. Избежав смерти, джедаи вместе с королевой Набу Падме Амидалой сбегают с планеты в надежде добраться до столицы мира планеты-города Корусанта и добиться там правды",
+               "image": "https://pbs.twimg.com/media/D68HcGbW4AAU5ye.jpg:large"
+            }
+         },
+         "image": "https://pbs.twimg.com/media/D68HcGbW4AAU5ye.jpg:large",
+         "action": "video:https://ab.takedwn.ws/03_09_22/03/09/21/4OCQJALC/NDXRMMA4.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Звездные войны",
+         "titleFooter": "Эпизод III – Месть Ситхов",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Республика медленно погружается во тьму. Лишь рыцари-джедаи, защитники мира и справедливости, могут противостоять злу, которое вскоре поглотит галактику. Но настоящая битва идёт в душе у молодого рыцаря-джедая Энакина, который разрывается между долгом джедая и любовью к своей жене, сенатору Падме Амидале. И от того, какое чувство в нём победит, зависит будущее всего мира.",
+               "image": "https://avatars.mds.yandex.net/i?id=cb310e955bd53e2c4a6c31397bd26564f0b47ff7-9226866-images-thumbs&n=13"
+            }
+         },
+         "image": "https://avatars.mds.yandex.net/i?id=cb310e955bd53e2c4a6c31397bd26564f0b47ff7-9226866-images-thumbs&n=13",
+         "action": "video:https://ab.takedwn.ws/07_06_20/07/06/15/WSBBBTK3/LNOOHLFU.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Звездные войны",
+         "titleFooter": "Эпизод IV – Новая надежда",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Идёт гражданская война. Космические корабли повстанцев, нанося удары со своей тайной базы, одержали первую победу над зловещей Галактической империей. Во время сражения разведчикам повстанцев удалось выкрасть секретные чертежи мощнейшего оружия Империи, которое называется Звездой смерти. Это бронированная космическая станция, способная уничтожить целую планету.",
+               "image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/78A138B561F468B457EEA22AB20C3C30772D1070DA64575B95C5B27B1EB9E17B/scale?width=1200&aspectRatio=1.78&format=jpeg"
+            }
+         },
+         "image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/78A138B561F468B457EEA22AB20C3C30772D1070DA64575B95C5B27B1EB9E17B/scale?width=1200&aspectRatio=1.78&format=jpeg",
+         "action": "video:https://ab.takedwn.ws/07_03_20/07/03/19/R3JNZS6E/PIYWWNVX.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Звездные войны",
+         "titleFooter": "Эпизод V – Империя наносит ответный удар",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Эпизод V – Империя наносит ответный удар{col}{br}Гражданская война продолжается. Несмотря на уничтожение «Звезды смерти», Галактическая Империя захватила базу повстанцев на планете Явин IV и продолжает поиски мятежников. Альянс повстанцев устраивает новую базу на далёкой ледяной планете Хот, на самом краю Галактики.",
+               "image": "https://sun9-40.userapi.com/impg/tlxp4tTeVrstRZ1XLHtoI1J1wRz4SG7WwG0Fuw/uPtdxq7Xt7A.jpg?size=807x454&quality=95&sign=7a1df537fd6af6fee154e919748f3f77&c_uniq_tag=kCrG7xS0ZWfpAbW3zm8OffctI95H6-UorAYdP6eRpKU&type=album"
+            }
+         },
+         "image": "https://sun9-40.userapi.com/impg/tlxp4tTeVrstRZ1XLHtoI1J1wRz4SG7WwG0Fuw/uPtdxq7Xt7A.jpg?size=807x454&quality=95&sign=7a1df537fd6af6fee154e919748f3f77&c_uniq_tag=kCrG7xS0ZWfpAbW3zm8OffctI95H6-UorAYdP6eRpKU&type=album",
+         "action": "video:https://mults.info/mp4/32_dekabrja.mp4",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Звездные войны",
+         "titleFooter": "Эпизод VI – Возвращение Джедая",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Эпизод VI – Возвращение Джедая{col}{br}Люк Скайуокер вернулся на свою родную планету Татуин в попытке спасти своего друга Хана Соло из лап мерзкого преступника Джаббы Хатта. Люк не подозревает, что ГАЛАКТИЧЕСКАЯ ИМПЕРИЯ начала тайную постройку новой бронированной космической станции, ещё более сильной, чем первая страшная Звезда Смерти.",
+               "image": "https://darkstalker.ru/wp-content/uploads/f/9/9/f997bb5b0d531f3cbb070d9e81793e48.jpeg"
+            }
+         },
+         "image": "https://darkstalker.ru/wp-content/uploads/f/9/9/f997bb5b0d531f3cbb070d9e81793e48.jpeg",
+         "action": "video:https://ab.takedwn.ws/07_09_20/07/09/22/VGEC5JRI/TZEIXQ67.mp4/master.m3u8 ",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fifth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Звездные войны",
+         "titleFooter": "Эпизод VII: Пробуждение силы ",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Эпизод VII: Пробуждение силы{col}{br}Люк Скайуокер бесследно исчез. В его отсутствие из пепла Империи возник ПЕРВЫЙ ОРДЕН — грозная организация, которая задалась целью найти и уничтожить последнего Джедая. При поддержке РЕСПУБЛИКИ крепнет движение СОПРОТИВЛЕНИЯ под началом Генерала Леи Органа. Она отчаянно разыскивает брата и верит: Люк поможет восстановить мир и справедливость в галактике.",
+               "image": "http://images6.fanpop.com/image/photos/39100000/Star-Wars-Episode-VII-The-Force-Awakens-star-wars-39171158-1600-900.jpg"
+            }
+         },
+         "image": "http://images6.fanpop.com/image/photos/39100000/Star-Wars-Episode-VII-The-Force-Awakens-star-wars-39171158-1600-900.jpg",
+         "action": "video:https://ab.takedwn.ws/04_25_20/04/25/07/4LPVWGYR/QMP6R4W6.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      }
+   ]
+}
