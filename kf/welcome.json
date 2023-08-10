@@ -65,15 +65,13 @@
    "items": [
       {
          "titleHeader": "{col:msx-white}ЗВЕЗДНЫЕ ВОЙНЫ",
-         "titleFooter": "Приложение не содержит медиа-контента, а предоставляет ссылку на первоисточник",
          "description": "«Звёздные войны» (англ. Star Wars) — североамериканская фантастическая медиафраншиза, созданная Джорджем Лукасом. В ней описываются приключения множества персонажей, происходящие «давным-давно, в далёкой-далёкой галактике». ",
          "backdrop": "https://2.bp.blogspot.com/-TCiLxlfVVWE/VrLmkMdRPcI/AAAAAAAAR_o/qfyiTmZxfj4/s400/Star_wars_return_of_the_jedi-1278919-1920x1080.jpg",
-         "image": "https://stavchess.ru/wp-content/uploads/3/a/8/3a8be3a8de1b06e2405563fb01caeb1f.jpeg",
+         "image": "https://img1.hochu.ua/uploads/68/bd/6f/68bd6fa1-451f-44fc-be54-64944b575465.jpeg",
          "action": "content: https://maxaon09.github.io/msx/kf/star_wars.json"
       },
       {
          "titleHeader": "{col:msx-white}РЭМБО",
-         "titleFooter": "Приложение не содержит медиа-контента, а предоставляет ссылку на первоисточник",
          "description": "«Рэмбо» — медиафраншиза, основанная на серии американских боевиков, выходивших с 1982 по 2019 год. Центральный персонаж фильмов — Джон Рэмбо, ветеран войны во Вьетнаме, специалист по разведке и осуществлению диверсий, выполняющий сверхтрудные миссии в разных странах мира. ",
          "backdrop": "https://images-s.kinorium.com/movie/shot/82584/h280_41638065.jpg",
          "image": "https://on-desktop.com/wps/Movies_Films_R_Rambo_010448_.jpg",
@@ -81,10 +79,9 @@
       },
       {
          "titleHeader": "{col:msx-white}ТАКСИ",
-         "titleFooter": "Приложение не содержит медиа-контента, а предоставляет ссылку на первоисточник",
          "description": "«Такси» — серия комедийных боевиков, созданных французским сценаристом и продюсером Люком Бессоном, состоящая из 5 фильмов. ",
          "backdrop": "https://images.rapgenius.com/087d8e73c35c47decb08a41c945809d6.448x252x1.jpg",
-         "image": "https://avatars.mds.yandex.net/i?id=0e9ac4c1523afdf5373930426e9b4e3bf6ec0980-8338869-images-thumbs&n=13",
+         "image": "https://funart.pro/uploads/posts/2020-07/1595520633_4-p-taksi-film-12.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/taxi.json"
       }
    ]
