@@ -21,7 +21,7 @@
    },
    "template": {
       "type": "default",
-      "layout": "0,0,6,3",
+      "layout": "0,0,4,3",
       "area": "0,3,12,3",
       "wrapperColor": "msx-glass",
       "imageHeight": 1.83,
@@ -78,6 +78,14 @@
          "backdrop": "https://images-s.kinorium.com/movie/shot/82584/h280_41638065.jpg",
          "image": "https://on-desktop.com/wps/Movies_Films_R_Rambo_010448_.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/rembo.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ТАКСИ",
+         "titleFooter": "Приложение не содержит медиа-контента, а предоставляет ссылку на первоисточник",
+         "description": "«Такси» — серия комедийных боевиков, созданных французским сценаристом и продюсером Люком Бессоном, состоящая из 5 фильмов. ",
+         "backdrop": "https://images.rapgenius.com/087d8e73c35c47decb08a41c945809d6.448x252x1.jpg",
+         "image": "https://avatars.mds.yandex.net/i?id=0e9ac4c1523afdf5373930426e9b4e3bf6ec0980-8338869-images-thumbs&n=13",
+         "action": "content: https://maxaon09.github.io/msx/kf/taxi.json"
       }
    ]
 }
