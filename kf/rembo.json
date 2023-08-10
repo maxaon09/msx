@@ -1,0 +1,126 @@
+{
+   "type": "list",
+   "headline": "РЭМБО",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}РЭМБО",
+         "titleFooter": "Первая кровь (1982)",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Рэмбо: Первая кровь{col}{br}Ветеран Вьетнамской войны Джон Рэмбо в поисках однополчан путешествует по США. Он узнаёт о скоропостижной смерти от рака (очевидно, вызванного «Эйджент оранджем») своего последнего товарища и приходит в тихий провинциальный городок Хоуп. Задиристый местный шериф Уилл Тизл принимает Рэмбо за бродягу и отвозит за пределы города, заявляя, что в «его городе» не рады сброду вроде Рэмбо.",
+               "image": "https://avatars.mds.yandex.net/i?id=a859c01e566bb2794e8d000d64321c0486c6350f-8312133-images-thumbs&n=13"
+            }
+         },
+         "image": "https://avatars.mds.yandex.net/i?id=a859c01e566bb2794e8d000d64321c0486c6350f-8312133-images-thumbs&n=13",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/09_07_20/09/07/10/RYJPBVC7/JZYJS4DX.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}РЭМБО",
+         "titleFooter": "Первая кровь 2 (1985)",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Вместо отбытия оставшихся пяти лет срока заключения Траутман предлагает Рэмбо сделку с правосудием — временное восстановление в рядах вооружённых сил в обмен на участие в секретной операции и президентский указ об амнистии со снятием всех судимостей в случае успешного её выполнения. После недолгих раздумий Джон соглашается.",
+               "image": "https://img.moviesrankings.com/t/p/w1280/ckLvbtslkBnkRivTVEZ5TFfEkDH.jpg"
+            }
+         },
+         "image": "https://img.moviesrankings.com/t/p/w1280/ckLvbtslkBnkRivTVEZ5TFfEkDH.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/09_25_20/09/25/00/E4LKY4QT/ICESB53I.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}РЭМБО",
+         "titleFooter": "Рэмбо 3 (1988)",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Полковник Сэмюэль Траутман — возглавляет операцию по перевозке в Афганистан, где уже много лет продолжается война, зенитных ракет «Stinger», чтобы помочь моджахедам в их борьбе с советскими войсками. По пути он решает навестить Рэмбо и предложить ему участвовать в операции",
+               "image": "https://i.ytimg.com/vi/yZXr7iH16o4/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/yZXr7iH16o4/maxresdefault.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/09_11_20/09/11/11/A6GOREAV/3TQPIYNP.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}РЭМБО",
+         "titleFooter": "Рэмбо IV (2008)",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Рэмбо IV{col}{br}Вместе с Джоном Рэмбо группа наёмников отправляется вызволять пленников на базу военных. Незаметно вызволив ночью пленных, команда непроизвольно разделяется на две части. В одну попадает Джон Рэмбо, Сара Миллер и наёмник по прозвищу «Школьник», а в другую — оставшиеся четыре наёмника и остальные пленные.",
+               "image": "https://webpulse.imgsmail.ru/imgpreview?key=pulse_cabinet-image-32865fdd-26c3-444e-b0d3-49d7d628d725&mb=webpulse"
+            }
+         },
+         "image": "https://webpulse.imgsmail.ru/imgpreview?key=pulse_cabinet-image-32865fdd-26c3-444e-b0d3-49d7d628d725&mb=webpulse",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/10_03_20/10/03/00/AR5BGQDF/3RADGK6V.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}РЭМБО",
+         "titleFooter": "Рэмбо 5: Последняя кровь (2019)",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Рэмбо 5: Последняя кровь{col}{br}Спустя десять лет после возвращения домой в Боуи штат Аризона, ветеран войны Джон Рэмбо старается вести спокойную и осмысленную жизнь, занимаясь обучением лошадей на ранчо своего покойного отца, однако полностью оградиться от человеческих смертей и тяжёлого прошлого ему не удаётся даже на родине.",
+               "image": "https://i2.wp.com/teaser-trailer.com/wp-content/uploads/Rambo-5-Movie-Sylvester-Stallone.jpg?ssl=1"
+            }
+         },
+         "image": "https://i2.wp.com/teaser-trailer.com/wp-content/uploads/Rambo-5-Movie-Sylvester-Stallone.jpg?ssl=1",
+         "action": "video:https://ab.takedwn.ws/04_25_20/04/25/07/4LPVWGYR/QMP6R4W6.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      }
+   ]
+}
