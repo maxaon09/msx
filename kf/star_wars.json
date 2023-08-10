@@ -96,10 +96,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}Эпизод V – Империя наносит ответный удар{col}{br}Гражданская война продолжается. Несмотря на уничтожение «Звезды смерти», Галактическая Империя захватила базу повстанцев на планете Явин IV и продолжает поиски мятежников. Альянс повстанцев устраивает новую базу на далёкой ледяной планете Хот, на самом краю Галактики.",
-               "image": "https://sun9-40.userapi.com/impg/tlxp4tTeVrstRZ1XLHtoI1J1wRz4SG7WwG0Fuw/uPtdxq7Xt7A.jpg?size=807x454&quality=95&sign=7a1df537fd6af6fee154e919748f3f77&c_uniq_tag=kCrG7xS0ZWfpAbW3zm8OffctI95H6-UorAYdP6eRpKU&type=album"
-            }
+               "image": "https://assets.sutori.com/user-uploads/image/96e2e0ab-cd08-4566-bc67-d079151615a3/acfaf632e434988d70a8c8f9de5fb373.jpeg"
+         }
          },
-         "image": "https://sun9-40.userapi.com/impg/tlxp4tTeVrstRZ1XLHtoI1J1wRz4SG7WwG0Fuw/uPtdxq7Xt7A.jpg?size=807x454&quality=95&sign=7a1df537fd6af6fee154e919748f3f77&c_uniq_tag=kCrG7xS0ZWfpAbW3zm8OffctI95H6-UorAYdP6eRpKU&type=album",
+         "image": "https://assets.sutori.com/user-uploads/image/96e2e0ab-cd08-4566-bc67-d079151615a3/acfaf632e434988d70a8c8f9de5fb373.jpeg",
          "action": "video:https://mults.info/mp4/32_dekabrja.mp4",
          "properties": {
             "image:extension": "| {col:msx-white}Fourth Item"
