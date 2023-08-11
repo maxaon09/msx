@@ -1,0 +1,194 @@
+{
+   "type": "list",
+   "headline": "ГАРРИ ПОТТЕР",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Гарри Поттер",
+         "titleFooter": "Гарри Поттер и философский камень",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Гарри Поттер и философский камень (2001){col}{br}«Гарри Поттер и философский камень» – первый из серии фильмов о мальчике-волшебнике Гарри Поттере и его верных друзьях Гермионе Грейнджер и Роне Уизли, о магической вселенной школы Хогвартс, попасть в которую мечтает уже не одно поколение детей по всему миру.",
+               "image": "https://img.youtube.com/vi/PJ7Z9HlgrMA/0.jpg"
+            }
+         },
+         "image": "https://img.youtube.com/vi/PJ7Z9HlgrMA/0.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/12_29_22/12/29/20/EKJAJTSE/37QVGI5N.mp4/index-v1-a8.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Гарри Поттер",
+         "titleFooter": "Гарри Поттер и Тайная комната",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Гарри Поттер и Тайная комната (2002){col}{br}«Гарри Поттер и Тайная комната» – вторая часть из серии фильмов и книг о приключениях мальчика-волшебника и его лучших друзей Рона и Гермионы, которые поступают уже на второй курс магической школы Хогвартс. В новом учебном году юных магов ждут новые радости, испытания и открытия.",
+               "image": "https://i.pinimg.com/736x/b9/03/a8/b903a8b66e808b4b2538ba09aa8966a0.jpg"
+            }
+         },
+         "image": "https://i.pinimg.com/736x/b9/03/a8/b903a8b66e808b4b2538ba09aa8966a0.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/12_30_22/12/30/15/UPP5Z4YQ/LSODRN5Y.mp4/index-v1-a8.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Гарри Поттер",
+         "titleFooter": "Гарри Поттер и узник Азкабана",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Гарри Поттер и узник Азкабана (2004){col}{br}Из тюрьмы Азкабан сбежал преступник Сириус Блэк, которого со страниц всех газет окрестили последователем Темного Лорда. Теперь Гарри Поттер в опасности – именно его Волан-де-Морт не сумел убить двенадцать лет назад, и близкие Поттера опасаются, что Блэк намерен отомстить мальчику.",
+               "image": "https://radcliffe.ucoz.ru/foto_site/kinopoisk.ru-Harry-Potter-and-the-Prisoner-of-Azka.jpg"
+            }
+         },
+         "image": "https://radcliffe.ucoz.ru/foto_site/kinopoisk.ru-Harry-Potter-and-the-Prisoner-of-Azka.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/01_20_23/01/20/23/4XPHYIHA/FTHNI2AL.mp4/index-v1-a6.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Гарри Поттер",
+         "titleFooter": "Гарри Поттер и кубок огня",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Гарри Поттер и кубок огня (2005){col}{br}Из французской школы Шармбатон и северного Дурмстранга в английский Хогвартс съезжаются маги: здесь пройдет традиционный Турнир Трех Волшебников, на котором сразятся сильнейшие из сильнейших, выбранные Кубком Огня. Но ни школьники, ни преподаватели пока не знают, что в этом году Турнир может быть опасен как никогда, и невинная битва волшебников за право считаться самым отважным может стать игрой на выживание… ",
+               "image": "https://picfiles.alphacoders.com/621/62155.jpg"
+            }
+         },
+         "image": "https://picfiles.alphacoders.com/621/62155.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/01_03_23/01/03/15/XRYM3QRZ/LWLYUXHG.mp4/index-v1-a8.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Гарри Поттер",
+         "titleFooter": "Гарри Поттер и Орден Феникса",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Гарри Поттер и Орден Феникса (2007){col}{br}Темный Лорд Волан-де-Морт вернулся, но не все сотрудники Министерства магии это признают, отказываясь верить в то, что ученик Хогвартса, Гарри Поттер, вынужден был в одиночку сражаться с ним.",
+               "image": "https://rapchieuphim.com/photos/48/new%20mutant/danh-gia-cua-gioi-chuyen-mon-ve-8-tap-phim-harry-potter-7.jpg"
+            }
+         },
+         "image": "https://rapchieuphim.com/photos/48/new%20mutant/danh-gia-cua-gioi-chuyen-mon-ve-8-tap-phim-harry-potter-7.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/01_03_23/01/03/18/K57H454C/I67VH7IL.mp4/index-v1-a6.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Гарри Поттер",
+         "titleFooter": "Гарри Поттер и Принц-полукровка",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Гарри Поттер и Принц-полукровка (2009){col}{br}Темный Лорд вернулся. В мире магии началась Вторая Война Волшебников, последствия которой замечают даже маглы в обычном людском мире. Тем не менее, в Хогвартсе стартует учебный год, и преподаватели бросают все силы на то, чтобы оградить учеников от опасностей.",
+               "image": "https://img.hebus.com/hebus_2011/01/17/preview/110401121742_1.jpg"
+            }
+         },
+         "image": "https://img.hebus.com/hebus_2011/01/17/preview/110401121742_1.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/01_04_23/01/04/14/VGBPIBKW/X25SJ275.mp4/index-v1-a6.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Гарри Поттер",
+         "titleFooter": "Гарри Поттер и Дары Смерти I",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Гарри Поттер и Дары Смерти I (2010){col}{br}Гарри Поттер навсегда покидает дом Дурслей и решает бросить школу Хогвартс, чтобы посвятить себя поискам крестражей, в которых заключена душа Темного Лорда. Уничтожив их, Гарри сможет одержать победу над сильнейшим магом и прекратить войну волшебников, которая приносит всё больше горя и потерь.",
+               "image": "https://sun1-23.userapi.com/vzPKNLm6kxncqY4HOvqkcDVL49ErwempXJjxUA/dJfd18m1F9A.jpg"
+            }
+         },
+         "image": "https://sun1-23.userapi.com/vzPKNLm6kxncqY4HOvqkcDVL49ErwempXJjxUA/dJfd18m1F9A.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/01_04_23/01/04/16/QDEGMJBA/PNS5MCCM.mp4/index-v1-a4.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Гарри Поттер",
+         "titleFooter": "Гарри Поттер и Дары Смерти II",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Гарри Поттер и Дары Смерти: Часть II (2011){col}{br}Темный Лорд Волан-де-Морт заполучил Бузинную палочку, ранее принадлежавшую профессору Дамблдору, которая считается самой могущественной волшебной палочкой в истории. Но она отказывается ему подчиняться. Тем временем Гарри, Рон и Гермиона продолжают поиски крестражей, в каждый из которых Волан-де-Морт спрятал по частичке своей души. Только уничтожив все крестражи, друзья смогут победить Темного Лорда.",
+               "image": "https://spasibovsem.ru/ratings/wp-content/uploads/2021/03/garri-potter-i-dary-smerti.jpg"
+            }
+         },
+         "image": "https://spasibovsem.ru/ratings/wp-content/uploads/2021/03/garri-potter-i-dary-smerti.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/03_16_23/03/16/14/EYZ5QC24/ZW3HYCEM.mp4/index-v1-a1.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Гарри Поттер",
+         "titleFooter": "20 лет спустя: Возвр-е в Хогвартс",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Гарри Поттер 20 лет спустя: Возвращение в Хогвартс (2022){col}{br} «Гарри Поттер» снова собирает всех, кто стал частью большого волшебного мира. Это красивый и теплый праздник в Хогвартсе, открывающем двери для старых друзей в честь 20-летия первого фильма «Гарри Поттер и философский камень». На вечер магии и чудесных воспоминаний приглашены звезды и создатели франшизы, миллионы поклонников со всего света.",
+               "image": "https://images.bisnis-cdn.com/posts/2022/01/03/1484701/harry-potter-20th-anniversary-return-to-hogwarts.jpg"
+            }
+         },
+         "image": "https://images.bisnis-cdn.com/posts/2022/01/03/1484701/harry-potter-20th-anniversary-return-to-hogwarts.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/09_27_22/09/27/18/ZHNIQ2H4/6IAOEIOO.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      }
+   ]
+}
