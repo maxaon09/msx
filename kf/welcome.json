@@ -90,6 +90,13 @@
          "backdrop": "https://i1.sndcdn.com/artworks-0xYJ1ET7czcdb6rI-qzVAEA-t500x500.jpg",
          "image": "https://izvestia.kiev.ua/images/items/2015-04/24/zqJI0rS98awWpFZd/img_top.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/Fast.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ГАРРИ ПОТТЕР",
+         "description": "Гарри Поттер - серия фильмов, основанная на одноименных романах Джоан Роулинг. Сериал производится и распространяется компанией Warner Bros . Pictures и состоит из восьми фантастических фильмов",
+         "backdrop": "https://pbs.twimg.com/media/D4Yf2EBW4AMcC8r.jpg",
+         "image": "https://pbs.twimg.com/media/D4Yf2EBW4AMcC8r.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/potter.json"
       }
    ]
 }
