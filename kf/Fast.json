@@ -96,10 +96,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}Тройной форсаж: Токийский Дрифт (2006){col}{br}Шон Босуэлл — одинокий парень, который хочет казаться профи уличных гонок. Он бесшабашно гоняется по улицам города, пытаясь убежать от жизненных невзгод и наживая себе врагов среди местных властей. Когда Шону грозит тюрьма, его от греха подальше отсылают к отцу — военному, который служит в Японии. В незнакомой стране, живущей по своим законам, Шон чувствует себя ещё большим изгоем. Однако вскоре его американский приятель Твинки знакомит его с миром подпольного дрифт-рейсинга. Раньше Шон просто гонял по улицам, а здесь перед ним открылся целый мир своеобразного искусства из металла и резины, дороги которого оказались невообразимо круты на поворотах.",
-               "image": "https://sun9-47.userapi.com/3Wv7gI1EbD-0iW210dgbZQIuh88DbG9WjR0URw/VGOxIpOimMg.jpg"
+               "image": "https://cdn.shopify.com/s/files/1/1288/8361/files/The_Fast_and_the_Furious_Tokyo_Drift_Side.jpg?v=1585190583"
             }
          },
-         "image": "https://sun9-47.userapi.com/3Wv7gI1EbD-0iW210dgbZQIuh88DbG9WjR0URw/VGOxIpOimMg.jpg",
+         "image": "https://cdn.shopify.com/s/files/1/1288/8361/files/The_Fast_and_the_Furious_Tokyo_Drift_Side.jpg?v=1585190583",
          "action": "video:https://hye1eaipby4w.takedwn.ws/10_03_22/10/03/18/5GQQ7VUN/W6NI4GZO.mp4/master.m3u8",
          "properties": {
             "image:extension": "| {col:msx-white}Fourth Item"
