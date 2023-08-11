@@ -1,0 +1,20 @@
+{
+   "name": "Список",
+   "version": "1.0.0",
+   "headline": "Все фильмы",
+   "dictionary": "https://maxaon09.github.io/lampaset/msx/lang/ru.json",
+   "menu": [
+      {
+         "type": "separator"
+      },
+      {
+         "image": "https://mults.info/img/collection.png",
+         "label": "Каталог",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://pastebin.com/raw/M5CxU9W9"
+      },
+      {
+         "type": "separator"
+      }
+   ]
+}
