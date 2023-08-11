@@ -83,6 +83,13 @@
          "backdrop": "https://images.rapgenius.com/087d8e73c35c47decb08a41c945809d6.448x252x1.jpg",
          "image": "https://funart.pro/uploads/posts/2020-07/1595520633_4-p-taksi-film-12.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/taxi.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ФОРСАЖ",
+         "description": "«Форса́ж» (англ. The Fast and the Furious; дословный перевод на русский — «Быстрые и яростные») — американская медиафраншиза, состоящая на 2023 год из одиннадцати полнометражных и двух короткометражных фильмов, выпущенных с 2001 по 2023 год. Является самой крупной и прибыльной франшизой студии Universal ",
+         "backdrop": "https://images.iptv.rt.ru/images/c709grbir4ssllu0rf9g.jpg",
+         "image": "https://i.mycdn.me/image?id=901045346964&t=50&plc=WEB&tkn=*3nKtM1f-a8416GgsjtPovAQt71o&fn=external_8",
+         "action": "content: https://maxaon09.github.io/msx/kf/Fast.json"
       }
    ]
 }
