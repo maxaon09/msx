@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "Хроники Нарнии",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Хроники Нарнии",
+         "titleFooter": "Лев, колдунья и волшебный шкаф",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Хроники Нарнии: Лев, колдунья и волшебный шкаф (2005){col}{br}Питер, Сьюзен, Эдмунд и Люси Пэвенси отправлены из дома, подальше от бомбежек Лондона, в деревню к нелюдимому профессору Керку. Однажды, играя в прятки, Люси, младшая из детей, залезает в одиноко стоящий шкаф в дальней комнате дома. Пробираясь через шубы к стенке, Люси вдруг оказывается в волшебном, полном снега мире. ",
+               "image": "https://kakoy-smysl.ru/wp-content/uploads/2020/12/316993-fantasy-the-chronicles-of-narnia-the-lion-the-witch-and-the.jpg"
+            }
+         },
+         "image": "https://kakoy-smysl.ru/wp-content/uploads/2020/12/316993-fantasy-the-chronicles-of-narnia-the-lion-the-witch-and-the.jpg",
+         "action": "https://hye1eaipby4w.takedwn.ws/09_24_20/09/24/20/KQHRC2YH/3AA2567X.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Хроники Нарнии",
+         "titleFooter": "Принц Каспиан",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Хроники Нарнии: Принц Каспиан (2008){col}{br}Люси, Сьюзен, Эдмунд и Питер Пэванси возвращаются в Нарнию. В Англии прошло совсем немного времени, а в Нарнии – века. Страна находится под гнетом зловещего короля Мираза. Но у волшебного королевства есть надежда – юный принц Каспиан. Чтобы помочь Каспиану отвоевать трон, четверо героев собирают армию мифических существ ",
+               "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/210000/210596.jpg"
+            }
+         },
+         "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/210000/210596.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/09_24_20/09/24/23/TALUQDDN/YR7XWUEC.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Хроники Нарнии",
+         "titleFooter": "Покоритель Зари",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Хроники Нарнии: Покоритель Зари (2010){col}{br}Эдмунд, Люси, их кузен Юстас и король Каспиан отплывают на корабле «Покоритель Зари» на поиски друзей отца Каспиана - семи лордов: Ревелиана, Берна, Аргоза, Мавроморна, Октезиана, Рестимара и Рупа, изгнанных во время недолгого правления тирана Мираза.",
+               "image": "https://www.desktopbackground.org/download/1280x800/2014/01/12/700160_narnia-com-update-hints-at-ramandus-role_1600x840_h.jpg"
+            }
+         },
+         "image": "https://www.desktopbackground.org/download/1280x800/2014/01/12/700160_narnia-com-update-hints-at-ramandus-role_1600x840_h.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/09_24_20/09/24/19/MO5QLQVM/UDDENCUZ.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}
