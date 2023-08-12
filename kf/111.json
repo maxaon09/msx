@@ -32,7 +32,7 @@
                "type": "control",
                "layout": "0,5,3,1",
                "offset": "0,-0.25,0,0",
-               "icon": "plavertical-split",
+               "icon": "vertical-split",
                "iconSize": "extra-large",
                "label": "Каталог",
                "action": "menu: https://maxaon09.github.io/msx/kf/katalog.json"
