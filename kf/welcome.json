@@ -118,6 +118,13 @@
          "backdrop": "https://pbs.twimg.com/media/En5NSkWXIAI7J2Z.jpg:large",
          "image": "https://thejoysofbingereading.com/wp-content/uploads/2021/12/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe-prince-caspian-voyage-of-the-dawn-treader-1024x512.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/narnii.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ПОЛИЦЕЙСКАЯ АКАДЕМИЯ",
+         "description": "Полицейская академия — одна из самых успешных кинофраншиз в истории Голливуда. В фильме рассказывается о группе новобранцев-неудачников, пытающихся доказать, что они способны быть полицейскими, и добиться успеха как вопреки, так и благодаря своей эксцентричности.",
+         "backdrop": "https://r2.mt.ru/r4/photo4C7F/20161727188-0/jpg/bp.jpeg",
+         "image": "https://i.ytimg.com/vi/We2rE4gNVco/maxresdefault.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/p_academy.json"
       }
    ]
 }
