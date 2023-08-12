@@ -153,6 +153,13 @@
          "backdrop": "https://3.bp.blogspot.com/-GwnZ6t1BYfQ/W8thdH4KPxI/AAAAAAAAHjQ/v8Gl5wc4S30VJp7hRWspeOiXDxxtTW4bACLcBGAs/s400/40.jpg",
          "image": "https://haipovo.ru/wp-content/uploads/2022/05/dospehi-boga-3-missiya-zodiak.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/dospehi_boga.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ТЕРМИНАТОР",
+         "description": "«Терминатор» — серия фильмов, изначально запланированная как дилогия, но впоследствии превратившаяся в мультимедийную франшизу. В настоящий момент включает в себя шесть полнометражных фильмов",
+         "backdrop": "https://pbs.twimg.com/media/FIm3z27XoAImMkz.jpg",
+         "image": "https://cdn.ananasposter.ru/image/cache/catalog/poster/film/76/35865-1000x830.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/terminator.json"
       }
    ]
 }
