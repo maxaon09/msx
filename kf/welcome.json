@@ -111,6 +111,13 @@
          "backdrop": "https://pbs.twimg.com/media/B5xK_WVIIAAwoXY.jpg",
          "image": "https://static.cdn.asset.aparat.com/avt/46137068-4524-b__2874.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/hobbit.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}Хроники Нарнии",
+         "description": "Хроники Нарнии - медиафраншиза основанная на серии романов К. С. Льюиса Хроники Нарнии. Сериал вращается вокруг приключений детей в мире Нарнии, которыми руководит Аслан, мудрый и могущественный лев, умеющий говорить и являющийся истинным королем Нарнии",
+         "backdrop": "https://pbs.twimg.com/media/En5NSkWXIAI7J2Z.jpg:large",
+         "image": "https://thejoysofbingereading.com/wp-content/uploads/2021/12/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe-prince-caspian-voyage-of-the-dawn-treader-1024x512.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/narnii.json"
       }
    ]
 }
