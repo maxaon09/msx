@@ -104,6 +104,13 @@
          "backdrop": "https://app.akharinkhabar.ir/images/2020/01/23/6a75fee4-7897-42b0-af69-aa238ad64759.png",
          "image": "https://www.flyvpn.com/content-data/upload/202012/202012111723091607.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/vlastelin.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ХОББИТ",
+         "description": "«Хо́ббит» — поставленная режиссёром Питером Джексоном серия из трёх связанных единым сюжетом кинофильмов, представляющая собой экранизацию повести Дж. Р. Р. Толкина «Хоббит, или Туда и обратно».",
+         "backdrop": "https://pbs.twimg.com/media/B5xK_WVIIAAwoXY.jpg",
+         "image": "https://static.cdn.asset.aparat.com/avt/46137068-4524-b__2874.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/hobbit.json"
       }
    ]
 }
