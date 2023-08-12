@@ -160,6 +160,13 @@
          "backdrop": "https://pbs.twimg.com/media/FIm3z27XoAImMkz.jpg",
          "image": "https://cdn.ananasposter.ru/image/cache/catalog/poster/film/76/35865-1000x830.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/terminator.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}НОЧЬ В МУЗЕЕ",
+         "description": "«Ночь в музее» — американская семейная комедия, сочетающая в себе приключения и фэнтези. Фильм снят по роману М. Тренка.",
+         "backdrop": "https://srv1.mytv.bg/i/tv/m3/m3sun8i21wwu_big.jpg",
+         "image": "https://bingeddata.s3.amazonaws.com/uploads/2020/11/night-at-the-museum-battle-of-the-smithsonian-1-1024x576.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/noch_v_muzee.json"
       }
    ]
 }
