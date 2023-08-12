@@ -1,0 +1,126 @@
+{
+   "type": "list",
+   "headline": "ИНДИАНА ДЖОНС",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Индиана Джонс",
+         "titleFooter": "В поисках утраченного ковчега",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Индиана Джонс: В поисках утраченного ковчега (1981){col}{br}Известный археолог и специалист по оккультным наукам доктор Джонс получает опасное задание от правительства США. Он должен отправиться на поиски уникальной реликвии — священного Ковчега. Но Индиана и не подозревает, что аналогичный приказ уже получили тайные агенты Адольфа Гитлера.",
+               "image": "https://img1.imageride.net/images/2023/03/28/IMG_20230328_052036_716.jpeg"
+            }
+         },
+         "image": "https://img1.imageride.net/images/2023/03/28/IMG_20230328_052036_716.jpeg",
+         "action": "video:https://o2.anwap.be/ohls/P3206Ckxw9GivVZBMA8fpg/1677274810/Indiana_Dzhons_V_poiskah_utrachennogo_kovchega-988_(anwap.org).m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Индиана Джонс",
+         "titleFooter": "Индиана Джонс и Храм судьбы",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Индиана Джонс и Храм судьбы (1984){col}{br}Джонс отправляется в сердце Гималаев вместе с ресторанной певичкой Уилли Скотт и своим верным маленьким помощником Коротышкой. Среди величественных гор археологу и его спутникам предстоит столкнуться с кровавым культом поклонения древней Богине Смерти — Кали. Станет ли Индиана следующим несчастным, погибшим на жутком алтаре человеческих жертвоприношений.",
+               "image": "https://i.ytimg.com/vi/x5AMPPsvdGQ/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/x5AMPPsvdGQ/maxresdefault.jpg",
+         "action": "video:https://o1.anwap.be/ohls/CBVDM3eg4T8N-dbwo5-AMA/1677274978/Indiana_Dzhons_i_Hram_Sudqby-7996_(anwap.org).m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Индиана Джонс",
+         "titleFooter": "и последний крестовый поход",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Индиана Джонс и последний крестовый поход (1989){col}{br}Индиана разыскивает самую таинственную реликвию в истории человечества — Святой Грааль. Вместе со своим отцом ему предстоит совершить много благородных подвигов и потрясающих открытий. В новых странствиях храброму археологу доведется добыть чашу, которую держал в руках Иисус Христос и получить автограф… самого Адольфа Гитлера.",
+               "image": "https://www.ethicalstl.org/wp-content/uploads/movienight-768x432.jpeg"
+            }
+         },
+         "image": "https://www.ethicalstl.org/wp-content/uploads/movienight-768x432.jpeg",
+         "action": "video:https://o2.anwap.be/ohls/2hsSUwEqaxuwew9JvECK2g/1677275087/Indiana_Dzhons_i_poslednij_krestovyj_pohod-912_(anwap.org).m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Индиана Джонс",
+         "titleFooter": "и Королевство хрустального черепа",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Индиана Джонс и Королевство хрустального черепа (2008){col}{br}1957 год, разгар холодной войны. Советские солдаты, возглавляемые агентом Ириной Спалько, похищают Мэрион Рэйвенвуд — давнюю возлюбленную Индианы Джонса, ставя профессора перед выбором: бездействие и смерть Мэрион или помощь советской разведке в поисках легендарного Хрустального черепа в обмен на свободу женщины.",
+               "image": "https://i.ytimg.com/vi/2kKAyEvXbA0/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/2kKAyEvXbA0/maxresdefault.jpg",
+         "action": "video:https://o5.anwap.be/ohls/d7wkNLAVlyzPazS7uSC5FQ/1677275194/Indiana_Dzhons_i_Korolevstvo_hrustalqnogo_cherepa-2793_(anwap.org).m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Индиана Джонс",
+         "titleFooter": "и колесо судьбы",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Индиана Джонс и колесо судьбы (2023){col}{br}Неувядающий авантюрист и пытливый археолог-исследователь по-прежнему в седле. На этот раз ему придётся столкнуться с непростой задачей, которую решить на раз-два вряд ли получится. Но Индиана Джонс не даст слабину и не отступит при виде даже самой безнадёжной ситуации",
+               "image": "https://i.ytimg.com/vi/82gOXL-7Dbg/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/82gOXL-7Dbg/maxresdefault.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/07_01_23/07/01/14/D23FWTFX/QDUTUAPF.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      }
+   ]
+}
