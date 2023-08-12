@@ -8,7 +8,9 @@
          "type": "separator"
       },
       {
-         "image": "https://mults.info/img/collection.png",
+        "icon": "vertical-split",
+        "iconSize": "extra-large",
+
          "label": "Каталог",
          "extensionLabel": "",
          "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://pastebin.com/raw/M5CxU9W9"
