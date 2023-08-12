@@ -86,7 +86,7 @@
       },
       {
          "titleHeader": "{col:msx-white}ФОРСАЖ",
-         "description": "«Форса́ж» (англ. The Fast and the Furious; дословный перевод на русский — «Быстрые и яростные») — американская медиафраншиза, состоящая на 2023 год из одиннадцати полнометражных и двух короткометражных фильмов, выпущенных с 2001 по 2023 год. Является самой крупной и прибыльной франшизой студии Universal ",
+         "description": "«Форса́ж» (англ. The Fast and the Furious; дословный перевод на русский — «Быстрые и яростные») — американская медиафраншиза, состоящая на 2023 год из одиннадцати полнометражных и двух короткометражных фильмов, выпущенных с 2001 по 2023 год Является самой крупной и прибыльной франшизой студии Universal ",
          "backdrop": "https://i1.sndcdn.com/artworks-0xYJ1ET7czcdb6rI-qzVAEA-t500x500.jpg",
          "image": "https://izvestia.kiev.ua/images/items/2015-04/24/zqJI0rS98awWpFZd/img_top.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/Fast.json"
@@ -100,7 +100,7 @@
       },
       {
          "titleHeader": "{col:msx-white}ВЛАСТЕЛИН КОЛЕЦ",
-         "description": "Гарри Поттер - серия фильмов, основанная на одноименных романах Джоан Роулинг. Сериал производится и распространяется компанией Warner Bros . Pictures и состоит из восьми фантастических фильмов",
+         "description": "Кинотрилогия «Властелин колец» — снятая режиссёром Питером Джексоном серия из связанных единым сюжетом кинофильмов, представляющая собой экранизацию одноимённого романа Дж. Р. Р. Толкина.",
          "backdrop": "https://app.akharinkhabar.ir/images/2020/01/23/6a75fee4-7897-42b0-af69-aa238ad64759.png",
          "image": "https://www.flyvpn.com/content-data/upload/202012/202012111723091607.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/vlastelin.json"
