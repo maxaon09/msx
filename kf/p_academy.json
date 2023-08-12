@@ -1,0 +1,160 @@
+{
+   "type": "list",
+   "headline": "ПОЛИЦЕЙСКАЯ АКАДЕМИЯ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Полицейская академия",
+         "titleFooter": "Полицейская академия",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Полицейская академия (1984){col}{br} Группа неопытных кадетов по разным причинам решает поступить в полицейскую академию и вынуждена там сталкиваться с кучей различных приключений и неприятностей.",
+               "image": "https://cf.ppt-online.org/files/slide/r/reyRIiqupOhcKAbaCV8P5xkLEUfXH4vtZMsN1l/slide-0.jpg"
+            }
+         },
+         "image": "https://cf.ppt-online.org/files/slide/r/reyRIiqupOhcKAbaCV8P5xkLEUfXH4vtZMsN1l/slide-0.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/03_30_23/03/30/13/EQ3FSHLN/ZUL6DT5E.mp4/index-v1-a10.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Полицейская академия 2",
+         "titleFooter": "Их первое задание",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Полицейская академия 2: Их первое задание (1985){col}{br}Вместо отбытия оставшихся пяти лет срока заключения Траутман предлагает Рэмбо сделку с правосудием — временное восстановление в рядах вооружённых сил в обмен на участие в секретной операции и президентский указ об амнистии со снятием всех судимостей в случае успешного её выполнения. После недолгих раздумий Джон соглашается.",
+               "image": "https://t1.ldh.be/Mjqc0GWZAnLB2-V8If0ic6giJ_4=/940x470/5e500845d8ad58685c275016.jpg"
+            }
+         },
+         "image": "https://t1.ldh.be/Mjqc0GWZAnLB2-V8If0ic6giJ_4=/940x470/5e500845d8ad58685c275016.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/03_30_23/03/30/13/EQ3FSHLN/ZUL6DT5E.mp4/index-v1-a8.m3u",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Полицейская академия 3",
+         "titleFooter": "Переподготовка",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Правительство заявило, что только одна из двух полицейских школ может продолжать свою работу. Начинается жестокое состязание на выживание - ни одна из академий не желает закрываться, в дело идут все средства. Махони, Хайтауэр, Тэклберри, Джонс, Хукс и Кэллагэн под командованием несгибаемого коменданта Лассарда, мобилизуют для спасения своей альма-матер новую команду безнадежных рекрутов.",
+               "image": "https://i.ytimg.com/vi/qfvhmHZwN6M/maxresdefault.jpg?7857057827"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/qfvhmHZwN6M/maxresdefault.jpg?7857057827",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/09_11_20/09/11/11/A6GOREAV/3TQPIYNP.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Полицейская академия 4",
+         "titleFooter": "Граждане в дозоре",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Полицейская академия 4: Граждане в дозоре (1987){col}{br}Упрямый и предприимчивый Лассард решает усилить безопасность на улице с помощью создания добровольных дружин под названием «Граждане на дежурстве». Угадайте, кто будет инструктировать обывателей? Верно, те же выпускники академии, что принимали «неуд» в своих зачетках за отличные отметки.",
+               "image": "https://img.moviesrankings.com/t/p/w1280/w7SGP8KQ9Rvd4GD7517MvMpCz6n.jpg"
+            }
+         },
+         "image": "https://img.moviesrankings.com/t/p/w1280/w7SGP8KQ9Rvd4GD7517MvMpCz6n.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/03_30_23/03/30/13/BUOAZW7E/WMUTH6A7.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Полицейская академия 5",
+         "titleFooter": "Место назначения — Майами Бич",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Полицейская академия 5: Место назначения — Майами Бич (1988){col}{br}Наши герои летят в Майами на чествование любимого коменданта Лассарда. Но у преступников не бывает отпусков. Лассард похищен. И даже соблазнительные пляжные вечеринки не смогут отвлечь наших неистовых бойцов от отчаянной попытки спасения заложника.",
+               "image": "http://i1.ytimg.com/vi/RjvhJivtmQM/maxresdefault.jpg"
+            }
+         },
+         "image": "http://i1.ytimg.com/vi/RjvhJivtmQM/maxresdefault.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/03_30_23/03/30/18/IVWHU2TF/55AAGMUM.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Полицейская академия 6",
+         "titleFooter": "Город в осаде",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Полицейская академия 6: Город в осаде (1989){col}{br}Вспышка криминальной активности под кодовым названием «Операция Хаос» может потребовать занавеса для ничего не подозревающего города. Лучшие полицейские специалисты из знаменитой Полицейской Академии взялись за дело.",
+               "image": "https://filmonizirani.net/wp-content/uploads/2021/01/Police-Academy-6-City-Under-Siege.jpg"
+            }
+         },
+         "image": "https://filmonizirani.net/wp-content/uploads/2021/01/Police-Academy-6-City-Under-Siege.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/03_30_23/03/30/13/SCSJHL4D/V4U7KVLZ.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Полицейская академия 7",
+         "titleFooter": "Миссия в Москве",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Полицейская академия 7: Миссия в Москве (1994){col}{br}Полицейская академия в Москве! Русский балет. Русская водка. И русская мафия. Самая опасная операция в жизни полицейских академиков! Смогут ли они вернуться живыми?",
+               "image": "https://blackfilm.video/wp-content/uploads/2018/02/wb-2003304-Full-Image-en-US-1689x950.jpg"
+            }
+         },
+         "image": "https://blackfilm.video/wp-content/uploads/2018/02/wb-2003304-Full-Image-en-US-1689x950.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/03_30_23/03/30/13/QPFLZ566/FECQMJJE.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      }
+   ]
+}
