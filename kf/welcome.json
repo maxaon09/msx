@@ -132,6 +132,13 @@
          "backdrop": "https://media.breitbart.com/media/2023/05/HarrisonFordindy-640x480.jpg",
          "image": "https://i.ytimg.com/vi/QG6xtxommYk/maxresdefault.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/I_ Jones.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ДЖЕЙСОН БОРН",
+         "description": "«Джейсон Борн» — серия фильмов-боевиков выпущенных с 2002 по 2016 год, основанная на романах Роберта Ладлэма о Джейсоне Борне — бывшем сотруднике ЦРУ и профессиональном убийце, потерявшем память.",
+         "backdrop": "https://s1.dmcdn.net/v/DdouY1ZlUP5aLepas/640x360",
+         "image": "https://www.nflix.pl/wp-content/uploads/2018/11/netflix-Jason-Bourne-1.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/j_born.json"
       }
    ]
 }
