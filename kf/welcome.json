@@ -125,6 +125,13 @@
          "backdrop": "https://r2.mt.ru/r4/photo4C7F/20161727188-0/jpg/bp.jpeg",
          "image": "https://i.ytimg.com/vi/We2rE4gNVco/maxresdefault.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/p_academy.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ИНДИАНА ДЖОНС",
+         "description": "«Индиана Джонс» — американская медиафраншиза, основанная на приключениях Доктора Генри «Индианы» Джонса-младшего — вымышленного археолога. Киносериал был создан Джорджем Лукасом, который придумaл персонaжa и нaписaл сюжеты к первым четырём фильмaм серии. Фрaншизa сталa известнa благодаря исполнителю глaвной роли Харрисону Форду и режиссёру первых четырёх фильмов Стивену Спилбергу. ",
+         "backdrop": "https://media.breitbart.com/media/2023/05/HarrisonFordindy-640x480.jpg",
+         "image": "https://i.ytimg.com/vi/QG6xtxommYk/maxresdefault.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/I_ Jones.json"
       }
    ]
 }
