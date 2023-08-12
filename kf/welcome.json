@@ -146,6 +146,13 @@
          "backdrop": "https://pbs.twimg.com/media/CXinr5zWQAANCZ-.jpg",
          "image": "https://img.goodfon.ru/original/800x480/2/c8/transformery-epoha-3460.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/transformers.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ДОСПЕХИ БОГА",
+         "description": "«Доспехи Бога» — гонконгский приключенческий кинофильм с боевыми искусствами, снятый Джеки Чаном, который также исполнил главную роль. Также есть продолжение этой киноленты — Доспехи Бога 2: Операция Кондор и Доспехи Бога 3: Миссия Зодиак",
+         "backdrop": "https://3.bp.blogspot.com/-GwnZ6t1BYfQ/W8thdH4KPxI/AAAAAAAAHjQ/v8Gl5wc4S30VJp7hRWspeOiXDxxtTW4bACLcBGAs/s400/40.jpg",
+         "image": "https://haipovo.ru/wp-content/uploads/2022/05/dospehi-boga-3-missiya-zodiak.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/dospehi_boga.json"
       }
    ]
 }
