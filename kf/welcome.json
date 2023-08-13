@@ -162,11 +162,60 @@
          "action": "content: https://maxaon09.github.io/msx/kf/terminator.json"
       },
       {
+         "titleHeader": "{col:msx-white}ГОРОД ГРЕХОВ",
+         "description": "«Город грехов» — криминальный триллер, экранизация в стиле нуар четырёх графических романов Фрэнка Миллера из цикла «Город грехов», поставленная режиссёром Робертом Родригесом совместно с самим Миллером.",
+         "backdrop": "https://images.squarespace-cdn.com/content/v1/56d8580027d4bd2dbfc4e0fd/1457981577735-GG0Z3IE1B0O3A1A4U97Z/IMG_9218.jpg?format=1500w",
+         "image": "https://www.desktopbackground.org/p/2010/04/27/8739_43-sin-city-hd-wallpapers_4450x2503_h.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Sin_City.json"
+      },
+      {
          "titleHeader": "{col:msx-white}НОЧЬ В МУЗЕЕ",
          "description": "«Ночь в музее» — американская семейная комедия, сочетающая в себе приключения и фэнтези. Фильм снят по роману М. Тренка.",
          "backdrop": "https://srv1.mytv.bg/i/tv/m3/m3sun8i21wwu_big.jpg",
          "image": "https://bingeddata.s3.amazonaws.com/uploads/2020/11/night-at-the-museum-battle-of-the-smithsonian-1-1024x576.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/noch_v_muzee.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ФАНТОЦЦИ",
+         "description": "Уго Фантоцци — невезучий бухгалтер, вечно попадающий в различные приключения и неприятности. Персонаж был придуман итальянским комиком Паоло Вилладжо, который лично исполнил роль клерка во всех проектах, выходивших на протяжении 25 лет. Подборка фильмов про Фантоцци.",
+         "backdrop": "https://movieplayer.net-cdn.it/t/images/2022/12/30/paolo-villaggio-migliori-film-carriera_jpg_1200x0_crop_q85.jpg",
+         "image": "https://i.ytimg.com/vi/9DuCcKUkL-U/maxresdefault.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Fantozzi.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ЭММАНУЭЛЬ",
+         "description": "Подборка фильмов об Эммануэль рассказывает о сексуальных похождениях главной героини. Будучи прилежной ученицей, Эммануэль довольно быстро осваивала искусство любви, и страсть постепенно поглощала её целиком, заставляя отправиться на поиски неземных наслаждений.",
+         "backdrop": "https://cfm.yidio.com/images/movie/4857/backdrop-640x360.jpg",
+         "image": "https://fotos.perfil.com/2012/10/01/trim/1140/641/Emmanuelle.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Emmanuelle.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}НИФОМАНКА",
+         "description": "«Нимфоманка» — эротическая драма Ларса фон Триера, вышедшая 25 декабря 2013 года в Дании. Прокатный вариант фильма состоит из двух двухчасовых частей",
+         "backdrop": "https://3.bp.blogspot.com/--92rQyVT1Ug/VpJ8LwIUQvI/AAAAAAAAC8M/mJMGkvgO6K8/s1600/collage.jpg",
+         "image": "https://3.bp.blogspot.com/--92rQyVT1Ug/VpJ8LwIUQvI/AAAAAAAAC8M/mJMGkvgO6K8/s1600/collage.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Nymphomaniac.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ОСНОВНОЙ ИНСТИНКТ",
+         "description": "«Основной инстинкт» — эротический триллер 1992 года, поставленный режиссёром Полом Верховеном. В главных ролях снялись актёры Майкл Дуглас и Шэрон Стоун. В 2006 году вышел сиквел фильма, «Основной инстинкт 2», в котором Шэрон Стоун повторила роль Кэтрин Трамелл. ",
+         "backdrop": "https://avatars.dzeninfra.ru/get-zen_doc/3414453/pub_5fe773a69c06f6134fd79614_5fe776030d0c7759ac189fa9/scale_1200",
+         "image": "https://i.ytimg.com/vi/397WD8JDtyY/maxresdefault.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Basic_Instinct.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ПЯТЬДЕСЯТ ОТТЕНКОВ",
+         "description": "Пятьдесят оттенков - британо-американская кинотрилогическая серия, основанная на трилогии Пятьдесят оттенков английского писателя Э. Л. Джеймса. Фильм распространяется Universal Studios, в нем снимаются Дакота Джонсон и Джейми Дорнан в главных ролях, Анастейша Стил и Кристиан Грей соответственно.",
+         "backdrop": "https://pbs.twimg.com/media/B97eTcqIIAApoyN.jpg",
+         "image": "https://img.zonared.com/images/noticias/portada/38000/38373-h.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Fifty_Shades.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}Сумерки",
+         "description": "Сумерки - серия романтических фантастических фильмов, основанных на серии книг Сумерки Стефани Майер.",
+         "backdrop": "https://pbs.twimg.com/media/FEAxjSZXIAIeaYb.jpg",
+         "image": "https://www.desktopbackground.org/download/1152x864/2013/01/08/511568_wallpapers-the-twilight-saga-twilight-robert-pattinson-kristen_1280x1024_h.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Twilight.json"
       }
    ]
 }
