@@ -169,6 +169,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Sin_City.json"
       },
       {
+         "titleHeader": "{col:msx-white}Сумерки",
+         "description": "Сумерки - серия романтических фантастических фильмов, основанных на серии книг Сумерки Стефани Майер.",
+         "backdrop": "https://pbs.twimg.com/media/FEAxjSZXIAIeaYb.jpg",
+         "image": "https://www.desktopbackground.org/download/1152x864/2013/01/08/511568_wallpapers-the-twilight-saga-twilight-robert-pattinson-kristen_1280x1024_h.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Twilight.json"
+      },
+      {
          "titleHeader": "{col:msx-white}НОЧЬ В МУЗЕЕ",
          "description": "«Ночь в музее» — американская семейная комедия, сочетающая в себе приключения и фэнтези. Фильм снят по роману М. Тренка.",
          "backdrop": "https://srv1.mytv.bg/i/tv/m3/m3sun8i21wwu_big.jpg",
@@ -209,13 +216,6 @@
          "backdrop": "https://pbs.twimg.com/media/B97eTcqIIAApoyN.jpg",
          "image": "https://img.zonared.com/images/noticias/portada/38000/38373-h.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/Fifty_Shades.json"
-      },
-      {
-         "titleHeader": "{col:msx-white}Сумерки",
-         "description": "Сумерки - серия романтических фантастических фильмов, основанных на серии книг Сумерки Стефани Майер.",
-         "backdrop": "https://pbs.twimg.com/media/FEAxjSZXIAIeaYb.jpg",
-         "image": "https://www.desktopbackground.org/download/1152x864/2013/01/08/511568_wallpapers-the-twilight-saga-twilight-robert-pattinson-kristen_1280x1024_h.jpg",
-         "action": "content: https://maxaon09.github.io/msx/kf/Twilight.json"
       }
    ]
 }
