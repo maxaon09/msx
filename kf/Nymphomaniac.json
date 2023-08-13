@@ -1,0 +1,75 @@
+{
+   "type": "list",
+   "headline": "НИФОМАНКА",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Нимфоманка",
+         "titleFooter": "Нимфоманка: Часть 1",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Нимфоманка: Часть 1{col}{br}История эротических переживаний женщины по имени Джо от рождения до пятидесятилетия. Холодным зимним утром Селигман, немолодой одинокий холостяк, натыкается в переулке на Джо, избитую и находящуюся в полубессознательном состоянии. Доставив женщину домой, он рассматривает ее раны и задается вопросом, как дошла она до такой жизни. Джо рассказывает Селигману историю своей бурной молодости.",
+               "image": "https://static.okko.tv/images/v2/9511986?scale=1&quality=80"
+            }
+         },
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiV_PLvTtA7-RIgMeZUdtITTbgnIuXMZiwEyCJJnAPsXsW4aF4_OH_8WTmGMOu6tNQ_Lw&usqp=CAU.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/03/N42OYCIB/UJNNW76T.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Нимфоманка",
+         "titleFooter": "Нимфоманка: Часть 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Нимфоманка: Часть 2{col}{br}Продолжение истории нимфоманки по имени Джо, чья жизнь была полна множества эротических переживаний, впечатлений и опытов. Она рассказывает о себе немолодому одинокому холостяку Селигману, который наткнулся на нее, избитую и находящуюся в полубессознательном состоянии, в переулке, доставил к себе домой и выходил.",
+               "image": "https://static.okko.tv/images/v2/9511978?scale=1&quality=80"
+            }
+         },
+         "image": "https://sun9-71.userapi.com/c541407/u158324325/video/l_b4713df1.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/10_01_20/10/01/23/7JCVVFVF/6LYKFFXY.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      }
+   ]
+}
