@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "САМОГОНЩИКИ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Самогонщики",
+         "titleFooter": "Пес Барбос и необычный кросс",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Пес Барбос и необычный кросс {col}{br}Что есть главное средство для поддержания мужской дружбы и просто для увлекательного времяпрепровождения? Правильно, это рыбалка. Трус, Балбес и Бывалый решили испытать эту радость жизни на себе, но на свою беду взяли они с собой пса Барбоса...",
+               "image": "https://avatars.mds.yandex.net/i?id=7d40358c62c84c7a7ce9e5dbe096d44f79808afd-8497407-images-thumbs&n=13"
+            }
+         },
+         "image": "https://avatars.mds.yandex.net/i?id=7d40358c62c84c7a7ce9e5dbe096d44f79808afd-8497407-images-thumbs&n=13",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/06_25_21/06/25/15/QUZKYPIZ/KMPJLVFP.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Самогонщики",
+         "titleFooter": "Самогонщики",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Самогонщики{col}{br}Трус, Балбес и Бывалый решают поставить на широкую ногу изготовление самогона - и снова фиаско...",
+               "image": "https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/367/227/1.jpg"
+            }
+         },
+         "image": "https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/367/227/1.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/02_19_20/02/19/10/FIUs195d/1080_ln8SQkps.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Самогонщики",
+         "titleFooter": "«Сто грамм» для храбрости",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}«Сто грамм» для храбрости{col}{br}Три новеллы: первая о примерном гражданине, который встретил заядлого пьяницу по дороге на работу, вторая о происшествии на празднике, которое произошло по вине алкоголя, а в третьей застенчивый мужчина перед первым свиданием решает для храбрости выпить «сто грамм».",
+               "image": "https://cccp.fun/wp-content/uploads/2021/09/cccp.fun_sto-gramm-dlya-hrabrosti_5.jpg"
+            }
+         },
+         "image": "https://cccp.fun/wp-content/uploads/2021/09/cccp.fun_sto-gramm-dlya-hrabrosti_5.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/06_19_20/06/19/14/GCQFDNEN/XXDGCJ7J.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}

@@ -1,0 +1,109 @@
+{
+   "type": "list",
+   "headline": "ГОЛОДНЫЕ ИГРЫ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Голодные игры",
+         "titleFooter": "Голодные игры",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Голодные игры{col}{br}Будущее. Деспотичное государство ежегодно устраивает показательные игры на выживание, за которыми в прямом эфире следит весь мир. Жребий участвовать в Играх выпадает юной Китнисс и тайно влюбленному в нее Питу. Они знакомы с детства, но теперь должны стать врагами. Ведь по нерушимому закону Голодных игр победить может только один из 24 участников. Судьям не важно, кто выиграет, главное — зрелище. И на этот раз зрелище будет незабываемым.",
+               "image": "https://images-s.kinorium.com/movie/poster/477206/h280_50597739.jpg"
+            }
+         },
+         "image": "https://images-s.kinorium.com/movie/poster/477206/h280_50597739.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/05_03_23/05/03/20/CV2AS3DR/Z7QIZTA6.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Голодные игры",
+         "titleFooter": "Голодные игры: И вспыхнет пламя",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Сумев выжить на безжалостных Голодных играх, Китнисс Эвердин и Пит Мелларк возвращаются домой. Но теперь они в еще большей опасности, так как своим отказом играть по правилам на Арене бросили вызов Капитолию. По традиции следующие, юбилейные, Голодные игры должны стать особенными, и в этот раз в них участвуют только победители прошлых лет. Китнисс и Пит вынуждены вновь выйти на Арену, где будут соперничать с сильнейшими. Правила игры меняются. Арена еще опасней, масштаб еще больше, ставки еще выше!",
+               "image": "https://avatars.mds.yandex.net/get-kinopoisk-post-img/1345014/bcf0250f4bc0b565991300220993704e/960x540"
+            }
+         },
+         "image": "https://avatars.mds.yandex.net/get-kinopoisk-post-img/1345014/bcf0250f4bc0b565991300220993704e/960x540",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/05_26_21/05/26/16/SE6TBBWC/DTPZHHB7.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Голодные игры",
+         "titleFooter": "Голодные игры: Сойка-пересмешница. Часть I",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Голодные игры: Сойка-пересмешница. Часть I{col}{br}75-ые Голодные игры изменили все. Китнисс нарушила правила, и непоколебимое до той поры деспотичное правление Капитолия пошатнулось. У людей появилась надежда, и ее символ – Сойка-пересмешница. Теперь, чтобы освободить захваченного в плен Пита и защитить своих близких, Китнисс придется сражаться в настоящих битвах и стать еще сильнее, чем на арене игр.",
+               "image": "https://start.ru/images/unsafe/filters:quality(70)/09973b338d964cda9455b9aaa55f48d5/images-horizontal_poster_1x"
+            }
+         },
+         "image": "https://start.ru/images/unsafe/filters:quality(70)/09973b338d964cda9455b9aaa55f48d5/images-horizontal_poster_1x",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/01_18_23/01/18/15/C3CJD7BC/6QR3YJQB.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Голодные игры",
+         "titleFooter": "Голодные игры: Сойка-пересмешница. Часть II",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Голодные игры: Сойка-пересмешница. Часть II{col}{br}Китнисс Эвердин и своенравный Пит Мелларк пытаются выиграть гражданскую войну между самодержавным Капитолием и истерзанными войной районами Панема...",
+               "image": "https://goodwincinema.ru/upload/news/rtf/779_kinopoisk.ru-The-Hunger-Games_3A-Mockingjay-Part-2-2667753.jpg"
+            }
+         },
+         "image": "https://goodwincinema.ru/upload/news/rtf/779_kinopoisk.ru-The-Hunger-Games_3A-Mockingjay-Part-2-2667753.jpg",
+         "action": "https://hye1eaipby4w.takedwn.ws/01_18_23/01/18/14/TLXRHSKR/JVM57H5N.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      }
+   ]
+}

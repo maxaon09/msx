@@ -1,0 +1,127 @@
+{
+   "type": "list",
+   "headline": "ОСВОБОЖДЕНИЕ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Освобождение",
+         "titleFooter": "Освобождение: Огненная дуга",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Освобождение: Огненная дуга{col}{br} {col:msx-yellow}Масштабная историческая киноэпопея Юрия Озерова «Освобождение» состоит из пяти фильмов.{col}{br}Фильм первый - «Огненная Дуга» повествует о грандиозной битве на Курской дуге летом 1943 года. Здесь произошло самое крупное в истории Второй мировой войны танковое сражение. Наряду с личными судьбами героев в фильме показаны батальные сцены, деятельность штабов и разведок, тех, кто трудился на фронте и в тылу.",
+               "image": "https://i.ytimg.com/vi/GZlzMhfx2hQ/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/GZlzMhfx2hQ/maxresdefault.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/10_16_20/10/16/18/ZAGTOZ5A/JDPPQ4HO.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Освобождение",
+         "titleFooter": "Освобождение: Прорыв",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Освобождение: Прорыв{col}{br} {col:msx-yellow}Масштабная историческая киноэпопея Юрия Озерова «Освобождение» состоит из пяти фильмов.{col}{br}Фильм второй - «Прорыв» посвящен битве за Днепр и наступательной операции советских войск в 1944 г. В центре этого фильма судьба батальона, сражавшегося на этом плацдарме.",
+               "image": "https://i.ytimg.com/vi/j0t5CHhsuaM/mqdefault.jpg"
+            }
+         },
+         "image": "https://static.okko.tv/images/v2/14813247?scale=1&quality=80",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/07_24_20/07/24/11/HPXSE2KD/POVMG3JM.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Освобождение",
+         "titleFooter": "Освобождение: Направление главного удара",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Освобождение: Направление главного удара{col}{br} {col:msx-yellow}Масштабная историческая киноэпопея Юрия Озерова «Освобождение» состоит из пяти фильмов.{col}{br}Фильм третий - «Направление главного удара» посвящен операции «Багратион», в результате которой была полностью освобождена от фашистских войск Белоруссия, и войска Советской армии вышли к государственной границе...",
+               "image": "https://i.ytimg.com/vi/Glz5ZJLEPgY/maxresdefault.jpg"
+            }
+         },
+         "image": "https://cdn-st2.rtr-vesti.ru/vh/pictures/hd/438/879/7.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/06_15_20/06/15/20/CALHDW72/WQCAGVPC.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Освобождение",
+         "titleFooter": "Освобождение: Битва за Берлин (1971)",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Освобождение: Битва за Берлин (1971){col}{br} {col:msx-yellow}Масштабная историческая киноэпопея Юрия Озерова «Освобождение» состоит из пяти фильмов.{col}{br}Фильм четвертый - «Битва за Берлин». 1945 г. Последние месяцы войны. Именно в эти дни решалась судьба порабощенной Европы. Началась Висло-Одерская операция. Три фронта под командованием Конева, Жукова и Рокоссовского устремились к столице Германии. К Берлину идут и англо-американские войска. «Опередить русских», - предлагает Черчиль и начинаются тайные переговоры с эмиссарами Гитлера, разоблаченные Ялтинской конференцией. Судьба Берлина решится на полях сражений.",
+               "image": "https://i.ytimg.com/vi/MEfxAE6dTDU/maxresdefault.jpg"
+            }
+         },
+         "image": "https://cdn.culture.ru/images/abd171fd-015c-5255-bd51-2cdcc43da0fc",
+         "action": "https://hye1eaipby4w.takedwn.ws/06_27_20/06/27/05/VKKSNXXX/SBSZKYPS.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Освобождение",
+         "titleFooter": "Освобождение: Последний штурм",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Освобождение: Последний штурм{col}{br} {col:msx-yellow}Масштабная историческая киноэпопея Юрия Озерова «Освобождение» состоит из пяти фильмов.{col}{br}Фильм пятый - «Последний штурм». Последние дни войны, штурм рейхстага, сражение за каждый метр, за каждый этаж - и, наконец, водружение Знамени Победы над рейхстагом. Раздались первые залпы Победы. Главные герои фильма встречаются у входа в рейхстаг.",
+               "image": "https://i.ytimg.com/vi/PqJEMXbRgdw/maxresdefault.jpg"
+            }
+         },
+         "image": "https://images-s.kinorium.com/movie/poster/735090/h280_50191216.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/10/2GDQ7UGI/OTEG3LMN.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fifth Item"
+         }
+      }
+      
+   ]
+}
