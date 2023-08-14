@@ -62,10 +62,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}Сумев выжить на безжалостных Голодных играх, Китнисс Эвердин и Пит Мелларк возвращаются домой. Но теперь они в еще большей опасности, так как своим отказом играть по правилам на Арене бросили вызов Капитолию. По традиции следующие, юбилейные, Голодные игры должны стать особенными, и в этот раз в них участвуют только победители прошлых лет. Китнисс и Пит вынуждены вновь выйти на Арену, где будут соперничать с сильнейшими. Правила игры меняются. Арена еще опасней, масштаб еще больше, ставки еще выше!",
-               "image": "https://avatars.mds.yandex.net/get-kinopoisk-post-img/1345014/bcf0250f4bc0b565991300220993704e/960x540"
+               "image": "https://www.patrasevents.gr/imgsrv/f/full/640630.jpg"
             }
          },
-         "image": "https://avatars.mds.yandex.net/get-kinopoisk-post-img/1345014/bcf0250f4bc0b565991300220993704e/960x540",
+         "image": "https://www.patrasevents.gr/imgsrv/f/full/640630.jpg",
          "action": "video:https://hye1eaipby4w.takedwn.ws/05_26_21/05/26/16/SE6TBBWC/DTPZHHB7.mp4/master.m3u8",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
