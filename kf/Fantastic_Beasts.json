@@ -39,7 +39,7 @@
    "items": [
       {
          "titleHeader": "{col:msx-white}Фантастические твари",
-         "titleFooter": "Фантастические твари и где они обитают",
+         "titleFooter": "и где они обитают",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
@@ -56,7 +56,7 @@
       },
       {
          "titleHeader": "{col:msx-white}Фантастические твари",
-         "titleFooter": "Фантастические твари: Преступления Грин-де-Вальда",
+         "titleFooter": "Преступления Грин-де-Вальда",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
@@ -73,7 +73,7 @@
       },
       {
          "titleHeader": "{col:msx-white}Фантастические твари",
-         "titleFooter": "Фантастические твари: Тайны Дамблдора",
+         "titleFooter": "Тайны Дамблдора",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
