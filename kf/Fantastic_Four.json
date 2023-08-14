@@ -56,7 +56,7 @@
       },
       {
          "titleHeader": "{col:msx-white}Фантастическая четверка",
-         "titleFooter": "Фантастическая четверка: Вторжение Серебряного серфера",
+         "titleFooter": "Вторжение Серебряного серфера",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
