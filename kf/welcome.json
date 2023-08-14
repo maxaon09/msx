@@ -92,11 +92,25 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Fast.json"
       },
       {
+         "titleHeader": "{col:msx-white}РИДДИК",
+         "description": "Риддик – это выживший житель планеты Фурия. Как позже выяснится, он один остался. Герой обладает незаурядными способностями: он может прекрасно видеть в темноте и ловко выйти из любой ситуации, у него сильно развито обоняние. Этому герою посвящено три полноценных фильма.",
+         "backdrop": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/07/Riddick-on-the-surface-of-Crematoria-in-The-Chronicles-Of-Riddick.jpg",
+         "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/03/riddick-sequel-dark-fury-pitch-black-chronicles-timeline.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Riddick.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ГАРРИ ПОТТЕР",
          "description": "Гарри Поттер - серия фильмов, основанная на одноименных романах Джоан Роулинг. Сериал производится и распространяется компанией Warner Bros . Pictures и состоит из восьми фантастических фильмов",
          "backdrop": "https://pbs.twimg.com/media/D4Yf2EBW4AMcC8r.jpg",
          "image": "https://pbs.twimg.com/media/D4Yf2EBW4AMcC8r.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/potter.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ФАНТАСТИЧЕСКИЕ ТВАРИ",
+         "description": "Фантастические твари - серия фильмов режиссера Дэвида Йейтса, являющаяся дополнительным приквелом к роману о Гарри Поттере и серии фильмов. Сериал распространяется Warner Bros и состоит из трех фэнтезийных фильмов ",
+         "backdrop": "https://i1.sndcdn.com/artworks-000196353436-9obxkc-t500x500.jpg",
+         "image": "https://i.ytimg.com/vi/UtGeWizedqQ/maxresdefault.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Fantastic_Beasts.json"
       },
       {
          "titleHeader": "{col:msx-white}ВЛАСТЕЛИН КОЛЕЦ",
@@ -120,13 +134,6 @@
          "action": "content: https://maxaon09.github.io/msx/kf/narnii.json"
       },
       {
-         "titleHeader": "{col:msx-white}ПОЛИЦЕЙСКАЯ АКАДЕМИЯ",
-         "description": "Полицейская академия — одна из самых успешных кинофраншиз в истории Голливуда. В фильме рассказывается о группе новобранцев-неудачников, пытающихся доказать, что они способны быть полицейскими, и добиться успеха как вопреки, так и благодаря своей эксцентричности.",
-         "backdrop": "https://r2.mt.ru/r4/photo4C7F/20161727188-0/jpg/bp.jpeg",
-         "image": "https://i.ytimg.com/vi/We2rE4gNVco/maxresdefault.jpg",
-         "action": "content: https://maxaon09.github.io/msx/kf/p_academy.json"
-      },
-      {
          "titleHeader": "{col:msx-white}ИНДИАНА ДЖОНС",
          "description": "«Индиана Джонс» — американская медиафраншиза, основанная на приключениях Доктора Генри «Индианы» Джонса-младшего — вымышленного археолога. Киносериал был создан Джорджем Лукасом, который придумaл персонaжa и нaписaл сюжеты к первым четырём фильмaм серии. Фрaншизa сталa известнa благодаря исполнителю глaвной роли Харрисону Форду и режиссёру первых четырёх фильмов Стивену Спилбергу. ",
          "backdrop": "https://media.breitbart.com/media/2023/05/HarrisonFordindy-640x480.jpg",
@@ -141,11 +148,53 @@
          "action": "content: https://maxaon09.github.io/msx/kf/j_born.json"
       },
       {
+         "titleHeader": "{col:msx-white}МЕХАНИК",
+         "description": "Остросюжетный боевик с Джейсоном Стетхэмом в главной роли. Таких как Артур Бишоп в узких кругах называют «механики» — это кодовое обозначение для профессиональных киллеров высокого класса. Когда нужно убрать кого-то быстро и незаметно, дело поручают Артуру, ведь он — лучший в своём деле: умный, ловкий, сильный, с идеальными навыками убийцы",
+         "backdrop": "https://pbs.twimg.com/media/CoYC37BWgAAUT5V?format=jpg&name=large",
+         "image": "https://i.ytimg.com/vi/apDQcqwACEE/maxresdefault.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/The_Mechanic.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}Адреналин",
+         "description": "«Адреналин» — криминальный боевик с элементами трэша, снятый Брайаном Тейлором и Марком Невелдайном по собственному сценарию в 2006 году.",
+         "backdrop": "https://img.goodfon.ru/original/1366x768/d/ef/adrenalin-crank-dzheyson.jpg",
+         "image": "https://i.ytimg.com/vi/gqS1qsy98sI/maxresdefault.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Crank.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ПЕРЕВОЗЧИК",
+         "description": "«Перевозчик» – серия криминальных боевиков. В первых трех фильмах главную роль сыграл Джейсон Стэтхэм. Через семь лет после основной трилогии вышел ремейк, в котором Фрэнка Мартина играет Эд Скрейн.",
+         "backdrop": "https://pbs.twimg.com/media/CMM6aaYWcAAtKNf.jpg:large",
+         "image": "https://w.forfun.com/fetch/e7/e7e8299e9c8f549b522e4cb32c0e1e45.jpeg",
+         "action": "content: https://maxaon09.github.io/msx/kf/The_Transporter.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ТРАНСФОРМЕРЫ",
          "description": "«Трансформеры» — серия фильмов, основанная на франшизе «Трансформеры». Выпущена компанией Paramount Pictures и состоит из шести фильмов в жанре научно-фантастических боевиков, включая оригинальную серию — начиная с «Трансформеров» и заканчивая «Трансформерами: Последний рыцарь»  — а также перезапуск начиная с «Бамблби» ",
          "backdrop": "https://pbs.twimg.com/media/CXinr5zWQAANCZ-.jpg",
          "image": "https://img.goodfon.ru/original/800x480/2/c8/transformery-epoha-3460.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/transformers.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ФАНТАСТИЧЕСКАЯ ЧЕТВЕРКА",
+         "description": "Динамичные фантастические картины о четырёх героях на страже планеты",
+         "backdrop": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/02/24/09/ioan-gruffudd-fantastic-four.jpg?quality=75&width=1200&auto=webp",
+         "image": "https://mobimg.b-cdn.net/v3/fetch/86/860bb791807e9ef0a50790b24aa33f70.jpeg?w=1470&r=0.5625",
+         "action": "content: https://maxaon09.github.io/msx/kf/Fantastic_Four.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ГОЛОДНЫЕ ИГРЫ",
+         "description": "Серия фильмов «Голодные игры» состоит из научно-фантастических антиутопических приключенческих фильмов, основанных на трилогии романов «Голодные игры» американской писательницы Сюзанны Коллинз. Фильмы распространяются компанией Lionsgate и продюсируются Ниной Джейкобсон и Джоном Киликом.",
+         "backdrop": "https://avatars.dzeninfra.ru/get-zen_doc/3431006/pub_600173f0dc0ac42b28714a74_6001743f4e913f1758f26cac/scale_1200",
+         "image": "https://www.articolo26.it/wp-content/uploads/2015/05/arcieriprudenti.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Hunger_Games.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}БЕГУЩИЙ В ЛАБИРИНТЕ",
+         "description": "Бегущий в лабиринте - североамериканская кинотрилогия, состоящая из научно-фантастических антиутопических боевиков ,приключенческих фильмов, основанных на романах Бегущий в лабиринте американского писателя Джеймса Дэшнера.",
+         "backdrop": "https://pbs.twimg.com/media/ByI7IztCcAAlM6V.jpg:large",
+         "image": "https://img.goodfon.ru/original/2880x1800/8/5e/fantastika-thomas-sangster-li-gi-khon-dylan-o-brien-tomas-se.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Maze_Runner.json"
       },
       {
          "titleHeader": "{col:msx-white}ДОСПЕХИ БОГА",
@@ -162,6 +211,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/terminator.json"
       },
       {
+         "titleHeader": "{col:msx-white}ХИЩНИК",
+         "description": "Хищник - американская антология научно-фантастических боевиков , медийная франшиза, основанная на серии фильмов, изображающих встречи человечества с разумной расой внеземных охотников за трофеями, известных как Яутя.",
+         "backdrop": "https://media.filmz.ru/photos/full/filmz.ru_f_44050.jpg",
+         "image": "https://foni.club/uploads/posts/2023-02/1677084707_foni-club-p-oboi-khishchnik-na-noutbuk-41.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/The_Predator.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ГОРОД ГРЕХОВ",
          "description": "«Город грехов» — криминальный триллер, экранизация в стиле нуар четырёх графических романов Фрэнка Миллера из цикла «Город грехов», поставленная режиссёром Робертом Родригесом совместно с самим Миллером.",
          "backdrop": "https://images.squarespace-cdn.com/content/v1/56d8580027d4bd2dbfc4e0fd/1457981577735-GG0Z3IE1B0O3A1A4U97Z/IMG_9218.jpg?format=1500w",
@@ -174,6 +230,13 @@
          "backdrop": "https://pbs.twimg.com/media/FEAxjSZXIAIeaYb.jpg",
          "image": "https://www.desktopbackground.org/download/1152x864/2013/01/08/511568_wallpapers-the-twilight-saga-twilight-robert-pattinson-kristen_1280x1024_h.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/Twilight.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ПОЛИЦЕЙСКАЯ АКАДЕМИЯ",
+         "description": "Полицейская академия — одна из самых успешных кинофраншиз в истории Голливуда. В фильме рассказывается о группе новобранцев-неудачников, пытающихся доказать, что они способны быть полицейскими, и добиться успеха как вопреки, так и благодаря своей эксцентричности.",
+         "backdrop": "https://r2.mt.ru/r4/photo4C7F/20161727188-0/jpg/bp.jpeg",
+         "image": "https://i.ytimg.com/vi/We2rE4gNVco/maxresdefault.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/p_academy.json"
       },
       {
          "titleHeader": "{col:msx-white}НОЧЬ В МУЗЕЕ",
@@ -216,6 +279,20 @@
          "backdrop": "https://pbs.twimg.com/media/B97eTcqIIAApoyN.jpg",
          "image": "https://img.zonared.com/images/noticias/portada/38000/38373-h.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/Fifty_Shades.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ОСВОБОЖДЕНИЕ",
+         "description": "«Освобождение» — киноэпопея о Великой Отечественной войне режиссёра Юрия Озерова по сценарию Юрия Бондарева и Оскара Курганова. (1968-1972). Фильм отреставрирован в 2020 году  Группы компьютерной графики Мосфильма.",
+         "backdrop": "https://avatars.dzeninfra.ru/get-zen_doc/237236/pub_5aa9ebe548c85e021062cbac_5aa9f4578139baca5e31c1e4/scale_1200",
+         "image": "https://cdn.fishki.net/upload/post/2021/01/18/3559789/4738add899799860cf3a066d5b3d8c61.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Osvobozhdenie.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}САМОГОНЩИКИ",
+         "description": "«Самогонщики» — советский комедийно-приключенческий короткометражный художественный фильм, снятый в 1961 году на киностудии «Мосфильм» режиссёром Леонидом Гайдаем. Вместе с фильмом «Пёс Барбос и необычный кросс» это первое произведение о трио антигероев-жуликов Труса, Балбеса и Бывалого.",
+         "backdrop": "https://sun1-89.userapi.com/impg/TUFckBJPjH9bbwQwHNNYfdMTaZSYMMnAgyOH7w/HvPKyXinXx0.jpg?size=1280x935&quality=96&sign=34b91697261c0ab7f2c510c8d37bc2d2&c_uniq_tag=o1feoslUbT3O6cUeRFLDlKkvAeaJ9vY6dReo5Eux5kc&type=album",
+         "image": "https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/367/227/1.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/moonshiners.json"
       }
    ]
 }
