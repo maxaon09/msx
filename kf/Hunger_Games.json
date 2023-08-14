@@ -56,7 +56,7 @@
       },
       {
          "titleHeader": "{col:msx-white}Голодные игры",
-         "titleFooter": "Голодные игры: И вспыхнет пламя",
+         "titleFooter": "И вспыхнет пламя",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
@@ -73,7 +73,7 @@
       },
       {
          "titleHeader": "{col:msx-white}Голодные игры",
-         "titleFooter": "Голодные игры: Сойка-пересмешница. Часть I",
+         "titleFooter": "Сойка-пересмешница. Часть I",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
@@ -90,7 +90,7 @@
       },
       {
          "titleHeader": "{col:msx-white}Голодные игры",
-         "titleFooter": "Голодные игры: Сойка-пересмешница. Часть II",
+         "titleFooter": "Сойка-пересмешница. Часть II",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
