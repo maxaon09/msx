@@ -62,7 +62,7 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}В черной дыре{col}{br}От спасательной команды, высланной через 4 месяца на поиски потерпевшего крушения космического корабля «Hunter/Gratzner» и его экипажа, приходит непонятное послание. Это послание направлено Следователю, который должен выяснить, что случилось с космическим кораблем, спасательной командой и Риддиком.",
-               "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/4c47f1ef-b032-4296-9911-fd5da83adff7/1200x630"
+               "image": "https://pbs.twimg.com/media/EEdIfvJXYAIXnGY.jpg:large"
             }
          },
          "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/4c47f1ef-b032-4296-9911-fd5da83adff7/1200x630",
