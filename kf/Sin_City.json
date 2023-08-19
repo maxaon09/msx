@@ -56,7 +56,7 @@
       },
       {
          "titleHeader": "{col:msx-white}Город грехов",
-         "titleFooter": "Город грехов 2: Женщина, ради которой стоит убивать",
+         "titleFooter": "Женщина, ради которой стоит убивать",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
