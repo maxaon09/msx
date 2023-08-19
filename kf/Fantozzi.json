@@ -45,10 +45,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}Фантоцци{col}{br}Бухгалтер средних лет Уго Фантоцци живёт в бедно обставленной квартире с нелюбимой женой и уродливой дочерью. Его жизнь полна неудач и разочарований, несчастья сыплются на него, как из ведра. Однако Фантоцци не лишён самоиронии и чувства собственного достоинства.",
-               "image": "https://i.mycdn.me/i?r=AyENid1PUfRjbfTS8I1wumQ-Oq_UujYH6WE17ynb7M9b3Q"
+               "image": "https://itakon.it/wp-content/uploads/2018/04/Infinite-Statue-Fantozzi-04.jpg"
             }
          },
-         "image": "https://i.mycdn.me/i?r=AyENid1PUfRjbfTS8I1wumQ-Oq_UujYH6WE17ynb7M9b3Q",
+         "image": "https://itakon.it/wp-content/uploads/2018/04/Infinite-Statue-Fantozzi-04.jpg",
          "action": "video:https://hye1eaipby4w.takedwn.ws/07_14_20/07/14/13/L5I75SRK/SXP5UZ3Q.mp4/master.m3u8",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
@@ -96,10 +96,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}У Фантоцци опять неприятности{col}{br}Вновь у Фантоцци возникает масса проблем на рабочем месте и в семье. Вместо того, чтобы решить хотя бы некоторые из них, он наживает себе новые проблемы, втянувшись в одну мафиозную авантюру.",
-               "image": "https://i.mycdn.me/image?id=839216120216&t=50&plc=WEB&tkn=*xwLs-jNzaZSNw6WeFoPmul79mWk&fn=external_7"
+               "image": "https://sun6-23.userapi.com/c836421/v836421661/173e5/hWdIcHSSBvc.jpg"
             }
          },
-         "image": "https://i.mycdn.me/image?id=839216120216&t=50&plc=WEB&tkn=*xwLs-jNzaZSNw6WeFoPmul79mWk&fn=external_7",
+         "image": "https://sun6-23.userapi.com/c836421/v836421661/173e5/hWdIcHSSBvc.jpg",
          "action": "https://hye1eaipby4w.takedwn.ws/07_16_20/07/16/03/KKHGXEAJ/QLQ4WZRC.mp4/master.m3u8",
          "properties": {
             "image:extension": "| {col:msx-white}Fourth Item"
