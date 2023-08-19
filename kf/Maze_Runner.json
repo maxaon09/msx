@@ -62,10 +62,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}Бегущий в лабиринте: Испытание огнём{col}{br}Лабиринт пройден, но Томасу, Терезе, Минхо и прочим глэйдерам не приходится расслабляться. Таинственное руководство ПОРОКА - секретной организации, устроившей гонки на выживание - назначает ребятам новые, смертельно опасные испытания. На сей раз их ждет переход по раскаленной пустыне и встреча с жертвами неизлечимой болезни, которые отличаются буйным нравом и непредсказуемым поведением.",
-               "image": "https://i.mycdn.me/getVideoPreview?id=2687740414504&idx=0&type=39&tkn=DlGRCVw2L4yxlu4-d1LkVM2AuJc&fn=vid_x"
+               "image": "http://images-s.kinorium.com/movie/poster/1442853/w1500_51639816.jpg"
             }
          },
-         "image": "https://i.mycdn.me/getVideoPreview?id=2687740414504&idx=0&type=39&tkn=DlGRCVw2L4yxlu4-d1LkVM2AuJc&fn=vid_x",
+         "image": "http://images-s.kinorium.com/movie/poster/1442853/w1500_51639816.jpg",
          "action": "video:https://hye1eaipby4w.takedwn.ws/10_04_22/10/04/19/UHJR3WZQ/J2PH67KZ.mp4/master.m3u8",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
