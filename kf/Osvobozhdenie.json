@@ -62,10 +62,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}Освобождение: Прорыв{col}{br} {col:msx-yellow}Масштабная историческая киноэпопея Юрия Озерова «Освобождение» состоит из пяти фильмов.{col}{br}Фильм второй - «Прорыв» посвящен битве за Днепр и наступательной операции советских войск в 1944 г. В центре этого фильма судьба батальона, сражавшегося на этом плацдарме.",
-               "image": "https://i.ytimg.com/vi/j0t5CHhsuaM/mqdefault.jpg"
+               "image": "https://i.ytimg.com/vi/qBqVBzFe6_Y/maxresdefault.jpg?7857057827"
             }
          },
-         "image": "https://static.okko.tv/images/v2/14813247?scale=1&quality=80",
+         "image": "https://i.ytimg.com/vi/qBqVBzFe6_Y/maxresdefault.jpg?7857057827",
          "action": "video:https://hye1eaipby4w.takedwn.ws/07_24_20/07/24/11/HPXSE2KD/POVMG3JM.mp4/master.m3u8",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
@@ -96,10 +96,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}Освобождение: Битва за Берлин (1971){col}{br} {col:msx-yellow}Масштабная историческая киноэпопея Юрия Озерова «Освобождение» состоит из пяти фильмов.{col}{br}Фильм четвертый - «Битва за Берлин». 1945 г. Последние месяцы войны. Именно в эти дни решалась судьба порабощенной Европы. Началась Висло-Одерская операция. Три фронта под командованием Конева, Жукова и Рокоссовского устремились к столице Германии. К Берлину идут и англо-американские войска. «Опередить русских», - предлагает Черчиль и начинаются тайные переговоры с эмиссарами Гитлера, разоблаченные Ялтинской конференцией. Судьба Берлина решится на полях сражений.",
-               "image": "https://i.ytimg.com/vi/MEfxAE6dTDU/maxresdefault.jpg"
+               "image": "https://pbs.twimg.com/media/EXFmD3hXgAEdvue.jpg:large"
             }
          },
-         "image": "https://cdn.culture.ru/images/abd171fd-015c-5255-bd51-2cdcc43da0fc",
+         "image": "https://pbs.twimg.com/media/EXFmD3hXgAEdvue.jpg:large",
          "action": "https://hye1eaipby4w.takedwn.ws/06_27_20/06/27/05/VKKSNXXX/SBSZKYPS.mp4/master.m3u8",
          "properties": {
             "image:extension": "| {col:msx-white}Fourth Item"
