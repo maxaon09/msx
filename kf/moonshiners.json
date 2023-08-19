@@ -45,10 +45,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}Пес Барбос и необычный кросс {col}{br}Что есть главное средство для поддержания мужской дружбы и просто для увлекательного времяпрепровождения? Правильно, это рыбалка. Трус, Балбес и Бывалый решили испытать эту радость жизни на себе, но на свою беду взяли они с собой пса Барбоса...",
-               "image": "https://avatars.mds.yandex.net/i?id=7d40358c62c84c7a7ce9e5dbe096d44f79808afd-8497407-images-thumbs&n=13"
+               "image": "https://i.ytimg.com/vi/U-Xj6nqxzbU/maxresdefault.jpg"
             }
          },
-         "image": "https://avatars.mds.yandex.net/i?id=7d40358c62c84c7a7ce9e5dbe096d44f79808afd-8497407-images-thumbs&n=13",
+         "image": "https://i.ytimg.com/vi/U-Xj6nqxzbU/maxresdefault.jpg",
          "action": "video:https://hye1eaipby4w.takedwn.ws/06_25_21/06/25/15/QUZKYPIZ/KMPJLVFP.mp4/master.m3u8",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
