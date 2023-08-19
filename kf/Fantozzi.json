@@ -96,10 +96,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}У Фантоцци опять неприятности{col}{br}Вновь у Фантоцци возникает масса проблем на рабочем месте и в семье. Вместо того, чтобы решить хотя бы некоторые из них, он наживает себе новые проблемы, втянувшись в одну мафиозную авантюру.",
-               "image": "https://sun6-23.userapi.com/c836421/v836421661/173e5/hWdIcHSSBvc.jpg"
+               "image": "http://media5.cdnbase.com/media/files/s1/jb/pv/u-fantotstsi-opyat-nepriyatnos.jpg"
             }
          },
-         "image": "https://sun6-23.userapi.com/c836421/v836421661/173e5/hWdIcHSSBvc.jpg",
+         "image": "http://media5.cdnbase.com/media/files/s1/jb/pv/u-fantotstsi-opyat-nepriyatnos.jpg",
          "action": "https://hye1eaipby4w.takedwn.ws/07_16_20/07/16/03/KKHGXEAJ/QLQ4WZRC.mp4/master.m3u8",
          "properties": {
             "image:extension": "| {col:msx-white}Fourth Item"
