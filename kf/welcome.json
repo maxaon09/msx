@@ -92,6 +92,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/krepkiy_oreshik.json"
       },
       {
+         "titleHeader": "{col:msx-white}ЛЮДИ В ЧЁРНОМ",
+         "description": "Люди в чёрном — серия американских научно-фантастических фильмов, снятая Барри Зонненфельдом и основанная на серии одноимённых комиксов Лоуэлла Каннингема",
+         "backdrop": "https://ic.pics.livejournal.com/ext_3538652/77534429/6195/6195_900.jpg",
+         "image": "https://v1.popcornnews.ru/k2/news/1200/upload/9HVLfE.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/men_in_black.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ФОРСАЖ",
          "description": "«Форса́ж» (англ. The Fast and the Furious; дословный перевод на русский — «Быстрые и яростные») — американская медиафраншиза, состоящая на 2023 год из одиннадцати полнометражных и двух короткометражных фильмов, выпущенных с 2001 по 2023 год Является самой крупной и прибыльной франшизой студии Universal ",
          "backdrop": "https://i1.sndcdn.com/artworks-0xYJ1ET7czcdb6rI-qzVAEA-t500x500.jpg",
