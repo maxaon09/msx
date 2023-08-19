@@ -39,7 +39,7 @@
    "items": [
       {
          "titleHeader": "{col:msx-white}Освобождение",
-         "titleFooter": "Освобождение: Огненная дуга",
+         "titleFooter": "Огненная дуга",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
@@ -56,7 +56,7 @@
       },
       {
          "titleHeader": "{col:msx-white}Освобождение",
-         "titleFooter": "Освобождение: Прорыв",
+         "titleFooter": "Прорыв",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
@@ -73,7 +73,7 @@
       },
       {
          "titleHeader": "{col:msx-white}Освобождение",
-         "titleFooter": "Освобождение: Направление главного удара",
+         "titleFooter": "Направление главного удара",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
@@ -90,7 +90,7 @@
       },
       {
          "titleHeader": "{col:msx-white}Освобождение",
-         "titleFooter": "Освобождение: Битва за Берлин (1971)",
+         "titleFooter": "Битва за Берлин (1971)",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
@@ -107,7 +107,7 @@
       },
       {
          "titleHeader": "{col:msx-white}Освобождение",
-         "titleFooter": "Освобождение: Последний штурм",
+         "titleFooter": "Последний штурм",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
