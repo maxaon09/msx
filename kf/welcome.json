@@ -85,6 +85,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/taxi.json"
       },
       {
+         "titleHeader": "{col:msx-white}КРЕПКИЙ ОРЕШЕК",
+         "description": "«Крепкий орешек» — серия фильмов-боевиков, начавшаяся фильмом «Крепкий орешек» 1988 года. Все пять фильмов сосредоточены на персонаже Джоне Макклейне — нью-йоркском детективе полиции, сражающемся с группами террористов в каждом эпизоде.",
+         "backdrop": "https://m.media-amazon.com/images/M/MV5BMzZkNWI4MjYtODRjZi00YWY4LWJjYWMtZWJkYjExNzFjZmYxXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_FMjpg_UX1000_.jpg",
+         "image": "https://www.kinogallery.com/img/wallpaper/kinogallery.com_Die-Hard_wall_1_1024.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/krepkiy_oreshik.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ФОРСАЖ",
          "description": "«Форса́ж» (англ. The Fast and the Furious; дословный перевод на русский — «Быстрые и яростные») — американская медиафраншиза, состоящая на 2023 год из одиннадцати полнометражных и двух короткометражных фильмов, выпущенных с 2001 по 2023 год Является самой крупной и прибыльной франшизой студии Universal ",
          "backdrop": "https://i1.sndcdn.com/artworks-0xYJ1ET7czcdb6rI-qzVAEA-t500x500.jpg",
