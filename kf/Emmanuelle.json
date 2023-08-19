@@ -62,10 +62,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}Эммануэль 2{col}{br}Во втором фильме знаменитого сериала Эммануэль из прилежной ученицы, усваивающей уроки любви, превращается в неистовую и ненасытную охотницу за наслаждениями.",
-               "image": "https://sun9-44.userapi.com/gfB6xn-NshXyCZq_opUgQhtl7mBNbPosNiOsmg/pvs_JBpdZJI.jpg"
+               "image": "https://cfm.yidio.com/images/movie/172183/backdrop-1280x720.jpg"
             }
          },
-         "image": "https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/3774235-1223234.jpg",
+         "image": "https://cfm.yidio.com/images/movie/172183/backdrop-1280x720.jpg",
          "action": "video:https://hye1eaipby4w.takedwn.ws/01_11_23/01/11/14/7MVXX3D2/SK6HIL36.mp4/master.m3u8",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
@@ -113,10 +113,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}Эммануэль 5{col}{br}Загадочный принц Рашид добивается встречи с Эммануэль после премьеры ее фильма на Каннском кинофестивале и приглашает ее в гости в свой дворец на Карибских островах. Но галантное приглашение Рашида оказывается коварной ловушкой, и Эммануэль становится пленницей в гареме принца,в котором уже томятся 50 красавиц со всего мира.",
-               "image": "https://sun9-72.userapi.com/c851416/v851416666/137232/hDbsBb99Cao.jpg"
+               "image": "https://images.tv-archiv.sk/428/e02d5d8569d40ff7df0c33e875af3692.jpg"
             }
          },
-         "image": "https://sun9-72.userapi.com/c851416/v851416666/137232/hDbsBb99Cao.jpg",
+         "image": "https://images.tv-archiv.sk/428/e02d5d8569d40ff7df0c33e875af3692.jpg",
          "action": "video:https://hye1eaipby4w.takedwn.ws/02_06_20/02/06/14/lCtFJV1D/1080_1tgz2Owf.mp4/master.m3u8 ",
          "properties": {
             "image:extension": "| {col:msx-white}Fifth Item"
