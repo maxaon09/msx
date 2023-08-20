@@ -295,6 +295,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Fantozzi.json"
       },
       {
+         "titleHeader": "{col:msx-white}АНЖЕЛИКА",
+         "description": "«Анжелика» — экранизация серии художественных литературных произведений, рассказывающих об Анжелике, вымышленной красавице-авантюристке XVII века. Романы были написаны Анн Голон под псевдонимом Анн и Серж Голон.",
+         "backdrop": "https://media.extralife.cz/static/img/2020/12/df9455c-62003-profimedia-0174019201.jpg",
+         "image": "https://na-dache.pro/uploads/posts/2021-04/1619566959_65-p-na-uchastke-mishel-merse-anzhelika-markiza-71.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/angelika.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ЭММАНУЭЛЬ",
          "description": "Подборка фильмов об Эммануэль рассказывает о сексуальных похождениях главной героини. Будучи прилежной ученицей, Эммануэль довольно быстро осваивала искусство любви, и страсть постепенно поглощала её целиком, заставляя отправиться на поиски неземных наслаждений.",
          "backdrop": "https://cfm.yidio.com/images/movie/4857/backdrop-640x360.jpg",
