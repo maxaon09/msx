@@ -78,6 +78,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/piraty.json"
       },
       {
+         "titleHeader": "{col:msx-white}КАРИБСКИЙ КРИЗИС",
+         "description": "«Карибский кризис» – наиболее удачный пример смешного перевода, практически весь юмор которого строится на анекдотах различной степени бородатости, но анекдоты эти настолько толково вплетаются в сюжет и помогают раскрыть образы персонажей, что на длину их бородищи уже не обращаешь внимания.",
+         "backdrop": "https://pbs.twimg.com/media/EQVN7TIWoAAKJbX?format=jpg&name=medium",
+         "image": "https://uft.me/wp-content/uploads/2007/06/kk1-fp-p-270x393.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/karibskiy_krizis.json"
+      },   
+      {
          "titleHeader": "{col:msx-white}РЭМБО",
          "description": "«Рэмбо» — медиафраншиза, основанная на серии американских боевиков, выходивших с 1982 по 2019 год. Центральный персонаж фильмов — Джон Рэмбо, ветеран войны во Вьетнаме, специалист по разведке и осуществлению диверсий, выполняющий сверхтрудные миссии в разных странах мира. ",
          "backdrop": "https://images-s.kinorium.com/movie/shot/82584/h280_41638065.jpg",
