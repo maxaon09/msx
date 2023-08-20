@@ -71,6 +71,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/star_wars.json"
       },
       {
+         "titleHeader": "{col:msx-white}КОШМАР НА УЛИЦЕ ВЯЗОВ",
+         "description": "«Кошмар на улице Вязов» — медиафраншиза, основанная на одноимённом фильме-слэшере 1984 года, созданном режиссёром и сценаристом Уэсом Крэйвеном. Сюжет построен вокруг Фредди Крюгера — призрачного маньяка-убийцы являющегося своим жертвам во снах и убивая подростков, живущих в вымышленном городе Спрингвуд.",
+         "backdrop": "https://images.squarespace-cdn.com/content/v1/574f0b9a37013b939ab0b866/1509643231212-B77XCJBJRR1OIY6GEHUY/1084022112.jpg",
+         "image": "https://cultura-yamala.ru/wp-content/uploads/2019/12/98d922bbc39eb478d66a6d6f8ab361d5.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/star_wars.json"
+      },
+      {
          "titleHeader": "{col:msx-white}МУМИЯ",
          "description": "Мумия - приключенческий фильм ужасов медиа-франшиза, основанная на фильмах Universal Pictures о мумифицированном древнеегипетском священнике, который случайно воскрес, принеся с собой мощное проклятие, и последовавших за этим героических попытках археологов остановить его.",
          "backdrop": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/671/931/TheMummy_3488.jpg",
