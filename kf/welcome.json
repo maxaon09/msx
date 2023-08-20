@@ -71,6 +71,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/star_wars.json"
       },
       {
+         "titleHeader": "{col:msx-white}МУМИЯ",
+         "description": "Мумия - приключенческий фильм ужасов медиа-франшиза, основанная на фильмах Universal Pictures о мумифицированном древнеегипетском священнике, который случайно воскрес, принеся с собой мощное проклятие, и последовавших за этим героических попытках археологов остановить его.",
+         "backdrop": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/671/931/TheMummy_3488.jpg",
+         "image": "https://www.1zoom.ru/big/78/24858-maha.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/mumia.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ПИРАТЫ КАРИБСКОГО МОРЯ",
          "description": "«Пираты Карибского моря» — серия приключенческих фильмов о пиратах соединяет воедино и преобразовывают многочисленные мифы, легенды и реальные истории, связанные с кораблями и пиратами. В частности, новый виток приобретает легенда о летучем голландце.",
          "backdrop": "https://img.goodfon.com/original/1400x1050/8/ce/piraty-karibskogo-morya.jpg",
