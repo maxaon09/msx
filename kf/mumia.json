@@ -49,7 +49,7 @@
             }
          },
          "image": "http://images-s.kinorium.com/movie/poster/109217/w1500_50323794.jpg",
-         "action": "https://hye1eaipby4w.takedwn.ws/07_20_23/07/20/04/UBCKLTEM/QVF4TXEV.mp4/master.m3u8",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/07_20_23/07/20/04/UBCKLTEM/QVF4TXEV.mp4/master.m3u8",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
