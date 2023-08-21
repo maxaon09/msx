@@ -351,6 +351,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Fifty_Shades.json"
       },
       {
+         "titleHeader": "{col:msx-white}БЕНДЕР",
+         "description": "Сиквел приключенческой комедии с Сергеем Безруковым. Подхватив цитату о том, что Остап - «сын турецкоподданного», авторы создали свою историю об авантюристе Ибрагиме Бендере и юном Осе Задунайском. ",
+         "backdrop": "https://2.bp.blogspot.com/-TCiLxlfVVWE/VrLmkMdRPcI/AAAAAAAAR_o/qfyiTmZxfj4/s400/Star_wars_return_of_the_jedi-1278919-1920x1080.jpg",
+         "image": "https://img1.hochu.ua/uploads/68/bd/6f/68bd6fa1-451f-44fc-be54-64944b575465.jpeg",
+         "action": "content: https://maxaon09.github.io/msx/kf/star_wars.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ОСВОБОЖДЕНИЕ",
          "description": "«Освобождение» — киноэпопея о Великой Отечественной войне режиссёра Юрия Озерова по сценарию Юрия Бондарева и Оскара Курганова. (1968-1972). Фильм отреставрирован в 2020 году  Группы компьютерной графики Мосфильма.",
          "backdrop": "https://avatars.dzeninfra.ru/get-zen_doc/237236/pub_5aa9ebe548c85e021062cbac_5aa9f4578139baca5e31c1e4/scale_1200",
