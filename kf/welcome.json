@@ -274,6 +274,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Sin_City.json"
       },
       {
+         "titleHeader": "{col:msx-white}БЕЛОСНЕЖКА",
+         "description": " Disney медиа-франшиза основаная на сказке братьев Гримм, написанной в 1812 году, рассказывающей о прекрасной дочери короля, которую приютили в лесу гномы, спасая от гнева злой мачехи, владеющей волшебным зеркалом.",
+         "backdrop": "https://images.kinorium.com/movie/shot/535729/w1500_1296662.jpg",
+         "image": "https://images.kinorium.com/movie/shot/535729/w1500_1296602.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/star_wars.json"
+      },
+      {
          "titleHeader": "{col:msx-white}Сумерки",
          "description": "Сумерки - серия романтических фантастических фильмов, основанных на серии книг Сумерки Стефани Майер.",
          "backdrop": "https://pbs.twimg.com/media/FEAxjSZXIAIeaYb.jpg",
