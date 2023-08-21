@@ -260,6 +260,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/The_Predator.json"
       },
       {
+         "titleHeader": "{col:msx-white}БЕЗУМНЫЙ МАКС",
+         "description": "Безумный Макс (англ. Mad Max) — австралийская медиафраншиза в жанре постапокалиптики, созданная Джорджем Миллером и Байроном Кеннеди. В первых трех фильмах в главной роли снялся Мел Гибсон, в четвёртом — Том Харди.",
+         "backdrop": "https://2.bp.blogspot.com/-TCiLxlfVVWE/VrLmkMdRPcI/AAAAAAAAR_o/qfyiTmZxfj4/s400/Star_wars_return_of_the_jedi-1278919-1920x1080.jpg",
+         "image": "https://img1.hochu.ua/uploads/68/bd/6f/68bd6fa1-451f-44fc-be54-64944b575465.jpeg",
+         "action": "content: https://maxaon09.github.io/msx/kf/star_wars.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ГОРОД ГРЕХОВ",
          "description": "«Город грехов» — криминальный триллер, экранизация в стиле нуар четырёх графических романов Фрэнка Миллера из цикла «Город грехов», поставленная режиссёром Робертом Родригесом совместно с самим Миллером.",
          "backdrop": "https://images.squarespace-cdn.com/content/v1/56d8580027d4bd2dbfc4e0fd/1457981577735-GG0Z3IE1B0O3A1A4U97Z/IMG_9218.jpg?format=1500w",
