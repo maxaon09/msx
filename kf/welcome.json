@@ -281,6 +281,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/belosnezka.json"
       },
       {
+         "titleHeader": "{col:msx-white}МАЛЕФИСЕНТА",
+         "description": "Серия фильмов черпает вдохновение из классического анимационного фильма «Спящая красавица», но с точки зрения злодейки Малефисенты, где она адаптирована как защитница и самая могущественная фея Вересковых пустошей",
+         "backdrop": "https://img.gazeta.ru/files3/804/12758804/mal-pic4_zoom-1500x1500-1355.jpg",
+         "image": "https://phonoteka.top/uploads/posts/2022-09/1663328765_32-phonoteka-org-p-malefisenta-art-oboi-35.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/malifesenta.json"
+      },
+      {
          "titleHeader": "{col:msx-white}Сумерки",
          "description": "Сумерки - серия романтических фантастических фильмов, основанных на серии книг Сумерки Стефани Майер.",
          "backdrop": "https://pbs.twimg.com/media/FEAxjSZXIAIeaYb.jpg",
