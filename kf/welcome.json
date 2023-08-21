@@ -21,7 +21,7 @@
    },
    "template": {
       "type": "default",
-      "layout": "0,0,4,3",
+      "layout": "0,0,3,3",
       "area": "0,3,12,3",
       "wrapperColor": "msx-glass",
       "imageHeight": 1.83,
