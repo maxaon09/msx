@@ -338,6 +338,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/p_academy.json"
       },
       {
+         "titleHeader": "{col:msx-white}НАЗАД В БУДУЩЕЕ",
+         "description": "«Назад в будущее» — научно-фантастическая трилогия о путешествиях во времени, описывающая альтернативные реальности вымышленного городка Хилл-Вэлли в Калифорнии и нескольких проживающих там семей. В центре событий — подросток Марти МакФлай, который случайно перемещается на машине времени. Вернуться домой мальчику помогает изобретатель Эмметт Браун — создатель машины времени.",
+         "backdrop": "https://images.bauerhosting.com/legacy/empire-images/features/560ec11c50e6c513721c392a/back-to-the-future-still.jpg?format=jpg&amp;quality=80&amp;width=960&amp;height=540&amp;ratio=16-9&amp;resize=aspectfill",
+         "image": "https://www.giantfreakinrobot.com/wp-content/uploads/2020/10/back-to-the-future-the-musical.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Back_Future.json"
+      },
+      {
          "titleHeader": "{col:msx-white}НОЧЬ В МУЗЕЕ",
          "description": "«Ночь в музее» — американская семейная комедия, сочетающая в себе приключения и фэнтези. Фильм снят по роману М. Тренка.",
          "backdrop": "https://srv1.mytv.bg/i/tv/m3/m3sun8i21wwu_big.jpg",
