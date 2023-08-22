@@ -225,6 +225,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/transformers.json"
       },
       {
+         "titleHeader": "{col:msx-white}ЛЮДИ ИКС",
+         "description": "«Люди Икс» — серия супергеройских фильмов про людей, обладающих невероятными силами, основанная на одноимённых комиксах компании Marvel Comics.",
+         "backdrop": "https://pbs.twimg.com/media/FJNgggiXIAITR5N.jpg",
+         "image": "https://pbs.twimg.com/media/CfDnKtfW4AArzpD.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/ludi_x.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ФАНТАСТИЧЕСКАЯ ЧЕТВЕРКА",
          "description": "Динамичные фантастические картины о четырёх героях на страже планеты",
          "backdrop": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/02/24/09/ioan-gruffudd-fantastic-four.jpg?quality=75&width=1200&auto=webp",
