@@ -232,6 +232,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/ludi_x.json"
       },
       {
+         "titleHeader": "{col:msx-white}МСТИТЕЛИ",
+         "description": "Мстители - команда вымышленных супергероев и главных героев медиа-франшизы Marvel Cinematic Universe (MCU). Основанная директором «Щ.И.Т.А» Ником Фьюри, команда представляет собой организацию состоящую в основном из наделенных сверхспособностями и одаренных «Мстителей», которые привержены защите мира от различных угроз.",
+         "backdrop": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/10/25/09/avengers-age-of-ultron.jpg",
+         "image": "https://images.hdqwalls.com/download/captain-america-original-poster-1920x1200.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/star_wars.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ФАНТАСТИЧЕСКАЯ ЧЕТВЕРКА",
          "description": "Динамичные фантастические картины о четырёх героях на страже планеты",
          "backdrop": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/02/24/09/ioan-gruffudd-fantastic-four.jpg?quality=75&width=1200&auto=webp",
