@@ -202,7 +202,7 @@
          "description": "«Джон Уик» — американская медиафраншиза основана на киносерии из четырёх боевиков, которые рассказывают историю одноимённого наёмного убийцы в отставке.",
          "backdrop": "https://pbs.twimg.com/media/Fdi4PclakAEOZIS?format=jpg&name=small",
          "image": "https://gamebomb.ru/files/galleries/001/3/3c/393404.jpg",
-         "action": "content: https://maxaon09.github.io/msx/multiki/multfilmy.json"
+         "action": "content: https://maxaon09.github.io/msx/kf/John_Wick.json"
       },
       {
          "titleHeader": "{col:msx-white}ДЖЕЙСОН БОРН",
