@@ -275,6 +275,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/shazam.json"
       },
       {
+         "titleHeader": "{col:msx-white}ЧЁРНАЯ ПАНТЕРА",
+         "description": "«Чёрная пантера» — американский супергеройский фильм 2018 года, основанный на комиксах Стэна Ли и Джека Кирби об одноимённом персонаже издательства Marvel Comics.",
+         "backdrop": "https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/08/Ayo-Black-Panther.jpg",
+         "image": "https://images.hdqwalls.com/download/black-panther-theatre-poster-4k-js-2048x1152.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Black_Panther.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ГОЛОДНЫЕ ИГРЫ",
          "description": "Серия фильмов «Голодные игры» состоит из научно-фантастических антиутопических приключенческих фильмов, основанных на трилогии романов «Голодные игры» американской писательницы Сюзанны Коллинз. Фильмы распространяются компанией Lionsgate и продюсируются Ниной Джейкобсон и Джоном Киликом.",
          "backdrop": "https://avatars.dzeninfra.ru/get-zen_doc/3431006/pub_600173f0dc0ac42b28714a74_6001743f4e913f1758f26cac/scale_1200",
