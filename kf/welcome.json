@@ -190,6 +190,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/I_ Jones.json"
       },
       {
+         "titleHeader": "{col:msx-white}ВЕЛИКИЙ УРАВНИТЕЛЬ",
+         "description": "«Великий уравнитель» — боевик продюсера Антуана Фукуа по сценарию Ричарда Уэнка, основанный на одноимённом телесериале. В главной роли — Дензел Вашингтон,",
+         "backdrop": "https://m.media-amazon.com/images/M/MV5BZjE2NDc3MmEtODlkOS00MjRmLWEzZGQtNDY3ZDgzNzcxMjQ0XkEyXkFqcGdeQXVyNzU3Nzk4MDQ@._V1_.jpg",
+         "image": "https://www.proprofs.com/api/ckeditor_images/theequalizer.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Equalizer.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ДЖЕЙСОН БОРН",
          "description": "«Джейсон Борн» — серия фильмов-боевиков выпущенных с 2002 по 2016 год, основанная на романах Роберта Ладлэма о Джейсоне Борне — бывшем сотруднике ЦРУ и профессиональном убийце, потерявшем память.",
          "backdrop": "https://s1.dmcdn.net/v/DdouY1ZlUP5aLepas/640x360",
