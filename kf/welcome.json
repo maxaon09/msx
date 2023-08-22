@@ -197,6 +197,14 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Equalizer.json"
       },
       {
+         "titleHeader": "{col:msx-white}ДЖОН УИК",
+         "titleFooter": "",
+         "description": "«Джон Уик» — американская медиафраншиза основана на киносерии из четырёх боевиков, которые рассказывают историю одноимённого наёмного убийцы в отставке.",
+         "backdrop": "https://pbs.twimg.com/media/Fdi4PclakAEOZIS?format=jpg&name=small",
+         "image": "https://gamebomb.ru/files/galleries/001/3/3c/393404.jpg",
+         "action": "content: https://maxaon09.github.io/msx/multiki/multfilmy.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ДЖЕЙСОН БОРН",
          "description": "«Джейсон Борн» — серия фильмов-боевиков выпущенных с 2002 по 2016 год, основанная на романах Роберта Ладлэма о Джейсоне Борне — бывшем сотруднике ЦРУ и профессиональном убийце, потерявшем память.",
          "backdrop": "https://s1.dmcdn.net/v/DdouY1ZlUP5aLepas/640x360",
