@@ -261,6 +261,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Fantastic_Four.json"
       },
       {
+         "titleHeader": "{col:msx-white}ШАЗАМ!",
+         "description": "«Шазам! супергеройский фильм основанный на одноименном персонаже из DC Comics. Это седьмая часть в Расширенной вселенной DC и распространяемая Warner Bros Pictures.  Фильм рассказывает о подростке Билли Бэтсоне, которого древний волшебник Шазам выбрал своим новым чемпионом, что позволило ему превратиться во взрослого супергероя с различными сверхспособностями. ",
+         "backdrop": "https://pbs.twimg.com/media/D0F_-m_U0AA11AJ?format=jpg&name=4096x4096",
+         "image": "https://img5.goodfon.ru/wallpaper/nbig/5/f8/geroi-kostium-hero-dc-comics-shazam-shazam-dc-2019-billi-b-1.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/shazam.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ГОЛОДНЫЕ ИГРЫ",
          "description": "Серия фильмов «Голодные игры» состоит из научно-фантастических антиутопических приключенческих фильмов, основанных на трилогии романов «Голодные игры» американской писательницы Сюзанны Коллинз. Фильмы распространяются компанией Lionsgate и продюсируются Ниной Джейкобсон и Джоном Киликом.",
          "backdrop": "https://avatars.dzeninfra.ru/get-zen_doc/3431006/pub_600173f0dc0ac42b28714a74_6001743f4e913f1758f26cac/scale_1200",
