@@ -85,6 +85,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/vostavshiy_iz_ada.json"
       },
       {
+         "titleHeader": "{col:msx-white}СПУСК",
+         "description": "«Спуск» — британский фильм ужасов режиссёра Нила Маршалла. Фильм рассказывает о компании девушек, спустившихся в пещеру. Малобюджетная картина собрала в мировом прокате более 57 млн долларов, став лауреатом премии «Сатурн» 2007 года в номинации «лучший фильм ужасов»",
+         "backdrop": "https://images.kinorium.com/movie/shot/331222/w1500_48522544.jpg",
+         "image": "https://m.media-amazon.com/images/M/MV5BMTI3MDkyMDA2OF5BMl5BanBnXkFtZTcwMTc3ODIzMw@@._V1_.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/spusk.json"
+      },
+      {
          "titleHeader": "{col:msx-white}МУМИЯ",
          "description": "Мумия - приключенческий фильм ужасов медиа-франшиза, основанная на фильмах Universal Pictures о мумифицированном древнеегипетском священнике, который случайно воскрес, принеся с собой мощное проклятие, и последовавших за этим героических попытках археологов остановить его.",
          "backdrop": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/671/931/TheMummy_3488.jpg",
