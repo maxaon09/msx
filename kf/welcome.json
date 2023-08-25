@@ -436,6 +436,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/malchishnik.json"
       },
       {
+         "titleHeader": "{col:msx-white}ДОМ С ПАРОНОРМАЛЬНЫМИ ЯВЛЕНИЯМИ",
+         "description": "Злой дух терроризирует семейную пару. Хулиганская пародия на псевдодокументальные хорроры с Марлоном Уайансом.",
+         "backdrop": "https://images.kinorium.com/movie/shot/698256/w1500_1273411.jpg",
+         "image": "https://www.filmfutter.com/wp-content/uploads/2013/12/GhostMovie2Reaktion-1024x576.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Haunted_House.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ОДИН ДОМА",
          "description": "«Один дома» — американская рождественская комедийная медиафраншиза, появившаяся на волне успеха первых двух семейно-комедийных фильмов серии: «Один дома» (1990) и «Один дома 2: Потерявшийся в Нью-Йорке» (1992), созданных кинорежиссёром Джоном Хьюзом и его кинокомпанией Hughes Entertainment",
          "backdrop": "https://www.novochag.ru/upload/img_cache/a3a/a3ace48147724509193a1e76f7252738_ce_1155x798x0x0_cropped_1332x888.jpg",
