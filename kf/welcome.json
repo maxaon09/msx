@@ -394,6 +394,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/gandarm.json"
       },
       {
+         "titleHeader": "{col:msx-white}ФАНТОМАС",
+         "description": "Фантома́с (человек-фантом) — вымышленный персонаж, гениальный преступник, скрывающий своё лицо, один из наиболее известных антигероев французской литературы и кино. Фантомас наиболее известен по комедийной кинотрилогии Андре Юнебеля с Луи де Фюнесом в роли комиссара Жюва и Жаном Маре в роли Фантомаса и журналиста Фандора.",
+         "backdrop": "https://images.kinorium.com/movie/shot/56644/w1500_335612.jpg",
+         "image": "https://cdn.fishki.net/upload/post/2020/04/26/3300148/1-f.png",
+         "action": "content: https://maxaon09.github.io/msx/kf/fantomas.json"
+      },
+      {
          "titleHeader": "{col:msx-white}АНЖЕЛИКА",
          "description": "«Анжелика» — экранизация серии художественных литературных произведений, рассказывающих об Анжелике, вымышленной красавице-авантюристке XVII века. Романы были написаны Анн Голон под псевдонимом Анн и Серж Голон.",
          "backdrop": "https://media.extralife.cz/static/img/2020/12/df9455c-62003-profimedia-0174019201.jpg",
