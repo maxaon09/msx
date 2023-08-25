@@ -92,6 +92,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/spusk.json"
       },
       {
+         "titleHeader": "{col:msx-white}У ХОЛМОВ ЕСТЬ ГЛАЗА",
+         "description": "Ремейк одноименного фильма Уэса Крейвена. Фильм рассказывает о семье, на которую нападает группа мутантов-каннибалов после того, как их машина ломается в пустыне.",
+         "backdrop": "https://images.kinorium.com/movie/shot/82027/w1500_38629154.jpg",
+         "image": "https://www.justwatch.com/images/backdrop/197910190/s1440/the-hills-have-eyes",
+         "action": "content: https://maxaon09.github.io/msx/kf/The-Hills-Have-Eyes.json"
+      },
+      {
          "titleHeader": "{col:msx-white}МУМИЯ",
          "description": "Мумия - приключенческий фильм ужасов медиа-франшиза, основанная на фильмах Universal Pictures о мумифицированном древнеегипетском священнике, который случайно воскрес, принеся с собой мощное проклятие, и последовавших за этим героических попытках археологов остановить его.",
          "backdrop": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/671/931/TheMummy_3488.jpg",
