@@ -415,6 +415,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/noch_v_muzee.json"
       },
       {
+         "titleHeader": "{col:msx-white}МАЛЬЧИШНИК В ВЕГАСЕ",
+         "description": "«Мальчишник в Вегасе» – это невероятно изобретательная и действительно смешная комедия о том, как взрослые мальчики умудряются вместо безобидной вечеринки устроить настоящий цирк с конями (ну или с тигром). Без сомнений, данная франшиза является лучшей в своём жанре. ",
+         "backdrop": "https://pbs.twimg.com/media/E0-YLHBXEAAGoBU?format=jpg&name=large",
+         "image": "https://cdn.mensagenscomamor.com/content/images/m000440812.jpg?v=1&w=973&h=726",
+         "action": "content: https://maxaon09.github.io/msx/kf/malchishnik.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ОДИН ДОМА",
          "description": "«Один дома» — американская рождественская комедийная медиафраншиза, появившаяся на волне успеха первых двух семейно-комедийных фильмов серии: «Один дома» (1990) и «Один дома 2: Потерявшийся в Нью-Йорке» (1992), созданных кинорежиссёром Джоном Хьюзом и его кинокомпанией Hughes Entertainment",
          "backdrop": "https://www.novochag.ru/upload/img_cache/a3a/a3ace48147724509193a1e76f7252738_ce_1155x798x0x0_cropped_1332x888.jpg",
