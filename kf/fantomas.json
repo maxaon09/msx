@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "ФАНТОМАС",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Фантомас",
+         "titleFooter": "Фантомас",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Фантомас (1964){col}{br}Париж потрясен сенсационными и дерзкими преступлениями, совершенными таинственным злодеем по имени Фантомас. На его поимку брошены все силы полиции, но Фантомас практически неуловим - он все время меняет облик, ловко ускользая из рук правосудия. Напасть на его след удается только комиссару Жюву",
+               "image": "https://papik.pro/uploads/posts/2022-03/1646588694_27-papik-pro-p-fantomas-poster-27.jpg"
+            }
+         },
+         "image": "https://papik.pro/uploads/posts/2022-03/1646588694_27-papik-pro-p-fantomas-poster-27.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/07_09_20/07/09/12/PUBHX25R/SBHKCH24.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Фантомас разбушевался",
+         "titleFooter": "Фантомас разбушевался",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Фантомас разбушевался (1965){col}{br}Фандор, выдавая себя за профессора, едет в Рим и... попадает прямо в руки Фантомаса. Спеша на выручку, Жюв и Элен сами попадают в ловушку. Теперь приходится думать, как спасаться самим и сбежать из логова Фантомаса.",
+               "image": "https://funart.top/uploads/posts/2020-09/thumbs/1599156568_10-p-fantomas-film-35.jpg"
+            }
+         },
+         "image": "https://funart.top/uploads/posts/2020-09/thumbs/1599156568_10-p-fantomas-film-35.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/07_08_20/07/08/06/5UZEIDG6/BOGJXQO3.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Фантомас",
+         "titleFooter": "Фантомас против Скотланд-Ярда",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Фантомас против Скотланд-Ярда (1966){col}{br} Комиссар Жюв со своими верными друзьями, Фандором и Элен, прибывает в шотландский замок для того, чтобы встать на защиту его владельца и снова попытаться поймать Фантомаса.",
+               "image": "https://kinolorber.com/media_cache/images/filmgalleryfull/FantomasAgainstScotlandYard_Still_1.jpg"
+            }
+         },
+         "image": "https://kinolorber.com/media_cache/images/filmgalleryfull/FantomasAgainstScotlandYard_Still_1.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/07_11_20/07/11/06/P6DMJK5K/Q4VVCCBT.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      }
+   ]
+}
