@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "Я ПЛЮЮ НА ВАШИ МОГИЛЫ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Я плюю на ваши могилы",
+         "titleFooter": "Я плюю на ваши могилы",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Я плюю на ваши могилы (2010){col}{br}Молодая писательница Дженнифер снимает домик в глухом лесу, чтобы в уединении написать роман. Но издатель не дождется нового бестселлера… Четверо местных отморозков жестоко насилуют девушку и обрекают ее на мучительную смерть. Но Дженнифер сумела выжить и теперь ее единственная цель – месть.",
+               "image": "https://filma4.ru/public/upload/cover/large-cover-i-spit-on-your-grave-2.webp"
+            }
+         },
+         "image": "https://filma4.ru/public/upload/cover/large-cover-i-spit-on-your-grave-2.webp",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/06_26_20/06/26/23/JGX2SYSK/DBJE4YJE.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white} плюю на ваши могилы",
+         "titleFooter": " плюю на ваши могилы 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white} плюю на ваши могилы 2 (2013){col}{br}Кэти только что переехала в Нью-Йорк, чтобы сделать карьеру модели. Но мечты о роскошной жизни разбиваются: ее насилуют, пытают, похищают и увозят в непонятном направлении. Кэти оказывается одна в чужой стране, где ее почти что похоронят заживо. Чудом избежав смерти, девушка решает жестоко отомстить обидчикам…",
+               "image": "https://wallpapercave.com/wp/wp10122537.jpg"
+            }
+         },
+         "image": "https://wallpapercave.com/wp/wp10122537.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/11_14_19/11/14/17/LrixAx04/1080_IdQxy7Q1.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Я плюю на ваши могилы",
+         "titleFooter": "Я плюю на ваши могилы 3",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Я плюю на ваши могилы 3 (2015){col}{br}Главная героиня фильма, писательница Дженнифер Хиллз, начала новую жизнь. Она посещает психотерапевта и кризисную группу для жертв изнасилований. В группе она знакомится с бойкой и яркой девушкой, которая убеждает её, что месть - это и есть правосудие.",
+               "image": "https://i.ytimg.com/vi/EbM23G3Xhgc/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/EbM23G3Xhgc/maxresdefault.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/11_12_19/11/12/13/5BOg8D0z/1080_Eh9PAvpY.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}
