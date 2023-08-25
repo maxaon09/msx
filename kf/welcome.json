@@ -282,6 +282,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/transformers.json"
       },
       {
+         "titleHeader": "{col:msx-white}РОБОКОП",
+         "description": "«Робокоп» — американская супергеройская франшиза, представляющая футуристические приключения робота-полицейского Алекса Мёрфи, офицера Детройта который погибает на задании и теряет свою коллегу Энн Льюис , а затем получает киборгизированное тело от корпорации превращаясь в Робокопа. Мёрфи сражается как с преступлениями в городе, так и с самой корпорацией.",
+         "backdrop": "https://images.squarespace-cdn.com/content/51b3dc8ee4b051b96ceb10de/1400082865046-GH59T5EFTKOBA904JSHI/phenomenal-poster-art-for-robocop-and-the-thing3?content-type=image%2Fjpeg",
+         "image": "https://avatars.dzeninfra.ru/get-zen_doc/4219899/pub_607bcab63d51355a00b6bdb5_607bcacb4e4db437d93baea0/scale_1200",
+         "action": "content: https://maxaon09.github.io/msx/kf/venom.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ЛЮДИ ИКС",
          "description": "«Люди Икс» — серия супергеройских фильмов про людей, обладающих невероятными силами, основанная на одноимённых комиксах компании Marvel Comics.",
          "backdrop": "https://pbs.twimg.com/media/FJNgggiXIAITR5N.jpg",
