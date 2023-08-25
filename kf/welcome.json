@@ -106,6 +106,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/mumia.json"
       },
       {
+         "titleHeader": "{col:msx-white}ИЛЛЮЗИЯ ОБМАНА",
+         "description": "Иллюзия обмана - это увлекательная история об уличных фокусниках, чье мастерство вышло далеко за рамки небольших шоу перед случайными прохожими.",
+         "backdrop": "https://cdn.kino.ru/images/originals/99/17.jpg",
+         "image": "https://sneg.top/uploads/posts/2023-03/thumbs/1680198978_sneg-top-p-illyuziya-obmana-oboi-na-telefon-vkontakte-29.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/illuzia_obmana.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ПИРАТЫ КАРИБСКОГО МОРЯ",
          "description": "«Пираты Карибского моря» — серия приключенческих фильмов о пиратах соединяет воедино и преобразовывают многочисленные мифы, легенды и реальные истории, связанные с кораблями и пиратами. В частности, новый виток приобретает легенда о летучем голландце.",
          "backdrop": "https://img.goodfon.com/original/1400x1050/8/ce/piraty-karibskogo-morya.jpg",
