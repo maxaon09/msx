@@ -394,6 +394,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Twilight.json"
       },
       {
+         "titleHeader": "{col:msx-white}ПОСЛЕ",
+         "description": "«После» — серия фильмов, которая состоит из романтических драм, основанных на романах «После». Сюжет сосредоточен вокруг положительных и отрицательных переживаний романтических отношений между молодой парой по имени Тесса и Хардин. В ходе ухаживаний пара преодолевает различные разногласия, укрепляя планы совместного построения будущего. ",
+         "backdrop": "https://cdn.justjaredjr.com/wp-content/uploads/headlines/2022/09/hessa-favorite.jpg",
+         "image": "https://pic.rutubelist.ru/video/fe/52/fe52d64ececf8f0d9ffeb57d9688377e.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/after.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ПОЛИЦЕЙСКАЯ АКАДЕМИЯ",
          "description": "Полицейская академия — одна из самых успешных кинофраншиз в истории Голливуда. В фильме рассказывается о группе новобранцев-неудачников, пытающихся доказать, что они способны быть полицейскими, и добиться успеха как вопреки, так и благодаря своей эксцентричности.",
          "backdrop": "https://artworks.thetvdb.com/banners/v4/series/76516/backgrounds/62519d3ada855.jpg",
