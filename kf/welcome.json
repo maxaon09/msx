@@ -436,6 +436,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/malchishnik.json"
       },
       {
+         "titleHeader": "{col:msx-white}АГЕНТ ДЖОНИ ИНГЛИШ",
+         "description": "Джонни Инглиш - серия шпионских комедийных боевиков, пародирующих Джеймса Бонда секретного агента. В фильме главную роль играет Роуэн Аткинсон. Сериал наполнен комедийностью, подобной характеру мистера Бина Аткинсона",
+         "backdrop": "https://avatars.dzeninfra.ru/get-zen_doc/3855260/pub_61f24eca3b51c31e4a6499ae_61f259ff91d5c155b30bd58a/scale_1200",
+         "image": "https://2.bp.blogspot.com/-4UgURrSfHlQ/TnGpExMsplI/AAAAAAAAAcI/7mqsRh8uOvg/w1200-h630-p-k-no-nu/JER_HIRES.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Johnny_English.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ДОМ С ПАРОНОРМАЛЬНЫМИ ЯВЛЕНИЯМИ",
          "description": "Злой дух терроризирует семейную пару. Хулиганская пародия на псевдодокументальные хорроры с Марлоном Уайансом.",
          "backdrop": "https://images.kinorium.com/movie/shot/698256/w1500_1273411.jpg",
