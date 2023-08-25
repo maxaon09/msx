@@ -387,6 +387,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Fantozzi.json"
       },
       {
+         "titleHeader": "{col:msx-white}ЖАНДАРМ ИЗ СЕН-ТРОПЕ",
+         "description": " C «Жандарма из Сен-Тропе» началась франшиза. Де Фюнес прекрасен, жандармы забавны, сюжет прост и наивен. Главное в этом фильме - все та же атмосфера беззаботных 60-х, когда даже правонарушители комичны и не страшны. Лето, солнце, море, музыка. ",
+         "backdrop": "https://ic.pics.livejournal.com/kino_sssr/16375461/259867/259867_original.jpg",
+         "image": "https://stuki-druki.com/film/images/kadr-zhandarm-iz-sen-trope-05.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/gandarm.json"
+      },
+      {
          "titleHeader": "{col:msx-white}АНЖЕЛИКА",
          "description": "«Анжелика» — экранизация серии художественных литературных произведений, рассказывающих об Анжелике, вымышленной красавице-авантюристке XVII века. Романы были написаны Анн Голон под псевдонимом Анн и Серж Голон.",
          "backdrop": "https://media.extralife.cz/static/img/2020/12/df9455c-62003-profimedia-0174019201.jpg",
