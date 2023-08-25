@@ -1,0 +1,75 @@
+{
+   "type": "list",
+   "headline": "ИЛЛЮЗИЯ ОБМАНА",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Иллюзия обмана",
+         "titleFooter": "Иллюзия обмана",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Иллюзия обмана (2013){col}{br}Команда лучших иллюзионистов мира проворачивает дерзкие ограбления прямо во время своих шоу, играя в кошки-мышки с агентами ФБР.",
+               "image": "https://www.kinogallery.com/images/now-you-see-me/kinogallery.com-now-you-see-me-277580.jpg"
+            }
+         },
+         "image": "https://www.kinogallery.com/images/now-you-see-me/kinogallery.com-now-you-see-me-277580.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/02_09_23/02/09/07/MPJOYENC/QRDXE5KD.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Иллюзия обмана",
+         "titleFooter": "Иллюзия обмана 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Иллюзия обмана 2 (2016){col}{br}«Четыре всадника», команда лучших иллюзионистов мира, снова в сборе! Их «магия» стала еще совершеннее, а враги – опаснее. На сей раз им предстоит спасти свою репутацию и вывести на чистую воду жестокого техномагната…",
+               "image": "https://i.ytimg.com/vi/E5JIQXSCgyM/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/E5JIQXSCgyM/maxresdefault.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/02_08_23/02/08/14/E2XOAY6J/H2NHUI5Y.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}
