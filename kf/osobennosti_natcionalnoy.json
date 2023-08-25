@@ -1,0 +1,143 @@
+{
+   "type": "list",
+   "headline": "ОСОБЕННОСТИ НАЦИОНАЛЬНОЙ ОХОТЫ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Особенности национальной охоты",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Особенности национальной охоты (1995){col}{br}Молодой финский специалист по охоте, «финик», уговаривает своего русского друга помочь ему поучаствовать в настоящей русской охоте, дабы познакомиться с нравами и привычками русских охотников.",
+               "image": "https://static.okko.tv/images/v2/7947726?presetId=4000&amp;width=NaN&amp;scale=1&amp;quality=80"
+            }
+         },
+         "image": "https://static.okko.tv/images/v2/7947726?presetId=4000&amp;width=NaN&amp;scale=1&amp;quality=80",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/07_19_21/07/19/18/E3CLLXGG/LMVJKH7E.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Операция «С новым годом»",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Операция «С новым годом» (1996){col}{br}В канун Нового года в отделение травмы при разных обстоятельствах попадают несколько человек, включая генерала. Из женского отделения приглашаются травмированные дамы, на территории выкапывается и наряжается ёлка, появляется милиционер с задержанным, проглотившим медаль блюстителя закона.",
+               "image": "https://4s-info.ru/wp-content/uploads/sites/2/2021/12/Operatsiya-s-Novym-godom.jpg"
+            }
+         },
+         "image": "https://4s-info.ru/wp-content/uploads/sites/2/2021/12/Operatsiya-s-Novym-godom.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/12_21_22/12/21/00/NJQSPSNG/NHG4JMLM.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Особенности национальной рыбалки",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Особенности национальной рыбалки (1998){col}{br}Компания старых приятелей, достойно выдержавших испытание национальной охотой, вновь собирается вместе - на сей раз для того, чтобы культурно отдохнуть под видом рыбной ловли. В разгар веселья друзья узнают, что, сами того не ведая, пересекли государственную границу и отдыхают уже в Финляндии",
+               "image": "https://pic.uma.media/pic/cardimage/5f/e9/5fe92acc68000ac396d3fe8920f4058a.jpg"
+            }
+         },
+         "image": "https://pic.uma.media/pic/cardimage/5f/e9/5fe92acc68000ac396d3fe8920f4058a.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/07_19_21/07/19/17/IMKFCH63/A7P6QZB7.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Особенности национальной охоты",
+         "titleFooter": "в зимний период",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Особенности национальной охоты в зимний период (2000){col}{br}В провинции Фуцзян жил один человек по имени Ху Чжоу, и был он величайшим охотником. Не было ему равных во всей Поднебесной. Любого зверя или птицу мог изловить. Передал он свои знания людям, но никого не мог назвать своим учеником... А на 13-м кордоне у Кузьмича все было спокойно. Пока не пожаловали к нему гости. С проверкой.",
+               "image": "https://data-vyhoda.ru/wp-content/uploads/2020/02/2020-02-20_18-50-48.jpg"
+            }
+         },
+         "image": "https://data-vyhoda.ru/wp-content/uploads/2020/02/2020-02-20_18-50-48.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/07_19_21/07/19/18/4O3OLCAG/MFOKR2SM.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Особенности национальной политики",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Особенности национальной политики (2003){col}{br}Генерал Иволгин баллотируется на ответственный пост. Высокие рейтинги неизвестно откуда взявшегося наглого соперника приводят в замешательство конкурентов.",
+               "image": https://pbs.twimg.com/media/D3OvAwwXkAAC_I_.jpg:large"
+            }
+         },
+         "image": "https://pbs.twimg.com/media/D3OvAwwXkAAC_I_.jpg:large",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/07_19_21/07/19/17/S64MUWMP/I73FSWZC.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Особенности национальной ",
+         "titleFooter": "подледной ловли, или Отрыв по полной",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Особенности национальной подледной ловли, или Отрыв по полной (2007){col}{br}Два закадычных друга Зиновий и Толян во время подлёдной рыбной ловли случайно оказываются на небольшой льдине, дрейфующей в открытое море. Ни мобильников, ни радиостанций, ни людей, только старенькая Нива с горе-рыбаками на плавучем острове.",
+               "image": "https://i.ytimg.com/vi/5U2S0aEM--M/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/5U2S0aEM--M/maxresdefault.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/07_19_21/07/19/16/ANYP5WSD/GTJDBXFP.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}
