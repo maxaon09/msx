@@ -373,6 +373,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/noch_v_muzee.json"
       },
       {
+         "titleHeader": "{col:msx-white}ОДИН ДОМА",
+         "description": "«Один дома» — американская рождественская комедийная медиафраншиза, появившаяся на волне успеха первых двух семейно-комедийных фильмов серии: «Один дома» (1990) и «Один дома 2: Потерявшийся в Нью-Йорке» (1992), созданных кинорежиссёром Джоном Хьюзом и его кинокомпанией Hughes Entertainment",
+         "backdrop": "https://www.novochag.ru/upload/img_cache/a3a/a3ace48147724509193a1e76f7252738_ce_1155x798x0x0_cropped_1332x888.jpg",
+         "image": "https://w.forfun.com/fetch/d2/d2c9a6e5e4fcbae0a2653b9ef18ee3a9.jpeg",
+         "action": "content: https://maxaon09.github.io/msx/kf/odin_doma.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ФАНТОЦЦИ",
          "description": "Уго Фантоцци — невезучий бухгалтер, вечно попадающий в различные приключения и неприятности. Персонаж был придуман итальянским комиком Паоло Вилладжо, который лично исполнил роль клерка во всех проектах, выходивших на протяжении 25 лет. Подборка фильмов про Фантоцци.",
          "backdrop": "https://movieplayer.net-cdn.it/t/images/2022/12/30/paolo-villaggio-migliori-film-carriera_jpg_1200x0_crop_q85.jpg",
