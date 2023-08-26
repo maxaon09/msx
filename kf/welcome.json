@@ -443,6 +443,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/noch_v_muzee.json"
       },
       {
+         "titleHeader": "{col:msx-white}Эйс Вентура",
+         "description": "Детектива со странной прической и специфическим чувством юмора забыть сложно. Для него не имеет значения, что о нем думают настоящие полицейские. Поиск пропавших животных – его стихия. Эйс Вентура не раз докажет, что в этом деле он лучший. ",
+         "backdrop": "https://i.ibb.co/2Y9pbzz/vlcsnap-2020-07-10-18h18m48s419.png",
+         "image": "https://i.ytimg.com/vi/bnt_1IYa0hw/maxresdefault.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Ace_Ventura.json"
+      },
+      {
          "titleHeader": "{col:msx-white}МАЛЬЧИШНИК В ВЕГАСЕ",
          "description": "«Мальчишник в Вегасе» – это невероятно изобретательная и действительно смешная комедия о том, как взрослые мальчики умудряются вместо безобидной вечеринки устроить настоящий цирк с конями (ну или с тигром). Без сомнений, данная франшиза является лучшей в своём жанре. ",
          "backdrop": "https://pbs.twimg.com/media/E0-YLHBXEAAGoBU?format=jpg&name=large",
