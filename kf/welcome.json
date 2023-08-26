@@ -576,6 +576,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/posledniy_bogatir.json"
       },
       {
+         "titleHeader": "{col:msx-white}ЁЛКИ",
+         "description": "Ёлки — российская новогодняя комедийная серия фильмов, фильмы которой, в большинстве, созданы для кинотеатрального проката. Cоздатели пытались изобрести рецепт нового Нового года Без Лукашина, но с оливье, старой сказкой о вечном, возвращении добрых дел и позаимствованной у Рязанова идеей о том, что Новый год — самое время для радикальнейшего начала новой жизни.",
+         "backdrop": "https://images.kinorium.com/movie/backstage/2812373/w1500_50248256.jpg",
+         "image": "https://i.ytimg.com/vi/ZTo-AVhdGSI/maxresdefault.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/ELKI.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ОСВОБОЖДЕНИЕ",
          "description": "«Освобождение» — киноэпопея о Великой Отечественной войне режиссёра Юрия Озерова по сценарию Юрия Бондарева и Оскара Курганова. (1968-1972). Фильм отреставрирован в 2020 году  Группы компьютерной графики Мосфильма.",
          "backdrop": "https://avatars.dzeninfra.ru/get-zen_doc/237236/pub_5aa9ebe548c85e021062cbac_5aa9f4578139baca5e31c1e4/scale_1200",
