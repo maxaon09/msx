@@ -464,6 +464,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Naked_Gun.json"
       },
       {
+         "titleHeader": "{col:msx-white}РОЗОВАЯ ПАНТЕРА",
+         "description": "Розовая пантера — серия комедийных детективных фильмов об инспекторе Клузо.",
+         "backdrop": "https://i2.wp.com/livestory.com.ua/images/1115.jpg",
+         "image": "https://letsplayadrinkinggame.com/wp-content/uploads/2021/05/pink-panther-poster-1.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Pink_Panther.json"
+      },
+      {
          "titleHeader": "{col:msx-white}АГЕНТ ДЖОНИ ИНГЛИШ",
          "description": "Джонни Инглиш - серия шпионских комедийных боевиков, пародирующих Джеймса Бонда секретного агента. В фильме главную роль играет Роуэн Аткинсон. Сериал наполнен комедийностью, подобной характеру мистера Бина Аткинсона",
          "backdrop": "https://avatars.dzeninfra.ru/get-zen_doc/3855260/pub_61f24eca3b51c31e4a6499ae_61f259ff91d5c155b30bd58a/scale_1200",
