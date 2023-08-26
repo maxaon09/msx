@@ -310,6 +310,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/mstiteli.json"
       },
       {
+         "titleHeader": "{col:msx-white}СТРАЖИ ГАЛАКТИКИ",
+         "description": "Франшиза «Стражи Галактики» представляет собой ряд из нескольких фильмов, описывающих приключения команды, вставшей на защиту вселенной. Это команда супергероев и протагонистов из медиафраншизы «Кинематографическая вселенная Marvel», основанной на серии комиксов Marvel.",
+         "backdrop": "https://pbs.twimg.com/media/D2_UZw4WkAIMDsk.jpg",
+         "image": "https://live.staticflickr.com/65535/49307192331_e36fdd159c_b.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Guardians_Galaxy.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ФАНТАСТИЧЕСКАЯ ЧЕТВЕРКА",
          "description": "Динамичные фантастические картины о четырёх героях на страже планеты",
          "backdrop": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/02/24/09/ioan-gruffudd-fantastic-four.jpg?quality=75&width=1200&auto=webp",
