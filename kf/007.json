@@ -311,7 +311,7 @@
       },
       {
          "titleHeader": "{col:msx-white}Агент 007",
-         "titleFooter": Завтра не умрет никогда",
+         "titleFooter": "Завтра не умрет никогда",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
