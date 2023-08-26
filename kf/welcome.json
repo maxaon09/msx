@@ -394,6 +394,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/malifesenta.json"
       },
       {
+         "titleHeader": "{col:msx-white}ГОРЕЦ",
+         "description": "Историческое фэнтези о Бессмертных. Сюжет закручен вокруг взаимодействия Бессмертных в разные исторические эпохи. Франшиза названа в честь шотландского горца Коннора МакЛауда, история которого рассказана в фильме «Горец» (1986) с Кристофером Ламбертом и Шоном Коннери.",
+         "backdrop": "https://pbs.twimg.com/media/FYnvt0kX0AAZGXe?format=jpg&name=4096x4096",
+         "image": "https://cdn.bestmovie.it/wp-content/uploads/2018/03/HighlanderOK.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Highlander.json"
+      },
+      {
          "titleHeader": "{col:msx-white}Сумерки",
          "description": "Сумерки - серия романтических фантастических фильмов, основанных на серии книг Сумерки Стефани Майер.",
          "backdrop": "https://pbs.twimg.com/media/FEAxjSZXIAIeaYb.jpg",
