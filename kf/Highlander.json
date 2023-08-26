@@ -89,7 +89,7 @@
          }
       },
       {
-         "titleHeader": "{col:msx-white}Горец 4: Конец игры",
+         "titleHeader": "{col:msx-white}Горец 4",
          "titleFooter": "Конец игры",
          "selection": {
             "important": true,
