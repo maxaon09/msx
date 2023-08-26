@@ -1,0 +1,194 @@
+{
+   "type": "list",
+   "headline": "ЁЛКИ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Ёлки",
+         "titleFooter": "Ёлки",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Ёлки (2010){col}{br}Герои фильма — таксист и поп-дива, бизнесмен и актер, сноубордист и лыжник, студент и пенсионерка, пожарный и директриса, вор и милиционер, гастарбайтер и президент России. Все они оказываются в самый канун Нового года в очень непростой ситуации, выйти из которой им поможет только чудо… или Теория шести рукопожатий, согласно которой каждый человек на земле знает другого через шесть знакомых.",
+               "image": "http://image.tmdb.org/t/p/original/beBM29NyYpZVppC5n3iKaqW6p2Y.jpg"
+            }
+         },
+         "image": "http://image.tmdb.org/t/p/original/beBM29NyYpZVppC5n3iKaqW6p2Y.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/08_23_23/08/23/08/7RKJUAWJ/SWVZNK7Q.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Ёлки",
+         "titleFooter": "Ёлки 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Ёлки 2 (2011){col}{br}Незадолго до Нового года Боря теряет память, и единственной зацепкой, которая может помочь, является надпись «З.Г.», которую он обнаруживает на руке. В это же время капитан полиции пытается решить проблемы личного характера, два экстремала и их любимая бабушка из подъезда снова готовятся к членовредительским подвигам, а Вера Брежнева опять сводит с ума сильную половину человечества, а конкретно — рядового Бондарева, бывшего таксиста.",
+               "image": "https://way2day.com/wp-content/uploads/2017/12/YOlki-2.jpg"
+            }
+         },
+         "image": "https://way2day.com/wp-content/uploads/2017/12/YOlki-2.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/01_26_21/01/26/17/5BSXK733/RT2GXWPD.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Ёлки",
+         "titleFooter": "Ёлки 3",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Ёлки 3 (2013){col}{br}Герои «Ёлок» в самых невероятных новогодних историях. Боря и Женя, чьи годовалые дети в канун праздника доведут друзей до психушки. Маленькая девочка Настя, чьи родители разлучат ее влюбленных друг в друга собак. Лыжник и сноубордист в самой экстремальной в их жизни гонке – от военкома. И профессор из Екатеринбурга Андрей, чья любвеобильность вновь не доведет его до добра, а только до проруби в минус 30.",
+               "image": "https://i.ytimg.com/vi/VbLlR4ijPWI/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/VbLlR4ijPWI/maxresdefault.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/08_23_23/08/23/08/53CWK7MZ/VNCWXSCY.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Ёлки",
+         "titleFooter": "Ёлки 1914",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Ёлки 1914 (2014){col}{br}100 лет назад, Российская империя… Канун Рождества. Декабрьские пробки, праздничные гулянья, роскошные балы и скромные праздники, титулованные дворяне и обычные крестьяне, царская семья и солдаты первой мировой войны, прогрессивные поэты и первые фигуристы – все было по-другому, за исключением … праздника",
+               "image": "https://i.ytimg.com/vi/y0heF2ogP5o/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/y0heF2ogP5o/maxresdefault.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/07_21_21/07/21/20/YUZJ4ZEZ/ZNHYV7DM.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Ёлки",
+         "titleFooter": "Ёлки 5",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Ёлки 5 (2016){col}{br}В этот новый год любимые герои «Ёлок» всё также делают глупости и надеются на чудо. Боре нужно как-то восстановить семейное счастье и ради этого он готов украсть у лучшего друга Жени пингвина. Лыжник и Сноубордист, так и не повзрослевшие, устраивают сумасшедшую погоню за ёлкой. Баба Маня осваивает интернет в надежде найти старую любовь. ",
+               "image": "https://i.ytimg.com/vi/i6RJktcp6ks/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/i6RJktcp6ks/maxresdefault.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/12_11_20/12/11/18/3CXJZMHF/74QVXZPC.mp4/master.m3u8 ",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Ёлки",
+         "titleFooter": "Ёлки новые",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Ёлки новые (2017){col}{br}Новые и хорошо знакомые герои «Ёлок» влюбляются, ссорятся и мирятся, совершают геройские поступки и попадают впросак, лишь бы найти на Новый год настоящую родственную душу, как один смелый мальчик из Хабаровска, сбежавший в поисках новой мамы в Москву. И помочь им может только чудо… или вся страна!",
+               "image": "https://static.okko.tv/images/v2/14189495?scale=1&quality=80"
+            }
+         },
+         "image": "https://static.okko.tv/images/v2/14189495?scale=1&quality=80",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/08_08_19/08/08/06/xKwDaaqj/1080_6giH0rCt.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Ёлки",
+         "titleFooter": "Ёлки последние",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Ёлки последние (2018){col}{br}«Ёлки Последние» станут самыми трогательными, добрыми и волшебными из всех, потому что любимые герои будут прощаться со зрителями. В киноальманах войдет пять новогодних историй.",
+               "image": "http://images-s.kinorium.com/movie/poster/1660540/w1500_51647167.jpg"
+            }
+         },
+         "image": "http://images-s.kinorium.com/movie/poster/1660540/w1500_51647167.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/12_14_20/12/14/20/6FXGGZRG/EKVWC4SJ.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Ёлки",
+         "titleFooter": "Ёлки 8",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Ёлки 8 (2021){col}{br}Восьмая часть новогодней саги «Елки» расскажет об очередных предпраздничных приключениях Бори и Жени, а также познакомит зрителей с новыми героями из Тюмени, Екатеринбурга, Уфы и Перми, каждому из которых в их передрягах поможет только настоящее чудо.",
+              "image": "https://www.bannalu.eu/wp-content/uploads/2021/12/Ёлки-8-в-кинотеатрах-Германии-2021-768x432.png"
+            }
+         },
+         "image": "https://www.bannalu.eu/wp-content/uploads/2021/12/Ёлки-8-в-кинотеатрах-Германии-2021-768x432.png",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/12_30_21/12/30/09/YWYRLHJ5/WHYLBHRG.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Ёлки",
+         "titleFooter": "Ёлки 9",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Ёлки 9 (2022){col}{br} Находясь за тысячи километров друг от друга, герои пока не подозревают, как переплетутся их новогодние приключения. Чудес и сюрпризов хватит на всех! ",
+               "image": "https://i.ytimg.com/vi/nAKUZOg4asA/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/nAKUZOg4asA/maxresdefault.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/01_05_23/01/05/08/IB2KBGYJ/SVWUCHJ6.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      }
+   ]
+}
