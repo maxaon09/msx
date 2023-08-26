@@ -590,6 +590,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/osobennosti_natcionalnoy.json"
       },
       {
+         "titleHeader": "{col:msx-white}ДМБ",
+         "description": "На призывном пункте судьба сводит совсем не похожих друг на друга парней. Один — бывший студент, отправившийся по повестке, после того, как соблазнил жену профессора. Другой — рабочий с завода. Вот только работать ему больше негде, потому что по его вине завод сгорел дотла. Третий — в долгах как в шелках, и спасение от занудливых кредиторов одно — армия. В армии их всех научат, как стать настоящими мужчинами",
+         "backdrop": "https://m.media-amazon.com/images/M/MV5BZDJmMmVmNTAtMzc0Yy00ZDVlLWJjMzYtMmUyZWQxNjkyYWYwXkEyXkFqcGdeQXVyNzQ1NjgzOTA@._V1_.jpg",
+         "image": "https://papik.pro/uploads/posts/2022-03/1646609577_71-papik-pro-p-dmb-poster-73.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/DMB.json"
+      },
+      {
          "titleHeader": "{col:msx-white}САМОГОНЩИКИ",
          "description": "«Самогонщики» — советский комедийно-приключенческий короткометражный художественный фильм, снятый в 1961 году на киностудии «Мосфильм» режиссёром Леонидом Гайдаем. Вместе с фильмом «Пёс Барбос и необычный кросс» это первое произведение о трио антигероев-жуликов Труса, Балбеса и Бывалого.",
          "backdrop": "https://sun1-89.userapi.com/impg/TUFckBJPjH9bbwQwHNNYfdMTaZSYMMnAgyOH7w/HvPKyXinXx0.jpg?size=1280x935&quality=96&sign=34b91697261c0ab7f2c510c8d37bc2d2&c_uniq_tag=o1feoslUbT3O6cUeRFLDlKkvAeaJ9vY6dReo5Eux5kc&type=album",
