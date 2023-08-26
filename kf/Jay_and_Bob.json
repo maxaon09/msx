@@ -1,0 +1,160 @@
+{
+   "type": "list",
+   "headline": "ДЖЕЙ И МОЛЧАЛИВЫЙ БОБ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Джей и Молчаливый Боб",
+         "titleFooter": "Клерки",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Клерки (1994){col}{br}Один день из жизни Данте и Рэндала — приятелей, которые работают в небольшом продуктовом магазине и пункте видеопроката в захудалом районе Нью-Джерси.",
+               "image": "https://cdn.fishki.net/upload/post/2018/01/12/2481697/6-18.png"
+            }
+         },
+         "image": "https://cdn.fishki.net/upload/post/2018/01/12/2481697/6-18.png",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/06_17_20/06/17/15/24ICL75P/GO3CBDNC.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Джей и Молчаливый Боб",
+         "titleFooter": "Тусовщики из супермаркета",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Тусовщики из супермаркета (1995){col}{br}Молодые ребята приходят в этот супермаркет не работать и не за покупками — они просто тусуются. Они ссорятся и мирятся со своими подружками, выясняют отношения, чешут языками, обсуждая друг друга и общих знакомых.",
+               "image": "https://m.media-amazon.com/images/M/MV5BOTZlNzFlNGYtYmE2YS00ZTRhLTkxODgtYzA3N2U0ZmNiNjQwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg"
+            }
+         },
+         "image": "https://m.media-amazon.com/images/M/MV5BOTZlNzFlNGYtYmE2YS00ZTRhLTkxODgtYzA3N2U0ZmNiNjQwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/02_16_23/02/16/02/57V6F47T/JYLRVPTA.mp4/master.m3u8 ",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Джей и Молчаливый Боб",
+         "titleFooter": "В погоне за Эми",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}В погоне за Эми (1996){col}{br}Молодой художник теряет голову и ощущение реальности, когда безумно влюбляется в восхитительную красотку, чьи любовные похождения, в том числе и лесбийские, трудно сосчитать. Его лучший друг, он же партнер, очень завистлив и подбрасывает ему всякие доказательства темного прошлого этой легкомысленной особы. ",
+               "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFsKigazBD61tMRWVgpOGRRX8mvqwAaREeK1ZE0DvPVOnBeVGs7XyeRM8CGgpPYtM5DQ_zqK9LxnF6y7GxfQFX7GpYrUQZPFbKLIgef46jCAgqgPeOcHVkKRkqREighJ792JdoVqJsS53LYl9y94cTa415kn2qOTWNksI3zZr2VonTaBKjJTqBmOLWdQ/s1219/Image%204.png"
+            }
+         },
+         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFsKigazBD61tMRWVgpOGRRX8mvqwAaREeK1ZE0DvPVOnBeVGs7XyeRM8CGgpPYtM5DQ_zqK9LxnF6y7GxfQFX7GpYrUQZPFbKLIgef46jCAgqgPeOcHVkKRkqREighJ792JdoVqJsS53LYl9y94cTa415kn2qOTWNksI3zZr2VonTaBKjJTqBmOLWdQ/s1219/Image%204.png",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/06_15_23/06/15/13/G4LIVJTW/LH2ZRJHT.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Джей и Молчаливый Боб",
+         "titleFooter": "Догма",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Догма (1999){col}{br}Локи и Бартлби, падшие ангелы, которые посмели ослушаться Всевышнего. За столь дерзкий поступок Бог разгневался на них и приговорил к вечному пребыванию на Земле. Однако херувимы не желают бесконечно торчать в американской глуши среди «глупых людишек».",
+               "image": "https://pbs.twimg.com/media/EZZzJnnWsAA6Jli?format=jpg&name=large"
+            }
+         },
+         "image": "https://pbs.twimg.com/media/EZZzJnnWsAA6Jli?format=jpg&name=large",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/08_18_22/08/18/16/IVHGCFWN/6IGLIGLL.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Джей и Молчаливый Боб",
+         "titleFooter": "наносят ответный удар",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Джей и Молчаливый Боб наносят ответный удар (2001){col}{br}Приятели Джей и Молчаливый Боб целыми днями стоят возле стены магазина в Нью-Джерси, пока однажды не узнают, что о них сделали комикс «Пыхарь и Хроник». Комикс будут экранизировать, но выплачивать друзьям гонорар никто не собирается. Неугомонная парочка отправляется на студию Miramax, чтобы восстановить справедливость.",
+               "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2021/11/jay-and-silent-bob-strike-back-2001-poster.jpg"
+            }
+         },
+         "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2021/11/jay-and-silent-bob-strike-back-2001-poster.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/06_26_20/06/26/20/2SUBUZFU/O6GXP36P.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Джей и Молчаливый Боб",
+         "titleFooter": "Клерки 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Клерки 2 (2006){col}{br}Лучшие друзья Данте Хикс и Рэндал Грэйвс остаются без средств к существованию после пожара в их маленьком продуктовом магазинчике в Нью-Джерси. Они устраиваются на работу в закусочную «У Муби», где работает молодой парень Илайас, а управляет заведением очаровательная девушка Бекки.",
+               "image": "https://is3-ssl.mzstatic.com/image/thumb/Video114/v4/de/4e/22/de4e22af-5c31-96d7-0d52-125171dad7e1/3770018241107_169.jpg/2000x1125.jpg"
+            }
+         },
+         "image": "https://is3-ssl.mzstatic.com/image/thumb/Video114/v4/de/4e/22/de4e22af-5c31-96d7-0d52-125171dad7e1/3770018241107_169.jpg/2000x1125.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/06_19_20/06/19/17/5H7QHJHA/EEHH7IYM.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Джей и Молчаливый Боб:",
+         "titleFooter": "Перезагрузка",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Перезагрузка (2019){col}{br}Неугомонные приятели Джей и Молчаливый Боб попадаются на незаконном выращивании марихуаны и предстают перед судом, но невесть откуда взявшийся адвокат умудряется снять с них все обвинения, ловко подсунув бумаги на подпись...",
+               "image": "https://resources.stuff.co.nz/content/dam/images/4/y/p/v/6/m/image.related.StuffLandscapeSixteenByNine.1420x800.4ypv6o.png/1607503181606.jpg"
+            }
+         },
+         "image": "https://resources.stuff.co.nz/content/dam/images/4/y/p/v/6/m/image.related.StuffLandscapeSixteenByNine.1420x800.4ypv6o.png/1607503181606.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/07_08_20/07/08/18/AUKNLFCG/MW32SWGP.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}
