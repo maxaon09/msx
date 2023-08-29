@@ -49,7 +49,7 @@
             }
          },
          "image": "https://i.ytimg.com/vi/7qI03eH3PIY/maxresdefault.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/10_01_20/10/01/23/EIBFJPKF/QXH2UBKU.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_01_20/10/01/23/EIBFJPKF/QXH2UBKU.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://liveam.tv/assets/images/2021/mehanik--voskreshenie.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_09_20/07/09/21/7FB5DTAM/M3GC6LB5.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_09_20/07/09/21/7FB5DTAM/M3GC6LB5.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }

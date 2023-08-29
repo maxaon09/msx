@@ -49,7 +49,7 @@
             }
          },
          "image": "http://images6.fanpop.com/image/photos/43800000/Shazam-Wallpaper-shazam-2019-43814912-1280-720.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/04_21_23/04/21/13/3IHKCHMY/MLI6F2SC.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/04_21_23/04/21/13/3IHKCHMY/MLI6F2SC.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://avatars.dzeninfra.ru/get-zen_doc/9558734/pub_645e8214c4e39a372a9dac9a_645e824483b474403e9bf9b9/scale_1200",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/05_22_23/05/22/16/MYDL7TTR/M2NIZ33H.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_22_23/05/22/16/MYDL7TTR/M2NIZ33H.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }

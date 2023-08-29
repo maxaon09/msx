@@ -49,7 +49,7 @@
             }
          },
          "image": "https://avatars.dzeninfra.ru/get-zen_doc/1136050/pub_610dc7fbd5c79d5f2228c60a_610e36920fdd7b41002d3762/scale_1200",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/01_26_23/01/26/18/HRJKQRPZ/QU4BWXOG.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_26_23/01/26/18/HRJKQRPZ/QU4BWXOG.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "http://image.tmdb.org/t/p/original/xLWC5jbY7JeDPVd9O6EWgSmMhn6.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/01_26_23/01/26/19/4NA7UZIE/MJH3WTEU.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_26_23/01/26/19/4NA7UZIE/MJH3WTEU.mp4/master.m3u@http://msx.benzac.de/interaction/play.html8",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://avatars.dzeninfra.ru/get-zen_doc/4447382/pub_632765f1da47be6e585609a8_632768387384a318ad5493ac/scale_1200",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/12_11_20/12/11/21/WPOI34RS/CGXXNT5F.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/12_11_20/12/11/21/WPOI34RS/CGXXNT5F.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -100,7 +100,7 @@
             }
          },
          "image": "https://i.ytimg.com/vi/jJv1LXv1qTg/maxresdefault.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/01_26_23/01/26/19/4NKFP7F2/DZ2D6CDV.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_26_23/01/26/19/4NKFP7F2/DZ2D6CDV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }

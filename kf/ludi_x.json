@@ -49,7 +49,7 @@
             }
          },
          "image": "https://static.365info.kz/uploads/2018/11/b1a52f75fc457c2c4586cc0efe077048.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/09_24_20/09/24/14/PXOEJBGQ/CT4P2DJQ.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_24_20/09/24/14/PXOEJBGQ/CT4P2DJQ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://comicattractions.com/wp-content/uploads/2022/01/x-men-2-feature-image.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_06_20/07/06/16/3L6E2K7B/JSF3FHHM.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_06_20/07/06/16/3L6E2K7B/JSF3FHHM.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://whatsondisneyplus.com/wp-content/uploads/2022/05/The-Last-Stand.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/10_01_20/10/01/19/LAQRLNTM/STDTWFYP.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_01_20/10/01/19/LAQRLNTM/STDTWFYP.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -100,7 +100,7 @@
             }
          },
          "image": "https://avatars.dzeninfra.ru/get-zen_doc/1110951/pub_5d2a98dff2df2500aec8cf88_5d2ab16980879d00ac4a4916/scale_1200",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_07_20/07/07/14/TGE5RKKQ/XMRNNIXD.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_07_20/07/07/14/TGE5RKKQ/XMRNNIXD.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -117,7 +117,7 @@
             }
          },
          "image": "https://3.bp.blogspot.com/-yo-ktsiGFZ4/Ufgo2GqZROI/AAAAAAAAAGg/tR5Vy3eTcrg/s1600/999070_10151800024024804_410222736_n.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_09_20/07/09/20/UWM5L4JF/5PLX6EVN.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_09_20/07/09/20/UWM5L4JF/5PLX6EVN.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -134,7 +134,7 @@
             }
          },
          "image": "https://mobimg.b-cdn.net/v3/fetch/22/2252d77c438f883ce36cd66fc6c95c64.jpeg?w=1470&r=0.5625",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/08_26_20/08/26/15/JCDIJQW3/5FBUBUU3.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/08_26_20/08/26/15/JCDIJQW3/5FBUBUU3.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }
@@ -151,7 +151,7 @@
             }
          },
          "image": "https://images.videociety.de/CoverWide/968C57AD715F6D3FC2F9E154137865DB4892CFB1_1200.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/06_18_21/06/18/05/6DYLHV7H/RBYVZEY7.mp4/master.m3u8",
+         "action": "videoresolve:request:interaction::https://hye1eaipby4w.takedwn.ws/06_18_21/06/18/05/6DYLHV7H/RBYVZEY7.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -168,7 +168,7 @@
             }
          },
          "image": "https://is5-ssl.mzstatic.com/image/thumb/42Z3FfqlwgJRy23KyxYMaA/1200x630.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/06_30_20/06/30/18/EXAA2HPT/LRJTA4YK.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_30_20/06/30/18/EXAA2HPT/LRJTA4YK.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -185,7 +185,7 @@
             }
          },
          "image": "https://pic.rutubelist.ru/video/e3/3a/e33a26a0cda8db1ce0a99b72aa4547a0.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/10_14_20/10/14/19/EERBBOTM/HB7TESTH.mp4/master.m3u8 ",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_14_20/10/14/19/EERBBOTM/HB7TESTH.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }

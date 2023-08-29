@@ -49,7 +49,7 @@
             }
          },
          "image": "https://itakon.it/wp-content/uploads/2018/04/Infinite-Statue-Fantozzi-04.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_14_20/07/14/13/L5I75SRK/SXP5UZ3Q.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_14_20/07/14/13/L5I75SRK/SXP5UZ3Q.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnWiqLgyNJwPTcSIrQklOc5fvpB2a2G8m_Qw&usqp=CAU",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_09_20/07/09/09/XP2QZOAO/UMXGW6NU.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_09_20/07/09/09/XP2QZOAO/UMXGW6NU.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://i.ytimg.com/vi/QfcKhqoFuUU/maxresdefault.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_15_20/07/15/03/POOHN5E5/YVGTPOX4.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_15_20/07/15/03/POOHN5E5/YVGTPOX4.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -100,7 +100,7 @@
             }
          },
          "image": "http://media5.cdnbase.com/media/files/s1/jb/pv/u-fantotstsi-opyat-nepriyatnos.jpg",
-         "action": "https://hye1eaipby4w.takedwn.ws/07_16_20/07/16/03/KKHGXEAJ/QLQ4WZRC.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_16_20/07/16/03/KKHGXEAJ/QLQ4WZRC.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Fourth Item"
          }

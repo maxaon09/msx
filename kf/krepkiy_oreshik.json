@@ -49,7 +49,7 @@
             }
          },
          "image": "https://w.forfun.com/fetch/08/0813b8791474fdae4cb42eef3931fc6b.jpeg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/01_24_21/01/24/04/2KBIUWOH/2ZOYOKWD.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_24_21/01/24/04/2KBIUWOH/2ZOYOKWD.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://pbs.twimg.com/media/EN1jZimWsAAZR-U.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/01_21_21/01/21/20/B2WD3JOO/NBQWZGTE.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_21_21/01/21/20/B2WD3JOO/NBQWZGTE.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://image.tmdb.org/t/p/w1280/ubo0EzdhGaL15NIkCnQO89D45do.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/01/CKDJXBRF/WZLADMBA.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/01/CKDJXBRF/WZLADMBA.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -100,7 +100,7 @@
             }
          },
          "image": "https://lumiere-a.akamaihd.net/v1/images/image_08ca8a72.jpeg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/12_02_20/12/02/20/BNVKHPVL/JPSAWU2H.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/12_02_20/12/02/20/BNVKHPVL/JPSAWU2H.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Fourth Item"
          }
@@ -117,7 +117,7 @@
             }
          },
          "image": "https://picfiles.alphacoders.com/669/66971.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/02_20_23/02/20/00/JTZ22OMT/SJRHSFDY.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/02_20_23/02/20/00/JTZ22OMT/SJRHSFDY.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Fifth Item"
          }

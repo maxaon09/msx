@@ -49,7 +49,7 @@
             }
          },
          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkeaWIHZ7nQsyXjcJNFELTQDQ4vEKeR5wSXfG3bFSajrQwa3heIn4ZNKjeOFnuGiGON8&usqp=CAU",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/11_17_20/11/17/18/NVWVK37K/4VER5ITD.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/11_17_20/11/17/18/NVWVK37K/4VER5ITD.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://www.invictory.org/articles/wp-content/uploads/sites/3/2018/11/youtu.be-6byC1vgwKNc-3.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/05_28_21/05/28/19/VRTSBFJE/4MODISPV.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_28_21/05/28/19/VRTSBFJE/4MODISPV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuv6Mrigy2tWPmeKepZjAyYVCfpw6OEaiodI27bA17lhPmmlHXNZ38oiGjXZAsEsiXuuY&usqp=CAU",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_31_22/07/31/16/UOVY5EE5/TSQNGTX4.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_31_22/07/31/16/UOVY5EE5/TSQNGTX4.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }

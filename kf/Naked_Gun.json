@@ -49,7 +49,7 @@
             }
          },
          "image": "https://pbs.twimg.com/ext_tw_video_thumb/1201497976637657088/pu/img/coh00qmiUXm21BaH.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/09_30_20/09/30/17/HEZWIEDR/CLBIIHO2.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_30_20/09/30/17/HEZWIEDR/CLBIIHO2.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://cdn.images.simply.tv/12527206747487131814?aspect_ratio=16:9",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/22/QQEUFOR4/RXWMLRRF.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/22/QQEUFOR4/RXWMLRRF.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://sp.rmbl.ws/s8/1/U/S/0/g/US0gh.qR4e-small-33-And-13-The-Final-Insult-.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/20/PVY3AYX3/H44KY6OX.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/20/PVY3AYX3/H44KY6OX.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }

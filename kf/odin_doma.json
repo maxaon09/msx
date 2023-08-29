@@ -49,7 +49,7 @@
             }
          },
          "image": "https://beta.ems.ladbiblegroup.com/s3/content/55b0ce155bc6f772a1da554630aa8a5b.png",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/06_18_21/06/18/09/LQ2YUWZJ/IMPM6JUE.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_18_21/06/18/09/LQ2YUWZJ/IMPM6JUE.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://w.forfun.com/fetch/45/455bb820903b89cdf397246385c9ac3e.jpeg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/11_25_20/11/25/21/UQSZM2UM/B2OHYBQ3.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/11_25_20/11/25/21/UQSZM2UM/B2OHYBQ3.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://img.moviesrankings.com/t/p/w1280/Xz95i6YgNHAl2CnC84EUSOF1t9.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/11_29_22/11/29/12/FZLCKVA7/3ADNGPUD.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/11_29_22/11/29/12/FZLCKVA7/3ADNGPUD.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -100,7 +100,7 @@
             }
          },
          "image": "https://cdn.smartfacts.ru/210397/odin-doma-4_0.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/12_20_22/12/20/16/WLABVEVP/BHIJHPC2.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/12_20_22/12/20/16/WLABVEVP/BHIJHPC2.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -117,7 +117,7 @@
             }
          },
          "image": "https://1.bp.blogspot.com/-bONxss3wFA8/XuqXnUJTTAI/AAAAAAAABhM/EcaJ5k5u2VYgXBdkrrC5mHKtRFSAKn7iwCK4BGAsYHg/s1920/Home%2BAlone5%2BPoster.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/01_20_21/01/20/19/BZXUKIJU/MXC3JIIF.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_20_21/01/20/19/BZXUKIJU/MXC3JIIF.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -134,7 +134,7 @@
             }
          },
          "image": "https://afisha.bigmir.net/i/54/78/78/7/5478787/image_main/458a759f3a1f85481005da1856c81837-resize_crop_1Xquality_100Xallow_enlarge_0Xw_1200Xh_630.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/11_17_21/11/17/11/QU2UWKDF/CVYF3UL2.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/11_17_21/11/17/11/QU2UWKDF/CVYF3UL2.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }

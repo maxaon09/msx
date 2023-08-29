@@ -49,7 +49,7 @@
             }
          },
          "image": "https://avatars.dzeninfra.ru/get-zen_doc/3507111/pub_62418079d90de20a9a0d7ac5_62695fd41d8ef21b3649f07a/scale_1200",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/14/AHMBH2UB/2VZN65XP.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/14/AHMBH2UB/2VZN65XP.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://image.tmdb.org/t/p/w1280/k3dYvVOpWgiaZYNN4duou5GvgyI.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/12/MCBR45V7/M3ODU4ZJ.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/12/MCBR45V7/M3ODU4ZJ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://horrorzone.ru/uploads/_pages2/61947/h3wallpaper3c.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/06_04_20/06/04/12/DCLZQIGX/QTKXLLFZ.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_04_20/06/04/12/DCLZQIGX/QTKXLLFZ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -100,7 +100,7 @@
             }
          },
          "image": "https://psy-pie.ru/wp-content/uploads/2022/10/4umiapwuss1kvtew9kaj2jljw23-1024x576.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/13/6WOKQZZS/2EKL72DV.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/13/6WOKQZZS/2EKL72DV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -117,7 +117,7 @@
             }
          },
          "image": "https://pbs.twimg.com/media/FDutxptXsAMlRrO.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/14/PP7XETSE/HPJJOWTG.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/14/PP7XETSE/HPJJOWTG.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -134,7 +134,7 @@
             }
          },
          "image": "https://aiptcomics.com/wp-content/uploads/2016/10/hellraiser-hellseeker-featured.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/16/ZCLKVDWO/Z6ZW2KTE.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/16/ZCLKVDWO/Z6ZW2KTE.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }
@@ -151,7 +151,7 @@
             }
          },
          "image": "https://image.tmdb.org/t/p/w1280/4qJB7amzeGVAcnOeCt4QHWswNfn.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/19/END3BIOS/CCECKEGM.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/19/END3BIOS/CCECKEGM.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -168,7 +168,7 @@
             }
          },
          "image": "https://i.ytimg.com/vi/GSNXwqBHBNI/maxresdefault.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/20/UQQWLWN4/2BJ2IW5J.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/20/UQQWLWN4/2BJ2IW5J.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -185,7 +185,7 @@
             }
          },
          "image": "https://i.ytimg.com/vi/1E784poGCAA/maxresdefault.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/18/URPRISGL/BJZX6O65.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/18/URPRISGL/BJZX6O65.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -202,7 +202,7 @@
             }
          },
          "image": "https://www.doostihaa.com/img/uploads/2022/09/Hellraiser-Judgment-2018-Poster.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/04_29_20/04/29/11/7Q7BCL3K/EKH4L3XK.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/04_29_20/04/29/11/7Q7BCL3K/EKH4L3XK.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }

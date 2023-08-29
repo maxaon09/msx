@@ -49,7 +49,7 @@
             }
          },
          "image": "https://img.youtube.com/vi/PJ7Z9HlgrMA/0.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/12_29_22/12/29/20/EKJAJTSE/37QVGI5N.mp4/index-v1-a8.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/12_29_22/12/29/20/EKJAJTSE/37QVGI5N.mp4/index-v1-a8.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://i.pinimg.com/736x/b9/03/a8/b903a8b66e808b4b2538ba09aa8966a0.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/12_30_22/12/30/15/UPP5Z4YQ/LSODRN5Y.mp4/index-v1-a8.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/12_30_22/12/30/15/UPP5Z4YQ/LSODRN5Y.mp4/index-v1-a8.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://radcliffe.ucoz.ru/foto_site/kinopoisk.ru-Harry-Potter-and-the-Prisoner-of-Azka.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/01_20_23/01/20/23/4XPHYIHA/FTHNI2AL.mp4/index-v1-a6.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_20_23/01/20/23/4XPHYIHA/FTHNI2AL.mp4/index-v1-a6.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -100,7 +100,7 @@
             }
          },
          "image": "https://picfiles.alphacoders.com/621/62155.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/01_03_23/01/03/15/XRYM3QRZ/LWLYUXHG.mp4/index-v1-a8.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_03_23/01/03/15/XRYM3QRZ/LWLYUXHG.mp4/index-v1-a8.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Fourth Item"
          }
@@ -117,7 +117,7 @@
             }
          },
          "image": "https://rapchieuphim.com/photos/48/new%20mutant/danh-gia-cua-gioi-chuyen-mon-ve-8-tap-phim-harry-potter-7.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/01_03_23/01/03/18/K57H454C/I67VH7IL.mp4/index-v1-a6.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_03_23/01/03/18/K57H454C/I67VH7IL.mp4/index-v1-a6.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
          }
@@ -134,7 +134,7 @@
             }
          },
          "image": "https://img.hebus.com/hebus_2011/01/17/preview/110401121742_1.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/01_04_23/01/04/14/VGBPIBKW/X25SJ275.mp4/index-v1-a6.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_04_23/01/04/14/VGBPIBKW/X25SJ275.mp4/index-v1-a6.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
          }
@@ -151,7 +151,7 @@
             }
          },
          "image": "https://sun1-23.userapi.com/vzPKNLm6kxncqY4HOvqkcDVL49ErwempXJjxUA/dJfd18m1F9A.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/01_04_23/01/04/16/QDEGMJBA/PNS5MCCM.mp4/index-v1-a4.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_04_23/01/04/16/QDEGMJBA/PNS5MCCM.mp4/index-v1-a4.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
          }
@@ -168,7 +168,7 @@
             }
          },
          "image": "https://spasibovsem.ru/ratings/wp-content/uploads/2021/03/garri-potter-i-dary-smerti.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/03_16_23/03/16/14/EYZ5QC24/ZW3HYCEM.mp4/index-v1-a1.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/03_16_23/03/16/14/EYZ5QC24/ZW3HYCEM.mp4/index-v1-a1.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
          }
@@ -185,7 +185,7 @@
             }
          },
          "image": "https://images.bisnis-cdn.com/posts/2022/01/03/1484701/harry-potter-20th-anniversary-return-to-hogwarts.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/09_27_22/09/27/18/ZHNIQ2H4/6IAOEIOO.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_27_22/09/27/18/ZHNIQ2H4/6IAOEIOO.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
          }

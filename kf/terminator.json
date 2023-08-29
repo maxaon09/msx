@@ -49,7 +49,7 @@
             }
          },
          "image": "https://pbs.twimg.com/media/CTgefKDUsAAqDmV.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_03_20/07/03/17/JT3FKOXS/YPBXLZVG.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_03_20/07/03/17/JT3FKOXS/YPBXLZVG.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://avatars.dzeninfra.ru/get-zen_doc/987771/pub_6373c154f07a1a66661a4240_6373c19a3f9fa41e51b53bf6/scale_1200",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/05_18_21/05/18/14/DOBMCOAZ/CZQT3UL6.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_18_21/05/18/14/DOBMCOAZ/CZQT3UL6.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://i.ytimg.com/vi/VDiAT-D0Syc/maxresdefault.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_02_20/07/02/21/R4PNEVZT/IJZ2EPPG.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_02_20/07/02/21/R4PNEVZT/IJZ2EPPG.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -100,7 +100,7 @@
             }
          },
          "image": "https://avatars.dzeninfra.ru/get-zen_doc/4821428/pub_6295c4c2aaecdd3346ad89d8_6295cc03032e585ab6f79e74/scale_1200",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/06_26_20/06/26/14/F6MAB3Y5/GITKKDZI.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_26_20/06/26/14/F6MAB3Y5/GITKKDZI.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Fourth Item"
          }
@@ -117,7 +117,7 @@
             }
          },
          "image": "https://i.ytimg.com/vi/bVN1nL3u3J4/maxresdefault.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_08_20/07/08/18/E4PXCGS6/JQ2MMEYX.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_08_20/07/08/18/E4PXCGS6/JQ2MMEYX.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
          }
@@ -134,7 +134,7 @@
             }
          },
          "image": "https://static.toiimg.com/photo.cms?msid=71389184&resizemode=4",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/05_15_21/05/15/15/52VGRUOH/GLTONCP3.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_15_21/05/15/15/52VGRUOH/GLTONCP3.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
          }

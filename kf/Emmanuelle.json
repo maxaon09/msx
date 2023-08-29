@@ -49,7 +49,7 @@
             }
          },
          "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kdLgqTtbQOWXlfJlMgDjPlyLYDg.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_07_20/07/07/11/ATER3N2C/JUWEOSJV.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_07_20/07/07/11/ATER3N2C/JUWEOSJV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://cfm.yidio.com/images/movie/172183/backdrop-1280x720.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/01_11_23/01/11/14/7MVXX3D2/SK6HIL36.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_11_23/01/11/14/7MVXX3D2/SK6HIL36.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://www.okino.ua/media/var/cache/12/af/12afccf7541cf26bdb7ca351193600d2.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/01_26_21/01/26/23/D6EU5ESL/HK3SMEN5.mp4/master.m3u",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_26_21/01/26/23/D6EU5ESL/HK3SMEN5.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -100,7 +100,7 @@
             }
          },
          "image": "https://metadata-static.plex.tv/7/gracenote/74b9772003168a87e82faa1d4cfd0d62.jpg",
-         "action": "https://hye1eaipby4w.takedwn.ws/09_25_20/09/25/19/6E77GWEU/WJ75JM5I.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_25_20/09/25/19/6E77GWEU/WJ75JM5I.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Fourth Item"
          }
@@ -117,7 +117,7 @@
             }
          },
          "image": "https://images.tv-archiv.sk/428/e02d5d8569d40ff7df0c33e875af3692.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/02_06_20/02/06/14/lCtFJV1D/1080_1tgz2Owf.mp4/master.m3u8 ",
+         "action": "video:hresolve:request:interaction:ttps://hye1eaipby4w.takedwn.ws/02_06_20/02/06/14/lCtFJV1D/1080_1tgz2Owf.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Fifth Item"
          }

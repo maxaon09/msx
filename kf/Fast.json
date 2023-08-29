@@ -49,7 +49,7 @@
             }
          },
          "image": "https://reyting-avto.ru/wp-content/uploads/2020/05/forsazh.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/09_21_22/09/21/23/PMZGY6JG/P2UWZ3Z6.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_21_22/09/21/23/PMZGY6JG/P2UWZ3Z6.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://i.pinimg.com/736x/4f/89/92/4f8992b2032c68560a299927eec66b76--free-tv-show-paul-walker-movies.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/09_25_20/09/25/00/E4LKY4QT/ICESB53I.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_25_20/09/25/00/E4LKY4QT/ICESB53I.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://i.ytimg.com/vi/HAOFQSrLi9Q/hqdefault.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/05_24_21/05/24/23/WJFJHPES/BMV6XYYP.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_24_21/05/24/23/WJFJHPES/BMV6XYYP.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -100,7 +100,7 @@
             }
          },
          "image": "https://cdn.shopify.com/s/files/1/1288/8361/files/The_Fast_and_the_Furious_Tokyo_Drift_Side.jpg?v=1585190583",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/10_03_22/10/03/18/5GQQ7VUN/W6NI4GZO.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_03_22/10/03/18/5GQQ7VUN/W6NI4GZO.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Fourth Item"
          }
@@ -117,7 +117,7 @@
             }
          },
          "image": "https://mp3klab.ru/img.php?aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9rblhJbzRwNG51SS9ocWRlZmF1bHQuanBn.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/10_12_22/10/12/01/XCVIZXK6/6357OIDY.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_12_22/10/12/01/XCVIZXK6/6357OIDY.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
          }
@@ -134,7 +134,7 @@
             }
          },
          "image": "https://tvbesedka.com/resized/450/Upload/2021/6/6/13/49/17/2f4a5070-2a76-47b5-875d-850fdb4e1dbc.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_10_20/07/10/05/5OQTNE2I/ZHO4CZ4P.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_10_20/07/10/05/5OQTNE2I/ZHO4CZ4P.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
          }
@@ -151,7 +151,7 @@
             }
          },
          "image": "https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/et00006409.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/10_12_22/10/12/01/XCVIZXK6/6357OIDY.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_12_22/10/12/01/XCVIZXK6/6357OIDY.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
          }
@@ -168,7 +168,7 @@
             }
          },
          "image": "https://ic.pics.livejournal.com/iskander_zombie/17864134/2721447/2721447_original.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/10_03_22/10/03/04/P3JWD3V2/YKFJJAYI.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_03_22/10/03/04/P3JWD3V2/YKFJJAYI.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
          }
@@ -185,7 +185,7 @@
             }
          },
          "image": "https://i.pinimg.com/originals/14/04/bb/1404bb7e469f1c593088d2652c0c9092.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/09_14_22/09/14/03/MDIETBOK/QOFRCIUJ.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_14_22/09/14/03/MDIETBOK/QOFRCIUJ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
          }
@@ -202,7 +202,7 @@
             }
          },
          "image": "https://expertnov.ru/800/600/http/tipik.ru/wp-content/uploads/2019/06/Фото-форсаж-8-скачать-красивые-картинки008.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/09_14_22/09/14/04/3ZBZXSC2/6VGT2TWR.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_14_22/09/14/04/3ZBZXSC2/6VGT2TWR.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
          }
@@ -219,7 +219,7 @@
             }
          },
          "image": "https://1.bp.blogspot.com/-X9kW6MUwXdc/YTHt8ZgIeCI/AAAAAAAAA0k/12lKK-tDKzAr8e-TzYJdfT8QaHYbDch_wCLcBGAsYHQ/s1400/f9.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/09_13_21/09/13/13/ICLXHKRD/EEECSA7U.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_13_21/09/13/13/ICLXHKRD/EEECSA7U.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
          }
@@ -236,7 +236,7 @@
             }
          },
          "image": "https://hotmoviesnews.com/wp-content/uploads/2022/05/Vin-Diesel-is-to-blame-for-Fast-and-Furious-10.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/06_29_23/06/29/22/RQTAZPLI/C5OWWWTT.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_29_23/06/29/22/RQTAZPLI/C5OWWWTT.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
          }

@@ -49,7 +49,7 @@
             }
          },
          "image": "https://media.creepyshake.com/uploads/image/86e74be775e04d9cabae3aa6b97af3b0_large.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/04_18_23/04/18/17/LXEA5JO2/SIL34LE7.mp4/master.m3u8",
+         "action": "video:hresolve:request:interaction:ttps://hye1eaipby4w.takedwn.ws/04_18_23/04/18/17/LXEA5JO2/SIL34LE7.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://images.kinorium.com/movie/poster/698256/w1500_50905211.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/04_18_23/04/18/16/R6VDU64T/UDXUVU3A.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/04_18_23/04/18/16/R6VDU64T/UDXUVU3A.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }

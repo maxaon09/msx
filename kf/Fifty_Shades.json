@@ -49,7 +49,7 @@
             }
          },
          "image": "https://img08.rl0.ru/afisha/375x210q85i/s4.afisha.ru/mediastorage/45/32/6a653abef2cf48038d70d0323245.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/04_20_23/04/20/14/VOFQK7RS/ZCDW2C5I.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/04_20_23/04/20/14/VOFQK7RS/ZCDW2C5I.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://i.ytimg.com/vi/LBWB89aVsGE/mqdefault.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/01_19_23/01/19/19/MC6DFXKM/JL2C4H7V.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_19_23/01/19/19/MC6DFXKM/JL2C4H7V.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://oxvo.ru/wp-content/uploads/2017/06/Fifty-Shades-Freed-2018.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/01_19_23/01/19/17/JYRGMJHE/E3AFAYVR.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_19_23/01/19/17/JYRGMJHE/E3AFAYVR.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }

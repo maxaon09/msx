@@ -49,7 +49,7 @@
             }
          },
          "image": "https://wernerstalpaert.files.wordpress.com/2015/04/gendarme-de-saint-tropez-1.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/05_08_20/05/08/12/IICMTST5/EFSBNLQS.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_08_20/05/08/12/IICMTST5/EFSBNLQS.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://static.okko.tv/images/v2/12447977?presetId=4000&width=725&scale=1&quality=80",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_12_20/07/12/10/6XVYKYL3/DKVTPO7B.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_12_20/07/12/10/6XVYKYL3/DKVTPO7B.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://sun1-20.userapi.com/c638128/v638128891/5460d/TLwhPt0TJpw.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_09_20/07/09/12/LV5RQBBU/4ZHJM5DU.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_09_20/07/09/12/LV5RQBBU/4ZHJM5DU.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -100,7 +100,7 @@
             }
          },
          "image": "https://pbs.twimg.com/media/EN9CwL-WkAA0RYI.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_25_20/07/25/03/XPR55HRO/QB4XWBAG.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_25_20/07/25/03/XPR55HRO/QB4XWBAG.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -117,7 +117,7 @@
             }
          },
          "image": "http://media.filmz.ru/photos/big/b_183109.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/05_25_20/05/25/18/F4UYWCLE/2ZE2SKQJ.mp4/master.m3u8",
+         "action": "video:hresolve:request:interaction:ttps://hye1eaipby4w.takedwn.ws/05_25_20/05/25/18/F4UYWCLE/2ZE2SKQJ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -134,7 +134,7 @@
             }
          },
          "image": "https://cdn.tvc.ru/pictures/mc/173/168.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/04_20_21/04/20/07/O4D2M6TX/R5NZYHDP.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/04_20_21/04/20/07/O4D2M6TX/R5NZYHDP.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }

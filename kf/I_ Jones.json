@@ -49,7 +49,7 @@
             }
          },
          "image": "https://img1.imageride.net/images/2023/03/28/IMG_20230328_052036_716.jpeg",
-         "action": "video:https://o2.anwap.be/ohls/P3206Ckxw9GivVZBMA8fpg/1677274810/Indiana_Dzhons_V_poiskah_utrachennogo_kovchega-988_(anwap.org).m3u8",
+         "action": "video:resolve:request:interaction:https://o2.anwap.be/ohls/P3206Ckxw9GivVZBMA8fpg/1677274810/Indiana_Dzhons_V_poiskah_utrachennogo_kovchega-988_(anwap.org).m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://i.ytimg.com/vi/x5AMPPsvdGQ/maxresdefault.jpg",
-         "action": "video:https://o1.anwap.be/ohls/CBVDM3eg4T8N-dbwo5-AMA/1677274978/Indiana_Dzhons_i_Hram_Sudqby-7996_(anwap.org).m3u8",
+         "action": "video:resolve:request:interaction:https://o1.anwap.be/ohls/CBVDM3eg4T8N-dbwo5-AMA/1677274978/Indiana_Dzhons_i_Hram_Sudqby-7996_(anwap.org).m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://www.ethicalstl.org/wp-content/uploads/movienight-768x432.jpeg",
-         "action": "video:https://o2.anwap.be/ohls/2hsSUwEqaxuwew9JvECK2g/1677275087/Indiana_Dzhons_i_poslednij_krestovyj_pohod-912_(anwap.org).m3u8",
+         "action": "video:resolve:request:interaction:https://o2.anwap.be/ohls/2hsSUwEqaxuwew9JvECK2g/1677275087/Indiana_Dzhons_i_poslednij_krestovyj_pohod-912_(anwap.org).m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -100,7 +100,7 @@
             }
          },
          "image": "https://i.ytimg.com/vi/2kKAyEvXbA0/maxresdefault.jpg",
-         "action": "video:https://o5.anwap.be/ohls/d7wkNLAVlyzPazS7uSC5FQ/1677275194/Indiana_Dzhons_i_Korolevstvo_hrustalqnogo_cherepa-2793_(anwap.org).m3u8",
+         "action": "video:resolve:request:interaction:https://o5.anwap.be/ohls/d7wkNLAVlyzPazS7uSC5FQ/1677275194/Indiana_Dzhons_i_Korolevstvo_hrustalqnogo_cherepa-2793_(anwap.org).m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Fourth Item"
          }
@@ -117,7 +117,7 @@
             }
          },
          "image": "https://i.ytimg.com/vi/82gOXL-7Dbg/maxresdefault.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_01_23/07/01/14/D23FWTFX/QDUTUAPF.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_01_23/07/01/14/D23FWTFX/QDUTUAPF.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
          }

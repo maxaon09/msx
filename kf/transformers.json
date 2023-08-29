@@ -49,7 +49,7 @@
             }
          },
          "image": "https://cdn.smartfacts.ru/176486/transformery_19.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/05_11_21/05/11/10/M6C4GGWO/2OSIXJRI.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_11_21/05/11/10/M6C4GGWO/2OSIXJRI.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://i.servimg.com/u/f63/13/23/27/18/tf2_dt12.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/05_14_21/05/14/22/H6Q3XKS3/MRFTDVP3.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_14_21/05/14/22/H6Q3XKS3/MRFTDVP3.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://wallpapercave.com/wp/wp11019775.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/10_11_22/10/11/22/WVWKGKLR/V3OMSMUU.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_11_22/10/11/22/WVWKGKLR/V3OMSMUU.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -100,7 +100,7 @@
             }
          },
          "image": "https://i.ytimg.com/vi/KUeqkAlOCpY/maxresdefault.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/10_11_22/10/11/23/4HBQAJ32/WVN3PHID.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_11_22/10/11/23/4HBQAJ32/WVN3PHID.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Fourth Item"
          }
@@ -117,7 +117,7 @@
             }
          },
          "image": "https://static.digit.in/OTT/v2/images/transformers-the-last-knight-108559jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/05_11_21/05/11/12/MDZKJFIJ/LDDEYSOQ.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_11_21/05/11/12/MDZKJFIJ/LDDEYSOQ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
          }
@@ -134,7 +134,7 @@
             }
          },
          "image": "https://i.ytimg.com/vi/OFnRGkDNIlA/maxresdefault.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/10_24_22/10/24/13/TWTMZFI6/DIV2BRSO.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_24_22/10/24/13/TWTMZFI6/DIV2BRSO.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
          }
@@ -151,7 +151,7 @@
             }
          },
          "image": "https://mezha.media/wp-content/uploads/2023/05/Transformers_Rise_of_the_Beasts_00.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_17_23/07/17/21/JJHVVWPC/FUJK5CZM.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_17_23/07/17/21/JJHVVWPC/FUJK5CZM.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Sixth Item"
          }

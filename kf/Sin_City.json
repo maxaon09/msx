@@ -49,7 +49,7 @@
             }
          },
          "image": "https://u.livelib.ru/reader/Rosio/o/tbqkfnms/o-o.jpeg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_19_21/07/19/20/BLWT7L2Y/PF4576WM.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_19_21/07/19/20/BLWT7L2Y/PF4576WM.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://cdn.fishki.net/upload/post/201507/14/1596364/db8d6f86e6853c7a8a9afbe3b32ad32e.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_19_21/07/19/19/BF5TK7L4/OQ3ZQVPZ.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_19_21/07/19/19/BF5TK7L4/OQ3ZQVPZ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }

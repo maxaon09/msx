@@ -49,7 +49,7 @@
             }
          },
          "image": "https://www.kinogallery.com/images/now-you-see-me/kinogallery.com-now-you-see-me-277580.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/02_09_23/02/09/07/MPJOYENC/QRDXE5KD.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/02_09_23/02/09/07/MPJOYENC/QRDXE5KD.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://i.ytimg.com/vi/E5JIQXSCgyM/maxresdefault.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/02_08_23/02/08/14/E2XOAY6J/H2NHUI5Y.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/02_08_23/02/08/14/E2XOAY6J/H2NHUI5Y.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }

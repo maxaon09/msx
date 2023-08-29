@@ -49,7 +49,7 @@
             }
          },
          "image": "https://thumbs.dfs.ivi.ru/storage28/contents/4/8/e621972d24d5dc21d3bf11aaa553cd.jpg/858x483//?q=85",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/09_30_20/09/30/18/Q3BTMNZN/2SYVCDOI.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_30_20/09/30/18/Q3BTMNZN/2SYVCDOI.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "http://images-s.kinorium.com/movie/poster/1442853/w1500_51639816.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/10_04_22/10/04/19/UHJR3WZQ/J2PH67KZ.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_04_22/10/04/19/UHJR3WZQ/J2PH67KZ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://img2.beritasatu.com/cache/beritasatu/910x580-2/1517214388.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/10_05_22/10/05/13/5XFS7CKZ/FBHMW5TP.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_05_22/10/05/13/5XFS7CKZ/FBHMW5TP.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }

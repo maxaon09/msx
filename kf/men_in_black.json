@@ -49,7 +49,7 @@
             }
          },
          "image": "https://i.ytimg.com/vi/1Z30kNYbxgU/maxresdefault.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/09_16_22/09/16/05/2DSU63L4/4HJMOWPS.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_16_22/09/16/05/2DSU63L4/4HJMOWPS.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://lightbox-prod.imgix.net/images/assets/100341430-8358414-Men_In_Black_II_2002_STV1.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/03_09_23/03/09/15/3C2A25KI/BDCLK3CV.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/03_09_23/03/09/15/3C2A25KI/BDCLK3CV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://2.bp.blogspot.com/-eTZbLmJWk88/UCTGsPlqMEI/AAAAAAAAAE8/8YUU1crlkHQ/s1600/mib.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_02_20/07/02/20/VJKFGLSJ/QS4UEWUX.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_02_20/07/02/20/VJKFGLSJ/QS4UEWUX.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -100,7 +100,7 @@
             }
          },
          "image": "https://static.digit.in/OTT/v2/images/men-in-black-international-363195.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/06_29_20/06/29/14/OB7HWJB3/C64EB4NH.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_29_20/06/29/14/OB7HWJB3/C64EB4NH.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Fourth Item"
          }

@@ -49,7 +49,7 @@
             }
          },
          "image": "https://cdn.fishki.net/upload/post/2018/01/12/2481697/6-18.png",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/06_17_20/06/17/15/24ICL75P/GO3CBDNC.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_17_20/06/17/15/24ICL75P/GO3CBDNC.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://m.media-amazon.com/images/M/MV5BOTZlNzFlNGYtYmE2YS00ZTRhLTkxODgtYzA3N2U0ZmNiNjQwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/02_16_23/02/16/02/57V6F47T/JYLRVPTA.mp4/master.m3u8 ",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/02_16_23/02/16/02/57V6F47T/JYLRVPTA.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFsKigazBD61tMRWVgpOGRRX8mvqwAaREeK1ZE0DvPVOnBeVGs7XyeRM8CGgpPYtM5DQ_zqK9LxnF6y7GxfQFX7GpYrUQZPFbKLIgef46jCAgqgPeOcHVkKRkqREighJ792JdoVqJsS53LYl9y94cTa415kn2qOTWNksI3zZr2VonTaBKjJTqBmOLWdQ/s1219/Image%204.png",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/06_15_23/06/15/13/G4LIVJTW/LH2ZRJHT.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_15_23/06/15/13/G4LIVJTW/LH2ZRJHT.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -100,7 +100,7 @@
             }
          },
          "image": "https://pbs.twimg.com/media/EZZzJnnWsAA6Jli?format=jpg&name=large",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/08_18_22/08/18/16/IVHGCFWN/6IGLIGLL.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/08_18_22/08/18/16/IVHGCFWN/6IGLIGLL.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -117,7 +117,7 @@
             }
          },
          "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2021/11/jay-and-silent-bob-strike-back-2001-poster.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/06_26_20/06/26/20/2SUBUZFU/O6GXP36P.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_26_20/06/26/20/2SUBUZFU/O6GXP36P.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -134,7 +134,7 @@
             }
          },
          "image": "https://is3-ssl.mzstatic.com/image/thumb/Video114/v4/de/4e/22/de4e22af-5c31-96d7-0d52-125171dad7e1/3770018241107_169.jpg/2000x1125.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/06_19_20/06/19/17/5H7QHJHA/EEHH7IYM.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_19_20/06/19/17/5H7QHJHA/EEHH7IYM.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -151,7 +151,7 @@
             }
          },
          "image": "https://resources.stuff.co.nz/content/dam/images/4/y/p/v/6/m/image.related.StuffLandscapeSixteenByNine.1420x800.4ypv6o.png/1607503181606.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_08_20/07/08/18/AUKNLFCG/MW32SWGP.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_08_20/07/08/18/AUKNLFCG/MW32SWGP.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }

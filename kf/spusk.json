@@ -49,7 +49,7 @@
             }
          },
          "image": "https://i.ytimg.com/vi/L1qbhQGEdq4/maxresdefault.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/06_29_20/06/29/18/E3X7S5YI/WKFJRABU.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_29_20/06/29/18/E3X7S5YI/WKFJRABU.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://i.ytimg.com/vi/XCBRZnZ_pQo/maxresdefault.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/05_22_20/05/22/13/WKJNKJNW/FSDDA7BR.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_22_20/05/22/13/WKJNKJNW/FSDDA7BR.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }

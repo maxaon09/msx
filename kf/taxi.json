@@ -49,7 +49,7 @@
             }
          },
          "image": "https://ic.pics.livejournal.com/ygashae_zvezdu/78238682/1754743/1754743_original.png",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/05_15_21/05/15/12/FGEY2PSR/RU6E77FX.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_15_21/05/15/12/FGEY2PSR/RU6E77FX.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://image.tmdb.org/t/p/w780/xsx8KR9AlQjfKrJ98xdXFgyXvQj.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_08_20/07/08/23/JJ5XLJYR/CWXEDQHY.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_08_20/07/08/23/JJ5XLJYR/CWXEDQHY.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://uhdfilmindir.com/public/upload/cover/large-cover-taksi-3-taxi-3.webp",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/06_30_20/06/30/16/AYYE6UDX/27I5FG2V.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_30_20/06/30/16/AYYE6UDX/27I5FG2V.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -100,7 +100,7 @@
             }
          },
          "image": "https://liveam.tv/assets/images/2021/taksi-4-poster.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/06_26_20/06/26/21/POJUDGYR/ITXKT4GV.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_26_20/06/26/21/POJUDGYR/ITXKT4GV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Fourth Item"
          }
@@ -117,7 +117,7 @@
             }
          },
          "image": "https://disgustingmen.com/wp-content/uploads/2018/05/taxi-5-2.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/01_25_23/01/25/18/QFZDQLNY/JODTDQJP.mp4/master.m3u8 ",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_25_23/01/25/18/QFZDQLNY/JODTDQJP.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Fifth Item"
          }

@@ -49,7 +49,7 @@
             }
          },
          "image": "https://e0.pxfuel.com/wallpapers/496/492/desktop-wallpaper-orange-background-skull-hand-claws-predator-thriller-action-poster-horror-the-predator-for-section-%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_21_20/07/21/17/YPXSFIHJ/5TFECJGS.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_21_20/07/21/17/YPXSFIHJ/5TFECJGS.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://static.okko.tv/images/v2/7499511?scale=1&quality=80",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/10_03_20/10/03/00/LCFCMXU6/7GHZDYNS.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_03_20/10/03/00/LCFCMXU6/7GHZDYNS.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://i.ytimg.com/vi/E-UZ8s0Mbhc/maxresdefault.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_10_20/07/10/18/Z7JZWW7Z/ZOB3ZKW4.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_10_20/07/10/18/Z7JZWW7Z/ZOB3ZKW4.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -100,7 +100,7 @@
             }
          },
          "image": "https://thumbs.dfs.ivi.ru/storage5/contents/8/9/bbec0c4afd8cad898438d42453e45e.jpg/400x226//",
-         "action": "https://hye1eaipby4w.takedwn.ws/10_01_20/10/01/17/HQR37TUQ/GX63FYQR.mp4/master.m3u8",
+         "action": "rvideo:esolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_01_20/10/01/17/HQR37TUQ/GX63FYQR.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Fourth Item"
          }
@@ -117,7 +117,7 @@
             }
          },
          "image": "https://cdn.fishki.net/upload/post/2020/05/25/3326607/tn/4-6.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/17/J53LPWIF/WYYSJD5S.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/17/J53LPWIF/WYYSJD5S.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Fifth Item"
          }

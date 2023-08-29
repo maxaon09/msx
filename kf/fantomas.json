@@ -49,7 +49,7 @@
             }
          },
          "image": "https://papik.pro/uploads/posts/2022-03/1646588694_27-papik-pro-p-fantomas-poster-27.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_09_20/07/09/12/PUBHX25R/SBHKCH24.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_09_20/07/09/12/PUBHX25R/SBHKCH24.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://funart.top/uploads/posts/2020-09/thumbs/1599156568_10-p-fantomas-film-35.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_08_20/07/08/06/5UZEIDG6/BOGJXQO3.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_08_20/07/08/06/5UZEIDG6/BOGJXQO3.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://kinolorber.com/media_cache/images/filmgalleryfull/FantomasAgainstScotlandYard_Still_1.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/07_11_20/07/11/06/P6DMJK5K/Q4VVCCBT.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_11_20/07/11/06/P6DMJK5K/Q4VVCCBT.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }

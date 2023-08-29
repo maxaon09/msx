@@ -49,7 +49,7 @@
             }
          },
          "image": "https://images-s.kinorium.com/movie/poster/477206/h280_50597739.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/05_03_23/05/03/20/CV2AS3DR/Z7QIZTA6.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_03_23/05/03/20/CV2AS3DR/Z7QIZTA6.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://www.patrasevents.gr/imgsrv/f/full/640630.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/05_26_21/05/26/16/SE6TBBWC/DTPZHHB7.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_26_21/05/26/16/SE6TBBWC/DTPZHHB7.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://start.ru/images/unsafe/filters:quality(70)/09973b338d964cda9455b9aaa55f48d5/images-horizontal_poster_1x",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/01_18_23/01/18/15/C3CJD7BC/6QR3YJQB.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_18_23/01/18/15/C3CJD7BC/6QR3YJQB.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -100,7 +100,7 @@
             }
          },
          "image": "https://goodwincinema.ru/upload/news/rtf/779_kinopoisk.ru-The-Hunger-Games_3A-Mockingjay-Part-2-2667753.jpg",
-         "action": "https://hye1eaipby4w.takedwn.ws/01_18_23/01/18/14/TLXRHSKR/JVM57H5N.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_18_23/01/18/14/TLXRHSKR/JVM57H5N.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Fourth Item"
          }

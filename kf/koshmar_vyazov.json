@@ -49,7 +49,7 @@
             }
          },
          "image": "https://img.moviesrankings.com/t/p/w1280/oFMJeulGQWJRmOqouNUdxPlAP8S.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/10_19_20/10/19/16/WYZCWY4L/2VHVIRWV.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_19_20/10/19/16/WYZCWY4L/2VHVIRWV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://i.ytimg.com/vi/jifSuCqtKHc/maxresdefault.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/12_08_19/12/08/16/anXDFvAs/1080_PQtnkSy0.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/12_08_19/12/08/16/anXDFvAs/1080_PQtnkSy0.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://cs14.pikabu.ru/post_img/2021/08/05/11/og_og_1628188270213896158.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/12_09_19/12/09/05/5Fm9yIzU/1080_8ES2MI32.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/12_09_19/12/09/05/5Fm9yIzU/1080_8ES2MI32.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -100,7 +100,7 @@
             }
          },
          "image": "https://i.ebayimg.com/images/g/gCsAAOSw7JFiX02O/s-l1600.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/12_09_19/12/09/05/6nFMvKg8/1080_N09HL1tB.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/12_09_19/12/09/05/6nFMvKg8/1080_N09HL1tB.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -117,7 +117,7 @@
             }
          },
          "image": "https://1.bp.blogspot.com/-ebEOPOUD51Q/YReLWIe1Q8I/AAAAAAAAKgQ/ezSPX1Vay5MBMsYCsx0uypQ1eihrUzWIwCLcBGAsYHQ/s1920/sD6T4wma43rnBByXnLsIwKsIQag.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/12_09_19/12/09/05/1ndARVNi/1080_SMEQpbGw.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/12_09_19/12/09/05/1ndARVNi/1080_SMEQpbGw.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -134,7 +134,7 @@
             }
          },
          "image": "https://picfiles.alphacoders.com/929/92930.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/12_08_19/12/08/17/ig6uOm78/1080_OuLVp3Rf.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/12_08_19/12/08/17/ig6uOm78/1080_OuLVp3Rf.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
@@ -151,7 +151,7 @@
             }
          },
          "image": "https://www.horrorcollectors.com/wp-content/uploads/a-nightmare-on-elm-street-wes-craven-new-nightmare-quad-poster-980x750.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/12_09_19/12/09/05/TTgKlIlP/1080_jmORIwU0.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/12_09_19/12/09/05/TTgKlIlP/1080_jmORIwU0.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
