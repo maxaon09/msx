@@ -49,7 +49,7 @@
             }
          },
          "image": "https://i.ytimg.com/vi/uaSBR6Qj34o/maxresdefault.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/08_06_21/08/06/11/BBDRTT2P/PIKTODKV.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/08_06_21/08/06/11/BBDRTT2P/PIKTODKV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}First Item"
          }
@@ -66,7 +66,7 @@
             }
          },
          "image": "https://kartinacanada.com/blog/wp-content/uploads/2021/08/bender.jpg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/11_02_21/11/02/16/NNWMV2OA/M7U6NP4P.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/11_02_21/11/02/16/NNWMV2OA/M7U6NP4P.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }
@@ -83,7 +83,7 @@
             }
          },
          "image": "https://kinmeduch.ru/wp-content/uploads/4/e/1/4e15551b0c63dc97570da029be5ea642.jpeg",
-         "action": "video:https://hye1eaipby4w.takedwn.ws/11_05_21/11/05/00/UF3YWGZ6/KDXIV5DW.mp4/master.m3u8",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/11_05_21/11/05/00/UF3YWGZ6/KDXIV5DW.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Second Item"
          }
