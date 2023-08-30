@@ -1,0 +1,143 @@
+{
+   "type": "list",
+   "headline": "ОБИТЕЛЬ ЗЛА",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Обитель зла",
+         "titleFooter": "Обитель зла",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Обитель зла{col}{br}В гигантской подземной лаборатории выходит из-под контроля опаснейший вирус и мгновенно превращает своих жертв в прожорливых зомби. Достаточно одного их укуса или царапины, чтобы человек стал обезумевшим пожирателем живой плоти.Военные посылают в кишащий голодными монстрами секретный комплекс отряд спецназа, к которому присоединяются Элис и полицейский Мэтт. У них есть только три часа, чтобы уничтожить вирус.",
+               "image": "https://gamemag.ru/images/cache/News/News146423/a2cd58fe66-2_1390x600.jpg"
+            }
+         },
+         "image": "https://gamemag.ru/images/cache/News/News146423/a2cd58fe66-2_1390x600.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/04_28_23/04/28/08/ZZJEPBXV/HLHDLSSU.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Обитель зла",
+         "titleFooter": "Обитель зла 2: Апокалипсис",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Обитель зла 2: Апокалипсис{col}{br}Ракун-сити контролируется влиятельной корпорацией «Амбрелла». После бактериологической катастрофы жители медленно превращаются в зомби, а те немногочисленные граждане, чей разум ещё не до конца изъеден ужасным вирусом, доживают последние дни в атмосфере страха и с желанием скорейшей смерти.",
+               "image": "https://img02.rl0.ru/afisha/375x210q85i/s4.afisha.ru/mediastorage/a0/1f/53b1e06e070c40b895b38c7c1fa0.jpg"
+            }
+         },
+         "image": "https://img02.rl0.ru/afisha/375x210q85i/s4.afisha.ru/mediastorage/a0/1f/53b1e06e070c40b895b38c7c1fa0.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_30_20/06/30/14/352KXOQE/VFAERZR3.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Обитель зла",
+         "titleFooter": "Обитель зла 3",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Обитель зла 3{col}{br}Элис, не раз уже спасавшая мир от смертельных вирусов и неминуемой гибели, вновь взялась за оружие. На этот раз ей предстоит сразиться с корпорацией «Амбрелла», работающей над реализацией зверского антигуманного проекта. Коварные политики и прагматичные ученые стремятся уничтожить людей и заменить их на более «совершенные» создания, заселив Землю неуязвимыми бессмертными клонами…",
+               "image": "https://i.ytimg.com/vi/Pvwdy38_vlo/sddefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/Pvwdy38_vlo/sddefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_27_20/06/27/07/RKWMJ4F7/CC4DIBJ3.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Обитель зла",
+         "titleFooter": "Обитель зла 4: Жизнь после смерти 3D",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Обитель зла 4: Жизнь после смерти 3D{col}{br}Элис продолжает свой путь в мире, поражённом вирусной инфекцией, превращающей людей в нежить. Героиня ищет оставшихся в живых, чтобы вывести их в безопасное место. Её смертельная битва с корпорацией Амбрелла выходит на новый уровень...",
+               "image": "https://brusentsov.com/wp-content/Resident-Evil-Afterlife-5.jpg"
+            }
+         },
+         "image": "https://brusentsov.com/wp-content/Resident-Evil-Afterlife-5.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_30_20/06/30/19/IFRJ5RYL/N7V56GSA.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Обитель зла",
+         "titleFooter": "Обитель зла: Возмездие",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Обитель зла: Возмездие{col}{br}Смертельный T-вирус, созданный в лабораториях корпорации «Амбрелла», продолжает захватывать Землю, превращая мировое население в легионы пожирающих плоть зомби. Последняя надежда человечества Элис внедряется в самое сердце самой тайной исследовательской базы корпорации и узнает еще больше о собственном таинственном прошлом. Не имея путей к отступлению, Элис продолжает искать виновных в глобальной катастрофе. Вызов, который она принимала в Токио, Нью-Йорке, Вашингтоне и даже в Москве, приводит ее в итоге к взрывающему сознание откровению, которое заставит ее переосмыслить все, что она полагала правдой. С помощью новых союзников и старых друзей, Элис будет сражаться за выживание и убегать из враждебного мира. Отсчет времени начат...",
+               "image": "https://img03.rl0.ru/afisha/375x210q85i/s5.afisha.ru/mediastorage/fc/1f/b6763a4d3de64634952f108e1ffc.jpg"
+            }
+         },
+         "image": "https://img03.rl0.ru/afisha/375x210q85i/s5.afisha.ru/mediastorage/fc/1f/b6763a4d3de64634952f108e1ffc.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_07_20/07/07/12/RZ2T4CDN/2IFA57ZC.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fifth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Обитель зла",
+         "titleFooter": "Обитель зла: Последняя глава",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Обитель зла: Последняя глава{col}{br}Действия фильма разворачиваются с того момента, на котором закончилась предыдущая часть. После того как Вескер предал Элис в Вашингтоне, конец истории человечества стал еще ближе. Элис - последняя надежда на спасение мира. Она должна вернуться к точке отсчета, туда, где все и началось - город Раккун-Сити, где корпорация «Амбрелла» готовится к финальной атаке по тем, кому удалось выжить.В гонке со временем Элис вооружится до зубов и объединится с друзьями и теми, кого не ожидала увидеть в роли своих союзников. Вместе они будут биться против армии мертвецов и новых чудовищных мутантов. Находясь под угрозой потери своих способностей и готовясь к неминуемой атаке корпорации, Элис столкнется с еще более трудными проблемами, а человечество тем временем будет находиться на грани гибели.",
+               "image": "https://wallpaperset.com/w/full/3/8/d/190147.jpg"
+            }
+         },
+         "image": "https://wallpaperset.com/w/full/3/8/d/190147.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_17_23/01/17/13/MRV34D6I/ZHMHPQNV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      }
+   ]
+}
