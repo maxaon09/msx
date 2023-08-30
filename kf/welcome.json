@@ -366,6 +366,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Iron_Man.json"
       },
       {
+         "titleHeader": "{col:msx-white}ЧЕЛОВЕК-ПАУК",
+         "description": "Питер Бенджамин Паркер — ученик старшей школы и супергерой, обладающий паукообразными способностями, носящий псевдоним Человек-паук . Несмотря на его попытки скрыть свою личность в тайне от мира, он был найден и завербован Тони Старком, чтобы присоединиться к Гражданской войне Мстителей, получив в обмен новый костюм и технологии. ",
+         "backdrop": "https://pbs.twimg.com/amplify_video_thumb/1536671767741308928/img/KenWN6KjcMPlKxyS?format=jpg&name=large",
+         "image": "https://pbs.twimg.com/amplify_video_thumb/1536671767741308928/img/KenWN6KjcMPlKxyS?format=jpg&name=large",
+         "action": "content: https://maxaon09.github.io/msx/kf/Spider_Man.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ПРИЗРАЧНЫЙ ГОНЩИК",
          "description": "Голливудская франшиза, получившая большую популярность. Всего в цикле 2 фильма, где сыграл Николас Кейдж в образе байкера-демона. Сюжет основан на истории Джонни Блэйза, который отчаянно решается на сделку с самим дьяволом ради спасения своего отца. Позже Джонни превращается в существо из огня и горящего черепа, одержимого местью.",
          "backdrop": "https://images.kinorium.com/movie/shot/209866/w1500_41609348.jpg",
@@ -434,6 +441,13 @@
          "backdrop": "https://pbs.twimg.com/media/D6of5qEXkAAOVWh.jpg",
          "image": "https://kinowar.com/wp-content/uploads/2016/01/Все-6-актеров-сыгравшие-Бонда.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/007.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ИП МАН",
+         "description": "Ип Мэн - серия гонконгских фильмов о боевых искусствах, основанных на событиях из жизни мастера Вин Чун с тем же именем. Прародителем сериала был Ип Мэн (2008), за которым последовали три продолжения. У каждого фильма своя уникальная тема",
+         "backdrop": "https://pbs.twimg.com/media/FrTu0RtWAAEcshR?format=jpg&name=4096x4096",
+         "image": "http://media.filmz.ru/users/images/145013.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Yip_Man.json"
       },
       {
          "titleHeader": "{col:msx-white}ГОРОД ГРЕХОВ",
