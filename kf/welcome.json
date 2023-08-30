@@ -106,6 +106,20 @@
          "action": "content: https://maxaon09.github.io/msx/kf/The-Hills-Have-Eyes.json"
       },
       {
+         "titleHeader": "{col:msx-white}ПИЛА",
+         "description": "«Пила» — американская медиафраншиза ужасов, связанных общей тематикой. Идея принадлежит сценаристу Ли Уоннеллу и режиссёру Джеймсу Вану. 23 июля 2010 года (до выхода «Пилы 3D») серия фильмов была занесена в Книгу рекордов Гиннесса как самый кассовый хоррор-киносериал всех времён",
+         "backdrop": "https://www.gannett-cdn.com/media/2017/10/25/USATODAY/USATODAY/636445496821800958-05-300dpi-1-.jpg",
+         "image": "https://pbs.twimg.com/media/Ff2o5kEXEBk3wOF?format=jpg&name=large",
+         "action": "content: https://maxaon09.github.io/msx/kf/Saw.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ДРУГОЙ МИР",
+         "description": "«Другой мир» – серия из пяти боевиков в жанре фэнтези, рассказывающая увлекательную историю об оборотнях и вампирах.",
+         "backdrop": "https://img.buzzfeed.com/buzzfeed-static/static/2020-10/9/16/asset/17d747b064d8/sub-buzz-2238-1602261728-8.jpg",
+         "image": "https://i.pinimg.com/originals/db/74/50/db7450e99b70c3c931dc6069600545ec.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Underworld.json"
+      },
+      {
          "titleHeader": "{col:msx-white}МУМИЯ",
          "description": "Мумия - приключенческий фильм ужасов медиа-франшиза, основанная на фильмах Universal Pictures о мумифицированном древнеегипетском священнике, который случайно воскрес, принеся с собой мощное проклятие, и последовавших за этим героических попытках археологов остановить его.",
          "backdrop": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/671/931/TheMummy_3488.jpg",
@@ -254,6 +268,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/John_Wick.json"
       },
       {
+         "titleHeader": "{col:msx-white}ОБИТЕЛЬ ЗЛА",
+         "description": "«Обитель зла» — серия фильмов, снятая по сценарию Пола Андерсона, является киноадаптацией серии компьютерных игр компании Capcom Resident Evil.",
+         "backdrop": "https://images.kinorium.com/movie/shot/328871/w1500_48519189.jpg",
+         "image": "https://www.obsev.com/wp-content/uploads/sites/2/2020/09/QUIZ-Can-You-Guess-the-Movie-By-Its-Poster-14.jpg.optimal.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Resident_Evil.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ДЖЕЙСОН БОРН",
          "description": "«Джейсон Борн» — серия фильмов-боевиков выпущенных с 2002 по 2016 год, основанная на романах Роберта Ладлэма о Джейсоне Борне — бывшем сотруднике ЦРУ и профессиональном убийце, потерявшем память.",
          "backdrop": "https://s1.dmcdn.net/v/DdouY1ZlUP5aLepas/640x360",
@@ -338,11 +359,32 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Black_Panther.json"
       },
       {
+         "titleHeader": "{col:msx-white}ЖЕЛЕЗНЫЙ ЧЕЛОВЕК ",
+         "description": "Железный человек — персонаж изданий Marvel Comics и их адаптаций, созданный писателем Стэном Ли, сценаристом Ларри Либером и художниками Доном Хэком и Джеком Кёрби; первое его появление состоялось в комиксе Tales of Suspense #39 в марте 1963 года.",
+         "backdrop": "https://mmm.dk/image/box/3229145/3920/50000.jpg?oversize=1",
+         "image": "https://www.pixel4k.com/wp-content/uploads/2019/06/tony-stark-iron-man-4k_1559764134-768x432.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Iron_Man.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ПРИЗРАЧНЫЙ ГОНЩИК",
+         "description": "Голливудская франшиза, получившая большую популярность. Всего в цикле 2 фильма, где сыграл Николас Кейдж в образе байкера-демона. Сюжет основан на истории Джонни Блэйза, который отчаянно решается на сделку с самим дьяволом ради спасения своего отца. Позже Джонни превращается в существо из огня и горящего черепа, одержимого местью.",
+         "backdrop": "https://images.kinorium.com/movie/shot/209866/w1500_41609348.jpg",
+         "image": "https://pbs.twimg.com/media/E_WVBf4WEAYHVZW?format=jpg&name=large",
+         "action": "content: https://maxaon09.github.io/msx/kf/Ghost_Ride.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ГОЛОДНЫЕ ИГРЫ",
          "description": "Серия фильмов «Голодные игры» состоит из научно-фантастических антиутопических приключенческих фильмов, основанных на трилогии романов «Голодные игры» американской писательницы Сюзанны Коллинз. Фильмы распространяются компанией Lionsgate и продюсируются Ниной Джейкобсон и Джоном Киликом.",
          "backdrop": "https://avatars.dzeninfra.ru/get-zen_doc/3431006/pub_600173f0dc0ac42b28714a74_6001743f4e913f1758f26cac/scale_1200",
          "image": "https://www.articolo26.it/wp-content/uploads/2015/05/arcieriprudenti.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/Hunger_Games.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ПЛАНЕТА ОБЕЗЬЯН",
+         "description": "Планета обезьян — серия фильмов и литературы по мотивам берущая начало от одноимённого фильма 1968 года. В цикле рассказывается что люди вымерли и одновременно различные приматы возвысились в самостоятельную нацию.",
+         "backdrop": "https://pbs.twimg.com/media/FSCBovWVUAAsN8q?format=jpg&name=medium",
+         "image": "https://w.forfun.com/fetch/85/85f85bccdabfce24377ba588fc2e5aa4.jpeg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Planet_of_the_Apes.json"
       },
       {
          "titleHeader": "{col:msx-white}БЕГУЩИЙ В ЛАБИРИНТЕ",
@@ -371,6 +413,13 @@
          "backdrop": "https://media.filmz.ru/photos/full/filmz.ru_f_44050.jpg",
          "image": "https://foni.club/uploads/posts/2023-02/1677084707_foni-club-p-oboi-khishchnik-na-noutbuk-41.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/The_Predator.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ЧУЖОЙ",
+         "description": "«Чужой» — серия научно-фантастических фильмов ужасов, главный мотив которой − борьба офицера корпорации «Weyland-Yutani» Эллен Рипли (Сигурни Уивер) с представителями агрессивной внеземной формы жизни − Чужими. ",
+         "backdrop": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AALUTDz.img",
+         "image": "https://ae01.alicdn.com/kf/HTB1kWOlN3DqK1RjSZSyq6yxEVXan.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Alien.json"
       },
       {
          "titleHeader": "{col:msx-white}БЕЗУМНЫЙ МАКС",
