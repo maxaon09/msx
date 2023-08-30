@@ -1,0 +1,143 @@
+{
+   "type": "list",
+   "headline": "ЧЕЛОВЕК-ПАУК",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Человек-паук",
+         "titleFooter": "Человек-паук",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Человек-паук{col}{br}Питер Паркер – обыкновенный школьник. Однажды он отправился с классом на экскурсию, где его кусает странный паук-мутант. Через время парень почувствовал в себе нечеловеческую силу и ловкость в движении, а главное – умение лазать по стенам и метать стальную паутину. Свои способности он направляет на защиту слабых. Так Питер становится настоящим супергероем по имени Человек-паук, который помогает людям и борется с преступностью. Но там, где есть супергерой, рано или поздно всегда объявляется и суперзлодей...",
+               "image": "https://w.forfun.com/fetch/ff/ffd8847b21bb49dd8e9bea66e803c6fd.jpeg?w=1470&r=0.5625"
+            }
+         },
+         "image": "https://w.forfun.com/fetch/ff/ffd8847b21bb49dd8e9bea66e803c6fd.jpeg?w=1470&r=0.5625",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/05_13_21/05/13/01/G3WMI4XY/DSCR5ZKJ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Человек-паук",
+         "titleFooter": "Человек-паук 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Человек-паук 2{col}{br}Тихоня Питер Паркер балансирует на грани двух своих жизней: супергероя Человека-паука и обычного студента колледжа. Его отношения со всеми, кто ему дорог, в опасности или зашли в тупик. А жизнь приготовила ему новое испытание. Он должен использовать все свои суперспособности, чтобы одолеть жестокого безумца доктора Отто Октавиуса.",
+               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN_irlKBSugsNHzwTcO7aH4Tso-hlxSaAuuQ&usqp=CAU"
+            }
+         },
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN_irlKBSugsNHzwTcO7aH4Tso-hlxSaAuuQ&usqp=CAU",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_05_22/01/05/15/4RC3DUBU/X2WPLWV6.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Человек-паук",
+         "titleFooter": "Человек-паук 3: Враг в отражении",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Человек-паук 3: Враг в отражении{col}{br}Прошло пять лет с тех пор, как Питер осознал, что «с Великой силой приходит Великая ответственность!», и три года с тех пор, как он отказался быть борцом за справедливость. Но сейчас кажется, Питер прекрасно научился жить несколькими жизнями. Он хорошо учится, Нью-Йорк признал его героем, отношения с Мэри Джейн прочные. Питер даже намеревается сделать ей предложение!",
+               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1bii_p7flr9BJKk9NsVXW8dZGcdOyIqPVzg&usqp=CAU"
+            }
+         },
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1bii_p7flr9BJKk9NsVXW8dZGcdOyIqPVzg&usqp=CAU",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/05_13_21/05/13/01/7KVZEIBO/F7BIV2BC.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Человек-паук",
+         "titleFooter": "Новый Человек-паук",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Новый Человек-паук{col}{br}В детстве Питер Паркер был оставлен своими родителями, и поэтому воспитывался дядей и тётей. Шли годы, Питер был обычным примерным школьником, подвергался нападкам хулиганов и был влюблён в свою одноклассницу Гвен Стэйси, которая сама втайне отвечала ему взаимностью. Но после укуса генетически изменённого паука, Питер получает невероятные сверхспособности и его жизнь меняется навсегда.Однако его не перестаёт мучить вопрос о том, что случилось с его родителями. Он знакомится с давним другом и партнёром своего отца - генетиком Куртом Коннорсом, который вместе с отцом Питера разрабатывал формулу регенерации. Питер помогает её закончить, а Коннорс, всю жизнь мечтавший восстановить свою правую руку, вводит формулу себе и становится Ящером. Осознавая свою вину, Питер начинает новую жизнь в образе таинственного супергероя Человека-паука и становится грозой преступников, одновременно пытаясь найти способ остановить Коннорса.",
+               "image": "https://static9.tgcnt.ru/posts/_0/26/26fdc832698cbde3303aad59de5a5990.jpg"
+            }
+         },
+         "image": "https://static9.tgcnt.ru/posts/_0/26/26fdc832698cbde3303aad59de5a5990.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/05_13_21/05/13/03/NUBQLABA/R6QFNTBF.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}",
+         "titleFooter": "Новый Человек-паук: Высокое напряжение",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Новый Человек-паук: Высокое напряжение{col}{br}Питер Паркер под маской Человека-паука по-прежнему спасает мир от злодеев и преступников, а свободное время проводит со своей возлюбленной Гвен, но школьная пора близится к концу, и впереди героев ждет взрослая жизнь. Питер помнит о том, что дал отцу Гвен слово навсегда уйти из жизни девушки, тем самым больше не подвергая ее опасности. Однако сдержать это обещание не так просто. Судьба готовит Питеру сюрпризы: на его пути появится новый противник — Электро, а также ему будет суждено вновь встретиться с давним приятелем Гарри Озборном и узнать много нового о прошлом своей семьи.",
+               "image": "https://www.kinofilms.ua/images/videos/mainpage/10250.jpg"
+            }
+         },
+         "image": "https://www.kinofilms.ua/images/videos/mainpage/10250.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/05_12_21/05/12/23/F75SMNFV/V6JCQJXW.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fifth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Человек-паук",
+         "titleFooter": "Человек-паук: Нет пути домой",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Человек-паук: Нет пути домой {col}{br}Жизнь и репутация Питера Паркера оказываются под угрозой, поскольку Мистерио раскрыл всему миру тайну личности Человека-паука. Пытаясь исправить ситуацию, Питер обращается за помощью к Стивену Стрэнджу, но вскоре всё становится намного опаснее.",
+               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJpwI30HStxt2syy__HFmN4hJg2AIYsGOwMw&usqp=CAU"
+            }
+         },
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJpwI30HStxt2syy__HFmN4hJg2AIYsGOwMw&usqp=CAU",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/04_21_22/04/21/18/GKHFIQHZ/X2PCE4IM.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      }
+   ]
+}
