@@ -246,6 +246,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/avatar.json"
       },
       {
+         "titleHeader": "{col:msx-white}ПАРК ЮРСКОГО ПЕРИОДА",
+         "description": "Парк юрского периода - американская научно-фантастическая медиафраншиза, созданная Майклом Крайтоном о на провальной попытке создать тематический парк клонированных динозавров.",
+         "backdrop": "https://pbs.twimg.com/ext_tw_video_thumb/1574846642573803520/pu/img/5MsI8M-rqIV2djKe?format=jpg&name=large",
+         "image": "https://cdn.wallpapersafari.com/10/11/ruktIF.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Jurassic_Park.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ИНДИАНА ДЖОНС",
          "description": "«Индиана Джонс» — американская медиафраншиза, основанная на приключениях Доктора Генри «Индианы» Джонса-младшего — вымышленного археолога. Киносериал был создан Джорджем Лукасом, который придумaл персонaжa и нaписaл сюжеты к первым четырём фильмaм серии. Фрaншизa сталa известнa благодаря исполнителю глaвной роли Харрисону Форду и режиссёру первых четырёх фильмов Стивену Спилбергу. ",
          "backdrop": "https://media.breitbart.com/media/2023/05/HarrisonFordindy-640x480.jpg",
