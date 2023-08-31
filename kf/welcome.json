@@ -359,6 +359,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Fantastic_Four.json"
       },
       {
+         "titleHeader": "{col:msx-white}ПЕРВЫЙ МСТИТЕЛЬ",
+         "description": "«Первый мститель» — американский супергеройский фильм 2011 года, основанный на персонаже комиксов издательства Marvel Comics. По сюжету во время Второй мировой войны Стив Роджерс, худощавый юноша, превращается в суперсолдата Капитана Америку. Он должен помешать нацисту Красному Черепу использовать Тессеракт в качестве источника энергии для мирового господства.",
+         "backdrop": "https://pbs.twimg.com/media/Dl13ob9XgAA3u5U?format=jpg&name=large",
+         "image": "https://img.goodfon.com/original/1920x1200/4/88/pervyy-mstitel-captain-6203.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Captain_America.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ШАЗАМ!",
          "description": "«Шазам! супергеройский фильм основанный на одноименном персонаже из DC Comics. Это седьмая часть в Расширенной вселенной DC и распространяемая Warner Bros Pictures.  Фильм рассказывает о подростке Билли Бэтсоне, которого древний волшебник Шазам выбрал своим новым чемпионом, что позволило ему превратиться во взрослого супергероя с различными сверхспособностями. ",
          "backdrop": "https://pbs.twimg.com/media/D0F_-m_U0AA11AJ?format=jpg&name=4096x4096",
