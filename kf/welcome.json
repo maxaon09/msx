@@ -162,6 +162,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Scream.json"
       },
       {
+         "titleHeader": "{col:msx-white}ОМЕН",
+         "description": "«Омен» — серия фильмов ужасов о приходе и становлении Антихриста. Он был рождён в 6 часов 6 июня. Как предсказано в Книге откровений, настанет конец света, последнее противостояние сил добра и зла, и началом его будет рождение сына Сатаны в облике человеческом. ",
+         "backdrop": "https://i.imgflip.com/1oj3w7.jpg",
+         "image": "https://m.media-amazon.com/images/M/MV5BMDY1OTljNjQtYzY5ZC00YmYwLThkNmUtYzA0NTI5ZjY1MWRmXkEyXkFqcGdeQXVyMTE5MDI0NDI0._V1_.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/The_Omen.json"
+      },
+      {
          "titleHeader": "{col:msx-white}МУМИЯ",
          "description": "Мумия - приключенческий фильм ужасов медиа-франшиза, основанная на фильмах Universal Pictures о мумифицированном древнеегипетском священнике, который случайно воскрес, принеся с собой мощное проклятие, и последовавших за этим героических попытках археологов остановить его.",
          "backdrop": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/671/931/TheMummy_3488.jpg",
