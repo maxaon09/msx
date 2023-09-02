@@ -134,6 +134,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Insidious.json"
       },
       {
+         "titleHeader": "{col:msx-white}ПРОКЛЯТИЕ АННАБЕЛЬ",
+         "description": "В «Проклятии Аннабель» герой фильма дарит своей супруге редкую куклу по случаю скорого рождения дочери. Радость длится недолго: в ту же ночь к ним в квартиру врываются члены сатанинской секты. Одного из сектантов ликвидируют на месте стражи порядка, а вторая, девушка по имени Аннабель, перерезает себе горло, держа в руках намедни подаренную Мие куклу... ",
+         "backdrop": "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GB/wb-888574106409-Full-Image_GalleryBackground-en-GB-1504651645478._SX2160_.jpg",
+         "image": "https://img5.goodfon.ru/original/1920x1080/b/c2/annabelle-comes-home-annabelle-comes-home-prokliatie-annabel.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Annabelle.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ПУНКТ НАЗНАЧЕНИЯ",
          "description": "Пункт назначения - франшиза фильма ужасов, созданная Джеффри Реддиком. Сериал фокусируется на группах людей, пытающихся избежать смерти после того, как у одного из них появляется предчувствие, что все они должны умереть, и он спасает их, внося раскол в замысел Смерти. Сама Смерть пытается все исправить, убивая всех тех, кто нарушил баланс жизни и смерти. ",
          "backdrop": "https://api.bashinform.ru/attachments/93d963711e272e34d01597c20d1592ac4b44bfe7/store/crop/0/0/1024/576/1600/0/0/75abf967b525baafc0aec7b9d01552b06f86485d9b959a5995631feeda19/02083d31a06a82a390dd00fc72f2048e.jpg",
