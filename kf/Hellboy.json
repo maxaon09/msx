@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "ХЕЛЛБОЙ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Хеллбой",
+         "titleFooter": "Хеллбой",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Хеллбой{col}{br}Близится час битвы Хеллбоя с Кровавой королевой, буквально собирающей себя по частям и жаждущей отомстить всему человечеству за века в заточении. Оказавшись в эпицентре столкновения миров людей и монстров, Хеллбой будет вынужден пройти через ад, чтобы предотвратить надвигающийся апокалипсис.",
+               "image": "https://www.geekalerts.com/u/Hellboy-2019-Movie.jpg"
+            }
+         },
+         "image": "https://www.geekalerts.com/u/Hellboy-2019-Movie.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/08_01_22/08/01/10/EGOMW6AF/VX45D67Y.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Хеллбой",
+         "titleFooter": "Хеллбой: Герой из пекла",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Хеллбой: Герой из пекла{col}{br}Вторая мировая война. Нацисты терпят одно сокрушительное поражение за другим. В результате исследования оккультных ритуалов в суперсекретной лаборатории учёным, работающим на фашистский режим, удаётся поднять из небытия Демона Ада, который должен помочь переломить ход войны.Но в научную лабораторию тайно проникает отряд союзников и поворачивает это мистическое и грозное оружие против нацистов. Однако никто из участников эксперимента и не предполагает, что врата потустороннего мира после открытия окажутся неподвластны людям, и им придётся столкнуться с существами ещё более опасными и непредсказуемыми, чем Демон Ада.",
+               "image": "https://avatars.dzeninfra.ru/get-zen_doc/3901320/pub_6313683a29a9f66df8e77b26_63136d1f5e91a6511bb159a9/scale_1200"
+            }
+         },
+         "image": "https://avatars.dzeninfra.ru/get-zen_doc/3901320/pub_6313683a29a9f66df8e77b26_63136d1f5e91a6511bb159a9/scale_1200",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/12/FSRV245C/HQGSQFAM.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Хеллбой",
+         "titleFooter": "Хеллбой II: Золотая армия",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Хеллбой II: Золотая армия{col}{br}Древнее перемирие между человечеством и тайным миром было нарушено, на Земле вот-вот разверзнется ад. Безжалостный лидер, вхожий в оба мира, бросает вызов своей крови и пробуждает на свет неодолимую армию чудовищ.Настало время самому Хэллбою сразиться с беспощадным диктатором и его воинами. Вместе со своей пополняющей ряды командой «Бюро Паранормальных Исследований и Развития» он будет бороздить границы двух миров — нашего и скрытого, где самые невероятные существа обретают плоть. Хэллбою, порождённому обоими мирами, но не принадлежащему ни одному из них, предстоит выбирать между жизнью, которую он знает, и неизвестностью новой судьбы.",
+               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDq7wF-pZfI9-EqLEW9mZ-xqoSjC3l4VRAA&usqp=CAU"
+            }
+         },
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDq7wF-pZfI9-EqLEW9mZ-xqoSjC3l4VRAA&usqp=CAU",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/10_01_20/10/01/18/FSGCLVL2/YLZTLXF3.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}
