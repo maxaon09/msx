@@ -513,6 +513,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/after.json"
       },
       {
+         "titleHeader": "{col:msx-white}ОЧЕНЬ СТРАШНОЕ КИНО",
+         "description": "«О́ень страшное кино» — американский комедийный фильм 2000 года режиссёра Кинена Айвори Уэйанса, пародирующий известные фильмы ужасов. Считается культовым комедийным фильмом и единственной пародией, на которую снимают пародии. ",
+         "backdrop": "https://m.media-amazon.com/images/M/MV5BMjI5OTYzMDQtODg3NC00ODYwLWI3MzEtZDNjMjdkYmUwMDg4XkEyXkFqcGdeQXVyMzEzMjI0MDI@._V1_.jpg",
+         "image": "https://pbs.twimg.com/media/FXFfXAHWAAQ3m_B?format=jpg&name=medium",
+         "action": "content: https://maxaon09.github.io/msx/kf/Scary_Movie.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ПОЛИЦЕЙСКАЯ АКАДЕМИЯ",
          "description": "Полицейская академия — одна из самых успешных кинофраншиз в истории Голливуда. В фильме рассказывается о группе новобранцев-неудачников, пытающихся доказать, что они способны быть полицейскими, и добиться успеха как вопреки, так и благодаря своей эксцентричности.",
          "backdrop": "https://artworks.thetvdb.com/banners/v4/series/76516/backgrounds/62519d3ada855.jpg",
