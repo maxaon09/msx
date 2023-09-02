@@ -141,6 +141,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Final_Destination.json"
       },
       {
+         "titleHeader": "{col:msx-white}КРИК",
+         "description": "«Крик» — американская кинофраншиза, созданная сценаристом Кевином Уильямсоном и режиссёром Уэсом Крэйвеном, куда входят фильмы-триллеры. Серия фильмов получила значительное признание критиков. «Крику» приписывают возрождение жанра хоррор в конце 90-х, совмещая традиционный фильм ужасов с юмором и оригинальным сюжетом.",
+         "backdrop": "https://i0.wp.com/www.ecodelcinema.com/wp-content/uploads/2020/10/scream-4-sfondo-1200x630-1.jpg",
+         "image": "https://w.forfun.com/fetch/9a/9a3964204cb05b72b51bcb93f178aee8.jpeg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Scream.json"
+      },
+      {
          "titleHeader": "{col:msx-white}МУМИЯ",
          "description": "Мумия - приключенческий фильм ужасов медиа-франшиза, основанная на фильмах Universal Pictures о мумифицированном древнеегипетском священнике, который случайно воскрес, принеся с собой мощное проклятие, и последовавших за этим героических попытках археологов остановить его.",
          "backdrop": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/671/931/TheMummy_3488.jpg",
