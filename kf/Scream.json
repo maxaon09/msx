@@ -1,0 +1,143 @@
+{
+   "type": "list",
+   "headline": "КРИК",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Крик",
+         "titleFooter": "Крик",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Крик{col}{br}По городу прокатилась волна жестоких убийств, жертвами становятся беззащитные люди. Новой жертвой телефонного маньяка из городка Вудсборо может стать ещё одна девушка — Сидни Прескотт. Год назад её мать была изнасилована и убита, а теперь маньяк угрожает ей самой. Но в первой ночной схватке с убийцей девушка смогла спастись. Полиция находит на месте покушения маску и плащ. Впрочем, такие маски можно купить в лавке ужасов, и проку для следствия от найденных улик нет никакого.",
+               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9xGyfV2GEr1fPHj7C05XhOtfx3Xp5LWW3Uw&usqp=CAU"
+            }
+         },
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9xGyfV2GEr1fPHj7C05XhOtfx3Xp5LWW3Uw&usqp=CAU",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_03_20/07/03/17/JT3FKOXS/YPBXLZVG.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Крик",
+         "titleFooter": "Крик 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Крик 2{col}{br}Прошло два года после кровавой бойни в Вудсборо. Сидни Прескотт поступила в колледж, уехав прочь от безумных воспоминаний. Но прошлое вновь настигает ее: нашумевшая история стала книгой - бестселлером Гэйл Уэзерс, а теперь еще вышел фильм о тех самых событиях, всколыхнувший новую волну террора. И ужас ожил снова, и снова в каждом встречном видится убийца!..",
+               "image": "https://static.okko.tv/images/v3/15675970?scale=1&quality=80"
+            }
+         },
+         "image": "https://static.okko.tv/images/v3/15675970?scale=1&quality=80",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_28_20/09/28/15/S7VAICGW/Z6NYEZ6L.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Крик",
+         "titleFooter": "Крик 3",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Крик 3{col}{br}Как и должно было случиться, ужасные происшествия в Вудсборо стали идеальным материалом для Голливуда: там снималась уже третья серия фильма «Удар ножом». Тем временем Сидни ведет уединенный образ жизни в Северной Калифорнии, где и узнает о новых чудовищных убийствах. Прошлое вновь назначает ей смертельную встречу, и на этот раз круг должен замкнуться.",
+               "image": "https://static.okko.tv/images/v3/16502021"
+            }
+         },
+         "image": "https://static.okko.tv/images/v3/16502021",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/05_11_23/05/11/12/IKTD47IE/G3QFOOAC.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Крик",
+         "titleFooter": "Крик 4",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Крик 4{col}{br}Сидни Прескотт последние несколько лет провела в относительной тишине и покое. Жизнь потихоньку налаживается, вдали от вспышек и видеокамер папарацци. Но когда находят труп одного из студентов, мир Сидни Прескотт вновь начинает рушиться. Всему виной возродившийся убийца в маске «Лицо призрака».",
+               "image": "https://static.okko.tv/images/v3/8983427"
+            }
+         },
+         "image": "https://static.okko.tv/images/v3/8983427",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/05_12_23/05/12/04/Y67IEIG3/W4ZEEDA3.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Крик",
+         "titleFooter": "Крик",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Крик{col}{br}Спустя 25 лет после жестоких убийств, потрясших тихий городок Вудсборо, и выхода серии культовых слэшеров на основе тех событий старшеклассница Тара подвергается нападению, такому же, как и в фильме. Узнав о случившемся, в Вудсборо возвращается её старшая сестра Сэм и просит бывшего шерифа городка Дьюи Райли помощи в поимке нового убийцы, скрывающегося за маской Призрачного лица.",
+               "image": "https://s6.stc.all.kpcdn.net/afisha/msk/wp-content/uploads/sites/5/2022/01/krik-2022-1.jpg"
+            }
+         },
+         "image": "https://s6.stc.all.kpcdn.net/afisha/msk/wp-content/uploads/sites/5/2022/01/krik-2022-1.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/05_11_23/05/11/12/FA5U246H/VKTRELTS.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fifth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Крик ",
+         "titleFooter": "Крик 6",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Крик 6 {col}{br}Четверо выживших после резни в Вудсборо — сёстры Карпентер и близнецы Чад и Минди — переехали в Нью-Йорк, где пытаются начать жизнь заново. Сэм посещает психотерапевта и к неудовольствию Тары трясётся над каждым её шагом, но, как вскоре выясняется, не зря. Маньяк в маске Призрачного лица снова начинает убивать, и, как предполагает Минди, из числа подозреваемых не стоит исключать ни новых знакомых, ни старых друзей.",
+               "image": "https://itc.ua/wp-content/uploads/2023/03/scream-6-cast-jenna-ortega-courteney-cox.jpg"
+            }
+         },
+         "image": "https://itc.ua/wp-content/uploads/2023/03/scream-6-cast-jenna-ortega-courteney-cox.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_11_23/07/11/00/FZXSZS6Y/KUMSWYE6.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      }
+   ]
+}
