@@ -1,0 +1,177 @@
+{
+   "type": "list",
+   "headline": "ТЕХАСКАЯ РЕЗНЯ БЕНЗОПИЛОЙ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Техасская резня бензопилой",
+         "titleFooter": "Техасская резня бензопилой",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Техасская резня бензопилой{col}{br}Обеспокоенные известием, что хулиганы испоганили кладбище в Техасе, где похоронен их дедушка, Салли и её прикованный к инвалидной коляске брат Франклин собирают друзей и отправляются проверить, не повреждена ли дедушкина могила. Оказавшись в районе кладбища, они решают навестить старую ферму, где жил их дедуля. По соседству расположена ещё одна ферма, внешне довольно неприятная — она украшена жуткими предметами, сделанными из кожи и костей людей и животных, а живёт там жуткая семейка рабочих скотобойни.",
+               "image": "https://static.okko.tv/images/v3/16743148?scale=1&quality=80"
+            }
+         },
+         "image": "https://static.okko.tv/images/v3/16743148?scale=1&quality=80",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/02_23_22/02/23/11/THVDZTHG/EH7YCDHK.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Техасская резня бензопилой",
+         "titleFooter": "Техасская резня бензопилой 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Техасская резня бензопилой 2{col}{br}Двое подростков, колесящих по дорогам штата, звонят на радио и начинают прикалываться, но в этот момент их настигает всесокрушающая бензопила в руках Кожаного лица. Шокированная молодая ведущая слышит в эфире их крики, а позже к ней обращается шериф с просьбой помочь в поимке убийц.",
+               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_Texas_Chainsaw_Massacre_2_Logo.png/274px-The_Texas_Chainsaw_Massacre_2_Logo.png"
+            }
+         },
+         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_Texas_Chainsaw_Massacre_2_Logo.png/274px-The_Texas_Chainsaw_Massacre_2_Logo.png",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/12_06_18/12/06/13/0f1umBfZ/1080_XwRWlLE5.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Техасская резня бензопилой",
+         "titleFooter": "Кожаное лицо ",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Техасская резня бензопилой 3: Кожаное лицо {col}{br}Два студента, едущие на машине от одного побережья к другому, съезжают на заброшенную техасскую дорогу. Ну а тут их и встречает «Кожаное лицо» и его людоедская семейка с кровавыми руками и одной мыслью в голове: как бы кого-нибудь сожрать! Единственный шанс спастись — это иметь достаточно огневой мощи, чтобы снести «Кожаное лицо» и его плотоядную семью с лица земли.",
+               "image": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/09/saw-3.jpg"
+            }
+         },
+         "image": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/09/saw-3.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/12_06_18/12/06/14/q7ul93zM/1080_QhaH38Tw.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Техасская резня бензопилой",
+         "titleFooter": "Новое поколение",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Техасская резня бензопилой 4: Новое поколение{col}{br}Все началось в 1973, когда маньяк с бензопилой терроризировал весь мир. Многие годы он молчал… И сейчас его пила взвыла снова!В лесных дебрях незнакомцев поджидает семейка маньяков и психопатов - они не родственники, но составляют клан, объединенный общей страстью к разрушению, боли и смерти.",
+               "image": "http://image.tmdb.org/t/p/w1280/unyxZSq5S7cla9CC2Z0wFTXwIbD.jpg"
+            }
+         },
+         "image": "http://image.tmdb.org/t/p/w1280/unyxZSq5S7cla9CC2Z0wFTXwIbD.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/04_27_20/04/27/16/7IUECH4F/GVWWQFX5.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Техасская резня бензопилой",
+         "titleFooter": "Начало",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Техасская резня бензопилой: Начало{col}{br}Братья с подружками отправляются в автомобильное путешествие, которое должно стать последним развлечением перед отправкой во Вьетнам. По дороге они попадают в аварию, и тут появляется местный шериф, знакомство с которым становится началом сущего кошмара: ребята оказываются в мрачном доме, где проживает беспощадный убийца по прозвищу Кожаное Лицо.",
+               "image": "https://i.ytimg.com/vi/ZgHU9mIpmQs/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/ZgHU9mIpmQs/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/12_08_18/12/08/19/ThnyR6E3/1080_C420XiKB.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fifth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Техасская резня бензопилой",
+         "titleFooter": "Техасская резня бензопилой 3D",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Техасская резня бензопилой 3D{col}{br}Местный шериф согласился организовать для Джеба Сойера, который и скрывался под Кожаным лицом, честный судебный процесс и предоставить ему адвоката. Однако его намерениям мешает мэр, который ведет за собой толпу людей, жаждущих линчевать кровавого маньяка. Когда ситуация начинает выходить из-под контроля, а горожане принимаются ладить петли для убийцы, кто-то бросает в дом Сойера бутылку с зажигательной смесью. Дом сгорает, а вместе с ним в огне гибнут и все, кто в нем находился, включая самого Джеба и его отца. Разумеется, спустя определенное время убийства с помощью бензопилы начинаются снова. Первое предположение шерифа — Джеб Сойер выжил и решил отомстить. Но он ли это на самом деле? И если нет, то кто?",
+               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYfJD2OK5m4o9NIZo7L55-DvNS7So23zsmfA&usqp=CAU"
+            }
+         },
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYfJD2OK5m4o9NIZo7L55-DvNS7So23zsmfA&usqp=CAU",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_07_20/07/07/13/SGJFRJR6/HNKRAGOZ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Техасская резня бензопилой",
+         "titleFooter": "Кожаное лицо",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Техасская резня бензопилой: Кожаное лицо{col}{br}При побеге из лечебницы для душевнобольных, четверо подростков похищают молодую медсестру. В погоню за ними пускается отряд полицейских во главе с техасским рейнджером Хэлом Хартменом, мстительным и беспощадным. Один из беглецов встает на полный трагедий и ужасов путь, который превратит его в маньяка — легенду по имени Кожаное лицо.",
+               "image": "https://telegra.ph/file/6c012303396d964beb3fa.png"
+            }
+         },
+         "image": "https://telegra.ph/file/6c012303396d964beb3fa.png",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_29_21/07/29/18/2AN344NS/V2B2D32C.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Техасская резня бензопилой",
+         "titleFooter": "Техасская резня бензопилой",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Техасская резня бензопилой{col}{br}Почти полвека прошло с тех пор, как пять молодых людей подверглись нападению маньяка с бензопилой неподалёку от города Остин в Техасе. Убийцу так и не нашли, а единственная выжившая в той бойне, Салли Хардести, больше не общалась с прессой.Очередная компания молодёжи приезжает в маленький город-призрак Харлоу, чтобы распродать его здания с аукциона и восстановить заброшенное место. Но по прибытии выясняется, что в одном доме, бывшем приюте, всё ещё живёт его пожилая сотрудница, а с ней — её великовозрастный воспитанник. Смерть старушки от сердечного приступа провоцирует его снова надеть кожаную маску, взять в руки любимую бензопилу и максимально сократить количество незваных гостей.",
+               "image": "https://v1.popcornnews.ru/upload/editor/kinopoisk.jpg"
+            }
+         },
+         "image": "https://v1.popcornnews.ru/upload/editor/kinopoisk.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/02_22_22/02/22/22/QAX5LOZV/TAKOXREX.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      }
+   ]
+}
