@@ -78,6 +78,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/koshmar_vyazov.json"
       },
       {
+         "titleHeader": "{col:msx-white}Пятница 13-е",
+         "description": "«Пятница, 13-е» — киносериал фильмов ужасов. В центре истории большинства фильмов — Джейсон Вурхиз — сверхъестественный серийный убийца в хоккейной маске, роль которого исполняли разные актёры. Основная популярность киносериала приходится на 80-е годы XX века.",
+         "backdrop": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2018/02/neca-18-inch.jpg",
+         "image": "https://vistapointe.net/images/friday-the-13th-4.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Friday_the_13th.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ВОСТАВШИЙ ИЗ АДА",
          "description": "«Восставший из ада» — серия фильмов ужасов, состоящая из десяти частей. Премьера первой части состоялась в 1987 году и являлась экранизацией одноимённого произведения Клайва Баркера. Писатель решил сам экранизировать собственное произведение. При достаточной бюджетности фильм имел немалый успех, поэтому, естественно, последовали продолжения.",
          "backdrop": "https://cdnb.artstation.com/p/assets/images/images/025/697/803/large/gonzalo-canepa-snapshot-05-0000.jpg?1586646090",
