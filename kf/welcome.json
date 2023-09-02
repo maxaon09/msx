@@ -232,6 +232,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Fast.json"
       },
       {
+         "titleHeader": "{col:msx-white}13-Й РАЙОН",
+         "description": "Париж, из-за разгула преступности некоторые особо опасные районы французской столицы превращены в закрытые зоны и отгорожены от благополучных кварталов бетонной стеной. За ней бурлит совсем другая жизнь: здесь процветает торговля наркотиками и оружием, здесь даже дети не выходят из дома без оружия, здесь полиция не стоит на страже закона... ",
+         "backdrop": "https://cinestartvchannels.si/wp-content/uploads/2019/07/BANLIEUE13_2.jpg",
+         "image": "https://ins.server-img.lfstrm.tv/image/aHR0cDovL2lucy5zZXJ2ZXItY21zLmxmc3RybS50di9hcmNoaXZlLWltZy9zdGF0aWMvbWVkaWEvZTcvN2QvZTc3ZGJlZDc2NzI4MjYxMTc2ZjgzMGZhZWZiYTE5NTEuanBn",
+         "action": "content: https://maxaon09.github.io/msx/kf/Banlieue_13.json"
+      },
+      {
          "titleHeader": "{col:msx-white}РИДДИК",
          "description": "Риддик – это выживший житель планеты Фурия. Как позже выяснится, он один остался. Герой обладает незаурядными способностями: он может прекрасно видеть в темноте и ловко выйти из любой ситуации, у него сильно развито обоняние. Этому герою посвящено три полноценных фильма.",
          "backdrop": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/07/Riddick-on-the-surface-of-Crematoria-in-The-Chronicles-Of-Riddick.jpg",
