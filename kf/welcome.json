@@ -148,6 +148,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Final_Destination.json"
       },
       {
+         "titleHeader": "{col:msx-white}ПАРОНОРМАЛЬНОЕ ЯВЛЕНИЕ",
+         "description": "Франшиза, которая вновь ввела моду на псевдодокументальный стиль повествования. После «Паранормального явления» эта стилистика стала присутствовать в фильмах всех жанров: комедии, ужасы, боевики, драмы, фантастика. Помимо необычного на тот момент представления на экране, интерес вызывает сюжет.",
+         "backdrop": "https://www.gannett-cdn.com/media/USATODAY/USATODAY/2012/10/21/paranormal-16_9.jpg",
+         "image": "https://www.film-rezensionen.de/wp-content/uploads/2016/03/Paranormal-Activity-Ghost-Dimension-Szene-2.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Paranormal_Activity.json"
+      },
+      {
          "titleHeader": "{col:msx-white}КРИК",
          "description": "«Крик» — американская кинофраншиза, созданная сценаристом Кевином Уильямсоном и режиссёром Уэсом Крэйвеном, куда входят фильмы-триллеры. Серия фильмов получила значительное признание критиков. «Крику» приписывают возрождение жанра хоррор в конце 90-х, совмещая традиционный фильм ужасов с юмором и оригинальным сюжетом.",
          "backdrop": "https://i0.wp.com/www.ecodelcinema.com/wp-content/uploads/2020/10/scream-4-sfondo-1200x630-1.jpg",
