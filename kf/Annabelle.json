@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "Проклятие Аннабель",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Проклятие Аннабель",
+         "titleFooter": "Проклятие Аннабель",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Проклятие Аннабель{col}{br}Джон находит идеальный подарок для своей жены – это редкая старинная кукла в белом свадебном платье. Но восторг от подарка продлился недолго. Однажды ночью в их дом вторгаются члены сатанинского культа…",
+               "image": "https://2x2tv.ru/upload/iblock/f32/2qykbizh3u8fwm20ceqhmjnpy3zi5jfv.jpg"
+            }
+         },
+         "image": "https://2x2tv.ru/upload/iblock/f32/2qykbizh3u8fwm20ceqhmjnpy3zi5jfv.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_06_20/07/06/12/GFU4JKFV/RQ6FQSAU.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Проклятие Аннабель",
+         "titleFooter": "Проклятие Аннабель: Зарождение зла",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Проклятие Аннабель: Зарождение зла{col}{br}Через несколько лет после трагической гибели маленькой дочери кукольник и его жена приглашают в свой дом монахиню и нескольких девочек из приюта, вскоре становящихся мишенью для одержимого создания кукольника – Аннабель.",
+               "image": "https://2x2tv.ru/upload/iblock/5b4/tz3llruhnout972mhx11cukb4hpszcjm.jpg"
+            }
+         },
+         "image": "https://2x2tv.ru/upload/iblock/5b4/tz3llruhnout972mhx11cukb4hpszcjm.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/06_26_20/06/26/23/GSIPDXBM/3GPISJW5.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Проклятие Аннабель ",
+         "titleFooter": "Проклятие Аннабель 3",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Проклятие Аннабель 3{col}{br}Преисполнившись решимости удержать Аннабель от дальнейших разрушений и хаоса, демонологи Эд и Лоррейн Уоррены приносят одержимую куклу в запертую комнату артефактов в своем доме, поместив ее под «надежное» освященное стекло и заручившись благословением священника. Однако беспросветная ночь ужаса ждет обитателей дома, когда Аннабель пробуждает злых духов комнаты и их новой мишенью становится десятилетняя дочь Уорренов Джуди и ее друзья.",
+               "image": "https://viasat-small.cdnvideo.ru/viasat/production/contents/2ff98864-1228-4c95-bd31-5d749fdc77bd/backgrounds/vm5e2vz639uc4e41d8put9upis8s?w=760"
+            }
+         },
+         "image": "https://viasat-small.cdnvideo.ru/viasat/production/contents/2ff98864-1228-4c95-bd31-5d749fdc77bd/backgrounds/vm5e2vz639uc4e41d8put9upis8s?w=760",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/02_26_23/02/26/18/V6DLV4K6/EAKLFEPB.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}
