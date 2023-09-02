@@ -380,6 +380,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Fantastic_Four.json"
       },
       {
+         "titleHeader": "{col:msx-white}ДЭДПУЛ",
+         "description": "«Дэдпул» – картина о супергерое комиксов издательства Marvel, в которой обычная высокопарность этого жанра удачно разбавлена гранжем. Это легкомысленное развлекательное кино из серии о супермужчинах в трико, не более, но со своей спецификой – саркастическими остротами и кладбищенским юмором.",
+         "backdrop": "https://pbs.twimg.com/media/DjCdv8IU8AANBxp?format=jpg&name=large",
+         "image": "https://www.toyark.com/wp-content/uploads/2019/05/Deadpool-Maximum-Fine-Art-Statue-009.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Deadpool.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ПЕРВЫЙ МСТИТЕЛЬ",
          "description": "«Первый мститель» — американский супергеройский фильм 2011 года, основанный на персонаже комиксов издательства Marvel Comics. По сюжету во время Второй мировой войны Стив Роджерс, худощавый юноша, превращается в суперсолдата Капитана Америку. Он должен помешать нацисту Красному Черепу использовать Тессеракт в качестве источника энергии для мирового господства.",
          "backdrop": "https://pbs.twimg.com/media/Dl13ob9XgAA3u5U?format=jpg&name=large",
