@@ -632,6 +632,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/malchishnik.json"
       },
       {
+         "titleHeader": "{col:msx-white}ПРИШЕЛЬЦЫ",
+         "description": "«Пришельцы» — французский фантастический комедийный фильм режиссера Жана-Мари Пуаре о приключениях рыцаря Годфруа де Монмирая и его слуги Жакуя Пройдохи, которые из средневековья попадают в 1990-е годы и вынуждены осваиваться в современном мире. ",
+         "backdrop": "https://images.kinorium.com/movie/shot/98861/w1500_48587439.jpg",
+         "image": "https://w.forfun.com/fetch/59/5989352166300c7795d7e0e808dfea28.jpeg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Les_visiteurs.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ДЖЕЙ И МОЛЧАЛИВЫЙ БОБ",
          "description": "Режиссер Кевин Смит за последние двадцать с лишним лет умудрился создать собственную киновселенную, центральные персонажи которой – Джей и Молчаливый Боб. Их пара служит кривым зеркалом для остальных героев, гротескно отражая обстоятельства, в которых те существуют, и таким образом уделывают всех.",
          "backdrop": "https://www.syfy.com/sites/syfy/files/styles/1200x680_hero/public/2018/03/jay_and_silent_bob.png",
