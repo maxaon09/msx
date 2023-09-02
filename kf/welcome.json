@@ -525,7 +525,7 @@
          "backdrop": "https://cdn.shopify.com/s/files/1/0182/8937/files/Taron_Egerton-The-Golden-Cricle_1024x1024.jpg?v=1510923497",
          "image": "https://a-static.besthdwallpaper.com/kingsman-ii-cast-wallpaper-3840x2400-16642_9.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/Kingsman.json"
-      }?
+      },
       {
          "titleHeader": "{col:msx-white}ИП МАН",
          "description": "Ип Мэн - серия гонконгских фильмов о боевых искусствах, основанных на событиях из жизни мастера Вин Чун с тем же именем. Прародителем сериала был Ип Мэн (2008), за которым последовали три продолжения. У каждого фильма своя уникальная тема",
@@ -602,6 +602,13 @@
          "backdrop": "https://images.bauerhosting.com/legacy/empire-images/features/560ec11c50e6c513721c392a/back-to-the-future-still.jpg?format=jpg&amp;quality=80&amp;width=960&amp;height=540&amp;ratio=16-9&amp;resize=aspectfill",
          "image": "https://www.giantfreakinrobot.com/wp-content/uploads/2020/10/back-to-the-future-the-musical.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/Back_Future.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ДЖУМАНДЖИ",
+         "description": " Джуманджи - американская медиа-франшиза о приключениях различных людей, которые оказываются в опасности, играя в волшебную игру, которая включает в себя множество опасных элементов джунглей, которые игроки должны пережить во время игры. ",
+         "backdrop": "https://cdn.shopify.com/s/files/1/0182/8937/files/Taron_Egerton-The-Golden-Cricle_1024x1024.jpg?v=1510923497",
+         "image": "https://a-static.besthdwallpaper.com/kingsman-ii-cast-wallpaper-3840x2400-16642_9.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Kingsman.json"
       },
       {
          "titleHeader": "{col:msx-white}НОЧЬ В МУЗЕЕ",
