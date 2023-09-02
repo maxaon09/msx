@@ -120,6 +120,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Underworld.json"
       },
       {
+         "titleHeader": "{col:msx-white}АСТРАЛ",
+         "description": "«Астрал» — серия фильмов сценариста Ли Уоннелла, снимается с 2010 года. Серия состоит из 5 фильмов в жанре фильм ужасов, повествует о паранормальных явлениях, которые расследуют демонологи. Первые две части связаны с мальчиком, умеющим выходить в астрал, другие фильмы также связаны с потусторонними мирами и неведомыми силами. ",
+         "backdrop": "https://images.squarespace-cdn.com/content/v1/53f119fde4b0cc6081eeaacb/1420749461427-HGVPUUQRKT9O1AFLBS1N/insidious.jpg",
+         "image": "https://questguild.ru/quests_photos/5944/astral_4__moskva_1_qg_large.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Insidious.json"
+      },
+      {
          "titleHeader": "{col:msx-white}МУМИЯ",
          "description": "Мумия - приключенческий фильм ужасов медиа-франшиза, основанная на фильмах Universal Pictures о мумифицированном древнеегипетском священнике, который случайно воскрес, принеся с собой мощное проклятие, и последовавших за этим героических попытках археологов остановить его.",
          "backdrop": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/671/931/TheMummy_3488.jpg",
