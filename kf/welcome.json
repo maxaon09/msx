@@ -366,6 +366,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/j_born.json"
       },
       {
+         "titleHeader": "{col:msx-white}ДЖЕК РИЧЕР",
+         "description": "Его находят и арестовывают. Все улики указывают на него. На допросе вместо признания он пишет имя - Джек Ричер. Больше обвиняемый не может ничего сказать, поскольку впадает в кому. Загадочный Джек Ричер появляется незамедлительно. Что теперь будет с убийцей?",
+         "backdrop": "https://img.goodfon.ru/original/2560x1600/6/3a/jack-reacher-tom-cruise.jpg",
+         "image": "https://w.forfun.com/fetch/fd/fd2115a43f800ef7f05b12fc6da32042.jpeg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Jack_Reacher.json"
+      },
+      {
          "titleHeader": "{col:msx-white}МЕХАНИК",
          "description": "Остросюжетный боевик с Джейсоном Стетхэмом в главной роли. Таких как Артур Бишоп в узких кругах называют «механики» — это кодовое обозначение для профессиональных киллеров высокого класса. Когда нужно убрать кого-то быстро и незаметно, дело поручают Артуру, ведь он — лучший в своём деле: умный, ловкий, сильный, с идеальными навыками убийцы",
          "backdrop": "https://pbs.twimg.com/media/CoYC37BWgAAUT5V?format=jpg&name=large",
