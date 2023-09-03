@@ -66,21 +66,21 @@
       {
          "titleHeader": "{col:msx-white}ЗВЕЗДНЫЕ ВОЙНЫ",
          "description": "«Звёздные войны» (англ. Star Wars) — североамериканская фантастическая медиафраншиза, созданная Джорджем Лукасом. В ней описываются приключения множества персонажей, происходящие «давным-давно, в далёкой-далёкой галактике». ",
-         "backdrop": "https://2.bp.blogspot.com/-TCiLxlfVVWE/VrLmkMdRPcI/AAAAAAAAR_o/qfyiTmZxfj4/s400/Star_wars_return_of_the_jedi-1278919-1920x1080.jpg",
+         "backdrop": "https://yt3.googleusercontent.com/TW_PzYl_x03AYqXNeb7dT4unzUIWNKO4RHjjX50_Ng9UWbXpdrlX9UYmg9y1VbVJsqSfXtr8G_Y=s900-c-k-c0x00ffffff-no-rj",
          "image": "https://img1.hochu.ua/uploads/68/bd/6f/68bd6fa1-451f-44fc-be54-64944b575465.jpeg",
          "action": "content: https://maxaon09.github.io/msx/kf/star_wars.json"
       },
       {
          "titleHeader": "{col:msx-white}КОШМАР НА УЛИЦЕ ВЯЗОВ",
          "description": "«Кошмар на улице Вязов» — медиафраншиза, основанная на одноимённом фильме-слэшере 1984 года, созданном режиссёром и сценаристом Уэсом Крэйвеном. Сюжет построен вокруг Фредди Крюгера — призрачного маньяка-убийцы являющегося своим жертвам во снах и убивая подростков, живущих в вымышленном городе Спрингвуд.",
-         "backdrop": "https://images.squarespace-cdn.com/content/v1/574f0b9a37013b939ab0b866/1509643231212-B77XCJBJRR1OIY6GEHUY/1084022112.jpg",
+         "backdrop": "https://yt3.ggpht.com/ytc/AKedOLQmGf4O6LRb80rr88GDQA-i9A8fS1XbEgpFNM91=s900-c-k-c0x00ffffff-no-rj",
          "image": "https://cultura-yamala.ru/wp-content/uploads/2019/12/98d922bbc39eb478d66a6d6f8ab361d5.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/koshmar_vyazov.json"
       },
       {
          "titleHeader": "{col:msx-white}Пятница 13-е",
          "description": "«Пятница, 13-е» — киносериал фильмов ужасов. В центре истории большинства фильмов — Джейсон Вурхиз — сверхъестественный серийный убийца в хоккейной маске, роль которого исполняли разные актёры. Основная популярность киносериала приходится на 80-е годы XX века.",
-         "backdrop": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2018/02/neca-18-inch.jpg",
+         "backdrop": "https://yt3.ggpht.com/a/AATXAJwXBS30RWFs-1UFMxpMiA6MBzkHpgg4vPfsPA=s900-c-k-c0xffffffff-no-rj-mo",
          "image": "https://vistapointe.net/images/friday-the-13th-4.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/Friday_the_13th.json"
       },
@@ -143,7 +143,7 @@
       {
          "titleHeader": "{col:msx-white}ПУНКТ НАЗНАЧЕНИЯ",
          "description": "Пункт назначения - франшиза фильма ужасов, созданная Джеффри Реддиком. Сериал фокусируется на группах людей, пытающихся избежать смерти после того, как у одного из них появляется предчувствие, что все они должны умереть, и он спасает их, внося раскол в замысел Смерти. Сама Смерть пытается все исправить, убивая всех тех, кто нарушил баланс жизни и смерти. ",
-         "backdrop": "https://api.bashinform.ru/attachments/93d963711e272e34d01597c20d1592ac4b44bfe7/store/crop/0/0/1024/576/1600/0/0/75abf967b525baafc0aec7b9d01552b06f86485d9b959a5995631feeda19/02083d31a06a82a390dd00fc72f2048e.jpg",
+         "backdrop": "https://yt3.ggpht.com/a/AATXAJxqP9UVEZwbD13lbimsB4ZLkJSxzgFduEIZvR60=s900-c-k-c0xffffffff-no-rj-mo",
          "image": "https://imgsrc.cineserie.com/2020/10/le-prochain-destination-finale-ne-sera-pas-un-simple-reboot-1.jpg?ver=1",
          "action": "content: https://maxaon09.github.io/msx/kf/Final_Destination.json"
       },
@@ -199,7 +199,7 @@
       {
          "titleHeader": "{col:msx-white}ВЕНОМ",
          "description": "«Ве́ном» — американский супергеройский фильм с участием одноимённого антигероя Marvel Comics. По сюжету журналист Эдди Брок обретает сверхчеловеческие способности, став носителем инопланетного симбиота Венома, в то время как остальные симбиоты планируют захватить Землю.",
-         "backdrop": "https://static1.srcdn.com/wordpress/wp-content/uploads/2018/10/Venom-Eddie-Brock-2.jpg",
+         "backdrop": "https://yt3.ggpht.com/a/AGF-l7_iBO1rAcytsIGNvY4cfAcxkiROvcx5xD8fxQ=s900-c-k-c0xffffffff-no-rj-mo",
          "image": "https://i.ytimg.com/vi/gn0MVrMD1T4/maxresdefault.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/venom.json"
       },
