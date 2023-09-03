@@ -91,11 +91,11 @@
          "type": "separator"
       },
       {
-         "icon": "live-tv",
+         "icon": "search",
          "iconSize": "extra-large",
-         "label": "OLSIB TV",
+         "label": "НАЙТИ",
          "extensionLabel": "",
-         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://olsib.at.ua/vip/List/OLSIB-tv.m3u"
+         "data": "request:interaction:init@http://llpp.in/m/im/search.html?url=http%3A%2F%2Fllpp.in%2Fm%2Fim%2Fs.php%3Fquery%3D%7BQUERY%7D"
       },
       {
          "type": "separator"
