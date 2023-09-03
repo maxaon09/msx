@@ -79,10 +79,10 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}Плохие парни навсегда{col}{br}Детективы Майк Лоури и Маркус Бёрнетт снова в деле! Правда, их отстраняют от всех операций, но разве отчаянных друзей когда-нибудь что-либо останавливало? Ведь на этот раз на Майка открывает охоту некто из его прошлой жизни. Так что парням придется отжечь по полной!",
-               "image": "https://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/455987/gZNN3r5PFPH9prkOiUzVJw.jpg"
+               "image": "https://avatars.dzeninfra.ru/get-zen_doc/1640581/pub_5e1a19c95ba2b500b22bb2a6_5e1a19d86d29c100af7952d0/scale_1200"
             }
          },
-         "image": "https://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/455987/gZNN3r5PFPH9prkOiUzVJw.jpg",
+         "image": "https://avatars.dzeninfra.ru/get-zen_doc/1640581/pub_5e1a19c95ba2b500b22bb2a6_5e1a19d86d29c100af7952d0/scale_1200",
          "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/05_14_21/05/14/15/VEGFWAYQ/XRR3YRD4.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
