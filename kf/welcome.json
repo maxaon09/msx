@@ -450,6 +450,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Captain_America.json"
       },
       {
+         "titleHeader": "{col:msx-white}БЭТМЕН",
+         "description": " Бэтмен - один из самых известных супергероев вселенной DC, защитник Готэма. Бэтмен - это альтер-эго Брюса Уэйна, миллиардера, промышленника и филантропа, который объявил войну преступности после того, как его родителей убил на его глазах грабитель Джо Чил, когда Брюсу было всего 8 лет.",
+         "backdrop": "https://yt3.ggpht.com/ytc/AKedOLRIIXrJmIW5R8WjgAnz4WOPw5IO5MGcvRU7rRLM=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://images.hdqwalls.com/download/batman-begins-4k-rn-1280x1024.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Batman.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ХЕЛЛБОЙ",
          "description": "Спецагент-демон Хеллбой противостоит великой средневековой ведьме Нимуэ, воскрешенной спустя столетия. В борьбе людей и нечисти Хеллбою придется выбирать, на чьей он стороне. ",
          "backdrop": "https://play-lh.googleusercontent.com/proxy/QLv6LDi9gAPTtyqUHVOxoRZhEKrYuOMuq-F83q8Uzq7hQO4cVNYJ4RU1ILNA366qAump8CJADZO0h8nDsZd-DItVxFCsKIbbJ8Lf5KUxalCRO0IydLxK=s1920-w1920-h1080",
