@@ -345,6 +345,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/John_Wick.json"
       },
       {
+         "titleHeader": "{col:msx-white}УБИТЬ БИЛЛА",
+         "description": "«Убить Билла» — фильм режиссёра Квентина Тарантино, снятый по его же сценарию. Фильм рассказывает историю женщины по имени Беатрикс Киддо, в прошлом бывшей наёмным убийцей. Главные роли в картине исполнили Ума Турман и Дэвид Кэррадайн. Сюжет дилогии нелинеен и разбит на главы.",
+         "backdrop": "https://m.media-amazon.com/images/M/MV5BMTg2MzM2ODI1OV5BMl5BanBnXkFtZTcwMjQ5OTEyNw@@._V1_FMjpg_UX1000_.jpg",
+         "image": "https://sm.ign.com/t/ign_ap/news/c/comic-con-/comic-con-2015-quentin-tarantino-says-kill-bill-3_qgtd.1200.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Kil_Bill.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ОБИТЕЛЬ ЗЛА",
          "description": "«Обитель зла» — серия фильмов, снятая по сценарию Пола Андерсона, является киноадаптацией серии компьютерных игр компании Capcom Resident Evil.",
          "backdrop": "https://images.kinorium.com/movie/shot/328871/w1500_48519189.jpg",
