@@ -295,6 +295,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/vlastelin.json"
       },
       {
+         "titleHeader": "{col:msx-white}МИФИКА",
+         "description": "Молодая волшебница Марек, рожденная с темной способностью к некромантии, учится использовать во благо ту силу, которая способна погубить ее саму. Вместе с командой друзей она пытается помешать злодейским планам Темного Властелина. ",
+         "backdrop": "https://yt3.ggpht.com/ytc/AKedOLQtbcDbNrww6fufMam3j9JenThmY1WLpRYDtWT8=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://w.forfun.com/fetch/9b/9ba43f9fbcf1561403f4364e5acf4fae.jpeg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Mythica.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ХОББИТ",
          "description": "«Хо́ббит» — поставленная режиссёром Питером Джексоном серия из трёх связанных единым сюжетом кинофильмов, представляющая собой экранизацию повести Дж. Р. Р. Толкина «Хоббит, или Туда и обратно».",
          "backdrop": "https://pbs.twimg.com/media/B5xK_WVIIAAwoXY.jpg",
