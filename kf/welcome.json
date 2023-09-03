@@ -302,6 +302,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Mythica.json"
       },
       {
+         "titleHeader": "{col:msx-white}Перси Джексон и похититель молний",
+         "description": "Подросток узнает, что он - потомок греческого бога и намеревается предпринять опасное приключение, дабы уладить продолжающиеся распри между богами. Фильм снят по книге Рика Риордана. Продюсер: Марк Морган, Гай Озери.",
+         "backdrop": "https://yt3.ggpht.com/a/AGF-l79dU0sHDuFpT1VnJe-w8JIO6PJ7x4vbq5QeuA=s900-mo-c-c0xffffffff-rj-k-no",
+         "image": "https://kg-portal.ru/img/108631/main_2x.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Percy_Jackson.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ХОББИТ",
          "description": "«Хо́ббит» — поставленная режиссёром Питером Джексоном серия из трёх связанных единым сюжетом кинофильмов, представляющая собой экранизацию повести Дж. Р. Р. Толкина «Хоббит, или Туда и обратно».",
          "backdrop": "https://pbs.twimg.com/media/B5xK_WVIIAAwoXY.jpg",
