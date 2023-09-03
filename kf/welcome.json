@@ -639,6 +639,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/American_Pie.json"
       },
       {
+         "titleHeader": "{col:msx-white}ЭЛВИН И БУРУНДУКИ",
+         "description": " «Элвин и бурундуки» – американский комедийный сюжет о трех необычных бурундуках и их приключениях. В основе истории лежит развитие вымышленного музыкального коллектива. Франшиза насчитывает четыре части. ",
+         "backdrop": "https://yt3.ggpht.com/ytc/AKedOLRiwxOsUTM0o3YuA6Vo_8eguvV4lL_nYr6gphXk=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://pbs.twimg.com/media/DEN1J9GUwAARSN7?format=jpg&name=large",
+         "action": "content: https://maxaon09.github.io/msx/kf/21_Jump_Street.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ПОЛИЦЕЙСКАЯ АКАДЕМИЯ",
          "description": "Полицейская академия — одна из самых успешных кинофраншиз в истории Голливуда. В фильме рассказывается о группе новобранцев-неудачников, пытающихся доказать, что они способны быть полицейскими, и добиться успеха как вопреки, так и благодаря своей эксцентричности.",
          "backdrop": "https://artworks.thetvdb.com/banners/v4/series/76516/backgrounds/62519d3ada855.jpg",
