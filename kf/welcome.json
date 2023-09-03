@@ -344,6 +344,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/I_ Jones.json"
       },
       {
+         "titleHeader": "{col:msx-white}СОКРОВИЩЕ НАЦИИ",
+         "description": " Современные охотники за сокровищами узнают старинную легенду о сокровище, спрятанном еще отцами-основателями американского государства Джорджем Вашингтоном, Бенджамином Франклином и Томасом Джефферсоном. Николас Кейдж, Дайан Крюгер, Шон Бин, Джон Войт и Харви Кейтель в увлекательном приключенческом фильме для всей семьи ",
+         "backdrop": "https://yt3.ggpht.com/ytc/AKedOLSSe29Nsy6mQ8xtlZSFeAcL3zStjjtwJU7l9_4O=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://i.ytimg.com/vi/A1_2p_3qz9g/maxresdefault.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/National_Treasure.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ВЕЛИКИЙ УРАВНИТЕЛЬ",
          "description": "«Великий уравнитель» — боевик продюсера Антуана Фукуа по сценарию Ричарда Уэнка, основанный на одноимённом телесериале. В главной роли — Дензел Вашингтон,",
          "backdrop": "https://m.media-amazon.com/images/M/MV5BZjE2NDc3MmEtODlkOS00MjRmLWEzZGQtNDY3ZDgzNzcxMjQ0XkEyXkFqcGdeQXVyNzU3Nzk4MDQ@._V1_.jpg",
