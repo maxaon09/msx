@@ -79,26 +79,6 @@
          "label": "Комедия",
          "extensionLabel": "",
          "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/kf/pl/comedy.m3u8"
-      },
-      {
-         "icon": "tv",
-         "iconSize": "small",
-         "label": "СССР/ ех-СССР",
-         "extensionLabel": "",
-         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/kf/pl/USSR.m3u8"
-      },
-      {
-         "type": "separator"
-      },
-      {
-         "icon": "search",
-         "iconSize": "extra-large",
-         "label": "НАЙТИ",
-         "extensionLabel": "",
-         "data": "request:interaction:init@http://msx.benzac.de/interaction/search.html"
-      },
-      {
-         "type": "separator"
       }
    ]
 }
