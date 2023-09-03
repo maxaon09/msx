@@ -1,0 +1,109 @@
+{
+   "type": "list",
+   "headline": "БЭТМЕН",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Бэтмен",
+         "titleFooter": "Бэтмен: Начало (2005)",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Бэтмен: Начало (2005){col}{br}В детстве юный наследник огромного состояния Брюс Уэйн оказался свидетелем убийства своих родителей, и тогда он решил бороться с преступностью. Спустя годы он отправляется в путешествие по миру, чтобы найти способ восстановить справедливость. Обучение у мудрого наставника боевым искусствам дает ему силу и смелость. Вернувшись в родной город, Уэйн становится Бэтменом и ведет борьбу со злом.",
+               "image": "https://blog.okko.tv/thumb/1420x0/filters:quality(75):no_upscale()/imgs/2023/06/21/02/5954211/37fc2b8652a9d9de5bdf845b3ba8f3f4a7cf1ee8.jpeg"
+            }
+         },
+         "image": "https://blog.okko.tv/thumb/1420x0/filters:quality(75):no_upscale()/imgs/2023/06/21/02/5954211/37fc2b8652a9d9de5bdf845b3ba8f3f4a7cf1ee8.jpeg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_10_20/07/10/23/TAUQ6CVV/NPHTFBYV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Бэтмен",
+         "titleFooter": "Бэтмен: Рыцарь Готэма",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Бэтмен: Рыцарь Готэма{col}{br}Этот мультипликационный фильм повествует о первых приключениях известного супергероя Бэтмэна. Он, фактически, соединяет сюжеты 2-х фильмов Batman Begins и The Dark Knight. Шесть короткометражных историй продолжительностью 11-15 минут, созданные японскими аниматорами.",
+               "image": "https://w.forfun.com/fetch/61/61f5fbc6a7cdd043c92ab91d7677cd80.jpeg"
+            }
+         },
+         "image": "https://w.forfun.com/fetch/61/61f5fbc6a7cdd043c92ab91d7677cd80.jpeg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_17_20/07/17/02/GR4M3CUE/Z5MGAKCJ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Бэтмен",
+         "titleFooter": "Темный рыцарь ",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Темный рыцарь {col}{br}Бэтмен поднимает ставки в войне с криминалом. С помощью лейтенанта Джима Гордона и прокурора Харви Дента он намерен очистить улицы Готэма от преступности. Сотрудничество оказывается эффективным, но скоро они обнаружат себя посреди хаоса, развязанного восходящим криминальным гением, известным напуганным горожанам под именем Джокер.",
+               "image": "https://beedle.club/uploads/posts/2023-03/1678830285_beedle-club-p-temnii-ritsar-beil-fentezi-oboi-1.jpg"
+            }
+         },
+         "image": "https://beedle.club/uploads/posts/2023-03/1678830285_beedle-club-p-temnii-ritsar-beil-fentezi-oboi-1.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/10_24_22/10/24/20/K5OMJSVT/TAW37CIL.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Бэтмен",
+         "titleFooter": "Темный рыцарь: Возрождение легенды",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Темный рыцарь: Возрождение легенды{col}{br}Восемь лет назад Бэтмен растворился в ночи, превратившись из героя в беглеца. Приняв на себя вину за смерть прокурора Харви Дента, он пожертвовал всем. Вместе с комиссаром Гордоном они решили, что так будет лучше для всех. Пока преступность была раздавлена антикриминальным актом Дента, ложь действовала.Тем не менее, еще опаснее становится появление нового врага Бэйна, чье лицо закрыто маской. Он разворачивает в Готэме чудовищную деятельность, и это вынуждает Брюса Уэйна выйти из импровизированного изгнания. Однако даже надев свой костюм, Бэтмен может проиграть Бэйну. Но с появлением хитрой воровки по прозвищу Женщина — Кошка с загадочным прошлым всё меняется.",
+               "image": "https://thumbs.dfs.ivi.ru/storage2/contents/4/3/3dac8ca49b1f15601bb8e0b42a715e.jpg/400x226//"
+            }
+         },
+         "image": "https://thumbs.dfs.ivi.ru/storage2/contents/4/3/3dac8ca49b1f15601bb8e0b42a715e.jpg/400x226//",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/10_25_22/10/25/13/XTSWVACP/7AA5JQ4N.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      }
+   ]
+}
