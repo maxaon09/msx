@@ -148,6 +148,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Final_Destination.json"
       },
       {
+         "titleHeader": "{col:msx-white}СУДНАЯ НОЧЬ",
+         "description": "«Судная ночь» предлагает весьма неординарный и смелый взгляд на будущее человечества. Самое ценное в ленте — именно здорово, изобретательно придуманные обстоятельства кровавой резни. Именно они превращают психологический триллер во впечатляющее политическое высказывание, острое, актуальное и неудобное.",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AMLnZu_sByV6FuEK-bn1bH0hwO97fY6qdtGM-37tfCf2=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://w.forfun.com/fetch/2f/2febcf45fdb746a36ecc0691232334d9.jpeg",
+         "action": "content: https://maxaon09.github.io/msx/kf/The_Purge.json"
+      }.
+      {
          "titleHeader": "{col:msx-white}ТЕХАСКАЯ РЕЗНЯ БЕНЗОПИЛОЙ",
          "description": "«Техасская резня бензопилой» — американский многосерийный слэшер. В центре сюжета каждого фильма — противостояние группы молодых людей маньяку-убийце по прозвищу Кожаное лицо и его семье каннибалов. ",
          "backdrop": "https://avatars.dzeninfra.ru/get-zen_doc/4450356/pub_61f8d9483b05f46924e809d0_61f8d94907318d6ec29371b4/scale_1200",
