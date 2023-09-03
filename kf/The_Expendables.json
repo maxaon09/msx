@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "НЕУДЕРЖИМЫЕ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Неудержимые",
+         "titleFooter": "Неудержимые",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Неудержимые{col}{br}Отряд профессиональных наёмников и отчаянных парней во главе с Барни Россом получает непростое задание - любой ценой найти и уничтожить кровавого тирана-диктатора, нагнетающего страх на мирное население и сеющего хаос в южноамериканской стране.Отправляясь на выполнение нелёгкой миссии, закалённые огнём и водой, прошедшие не одну войну, люди Росса попадают в самое пекло. Отныне им придётся выживать: сплотиться и достигнуть цели, либо отчаяться и погибнуть. И всё же эти храбрые, поистине невозмутимые ребята готовы реализовать даже не реализуемое. Но не всё так просто, как кажется на первый взгляд...",
+               "image": "https://static.okko.tv/images/v3/7940616?scale=1&quality=80"
+            }
+         },
+         "image": "https://static.okko.tv/images/v3/7940616?scale=1&quality=80",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/06_26_20/06/26/15/M5BSUJXB/YNSIZMVW.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Неудержимые",
+         "titleFooter": "Неудержимые 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Неудержимые 2{col}{br}Команда неудержимых возвращается! На этот раз Барни Росс со своей командой получает новое задание: достать кейс из разбившегося самолёта где-то в Албании. Однако никто из них не подозревал, что такое простое дельце на самом деле может превратится в кровавую бойню против безжалостных террористов.",
+               "image": "http://images-s.kinorium.com/movie/poster/554476/w1500_51630685.jpg"
+            }
+         },
+         "image": "http://images-s.kinorium.com/movie/poster/554476/w1500_51630685.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_18_23/07/18/21/Z2FYG25B/UFRBHE5L.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Неудержимые",
+         "titleFooter": "Неудержимые 3",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Неудержимые 3{col}{br}Барни, Кристмас и остальные члены команды сходятся лицом к лицу с Конрадом Стоунбэнксом, многие годы назад основавшем вместе с Барни команду «Неудержимых». Впоследствии Стоунбэнкс становится безжалостным торговцем оружием и тем самым превращается в человека, которого Барни было поручено убить. Или по крайней мере он сам так считал. Теперь Стоунбэнкс, один раз уже сумевший обмануть смерть, поставил себе цель покончить с «Неудержимыми» — но у Барни на этот счет свои планы. Барни решает, что в его борьбе «свежий» подход можно противопоставить старым методам, и пополняет ряды людьми, которые моложе, быстрее и технически более подкованные. Так у членов команды «Неудержимых» начинается новая эра. Последняя миссия превращается в столкновение между представителями классической старой школы и экспертами в высоких технологиях.",
+               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHeD_L7uZjqlVw5HlAhYZgEr5KrtMJdXPhg&usqp=CAU"
+            }
+         },
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHeD_L7uZjqlVw5HlAhYZgEr5KrtMJdXPhg&usqp=CAU",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_18_23/07/18/20/EJQXJHBW/QA3ULEUJ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}
