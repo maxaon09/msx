@@ -95,7 +95,7 @@
          "iconSize": "extra-large",
          "label": "НАЙТИ",
          "extensionLabel": "",
-         "data": "request:interaction:init@http://llpp.in/m/im/search.html?url=http%3A%2F%2Fllpp.in%2Fm%2Fim%2Fs.php%3Fquery%3D%7BQUERY%7D"
+         "data": "request:interaction:init@https://maxaon09.github.io/msx/kf/search/searh.html"
       },
       {
          "type": "separator"
