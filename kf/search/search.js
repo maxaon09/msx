@@ -153,7 +153,7 @@ var search = {
     important: true,
     headline: null,
     transparent: 2,
-    background: "http://llpp.in/m/im/msx/maxresdefault.jpg",
+    background: "https://catherineasquithgallery.com/uploads/posts/2021-02/1614147664_30-p-serebryanii-fon-na-telefon-33.jpg",
     template: {
         type: "separate",
         layout: "0,0,2,4",
