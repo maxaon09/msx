@@ -1,0 +1,81 @@
+{
+   "type": "list",
+   "dictionary": "https://maxaon09.github.io/msx/dictionary.json",
+   "headline": "МУЛЬТФРАНШИЗЫ",
+   "transparent": 2,
+   "preload": "next",
+   "underlay": {
+      "action": "[quiet|delay:backdrop:1:interaction:load:http://msx.benzac.de/interaction/backdrop.html]",
+      "data": {
+         "url": "none"
+      },
+      "items": [
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "0,0,6,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,3,3",
+      "area": "0,3,12,3",
+      "wrapperColor": "msx-glass",
+      "imageHeight": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover",
+      "truncation": "titleHeader|titleFooter",
+      "titleHeader": "",
+      "titleFooter": "",
+      "description": "No description available.",
+      "backdrop": "none",
+      "image": "none",
+      "selection": {
+         "important": true,
+         "action": "data",
+         "data": {
+            "actions": [
+               {
+                  "action": "invalidate:content:underlay:text"
+               },
+               {
+                  "action": "delay:text:1:update:content:underlay:text",
+                  "data": {
+                     "headline": "{context:titleHeader}",
+                     "text": "{context:titleFooter}{br}{br}{context:description}"
+                  }
+               },
+               {
+                  "action": "delay:backdrop:1:interaction:load:http://msx.benzac.de/interaction/backdrop.html",
+                  "data": {
+                     "url": "{context:backdrop}",
+                     "type": 1
+                  }
+               }
+            ]
+         }
+      },
+      "properties": {
+         "image:extension": "| {context:titleHeader}"
+      }
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}РАЛЬФ",
+         "description": "Ральф — второстепенный персонаж компьютерной игры, и ему надоело находиться в тени главного героя. После тридцати лет добросовестной работы в роли злодея Ральф больше не хочет быть плохим и отправляется в путешествие по играм разных жанров, чтобы доказать всем, что и он тоже может быть героем",
+         "backdrop": "https://yt3.ggpht.com/ytc/AKedOLTx5VEEpm5REogdfJU95Vmhcu8shrmqxPQ0qtk-=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://pbs.twimg.com/media/EYYX5laU0AMRYxM.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Ralph.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}КАК ПРИРУЧИТЬ ДРАКОНА",
+         "description": "Сериал повествует о дальнейших приключениях Иккинга и его верного дракона Беззубика, а также остальных юных викингов. Судьба занесёт героев в самые разные места, где они откроют совершенно новых драконов, найдут новые приключения и будут сражаться с новыми злодеями, познавая мир, о котором даже и не подозревали.",
+         "backdrop": "https://yt3.ggpht.com/a/AATXAJwu7mSJkfSK9JSjaB0A-SfFFV9AA4qMzuZ8=s900-c-k-c0xffffffff-no-rj-mo",
+         "image": "https://m.media-amazon.com/images/M/MV5BMTk2NTA4NTc5MF5BMl5BanBnXkFtZTcwNTI0Nzc4OQ@@._V1_.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/How_to_Train_Your_Dragon.json"
+      }
+   ]
+}
