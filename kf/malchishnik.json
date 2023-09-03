@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "МАЛЬЧИШНИК В ВЕГАСЕ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Мальчишник в Вегасе",
+         "titleFooter": "Веном",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Мальчишник в Вегасе (2009){col}{br}Они мечтали устроить незабываемый мальчишник в Вегасе. Но теперь им необходимо вспомнить, что именно произошло: что за ребенок сидит в шкафу номера отеля? Как в ванную попал тигр? Почему у одного из них нет зуба? И, самое главное, куда делся жених?",
+               "image": "https://cdn.smartfacts.ru/176856/malchishnik-v-vegase_1.jpg"
+            }
+         },
+         "image": "https://cdn.smartfacts.ru/176856/malchishnik-v-vegase_1.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/01_18_23/01/18/23/LZWVCQYA/XFLC4ML5.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Мальчишник 2",
+         "titleFooter": "Из Вегаса в Бангкок",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Мальчишник 2: Из Вегаса в Бангкок (2011){col}{br} Четверо друзей Фил, Стю, Алан и Даг отправляются в экзотический Тайланд на свадьбу Стю. После безумного мальчишника в Лас-Вегасе, они решают не испытывать судьбу во второй раз, а потому в Бангкоке планируют очень спокойное и безопасное празднество. Но как обычно, все идет совсем не по плану... ",
+               "image": "https://kartinki.cc/files/img/post/4070/malchishnik-2-iz-vegasa-v-bangkok-25.webp"
+            }
+         },
+         "image": "https://kartinki.cc/files/img/post/4070/malchishnik-2-iz-vegasa-v-bangkok-25.webp",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/07_02_20/07/02/19/FA67ETUX/I7PMLFQY.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Мальчишник: Часть 3",
+         "titleFooter": "Мальчишник: Часть 3",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-whiteМальчишник: Часть III (2013){col}{br} В этот раз никой свадьбы, только безумные дорожные приключения. Во время освобождения Фила, пропадает другой их друг, Даг, которого, как оказалось, забрали гангстеры. Справиться с ними Волчей стае помогут не кто иные, как старые друзья!",
+               "image": "https://info.baiscopelk.com/wp-content/uploads/2013/08/The-Hangover-31.jpg"
+            }
+         },
+         "image": "https://info.baiscopelk.com/wp-content/uploads/2013/08/The-Hangover-31.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/07_08_20/07/08/16/5LMOAKBN/OO74NEZ6.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}
