@@ -828,6 +828,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/ELKI.json"
       },
       {
+         "titleHeader": "{col:msx-white}ГОРЬКО",
+         "description": "«Горько!» - российская романтическая комедия 2013 года о приключениях двух влюбленных, которым не повезло с организацией их самого торжественного события – свадьбы.",
+         "backdrop": "https://api.bashinform.ru/attachments/86d304e75f57ca223c562f136fb99933bc5d7a65/store/crop/0/0/600/397/1600/0/0/587f113e7507f99804614a461a2a1ef33d3a7223fc83f24dc5ba91c48d09/30eba31b631bffe4f591ee01216c0ddb.jpg",
+         "image": "http://static.ctclove.ru/uploads/project/horizontal_picture/798656665.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Gorko.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ОСВОБОЖДЕНИЕ",
          "description": "«Освобождение» — киноэпопея о Великой Отечественной войне режиссёра Юрия Озерова по сценарию Юрия Бондарева и Оскара Курганова. (1968-1972). Фильм отреставрирован в 2020 году  Группы компьютерной графики Мосфильма.",
          "backdrop": "https://avatars.dzeninfra.ru/get-zen_doc/237236/pub_5aa9ebe548c85e021062cbac_5aa9f4578139baca5e31c1e4/scale_1200",
