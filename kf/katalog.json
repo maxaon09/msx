@@ -95,7 +95,7 @@
          "iconSize": "extra-large",
          "label": "НАЙТИ",
          "extensionLabel": "",
-         "data": "request:interaction:init@https://maxaon09.github.io/msx/kf/search/searh.html"
+         "data": "request:interaction:init@request:interaction:init@http://msx.benzac.de/interaction/search.html"
       },
       {
          "type": "separator"
