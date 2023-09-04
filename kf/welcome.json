@@ -472,7 +472,7 @@
       },
       {
          "titleHeader": "{col:msx-white}ТИХООКЕАНСКИЙ РУБЕЖ",
-         "description": "еловечеству пришлось столкнуться с небывалой угрозой. В глубине океана открывается портал из другого измерения, и оттуда прибывают огромные чудовища – кайдзю. Война с ними продолжается уже несколько лет. За это время ученые создали огромных боевых роботов, которых назвали егерями.",
+         "description": "Человечеству пришлось столкнуться с небывалой угрозой. В глубине океана открывается портал из другого измерения, и оттуда прибывают огромные чудовища – кайдзю. Война с ними продолжается уже несколько лет. За это время ученые создали огромных боевых роботов, которых назвали егерями.",
          "backdrop": "https://pbs.twimg.com/media/Dhv-tn0WAAAEzTw?format=jpg&name=900x900",
          "image": "https://w.forfun.com/fetch/e1/e168a061d09d579a5e72cfd4644e440a.jpeg?w=1600",
          "action": "content: https://maxaon09.github.io/msx/kf/Pacific_Rim.json"
@@ -616,6 +616,13 @@
          "backdrop": "https://3.bp.blogspot.com/-GwnZ6t1BYfQ/W8thdH4KPxI/AAAAAAAAHjQ/v8Gl5wc4S30VJp7hRWspeOiXDxxtTW4bACLcBGAs/s400/40.jpg",
          "image": "https://haipovo.ru/wp-content/uploads/2022/05/dospehi-boga-3-missiya-zodiak.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/dospehi_boga.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ЧАС ПИК",
+         "description": "Франшиза «Час пик» - серия американских комедийных боевиков. Все три фильма сосредоточены вокруг пары полицейских детективов, главного инспектора Гонконга Ли и детектива полиции Лос-Анджелеса Джеймса Картера, которые пускаются в череду злоключений, связанных с коррумпированными криминальными авторитетами в Гонконге и Лос-Анджелесе.  ",
+         "backdrop": "https://yt3.ggpht.com/ytc/AKedOLSDn2Lrpga_12Eqt2ysULPdCc8tlNH9DUJ8vCSe=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://img.moviesrankings.com/t/p/w1280/sIylU0TAE2jd9PXqUvLRmWjFYgu.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Rush_Hour.json"
       },
       {
          "titleHeader": "{col:msx-white}ПРОЕКТ А",
