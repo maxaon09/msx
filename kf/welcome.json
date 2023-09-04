@@ -373,6 +373,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/John_Wick.json"
       },
       {
+         "titleHeader": "{col:msx-white}ХИТМЭН",
+         "description": "«Хитмэн» — киноадаптация серии видеоигр Hitman. Хитмэн был обучен, как высоко профессиональный убийца, чье самое мощное оружие — это хладнокровие и безмерная гордость за свою работу. 47 — это две последние цифры на штрихкоде, вытатуированном на его затылке, а также его единственное имя.",
+         "backdrop": "https://yt3.ggpht.com/ytc/AKedOLQ0HjED_xbYGoal2BHBee5lRDn-5V3k-dwTeyDUgw=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://w.forfun.com/fetch/f1/f1f5cfb0f48eb0765f0ac7dbb8372188.jpeg",
+         "action": "content: http://192.168.0.216:8080/msx/Hitman.json"
+      },
+      {
          "titleHeader": "{col:msx-white}УБИТЬ БИЛЛА",
          "description": "«Убить Билла» — фильм режиссёра Квентина Тарантино, снятый по его же сценарию. Фильм рассказывает историю женщины по имени Беатрикс Киддо, в прошлом бывшей наёмным убийцей. Главные роли в картине исполнили Ума Турман и Дэвид Кэррадайн. Сюжет дилогии нелинеен и разбит на главы.",
          "backdrop": "https://m.media-amazon.com/images/M/MV5BMTg2MzM2ODI1OV5BMl5BanBnXkFtZTcwMjQ5OTEyNw@@._V1_FMjpg_UX1000_.jpg",
