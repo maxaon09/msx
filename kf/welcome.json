@@ -597,6 +597,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/dospehi_boga.json"
       },
       {
+         "titleHeader": "{col:msx-white}ПРОЕКТ А",
+         "description": "«Проект А» — гонконгский кинофильм 1983 года с участием Джеки Чана в главной роли. Гонконг начала XX века. Сержант Ма Юлун — сотрудник Морской Полиции Гонконга, задачей которого является борьба с пиратами, грабящими корабли на протяжении нескольких месяцев",
+         "backdrop": "https://1.bp.blogspot.com/-QAgh0HBtw7o/YJgDn7V4e0I/AAAAAAABgl0/qgv2r3txGPE9cMAuivmPzXhYbmWH9vhZACLcBGAsYHQ/w640-h360/marin-mers-de-chine-caption-3.jpg",
+         "image": "https://elcomercio.pe/resizer/G_yt5b6swkIsDV4fzgtPT9T0PSA=/980x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/GRTOBQOYRRCT3D4NJY7QDCWOOI.png",
+         "action": "content: https://maxaon09.github.io/msx/kf/A_ ga_waak.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ТЕРМИНАТОР",
          "description": "«Терминатор» — серия фильмов, изначально запланированная как дилогия, но впоследствии превратившаяся в мультимедийную франшизу. В настоящий момент включает в себя шесть полнометражных фильмов",
          "backdrop": "https://pbs.twimg.com/media/FIm3z27XoAImMkz.jpg",
@@ -652,6 +659,7 @@
          "image": "https://www.desktopbackground.org/p/2010/04/27/8739_43-sin-city-hd-wallpapers_4450x2503_h.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/Sin_City.json"
       },
+      
       {
          "titleHeader": "{col:msx-white}БЕЛОСНЕЖКА",
          "description": " Disney медиа-франшиза основаная на сказке братьев Гримм, написанной в 1812 году, рассказывающей о прекрасной дочери короля, которую приютили в лесу гномы, спасая от гнева злой мачехи, владеющей волшебным зеркалом.",
