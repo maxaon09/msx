@@ -169,6 +169,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Scream.json"
       },
       {
+         "titleHeader": "{col:msx-white}ЧЕЛЮСТИ",
+         "description": "«Челюсти» — это серия американских фильмов ужасов о акулах, начавшаяся с фильма 1975 года. По сюжету белая акула невиданных размеров жестоко атакует отдыхающих на вымышленном острове Эмити, что на северо-востоке Соединенных Штатов, и сеет панику среди местных жителей. ",
+         "backdrop": "https://yt3.ggpht.com/ytc/AKedOLQ0HjED_xbYGoal2BHBee5lRDn-5V3k-dwTeyDUgw=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://w.forfun.com/fetch/f1/f1f5cfb0f48eb0765f0ac7dbb8372188.jpeg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Jaws.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ОМЕН",
          "description": "«Омен» — серия фильмов ужасов о приходе и становлении Антихриста. Он был рождён в 6 часов 6 июня. Как предсказано в Книге откровений, настанет конец света, последнее противостояние сил добра и зла, и началом его будет рождение сына Сатаны в облике человеческом. ",
          "backdrop": "https://i.imgflip.com/1oj3w7.jpg",
@@ -320,7 +327,7 @@
          "description": "Годзилла – популярнейший монстр, придуманный японской киностудией. Исполинское доисторическое чудовище, пробудившееся от долгого сна, имеет рост более 50 метров. Он отлично плавает, практически неуязвим и уничтожает все на своем пути. ...",
          "backdrop": "https://yt3.ggpht.com/a/AGF-l7_dyw-14RUbWpoHtHo4DCQazrMqq795NHCUNw=s900-c-k-c0xffffffff-no-rj-mo",
          "image": "https://pbs.twimg.com/media/Eft1JXNWsAckFYQ?format=jpg&name=900x900",
-         "action": "content: http://192.168.0.216:8080/msx/Godzilla.json"
+         "action": "content: https://maxaon09.github.io/msx/kf/Godzilla.json"
       },
       {
          "titleHeader": "{col:msx-white}АВАТАР",
@@ -377,7 +384,7 @@
          "description": "«Хитмэн» — киноадаптация серии видеоигр Hitman. Хитмэн был обучен, как высоко профессиональный убийца, чье самое мощное оружие — это хладнокровие и безмерная гордость за свою работу. 47 — это две последние цифры на штрихкоде, вытатуированном на его затылке, а также его единственное имя.",
          "backdrop": "https://yt3.ggpht.com/ytc/AKedOLQ0HjED_xbYGoal2BHBee5lRDn-5V3k-dwTeyDUgw=s900-c-k-c0x00ffffff-no-rj",
          "image": "https://w.forfun.com/fetch/f1/f1f5cfb0f48eb0765f0ac7dbb8372188.jpeg",
-         "action": "content: http://192.168.0.216:8080/msx/Hitman.json"
+         "action": "content: https://maxaon09.github.io/msx/kf/Hitman.json"
       },
       {
          "titleHeader": "{col:msx-white}УБИТЬ БИЛЛА",
@@ -720,7 +727,7 @@
          "description": "Франшиза «Охотники за привидениями» состоит из американских сверхъестественных комедий. Сюжет сосредотачивается вокруг группы эксцентричных нью-йоркских парапсихологов, которые исследуют, сталкиваются и захватывают призраков, паранормальные проявления, полубогов и демонов.",
          "backdrop": "https://yt3.ggpht.com/ytc/AKedOLQKnpy74hnoh9PpZdiwkffUNLhUb3QXAO5IAamEJg=s900-c-k-c0x00ffffff-no-rj",
          "image": "https://ctnews.ru/storage/posts/Mar2023/gUtLESRDs2su6sS-cropped.webp",
-         "action": "content: http://192.168.0.216:8080/msx/Ghostbusters.json"
+         "action": "content: https://maxaon09.github.io/msx/kf/Ghostbusters.json"
       },
       {
          "titleHeader": "{col:msx-white}ЭЛВИН И БУРУНДУКИ",
@@ -930,14 +937,14 @@
          "description": "Захотелось посмотреть ненавязчивую комедию? «Бабушка легкого поведения» с Александром Реввой в главной роли как раз то, что нужно. Сюжет простенький, можно расслабиться и посмеяться.",
          "backdrop": "https://yt3.googleusercontent.com/ytc/AGIKgqNZ2SJIPqvALKio4CsOVNGnOg5KQbacn--Euwmm=s900-c-k-c0x00ffffff-no-rj",
          "image": "https://datavyhoda.ru/wp-content/uploads/2019/01/babushka-legkogo-povedeniya-2-data-vyhoda.jpg",
-         "action": "content: http://192.168.0.216:8080/msx/Grandmothe_ of_easy_virtue.json"
+         "action": "content: https://maxaon09.github.io/msx/kf/Grandmothe_ of_easy_virtue.json"
       },
       {
          "titleHeader": "{col:msx-white}ДЕНЬ РАДИО",
          "description": "На радиостанции случается ЧП, но совершенно нет времени выяснять его причины и искать виноватых. Нужно срочно действовать! И радиостанция «Как бы радио» готова ко всему.",
          "backdrop": "http://media.filmz.ru/photos/full/f_17072.jpg",
          "image": "https://cdn.fishki.net/upload/post/2022/05/26/4150806/a95f7d12c542aa60577b389f3675ac98.jpg",
-         "action": "content: http://192.168.0.216:8080/msx/Day_radio.json"
+         "action": "content: https://maxaon09.github.io/msx/kf/Day_radio.json"
       },
       {
          "titleHeader": "{col:msx-white}ГОРЬКО",
