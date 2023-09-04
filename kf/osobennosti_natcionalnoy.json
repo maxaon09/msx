@@ -113,7 +113,7 @@
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "{col:msx-white}Особенности национальной политики (2003){col}{br}Генерал Иволгин баллотируется на ответственный пост. Высокие рейтинги неизвестно откуда взявшегося наглого соперника приводят в замешательство конкурентов.",
-               "image": https://pbs.twimg.com/media/D3OvAwwXkAAC_I_.jpg:large"
+               "image": "https://pbs.twimg.com/media/D3OvAwwXkAAC_I_.jpg:large"
             }
          },
          "image": "https://pbs.twimg.com/media/D3OvAwwXkAAC_I_.jpg:large",
