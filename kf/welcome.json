@@ -919,6 +919,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/ELKI.json"
       },
       {
+         "titleHeader": "{col:msx-white}БАБУШКА ЛЕГКОГО ПОВЕДЕНИЯ",
+         "description": "Захотелось посмотреть ненавязчивую комедию? «Бабушка легкого поведения» с Александром Реввой в главной роли как раз то, что нужно. Сюжет простенький, можно расслабиться и посмеяться.",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AGIKgqNZ2SJIPqvALKio4CsOVNGnOg5KQbacn--Euwmm=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://datavyhoda.ru/wp-content/uploads/2019/01/babushka-legkogo-povedeniya-2-data-vyhoda.jpg",
+         "action": "content: http://192.168.0.216:8080/msx/Grandmothe_ of_easy_virtue.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ДЕНЬ РАДИО",
          "description": "На радиостанции случается ЧП, но совершенно нет времени выяснять его причины и искать виноватых. Нужно срочно действовать! И радиостанция «Как бы радио» готова ко всему.",
          "backdrop": "http://media.filmz.ru/photos/full/f_17072.jpg",
