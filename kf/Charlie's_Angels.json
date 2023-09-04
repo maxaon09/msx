@@ -1,0 +1,75 @@
+{
+   "type": "list",
+   "headline": "АНГЕЛЫ ЧАРЛИ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Ангелы Чарли",
+         "titleFooter": "Ангелы Чарли",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Ангелы Чарли{col}{br}Ангелы Чарли - суперсекретное элитное спецподразделение, которому доверяют только невыполнимые задания. С помощью новейших технологий, современного оружия, боевых искусств и убийственного женского очарования Ангелы Чарли творят чудеса. Но настоящим испытанием станет лишь это последнее задание...",
+               "image": "https://picfiles.alphacoders.com/808/80827.png"
+            }
+         },
+         "image": "https://picfiles.alphacoders.com/808/80827.png",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/10_01_20/10/01/22/VCHFHOPZ/QK7ZHMV3.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Ангелы Чарли",
+         "titleFooter": "Ангелы Чарли 2: Только вперед ",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Ангелы Чарли 2: Только вперед {col}{br}Ангелы Чарли - суперагенты, которым доверяют самые сложные и невыполнимые миссии. На этот раз девушкам необходимо найти похищенные титановые кольца. Это не просто украшения, а особые носители информации с записанными секретными данными. Задачу усложняет то, что главный злодей практически неотразим и всё умеет.",
+               "image": "https://api.start.ru/images/unsafe/filters:quality(70)/3b40195011d44041bc76423a23eaefa4/images-horizontal_poster_1x"
+            }
+         },
+         "image": "https://api.start.ru/images/unsafe/filters:quality(70)/3b40195011d44041bc76423a23eaefa4/images-horizontal_poster_1x",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_05_19/07/05/15/GtUbxK2Z/1080_DEvDeQNB.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      }
+   ]
+}
