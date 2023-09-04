@@ -429,6 +429,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Resident_Evil.json"
       },
       {
+         "titleHeader": "{col:msx-white}МОРТАЛ КОМБАТ",
+         "description": "Киноадаптация серии культовых видеоигр Mortal Kombat. Самые сильные и самые отчаянные бойцы с уникальными способностями сойдутся лицом к лицу в безжалостном турнире, где решаются судьбы мира...",
+         "backdrop": "https://yt3.googleusercontent.com/1eLtoqUK0qU7dmuYKItmmhVkIbkvn_hFwawGNqou08jrB6UB5CgdXtDf63YcWiXRpieMYo-N3Q=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://wallpapercave.com/wp/wp8664010.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Morta_Kombat.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ДЖЕЙСОН БОРН",
          "description": "«Джейсон Борн» — серия фильмов-боевиков выпущенных с 2002 по 2016 год, основанная на романах Роберта Ладлэма о Джейсоне Борне — бывшем сотруднике ЦРУ и профессиональном убийце, потерявшем память.",
          "backdrop": "https://s1.dmcdn.net/v/DdouY1ZlUP5aLepas/640x360",
