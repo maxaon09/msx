@@ -955,6 +955,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/posledniy_bogatir.json"
       },
       {
+         "titleHeader": "{col:msx-white}НЕПОСЛУШНИК",
+         "description": "Уходя от преследования полиции, Дима укрывается в месте, где его точно не будут искать — в маленьком провинциальном монастыре, выдавая себя за своего друга-послушника",
+         "backdrop": "https://pic.rutubelist.ru/video/7e/b1/7eb19afd0c51e00a92524399758a87dd.jpg",
+         "image": "https://i.pinimg.com/originals/6a/76/06/6a76069dc645d716ed1fde9b44f522db.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Neposlushnik.json"
+      },
+      {
          "titleHeader": "{col:msx-white}НЕПОСРЕДСТВЕННО КАХА!",
          "description": "Неразлучные друзья-подельники Каха и Серго переживают падение на самое дно, стычку с бандитами и крупное предательство. Их старая дружба трещит по швам – сколько ещё она может выдержать? ",
          "backdrop": "https://i0.wp.com/image.tmdb.org/t/p/original/jSkOXVOcKNyh4p3gVmBYdV3g1y8.jpg",
