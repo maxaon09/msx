@@ -316,6 +316,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/narnii.json"
       },
       {
+         "titleHeader": "{col:msx-white}ГОДЗИЛЛА",
+         "description": "Годзилла – популярнейший монстр, придуманный японской киностудией. Исполинское доисторическое чудовище, пробудившееся от долгого сна, имеет рост более 50 метров. Он отлично плавает, практически неуязвим и уничтожает все на своем пути. ...",
+         "backdrop": "https://yt3.ggpht.com/a/AGF-l7_dyw-14RUbWpoHtHo4DCQazrMqq795NHCUNw=s900-c-k-c0xffffffff-no-rj-mo",
+         "image": "https://pbs.twimg.com/media/Eft1JXNWsAckFYQ?format=jpg&name=900x900",
+         "action": "content: http://192.168.0.216:8080/msx/Godzilla.json"
+      },
+      {
          "titleHeader": "{col:msx-white}АВАТАР",
          "description": "«Аватар» — франшиза канадского кинорежиссёра Джеймса Кэмерона и запланированная серия научно-фантастических фильмов. Действие Аватара разворачивается в середине 22 века на планете Пандора. конфликт фильма разыгрывается между коренными На'ви во главе с Джейком Салли и Нейтири и людьми, которые прибыли на Пандору, чтобы колонизировать ее.",
          "backdrop": "https://mmm.dk/image/box/3512024/3920/50000.jpg?oversize=1",
