@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "ДЕНЬ РАДИО",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}День радио",
+         "titleFooter": "День радио",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}День радио{col}{br}Один день из жизни модной московской радиостанции. Не самый лучший день — рушатся все планы, все валится из рук… И именно в тот момент, когда на станции в прямом эфире вот-вот должен начаться «живой» марафон, а популярные российские рок-группы придут в эфир, чтобы поддержать… впрочем, это уже неважно, потому что тема марафона перехвачена конкурентами и активно обсуждается в эфире «вражеской» радиостанции. Но марафон отменять нельзя!Рабочий день обещает стать последним для всего творческого состава, если срочно не найдется новая тема. А тем временем из Находки вышел маленький катер с лучшими представителями Благовещенского областного цирка — медведь, обезьяна, два пуделя, петух, козел, кабан, которые плывут на гастроли в Японию. И если бы кто-то из команды катера не слил налево полбака солярки, а еще кто-то — еще полбака, то они бы, возможно, даже и доплыли бы. ",
+               "image": "https://i.ytimg.com/vi/ypIlg4AAtSk/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/ypIlg4AAtSk/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_21_21/07/21/18/NNO3WAKY/YTX6SIMX.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}День радио",
+         "titleFooter": "День выборов ",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}День выборов {col}{br}Руководитель одной из самых рейтинговых радиостанций страны получает заказ от загадочного клиента. Необходимо «раскрутить» на региональных выборах своего кандидата, отобрать голоса у конкурентов и тем самым повлиять на избрание нового губернатора. За выполнение задачи государственной важности берутся лучшие умы радиостанции.",
+               "image": "https://i.ytimg.com/vi/6hi0etcrqO8/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/6hi0etcrqO8/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_19_21/07/19/16/VA3PYO3G/2DBZJXU5.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}День радио",
+         "titleFooter": "День выборов 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}День выборов 2{col}{br}Игорь Цаплин будет избираться на третий срок, а поможет ему в этом уже знакомая зрителю команда пиарщиков.",
+               "image": "https://i.ytimg.com/vi/t9Bp4taI-bk/hqdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/t9Bp4taI-bk/hqdefault.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_19_21/07/19/16/2UJGCMYN/RQEMBPVV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}
