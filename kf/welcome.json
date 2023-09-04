@@ -134,6 +134,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Annabelle.json"
       },
       {
+         "titleHeader": "{col:msx-white}ДЕТСКИЕ ИГРЫ",
+         "description": "«Детские игры» — американская франшиза ужасов, основанная на оригинальной серии из семи фильмов, созданных Доном Манчини. Фильмы в основном посвящены Чаки, печально известному серийному убийце, который избегает смерти, выполняя ритуал вуду, чтобы передать свою душу в куклу.",
+         "backdrop": "https://static.kino.de/wp-content/uploads/2016/01/curse-of-chucky-2013-film.jpg",
+         "image": "https://tv.mediasearch.verizon.com/ResourcesFiles/ImageLibrary/FiosTV/UnBranded/H/169_Lrg/TVNNBCUFILMHD.COM_VUBH0000000063967102.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Child's_Play.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ПУНКТ НАЗНАЧЕНИЯ",
          "description": "Пункт назначения - франшиза фильма ужасов, созданная Джеффри Реддиком. Сериал фокусируется на группах людей, пытающихся избежать смерти после того, как у одного из них появляется предчувствие, что все они должны умереть, и он спасает их, внося раскол в замысел Смерти. Сама Смерть пытается все исправить, убивая всех тех, кто нарушил баланс жизни и смерти. ",
          "backdrop": "https://yt3.ggpht.com/a/AATXAJxqP9UVEZwbD13lbimsB4ZLkJSxzgFduEIZvR60=s900-c-k-c0xffffffff-no-rj-mo",
