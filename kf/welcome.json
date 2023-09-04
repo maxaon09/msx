@@ -365,6 +365,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/National_Treasure.json"
       },
       {
+         "titleHeader": "{col:msx-white}ЛАРА КРОФТ",
+         "description": "Фильмы Лара Крофт — известная серия картин в жанре приключенческого боевика. Сюжет фильмов основан на компьютерной игре Tomb Raider, в которой главным персонажем выступает археолог Лара Крофт. История повествует о приключениях охотницы за самыми ценными и уникальными артефактами человечества. ",
+         "backdrop": "https://yt3.ggpht.com/ytc/AMLnZu8QsjcNeegLLSRH5kbDOkCVmhC6U19uyb5xaJbW=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://sm.ign.com/t/ign_me/feature/t/tomb-raide/tomb-raider-new-lara-croft-aims-to-be-more-relatable-than-an_crye.1200.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Lara_Croft.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ВЕЛИКИЙ УРАВНИТЕЛЬ",
          "description": "«Великий уравнитель» — боевик продюсера Антуана Фукуа по сценарию Ричарда Уэнка, основанный на одноимённом телесериале. В главной роли — Дензел Вашингтон,",
          "backdrop": "https://m.media-amazon.com/images/M/MV5BZjE2NDc3MmEtODlkOS00MjRmLWEzZGQtNDY3ZDgzNzcxMjQ0XkEyXkFqcGdeQXVyNzU3Nzk4MDQ@._V1_.jpg",
