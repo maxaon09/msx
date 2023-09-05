@@ -204,6 +204,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/The_Omen.json"
       },
       {
+         "titleHeader": "{col:msx-white}ГАННИБАЛ ЛЕКТОР",
+         "description": "Безупречный вкус, выдающийся интеллект и... убийственные наклонности: Ганнибал Лектер по праву считается величайшим злодеем в истории кино.  Он проявляет черты психопата, обладает выдающимся интеллектом. Интеллект приносит ему известность в медицинских кругах, а каннибализм - среди простых людей.",
+         "backdrop": "https://yt3.googleusercontent.com/VLgRQ4ZFvwW43zugWuCCjZzhx21cFVlZMS06uw-0K4w68OTO2VCyYpteENhSQsyWQXQF1MeFUg=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://i.pinimg.com/originals/c5/a5/c4/c5a5c486f61e61c1f087719638ca87d8.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Hannibal_Rising.json"
+      },
+      {
          "titleHeader": "{col:msx-white}МУМИЯ",
          "description": "Мумия - приключенческий фильм ужасов медиа-франшиза, основанная на фильмах Universal Pictures о мумифицированном древнеегипетском священнике, который случайно воскрес, принеся с собой мощное проклятие, и последовавших за этим героических попытках археологов остановить его.",
          "backdrop": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/671/931/TheMummy_3488.jpg",
