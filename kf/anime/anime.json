@@ -83,6 +83,13 @@
          "backdrop": "https://yt3.ggpht.com/a/AATXAJwu7mSJkfSK9JSjaB0A-SfFFV9AA4qMzuZ8=s900-c-k-c0xffffffff-no-rj-mo",
          "image": "https://m.media-amazon.com/images/M/MV5BMTk2NTA4NTc5MF5BMl5BanBnXkFtZTcwNTI0Nzc4OQ@@._V1_.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/anime/How_to_Train_Your_Dragon.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ШРЭК",
+         "description": "Погрузитесь в удивительный мир зеленого огра и его друзей через эту захватывающую и смешную франшизу. ... Все в сказочном королевстве боятся зеленого великана-отшельника, живущего на болоте в глубине леса. В один ужасный день его дом заполоняют всевозможные сказочные существа, изгнанные коварным лордом Фаркуадом.",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AOPolaS7oHDV4qd8z7ZYdoD3fro7IbtgaQ9ZLNqWqSe8=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://i.ytimg.com/vi/hSxrUUPNkzo/maxresdefault.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Shrek.json"
       }
    ]
 }
