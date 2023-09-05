@@ -1,0 +1,160 @@
+{
+   "type": "list",
+   "headline": "ШРЭК",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Шрэк",
+         "titleFooter": "Шрэк",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Шрэк{col}{br}Жил да был в сказочном государстве большой зеленый великан по имени Шрэк. Жил он в гордом одиночестве в лесу, на болоте, которое считал своим. Но однажды злобный коротышка — лорд Фаркуад, правитель волшебного королевства, безжалостно согнал на Шрэково болото всех сказочных обитателей.И беспечной жизни зеленого великана пришел конец. Но лорд Фаркуад пообещал вернуть Шрэку болото, если великан добудет ему прекрасную принцессу Фиону, которая томится в неприступной башне, охраняемой огнедышащим драконом.",
+               "image": "https://m.media-amazon.com/images/S/pv-target-images/11c72dd35223e9a4f5e460f975e4a10fbc469da53a08c4830a3e99d33b457bb8._UR1920,1080_.jpg"
+            }
+         },
+         "image": "https://m.media-amazon.com/images/S/pv-target-images/11c72dd35223e9a4f5e460f975e4a10fbc469da53a08c4830a3e99d33b457bb8._UR1920,1080_.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_05_21/05/05/18/EJXNCLGA/IPIPHG7D.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Шрэк",
+         "titleFooter": "Шрэк 4-D",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Шрэк 4-D{col}{br}Лорд Фаркуард был съеден драконом, но его дух все еще жив и все так же зол. Он похищает Фиону с помощью все еще живого помощника-подручного. Шрек и Осел отправляются в путешествие, чтобы спасти принцессу.",
+               "image": "https://images-s.kinorium.com/movie/poster/282850/w1500_2777394.jpg"
+            }
+         },
+         "image": "https://images-s.kinorium.com/movie/poster/282850/w1500_2777394.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/04_08_20/04/08/12/UIIZLAQ3/J6C6PMFB.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Шрэк",
+         "titleFooter": "Шрэк 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Шрэк 2{col}{br}Шрэк и Фиона возвращаются после медового месяца и находят письмо от родителей Фионы с приглашением на ужин. Однако те не подозревают, что их дочь тоже стала огром! Вместе с Осликом счастливая пара отправляется в путешествие, полное неожиданностей, и попадает в круговорот событий, во время которых приобретает множество друзей…",
+               "image": "https://flxt.tmsimg.com/assets/p34447_v_h9_ax.jpg"
+            }
+         },
+         "image": "https://flxt.tmsimg.com/assets/p34447_v_h9_ax.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_05_21/05/05/19/QEMPMS2R/QYFTF34R.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Шрэк",
+         "titleFooter": "Шрэк Третий",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Шрэк Третий{col}{br}Король Гарольд внезапно умер, и теперь великан Шрек вынужден стать королем Далекой-Далекой страны. Шрек уважает семейные традиции своей жены Фионы, но править страной очень не хочет, и поэтому и отправляется с Ослом и Котом в сапогах на поиски нового короля. Но пока Шрек ищет короля Артура - другого наследника, принц Чарминг замышляет новые пакости.",
+               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN06fh2eN_T3TXi-oNX8nHhzQMggx6hvcHCQ&usqp=CAU"
+            }
+         },
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN06fh2eN_T3TXi-oNX8nHhzQMggx6hvcHCQ&usqp=CAU",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/05_06_21/05/06/22/NARA23YB/NEI2QHCV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Шрэк",
+         "titleFooter": "Шрэк мороз, зеленый нос",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Шрэк мороз, зеленый нос{col}{br}На этот раз Шрек стремится устроить идеальный праздник, удивить Фиону и своих замечательных сорванцов. Только вот незадача: прямо в разгар мероприятия появляются незванные гости — Осел и Кот в Сапогах. Они рушат все планы Шрека и он, сам того не желая, превращается в настоящего скрягу, сказочную разновидность диккенсовского Скруджа.",
+               "image": "https://s3.afisha.ru/mediastorage/fb/d8/83387d9b85044606a862747bd8fb.jpg"
+            }
+         },
+         "image": "https://s3.afisha.ru/mediastorage/fb/d8/83387d9b85044606a862747bd8fb.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/11_15_18/11/15/21/WEkjf9KQ/1080_dt8fwB9F.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fifth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Шрэк",
+         "titleFooter": "Шрэк навсегда",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Шрэк навсегда{col}{br}Чем бы еще заняться огру, который уже сразился со злым драконом, спас прекрасную принцессу и уберег от беды королевство родственников по линии жены? Что ж, если вы Шрэк, то, сами того не заметив, вы вдруг сядете дома и станете наслаждаться покоем в кругу семьи. Вместо того чтобы как раньше пугать деревенских жителей, теперь Шрэк, хоть и с неохотой, но соглашается оставлять автографы на их вилах. А куда же подевался знаменитый рык этого огра?",
+               "image": "https://thumbs.dfs.ivi.ru/storage6/contents/c/7/42e0ab479635cf5dcaf4268d272da4.jpg/400x226//"
+            }
+         },
+         "image": "https://thumbs.dfs.ivi.ru/storage6/contents/c/7/42e0ab479635cf5dcaf4268d272da4.jpg/400x226//",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_06_21/05/06/21/UZB3BWMF/MPSPREL7.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Шрэк",
+         "titleFooter": "Шрэк: Хэллоуин",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Шрэк: Хэллоуин{col}{br}Шрек с друзьями решили устроить конкурс на самую страшную Хэллоуинскую историю. Но прежде чем выяснится кто же победил, им придется всю ночь пробыть в замке усопшего лорда Фаркуада.",
+               "image": "https://m.media-amazon.com/images/M/MV5BOTM3MTUzMGItOTljOC00ZDFiLTk2MGItNTkxMmVhNThhOTY2XkEyXkFqcGdeQXVyOTA1ODU0Mzc@._V1_.jpg"
+            }
+         },
+         "image": "https://m.media-amazon.com/images/M/MV5BOTM3MTUzMGItOTljOC00ZDFiLTk2MGItNTkxMmVhNThhOTY2XkEyXkFqcGdeQXVyOTA1ODU0Mzc@._V1_.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_25_21/05/25/12/Y3QW7O3N/SANIRAD6.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      }
+   ]
+}
