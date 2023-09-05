@@ -829,6 +829,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Alvin_and_ the_Chipmunks.json"
       },
       {
+         "titleHeader": "{col:msx-white}БОРАТ",
+         "description": "Черная комедия режиссера Ларри Чарльза с Сашей Бароном Коэном в главной роли. Барон Коэн играет главную роль Бората Сагдиева, вымышленного казахстанского журналиста, который путешествует по Соединенным Штатам, чтобы снять документальный фильм, рассказывающий о реальных взаимоотношениях с американцами.",
+         "backdrop": "https://yt3.ggpht.com/ytc/AKedOLScHp55Zzq7T-ertzQxrWKD0iMYwSBXbQSPLqig=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://www.desktopbackground.org/download/1600x900/2014/12/17/872466_borat-comedy-humor-funny-mockumentary-wallpapers_1920x1080_h.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Borat.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ПОЛИЦЕЙСКАЯ АКАДЕМИЯ",
          "description": "Полицейская академия — одна из самых успешных кинофраншиз в истории Голливуда. В фильме рассказывается о группе новобранцев-неудачников, пытающихся доказать, что они способны быть полицейскими, и добиться успеха как вопреки, так и благодаря своей эксцентричности.",
          "backdrop": "https://artworks.thetvdb.com/banners/v4/series/76516/backgrounds/62519d3ada855.jpg",
