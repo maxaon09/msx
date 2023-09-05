@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "ЗАЧЕТНЫЙ ПРЕПОД",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Зачётный препод",
+         "titleFooter": "Зачётный препод",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Зачётный препод{col}{br}Незадачливый грабитель банков Зеки Мюллер после тринадцати месяцев отсидки выходит из тюрьмы. Он отправляется на поиски награбленной добычи, которая была спрятана на стройке. Вместе с подружкой они думали, что там идёт всего-навсего прокладка труб. Каково же удивление горе-грабителя, когда он обнаруживает на нужном месте новенький школьный спортзал!Чтобы добраться до награбленного, Зеки пытается устроиться на место школьного сторожа. Но в результате лёгкого недопонимания вместо этого его берут в качестве учителя на замену. Ему достаётся самый буйный и ненормальный класс во всей школе — 10 «Б». Используя несколько необычные методы, бывший грабитель неожиданно находит общий язык с учениками. Одновременно с этим по ночам он пытается добраться до спрятанной добычи и влюбляется в коллегу-учительницу Лиси.",
+               "image": "https://pic.uma.media/pic/cardimage/22/4a/224ae5732c23f5a984ba3e6e30349b1c.jpg"
+            }
+         },
+         "image": "https://pic.uma.media/pic/cardimage/22/4a/224ae5732c23f5a984ba3e6e30349b1c.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/12_15_22/12/15/14/5Q6OHWTU/OHK2PCYY.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Зачётный препод",
+         "titleFooter": "Зачётный препод 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Зачётный препод 2{col}{br}Бывший грабитель, а ныне крутой препод в школе Гёте, Зеки Мюллер, обрел популярность среди учеников благодаря нетрадиционным методам преподавания. Не успел он заскучать, заполняя классные журналы и проверяя тетради, как его вовлекли в «войну школ»: для того, чтобы получить статус престижного учебного заведения, необходимо съездить с коррекционным классом старшеклассников в Таиланд, чтобы установить дружеские отношения с местной школой.Вы, наверное, догадались, кому «повезло» стать сопровождающим! Пару Зеки составит очаровательная коллега Лиси. Кто кому задаст жару в этой по-настоящему «горячей» поездке, полной соблазнов – большой вопрос…",
+               "image": "https://i.ytimg.com/vi/_KU9NrgoeH0/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/_KU9NrgoeH0/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/12_16_22/12/16/03/IPJXDZ5T/C5GP3HOD.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Зачётный препод",
+         "titleFooter": "Зачётный препод 3",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Зачётный препод 3{col}{br}Классному руководителю Зэку Мюллеру достался класс с самыми трудными подростками в Германии. Не проходит и дня, чтобы эти молодые отпрыски чего-нибудь не отмочили. Если бы не криминальное прошлое Зэка, ему бы ни за что с ними не управиться. Но этот год обещает быть особенным. На носу итоговые экзамены, а никто из учеников ни в зуб ногой в материале. А все потому, что накануне с ними побеседовал школьный специалист по профориентации и окончательно отбил у ребят охоту хоть что-то делать. Сумеет ли Зэки помочь ребятам найти мотивацию и вернуть веру в себя?",
+               "image": "https://liveam.tv/assets/images/2021/zachetnyj-prepod-3.jpg"
+            }
+         },
+         "image": "https://liveam.tv/assets/images/2021/zachetnyj-prepod-3.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/12_15_22/12/15/14/DHAHDPIV/UU2YLJH2.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}
