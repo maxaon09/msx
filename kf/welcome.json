@@ -527,6 +527,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/star_wars.json"
       },
       {
+         "titleHeader": "{col:msx-white}БЛЭЙД",
+         "description": "«Блэйд» (англ. Blade) — серия фильмов об одноимённом персонаже Marvel Comics с Уэсли Снайпсом в главной роли. Блейд вырастает и становится охотником на вампиров, поклявшись отомстить существам, убившим его мать. Он объединяется с человеком по имени Уистлер, бывшим охотником на вампиров и экспертом по оружию.",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AOPolaQIvjyCm5boa8lf-eb7fJJa_yYAyFTfFR9DL7w1=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://www.desktopbackground.org/download/1920x1200/2012/06/22/409385_download-wallpapers-3840x2160-blade-wesley-snipes-vampire-4k_3840x2160_h.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Blade.json"
+      },
+      {
          "titleHeader": "{col:msx-white}РОБОКОП",
          "description": "«Робокоп» — американская супергеройская франшиза, представляющая футуристические приключения робота-полицейского Алекса Мёрфи, офицера Детройта который погибает на задании и теряет свою коллегу Энн Льюис , а затем получает киборгизированное тело от корпорации превращаясь в Робокопа. Мёрфи сражается как с преступлениями в городе, так и с самой корпорацией.",
          "backdrop": "https://images.squarespace-cdn.com/content/51b3dc8ee4b051b96ceb10de/1400082865046-GH59T5EFTKOBA904JSHI/phenomenal-poster-art-for-robocop-and-the-thing3?content-type=image%2Fjpeg",
