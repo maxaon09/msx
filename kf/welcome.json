@@ -225,6 +225,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/mumia.json"
       },
       {
+         "titleHeader": "{col:msx-white}ЦАРЬ СКОРПИОНОВ",
+         "description": "«Царь скорпионов» - серия фильмов, состоящая из американских приключенческих боевиков и является побочным продуктом серии фильмов-ремейков «Мумия».  Эта история началась в Египте, пять тысяч лет назад. Ещё не были построены первые пирамиды, еще не появился величавый и могучий сфинкс, а Мнемон задумал покорить все народы, населяющие пустыню.",
+         "backdrop": "https://yt3.ggpht.com/a/AGF-l7_f9roN0tvvKk9inevo7YZt3_kf3fXX1hCRbg=s900-c-k-c0xffffffff-no-rj-mo",
+         "image": "https://w.forfun.com/fetch/2e/2e5be8174ae54cabfedb1c7c569096ee.jpeg",
+         "action": "content: https://maxaon09.github.io/msx/kf/The_Scorpion_King.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ИЛЛЮЗИЯ ОБМАНА",
          "description": "Иллюзия обмана - это увлекательная история об уличных фокусниках, чье мастерство вышло далеко за рамки небольших шоу перед случайными прохожими.",
          "backdrop": "https://cdn.kino.ru/images/originals/99/17.jpg",
