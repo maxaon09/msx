@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "БИБЛИОТЕКАРЬ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Библиотекарь",
+         "titleFooter": "В поисках копья судьбы",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Библиотекарь: В поисках копья судьбы{col}{br}Из тайных хранилищ Нью-Йоркской Публичной библиотеки похищен магический артефакт - фрагмент Копья Судьбы. Библиотекарь Флинн Карсен должен вернуть его любой ценой и заодно найти оставшиеся два фрагмента прежде, чем ими завладеют злодеи.",
+               "image": "https://static.okko.tv/images/v3/14825969?scale=1&quality=80"
+            }
+         },
+         "image": "https://static.okko.tv/images/v3/14825969?scale=1&quality=80",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/06_22_20/06/22/23/TSR2APQB/UQSARJ46.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Библиотекарь 2",
+         "titleFooter": "Возвращение в Копи Царя Соломона",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Библиотекарь 2: Возвращение в Копи Царя Соломона{col}{br}Флин Карсен, интеллигентный юноша, сотрудник Нью Йоркской библиотеки. Но в его душе всегда жила страсть к приключениям, тайнам и всему тому, чем грезит любой мальчишка. Однажды, ему на глаза попадается интереснейший труд о легендарных Копях Царя Соломона. Флин решает найти мифические сокровища, променяв затхлый воздух помещения и книжных клопов на дух романтики и авантюризма…",
+               "image": "https://static.okko.tv/images/v2/15179653"
+            }
+         },
+         "image": "https://static.okko.tv/images/v2/15179653",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_11_20/07/11/07/S4B2ON4Y/T2BCPHLX.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Библиотекарь 3",
+         "titleFooter": "Проклятие иудовой чаши",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Библиотекарь 3: Проклятие иудовой чаши{col}{br}Третья часть захватывающих приключений Флина Карсена, в которой Флину вновь предстоит спасти мир, но уже от угрожающего всеобщему спокойствию воскрешения Графа Дракулы. Находясь в отпуске, Флин знакомится с умопомрачительной красоткой Симоной, которая совершенно неожиданно для Флина узнает в нем Библиотекаря и обращается к нему за помощью. Вместе они пытаются опередить русского злодея в поисках Чаши Иуды, которая одна способна воскресить к жизни великого вампира.",
+               "image": "https://i.ytimg.com/vi/DuJ0miMe_AQ/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/DuJ0miMe_AQ/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_17_20/07/17/05/YW2UBVQR/X2GLTLV4.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}
