@@ -90,6 +90,13 @@
          "backdrop": "https://yt3.googleusercontent.com/ytc/AOPolaS7oHDV4qd8z7ZYdoD3fro7IbtgaQ9ZLNqWqSe8=s900-c-k-c0x00ffffff-no-rj",
          "image": "https://i.ytimg.com/vi/hSxrUUPNkzo/maxresdefault.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/anime/Shrek.json"
-      }
+      },
+      {
+         "titleHeader": "{col:msx-white}КОТ В САПОГАХ",
+         "description": " Невероятные приключения хвостатого обольстителя, который мечтает найти волшебные бобы. Кот-авантюрист скрывается от властей, ведь за его мохнатую голову обещают солидную награду. ",
+         "backdrop": "https://yt3.ggpht.com/a/AATXAJx67J0tTdIZuK7JJbbu66K0NIVc4VQjHKmlRzNR=s900-c-k-c0xffffffff-no-rj-mo",
+         "image": "https://img.ixbt.site/live/topics/preview/00/03/80/47/adeee7376a.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Puss_in_ Boots.json"
+      }, 
    ]
 }
