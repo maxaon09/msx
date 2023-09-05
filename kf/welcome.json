@@ -428,6 +428,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/National_Treasure.json"
       },
       {
+         "titleHeader": "{col:msx-white}БИБЛИОТЕКАРЬ",
+         "description": "Библиотекарь — серия американских кинокартин в жанре приключений и фэнтези. Сюжет повествует о Библиотекаре, который уже долгие годы охраняет ценные магические реликвии в старинной библиотеке. Благодаря уникальным технологиям и методам ему удается поддерживать безопасность здания и противостоять врагам, которые жаждут завладеть эти артефактами и разрушить цивилизацию.",
+         "backdrop": "https://images.kinorium.com/movie/promo/316227/w1500_41854132.jpg",
+         "image": "https://i.ytimg.com/vi/NrC7H6GNCSI/maxresdefault.jpg?7857057827",
+         "action": "content: https://maxaon09.github.io/msx/kf/The_Librarian.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ЛАРА КРОФТ",
          "description": "Фильмы Лара Крофт — известная серия картин в жанре приключенческого боевика. Сюжет фильмов основан на компьютерной игре Tomb Raider, в которой главным персонажем выступает археолог Лара Крофт. История повествует о приключениях охотницы за самыми ценными и уникальными артефактами человечества. ",
          "backdrop": "https://yt3.ggpht.com/ytc/AMLnZu8QsjcNeegLLSRH5kbDOkCVmhC6U19uyb5xaJbW=s900-c-k-c0x00ffffff-no-rj",
