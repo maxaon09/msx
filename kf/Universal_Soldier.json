@@ -1,0 +1,109 @@
+{
+   "type": "list",
+   "headline": "УНИВЕРСАЛЬНЫЙ СОЛДАТ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Универсальный солдат",
+         "titleFooter": "Универсальный солдат",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Универсальный солдат{col}{br}Вьетнам, 1969 год, первая стычка двух американских солдат - Люка и Скотта: Люк не может стрелять в безоружных людей, Скотт же готов убивать и убивать с нечеловечески-яростной жестокостью, о которой свидетельствует ожерелье из ушей, отрезанных им у вьетнамцев. Спустя годы Люк и Скотт вновь оказываются в одном отряде - спецподразделении «универсальных солдат», которых бросают на выполнение самых опасных заданий (например, на ликвидацию террористов).«Универсального солдата» можно попытаться убить, но он будет подниматься вновь и вновь, и если понадобится, то ученые, работающие над сверхсекретным военным проектом, в специальной лаборатории займутся оживлением серьезно пострадавшего «универсала». Однако, даже зная об этом, Скотт с упорством маньяка будет преследовать Люка, чтобы сойтись с ним в решающем поединке не на жизнь, а на смерть...",
+               "image": "https://pic.uma.media/pic/cardimage/f5/64/f564cfa83f50bf88905636392e1ab23b.jpg"
+            }
+         },
+         "image": "https://pic.uma.media/pic/cardimage/f5/64/f564cfa83f50bf88905636392e1ab23b.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/19/M5WK4P7W/DZFR2X6S.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Универсальный солдат",
+         "titleFooter": "Возвращение",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Универсальный солдат 2: Возвращение{col}{br}Универсальный солдат - совершенная кибернетическая машина убийства, неустрашимый воин, который не ведает боли и страха. Когда-то Люк Деваро был одним из них. Теперь в качестве технического эксперта он работает над созданием новых непобедимых роботов в человеческом облике, киборгов следующего поколения.Секретный проект подходит к своей кульминационной точке, но в этот момент суперкомпьютер, контролирующий целую армию универсальных солдат, выходит из повиновения. Он находит себе неуязвимое тело и возглавляет легион идеальных убийц. Совершенное оружие, созданное правительством для защиты людей, оборачивается против человечества. И никому не дано знать, что происходит внутри неуправляемой машины. Кроме того, кто уже однажды был ею...",
+               "image": "https://2x2tv.ru/upload/iblock/89a/zwrknjpc3u9stuhs3k6bp66vkt7yd6fq.jpg"
+            }
+         },
+         "image": "https://2x2tv.ru/upload/iblock/89a/zwrknjpc3u9stuhs3k6bp66vkt7yd6fq.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_21_21/05/21/01/FTU36W5I/EDHPYGIZ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Универсальный солдат",
+         "titleFooter": "Возрождение ",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Универсальный солдат 3: Возрождение {col}{br}Чеченский террорист по фамилии Топофф захватывает Чернобыльскую АЭС и угрожает взорвать ее. На его стороне - бывший сотрудник программы «Универсальный солдат», поставивший на службу террористу грозное оружие - одного из своих подопечных. Ситуация осложняется тем, что в заложниках оказываются дети видного государственного деятеля. Попытки освободить опасный объект превращаются в кровавую бойню. И тогда в схватку с модернизированным унисолом вступает Люк Девро. Однако его ждёт встреча не только со сбродом Топоффа и унисолом нового поколения, но и со своим старым знакомым - сержантом Эндрю Скоттом.",
+               "image": "https://i.ytimg.com/vi/AIMqUQpdrVA/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/AIMqUQpdrVA/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/03_05_19/03/05/20/siJxgGRu/1080_f3MiAoSc.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Универсальный солдат",
+         "titleFooter": "Универсальный солдат 4",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Универсальный солдат 4{col}{br}Пробудившийся из комы Джон узнаёт, что его жена и дочь были убиты при вторжении в их дом. Отчаявшись, он решает отомстить человеку, непосредственно ответственному за их гибель — Люку Деверо. В то время как Джон пытается собрать его реальность воедино, всё становится куда более сложным, когда его неустанно преследует универсальный солдат по имени Магнус. Тем временем, Деверо и Эндрю Скотт готовятся к революционной битве, с целью создания анархичного государства без государственного надзора.",
+               "image": "https://i.ytimg.com/vi/BW4XXGakvuE/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/BW4XXGakvuE/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/04_03_19/04/03/09/Dic4Zuyk/1080_HwxJJcDx.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      }
+   ]
+}
