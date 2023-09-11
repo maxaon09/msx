@@ -1,0 +1,75 @@
+{
+   "type": "list",
+   "headline": "Здравствуй, папа, Новый год!",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Здравствуй, папа, Новый год!",
+         "titleFooter": "Здравствуй, папа, Новый год!",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Здравствуй, папа, Новый год! {col}{br}Отец двоих детей возвращается к своей бывшей жене, которая успела выйти замуж, и теперь его ждет соперничество с отчимом за внимание своих отпрысков.",
+               "image": "http://is3-ssl.mzstatic.com/image/thumb/Video114/v4/8e/98/5e/8e985e84-a024-051b-f130-623d532a6ac5/1063394954-RU-AMP_SF.lsr/1200x675.jpg"
+            }
+         },
+         "image": "http://is3-ssl.mzstatic.com/image/thumb/Video114/v4/8e/98/5e/8e985e84-a024-051b-f130-623d532a6ac5/1063394954-RU-AMP_SF.lsr/1200x675.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/11_29_22/11/29/14/ENHWZ7NK/HGG5RGZ2.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Здравствуй, папа, Новый год!",
+         "titleFooter": "Здравствуй, папа, Новый год! 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Здравствуй, папа, Новый год! 2{col}{br}Отец и отчим, Дасти и Брэд, объединяются, чтобы организовать для своих детей идеальный рождественский праздник. Но их с горем пополам достигнутый нейтралитет оказывается под угрозой, когда к внукам приезжают олдскульный мачо-папаша Дасти и чувствительный и эмоциональный папочка Брэда. Они как нельзя кстати, чтобы превратить Рождество в кошмарный хаос.",
+               "image": "https://belinfilm.by/wp-content/webpc-passthru.php?src=https://belinfilm.by/wp-content/uploads/2017/11/9999-723x334.jpg&nocache=1"
+            }
+         },
+         "image": "https://belinfilm.by/wp-content/webpc-passthru.php?src=https://belinfilm.by/wp-content/uploads/2017/11/9999-723x334.jpg&nocache=1",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/11_29_22/11/29/21/3ZD7XQDJ/3YXGVDBS.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      }
+   ]
+}
