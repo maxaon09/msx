@@ -583,6 +583,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/star_wars.json"
       },
       {
+         "titleHeader": "{col:msx-white}ЗВЕЗДНЫЙ ПУТЬ",
+         "description": "Вселенная «Звёздного пути» рисует космическое будущее где существует Объединённая федерация планет, членом которой является планета Земля. Значительные области Галактики остаются неизученными и готовят исследователям множество сюрпризов и открытий. «Смело идти туда, куда не ступала нога человека» — таков девиз героев «Звёздного пути»",
+         "backdrop": "https://yt3.ggpht.com/ytc/AKedOLT7VL63v8A9l9Iyx1yGhzaBGwFn6DZnk0qrEGt-=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://lostfilm.info/images/photo/109/59840_1086560.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Sta_Trek.json"
+      },
+      {
          "titleHeader": "{col:msx-white}БЛЭЙД",
          "description": "«Блэйд» (англ. Blade) — серия фильмов об одноимённом персонаже Marvel Comics с Уэсли Снайпсом в главной роли. Блейд вырастает и становится охотником на вампиров, поклявшись отомстить существам, убившим его мать. Он объединяется с человеком по имени Уистлер, бывшим охотником на вампиров и экспертом по оружию.",
          "backdrop": "https://yt3.googleusercontent.com/ytc/AOPolaQIvjyCm5boa8lf-eb7fJJa_yYAyFTfFR9DL7w1=s900-c-k-c0x00ffffff-no-rj",
