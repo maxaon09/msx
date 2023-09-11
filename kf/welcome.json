@@ -281,6 +281,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/rembo.json"
       },
       {
+         "titleHeader": "{col:msx-white}РОККИ",
+         "description": "«Рокки» — медиафраншиза, созданная после успеха одноимённого спортивного фильма, вышедшего в прокат в 1976 году с Сильвестром Сталлоне в главной роли. Драматическая сага о боксере, который знает все о взлетах и падениях.",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AOPolaTxZ_U5zTkgiI7C1MH-8dC7LcY_Mqc_M9Orwyfd=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://assets-prd.ignimgs.com/2023/02/28/sd-1677600204589.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Rocky.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ТАКСИ",
          "description": "«Такси» — серия комедийных боевиков, созданных французским сценаристом и продюсером Люком Бессоном, состоящая из 5 фильмов. ",
          "backdrop": "https://images.rapgenius.com/087d8e73c35c47decb08a41c945809d6.448x252x1.jpg",
