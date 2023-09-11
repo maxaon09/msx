@@ -576,6 +576,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Pacific_Rim.json"
       },
       {
+         "titleHeader": "{col:msx-white}СКАЙЛАЙН",
+         "description": "«Скайлайн» — триквел посвященный противостоянию людей и пришельцев. Причиной неожиданного пробуждения для жителей Лос-Анджелеса становится яркий свет. При этом каждый, кто попадает в зону воздействия, покорно идет к источнику излучения и пропадает. В центре сюжета друзья, заночевавшие в одной квартире после шумной ночной вечеринки.",
+         "backdrop": "https://yt3.ggpht.com/a/AATXAJyE3MQCDffgtdcXs-NmPW5MyrFbclbFrmLx8w=s900-c-k-c0xffffffff-no-rj-mo",
+         "image": "https://static.kuda29.ru/content/galery/image/events/30348/ua426X0.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Skyline.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ЗВЕЗДНЫЕ ВОЙНЫ",
          "description": "«Звёздные войны» (англ. Star Wars) — североамериканская фантастическая медиафраншиза, созданная Джорджем Лукасом. В ней описываются приключения множества персонажей, происходящие «давным-давно, в далёкой-далёкой галактике». ",
          "backdrop": "https://yt3.googleusercontent.com/TW_PzYl_x03AYqXNeb7dT4unzUIWNKO4RHjjX50_Ng9UWbXpdrlX9UYmg9y1VbVJsqSfXtr8G_Y=s900-c-k-c0x00ffffff-no-rj",
