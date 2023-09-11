@@ -590,6 +590,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Blade.json"
       },
       {
+         "titleHeader": "{col:msx-white}МАТРИЦА",
+         "description": "«Матрица» — американская научно-фантастическая медиафраншиза в жанре киберпанк. Жизнь Томаса Андерсона разделена на две части: днём он — самый обычный офисный работник, а ночью превращается в хакера по имени Нео, и нет места в сети, куда он бы не смог проникнуть. Но однажды всё меняется. Томас узнаёт ужасающую правду о реальности.",
+         "backdrop": "https://yt3.googleusercontent.com/S6U2YDyUOFTF6ZhnCLYR_xB56e60Eg9vBLUI1CzLYxsr33U9CMXhZddHx1ILzgNNpy_XTCAO=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://i.siteapi.org/AJQGOvWifPYMZFGnTXKUE2j0L30=/0x36:1200x842/c676e483483db8e.ru.s.siteapi.org/img/i4fco5zkzbscc40o4gosk0044s8gcc",
+         "action": "content: https://maxaon09.github.io/msx/kf/The_Matrix.json"
+      },
+      {
          "titleHeader": "{col:msx-white}РОБОКОП",
          "description": "«Робокоп» — американская супергеройская франшиза, представляющая футуристические приключения робота-полицейского Алекса Мёрфи, офицера Детройта который погибает на задании и теряет свою коллегу Энн Льюис , а затем получает киборгизированное тело от корпорации превращаясь в Робокопа. Мёрфи сражается как с преступлениями в городе, так и с самой корпорацией.",
          "backdrop": "https://images.squarespace-cdn.com/content/51b3dc8ee4b051b96ceb10de/1400082865046-GH59T5EFTKOBA904JSHI/phenomenal-poster-art-for-robocop-and-the-thing3?content-type=image%2Fjpeg",
