@@ -983,6 +983,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/malchishnik.json"
       },
       {
+         "titleHeader": "{col:msx-white}АСТЕРИКС И ОБЕЛИКС",
+         "description": "Астерикс и Обеликс - французская кинофраншиза основанная на одноименной серии комиксов французских. Фильмы посвящены приключениям Астерикса и Обеликса, двух галлов в оккупированной римлянами Европе. С помощью волшебного зелья, придающего сверхчеловеческую силу, крошечной галльской деревушке удается противостоять Риму.",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AOPolaTcS5uS-qJChC_X57eaXuXXb7NikZcCL3aFs-AY=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://icdn.2cda.pl/vid/thumbs/fac45c01da43c8d16f14bd9098d58a4e.jpg_ooooxooxox_1280x720.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Asterix_Obelix.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ПРИШЕЛЬЦЫ",
          "description": "«Пришельцы» — французский фантастический комедийный фильм режиссера Жана-Мари Пуаре о приключениях рыцаря Годфруа де Монмирая и его слуги Жакуя Пройдохи, которые из средневековья попадают в 1990-е годы и вынуждены осваиваться в современном мире. ",
          "backdrop": "https://images.kinorium.com/movie/shot/98861/w1500_48587439.jpg",
