@@ -843,6 +843,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/The_Addams_Family.json"
       },
       {
+         "titleHeader": "{col:msx-white}Здравствуй, папа, Новый год!",
+         "description": " Это комедийный фильм, который переносит нас в мир смешанных семей и вечной борьбы между отчимом и настоящим отцом. Главный герой, Брэд, считает себя замечательным отчимом и мужем. Он очень старается угодить своей жене Саре и её детям от первого брака. Однако идиллия летит в тартарары, когда возвращается настоящий отец детей, Дастин.",
+         "backdrop": "https://m.media-amazon.com/images/M/MV5BZmVkNTVmOTctZWEwMi00YTAwLThjMzgtM2ZlMjFjYzhjZjY5XkEyXkFqcGdeQXVyMjcyNzA2MjE@._V1_FMjpg_UX1000_.jpg",
+         "image": "https://static.hdrezka.ac/i/2017/12/20/n7bcc084c6672ty52d73l.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Daddy's_Home.json"
+      },
+      {
          "titleHeader": "{col:msx-white}МАЧО И БОТАН",
          "description": "В школе они терпеть не могли друг друга, но теперь все иначе. У них есть нечто общее – они оба не блещут умом. Поэтому единственный шанс для них начать карьеру – работа под прикрытием.",
          "backdrop": "https://yt3.googleusercontent.com/ytc/AGIKgqPV7QGjhuAZfMRHsXr_-X818npVzIGolESLF7-Ijg=s900-c-k-c0x00ffffff-no-rj",
