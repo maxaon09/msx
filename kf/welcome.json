@@ -841,6 +841,13 @@
          "image": "https://www.desktopbackground.org/p/2010/04/27/8739_43-sin-city-hd-wallpapers_4450x2503_h.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/Sin_City.json"
       },
+      {
+         "titleHeader": "{col:msx-white}КРЕСТНЫЙ ОТЕЦ",
+         "description": "Крестный отец - трилогия американских криминальных фильмов режиссера Фрэнсиса Форда Копполы, снятая по мотивам одноименного романа  писателя Марио Пьюзо. Фильмы следуют за судебными процессами над вымышленной семьей мафии Корлеоне, чей патриарх Вито Корлеоне, становится крупной фигурой в американской организованной преступности. ",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AGIKgqMGeHidqHNxOJSnWL_UdRN5zKAlZ1QAbxQFckVJ=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://images.kinorium.com/movie/poster/63924/w1500_50284589.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/The_Godfather.json"
+      },
       
       {
          "titleHeader": "{col:msx-white}БЕЛОСНЕЖКА",
