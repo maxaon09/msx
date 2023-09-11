@@ -829,6 +829,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Highlander.json"
       },
       {
+         "titleHeader": "{col:msx-white}БАХУБАЛИ",
+         "description": "Бахубали - классическое фэнтези о герое, который избран для великой миссии. Ему предстоит узнать тайну своего рождения, трагическую историю семьи, пройти через кровавые испытания и побороться за законное место на троне. ",
+         "backdrop": "https://yt3.ggpht.com/ytc/AKedOLSFdFUlAe3WCaeGCVHD8NpXV6N8CY1HWRTfiJWJ=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://www.kino-teatr.ru/video/30758/start.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Bahubali.json"
+      },
+      {
          "titleHeader": "{col:msx-white}Сумерки",
          "description": "Сумерки - серия романтических фантастических фильмов, основанных на серии книг Сумерки Стефани Майер.",
          "backdrop": "https://pbs.twimg.com/media/FEAxjSZXIAIeaYb.jpg",
