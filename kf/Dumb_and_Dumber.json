@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "ТУПОЙ И ЕЩЕ ТУПЕЕ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Тупой и еще тупее",
+         "titleFooter": "Тупой и еще тупее",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Тупой и еще тупее{col}{br}Два полных придурка Ллойд Крисмас и Харри Данн пытаются нагнать красивую девушку Мэри Суонсон, чтобы вручить ей оставленный ею в аэропорту чемоданчик. Им невдомек, что Мэри оставила его специально, в качестве выкупа по договоренности с похитителями ее мужа. На переделанной в собаку машине двое недотёп пересекают Америку от Род-Айленда до Колорадо, где и находят обворожительную Мэри, в которую Ллойд уже успел втюриться без памяти.",
+               "image": "https://thumbs.dfs.ivi.ru/storage26/contents/4/b/9262cf7bab7f09940ba488e1cbcac9.jpg/400x226//"
+            }
+         },
+         "image": "https://thumbs.dfs.ivi.ru/storage26/contents/4/b/9262cf7bab7f09940ba488e1cbcac9.jpg/400x226//",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_26_20/06/26/17/MAKMB2U7/KXJKF54O.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Тупой и еще тупее",
+         "titleFooter": "Тупой и еще тупее тупого",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Тупой и еще тупее тупого: Когда Гарри встретил Ллойда{col}{br}Как же встретились два героя-недоумка Гарри и Ллойд, известные по фильму «Тупой и еще тупее»? Оба несколько лет не ходили в школу, а учились на дому. Пришло время отправляться в школу, и прямо на улице Гарри и Ллойд столкнулись лбами...А в это время школьный директор Коллинз и мисс Хеллер, буфетчица-официантка школьной столовой, задумали провернуть аферу - получить благотворительную премию в сто тысяч долларов за организацию класса для умственно отсталых. Злоумышленники решили создать липовый класс. Два кандидата в спецкласс нашлись сразу - Гарри и Ллойд, а они разыскали остальных...",
+               "image": "https://www.justwatch.com/images/backdrop/257126597/s640/tupoi-i-eshche-tupee-tupogo-kogda-garri-vstretil-lloida"
+            }
+         },
+         "image": "https://www.justwatch.com/images/backdrop/257126597/s640/tupoi-i-eshche-tupee-tupogo-kogda-garri-vstretil-lloida",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/02_16_23/02/16/12/2LXD5NYS/ECQPIVRQ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Тупой и еще тупее",
+         "titleFooter": "Тупой и еще тупее 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Тупой и еще тупее 2{col}{br}Гарри Данн и Ллойд Кристмас отправляются в путешествие, чтобы разыскать ребенка Гарри, о существовании которого он не подозревал.",
+               "image": "https://i.ytimg.com/vi/OaULnTDvGNU/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/OaULnTDvGNU/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/02_16_23/02/16/15/VASABBRG/K5ZADUD3.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}
