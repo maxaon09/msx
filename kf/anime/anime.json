@@ -97,6 +97,13 @@
          "backdrop": "https://yt3.ggpht.com/a/AATXAJx67J0tTdIZuK7JJbbu66K0NIVc4VQjHKmlRzNR=s900-c-k-c0xffffffff-no-rj-mo",
          "image": "https://img.ixbt.site/live/topics/preview/00/03/80/47/adeee7376a.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/anime/Puss_in_ Boots.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}РАПУНЦЕЛЬ",
+         "description": " Она — принцесса королевства Корона, известная за свои волшебные длинные золотые волосы. Ещё ребёнком Рапунцель была похищена злобной старухой и спрятана в уединённой башне на восемнадцать лет, за время которых увлеклась тайной «летающих огоньков», появляющихся только в её день рождения. ",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AGIKgqOJldUyekiU5bgvgmEsf_4mXiWqAq9CQWUcoTbf=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://news.store.rambler.ru/img/fc616b1872530c97fa9004d757fd45e0?img-format=auto&img-1-resize=height:400,fit:max&img-2-filter=sharpen",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Tangled.json"
       }
    ]
 }
