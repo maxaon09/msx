@@ -211,6 +211,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Jaws.json"
       },
       {
+         "titleHeader": "{col:msx-white}ПИРАНЬИ",
+         "description": "Пиранья, имеет репутацию пресноводного хищника, опасного для животных и человека. Так вот об этой милой рыбке и повествует серия фильмов снятая в разное время разными режиссерами.",
+         "backdrop": "https://media.filmz.ru/photos/full/filmz.ru_f_117784.jpg",
+         "image": "https://podcastingthemsoftly.files.wordpress.com/2021/07/img_2688.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Piranha.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ОМЕН",
          "description": "«Омен» — серия фильмов ужасов о приходе и становлении Антихриста. Он был рождён в 6 часов 6 июня. Как предсказано в Книге откровений, настанет конец света, последнее противостояние сил добра и зла, и началом его будет рождение сына Сатаны в облике человеческом. ",
          "backdrop": "https://i.imgflip.com/1oj3w7.jpg",
