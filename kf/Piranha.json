@@ -1,0 +1,109 @@
+{
+   "type": "list",
+   "headline": "ПИРАНЬИ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Пираньи",
+         "titleFooter": "Пираньи",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Пираньи{col}{br}«Холодная война» закончилась, но все ли ее последствия и изобретения ушли в прошлое? В секретной лаборатории вывели гигантских пираний, способных выживать в любом климате. Базу закрыли, а оставшиеся рыбки вместе со слитой случайно водой попали в ближайшую речушку, оттуда – в озеро.",
+               "image": "https://2.bp.blogspot.com/-XICRQk26BUk/XGtWfGfWdgI/AAAAAAAB8qw/E-8uYh7OELAze_MHgOI80XSFwhycanzIACLcBGAs/s1600/Piranha%2B%25281978%2529.jpg"
+            }
+         },
+         "image": "https://2.bp.blogspot.com/-XICRQk26BUk/XGtWfGfWdgI/AAAAAAAB8qw/E-8uYh7OELAze_MHgOI80XSFwhycanzIACLcBGAs/s1600/Piranha%2B%25281978%2529.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_25_22/06/25/04/LQDYGY66/3HIJ44TR.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Пираньи",
+         "titleFooter": "Пираньи 2: Нерест",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Пираньи 2: Нерест{col}{br}могда Тайлер рассказывает, что он — биохимик, принимавший участие в создании генетически изменённых пираний, которых предполагалась использовать в качестве оружия. Однако во время испытаний цилиндр с икрой случайно попал в местный водоём, в итоге здесь появились опасные рыбы-мутанты, вдобавок ко всему обладающие способностью летать. Теперь они представляют существенную опасность для отдыхающих. Энн и Тайлер решают взорвать корабль с целью уничтожения гнезда хищников.",
+               "image": "https://i.ytimg.com/vi/U60hQJ2uRJw/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/U60hQJ2uRJw/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_20_22/06/20/18/QEHYUSVC/LGNIHX3Y.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Пираньи",
+         "titleFooter": "Пираньи 3D ",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Пираньи 3D {col}{br}20 тысяч подростков курортного городка у озера Виктория готовятся к празднованию ежегодного праздника начала лета. Но ночное землетрясение высвобождает сотни тысяч доисторических пираний прямо накануне торжества. Очаровательная шериф, ее подчиненные-полицейские и доктор Горден Рэйбэнкс решают сделать все, чтобы веселый праздник молодежи в озере не превратился в кровавое пиршество. Но пираньи уже знают ответ на вопрос - что победит: молодость или многовековая жажда крови.",
+               "image": "https://i.ytimg.com/vi/W0Suu6uIMos/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/W0Suu6uIMos/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/11_06_19/11/06/12/FSGjLDqi/1080_vuZFP8kF.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Пираньи",
+         "titleFooter": "Пираньи 3DD",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Пираньи 3DD{col}{br}Доисторические твари больше не будут ограничиваться поеданием туристов на озере, а проникнут через водопроводные и канализационные сети в бассейны и иные искусственные водоемы нового аквапарка под названием Wilderness Waters. Именно там и развернется основное действие.",
+               "image": "https://images.kinorium.com/movie/poster/544833/w1500_50407164.jpg"
+            }
+         },
+         "image": "https://images.kinorium.com/movie/poster/544833/w1500_50407164.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/11_06_19/11/06/12/umfYpHn3/1080_VQ5I81ia.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      }
+   ]
+}
