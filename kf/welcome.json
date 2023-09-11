@@ -85,6 +85,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/vostavshiy_iz_ada.json"
       },
       {
+         "titleHeader": "{col:msx-white}ХЭЛЛОУИН",
+         "description": "«Хэллоуин» — американская медиафраншиза в жанре слэшер. Главной темой фильмов является Майкл Майерс, который в детстве был помещен в лечебницу за убийство сестры. Пятнадцать лет спустя он сбегает, чтобы преследовать и убивать жителей вымышленного города Хэддонфилд. Убийства происходят в праздник Хэллоуин, на который приходятся основные события всех фильмов.",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AGIKgqMn5IFrFqe6l2jwxHx1mSJBzdsG0NWB5RKSQlz0Vw=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://w.forfun.com/fetch/cc/ccba9e9b3e3b458ac692248d001869a0.jpeg?w=1470&r=0.5625",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Halloween.json"
+      },
+      {
          "titleHeader": "{col:msx-white}СПУСК",
          "description": "«Спуск» — британский фильм ужасов режиссёра Нила Маршалла. Фильм рассказывает о компании девушек, спустившихся в пещеру. Малобюджетная картина собрала в мировом прокате более 57 млн долларов, став лауреатом премии «Сатурн» 2007 года в номинации «лучший фильм ужасов»",
          "backdrop": "https://images.kinorium.com/movie/shot/331222/w1500_48522544.jpg",
