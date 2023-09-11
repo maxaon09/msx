@@ -597,6 +597,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/venom.json"
       },
       {
+         "titleHeader": "{col:msx-white}УНИВЕРСАЛЬНЫЙ СОЛДАТ",
+         "description": "«Универсальный солдат» - серия военно-фантастических боевиков. Погибшие во Вьетнаме солдаты США становятся частью секретного эксперимента. Воскрешённые, они становятся идеальными машинами для убийства - но память даёт знать о себе. ",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AOPolaTBHGSbVFmYnowOa_gzRP22va-8sigGQgRomVF0lA=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://turalturan.files.wordpress.com/2021/12/universal-soldier.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Universal_Soldier.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ЛЮДИ ИКС",
          "description": "«Люди Икс» — серия супергеройских фильмов про людей, обладающих невероятными силами, основанная на одноимённых комиксах компании Marvel Comics.",
          "backdrop": "https://pbs.twimg.com/media/FJNgggiXIAITR5N.jpg",
