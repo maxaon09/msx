@@ -934,6 +934,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/The_Addams_Family.json"
       },
       {
+         "titleHeader": "{col:msx-white}ФОКУС-ПОКУС",
+         "description": "Фокус-Покус - американская сверхъестественная комедия, повествующая о злодейском комедийном трио ведьм которые были непреднамеренно воскрешены подростком в ночь на Хэллоуин",
+         "backdrop": "https://mainstyles.ru/media/cache/default/rc/kKT1hA0R/Hocus-pocus-3-development-01-Mainstyle.webp",
+         "image": "https://tigerbeat.com/wp-content/uploads/2020/10/hocus_pocus_1538082085947_12727278_ver1.0_1280_720-960x640.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Hocus_Pocus.json"
+      },      
+      {
          "titleHeader": "{col:msx-white}Здравствуй, папа, Новый год!",
          "description": " Это комедийный фильм, который переносит нас в мир смешанных семей и вечной борьбы между отчимом и настоящим отцом. Главный герой, Брэд, считает себя замечательным отчимом и мужем. Он очень старается угодить своей жене Саре и её детям от первого брака. Однако идиллия летит в тартарары, когда возвращается настоящий отец детей, Дастин.",
          "backdrop": "https://m.media-amazon.com/images/M/MV5BZmVkNTVmOTctZWEwMi00YTAwLThjMzgtM2ZlMjFjYzhjZjY5XkEyXkFqcGdeQXVyMjcyNzA2MjE@._V1_FMjpg_UX1000_.jpg",
