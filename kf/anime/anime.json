@@ -118,6 +118,13 @@
          "backdrop": "https://yt3.ggpht.com/a/AATXAJxe95B0Cf_kHLoivvCx-Q-M-uYvMLSrJsfWrQ=s900-c-k-c0xffffffff-no-rj-mo",
          "image": "https://kartinki.pibig.info/uploads/posts/2023-04/1682339612_kartinki-pibig-info-p-kon-iz-trekh-bogatirei-kartinki-arti-pinte-45.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/anime/tri_bogatyrya.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ИВАН ЦАРЕВИЧ И СЕРЫЙ ВОЛК",
+         "description": "Иван Царевич и Серый волк — русская франшизна полнометражных мультипликационных фильмов, повествующих о приключениях Ивана Царевича и Серого волка. Действие происходит в Тридевятом царстве. Каждый из мультфильмов имеет отдельный сюжет, но связан основными героями. Сюжет здесь переплетается с русским фольклором и современностью",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AOPolaRhV4klcywmL5Q1UZ3sPVCxif2neCCbPHHQbEVL=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://skachat.online/assets/Uploads/youtube/2021-07/_resampled/Fit10241024-ivan-tsarevich-i-seryy-volk-4-s-3264860020.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/ivan_tcarevich.json"
       }
    ]
 }
