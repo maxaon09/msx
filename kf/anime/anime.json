@@ -111,6 +111,13 @@
          "backdrop": "https://yt3.ggpht.com/a/AATXAJxoAi5_LxZfCAyO2qjgxQRzhURXygPYG5R4vw=s900-c-k-c0xffffffff-no-rj-mo",
          "image": "https://w.forfun.com/fetch/2c/2c7f368a182431c8864bede16929762c.jpeg",
          "action": "content: https://maxaon09.github.io/msx/kf/anime/Ace_Age.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ТРИ БОГАТЫРЯ",
+         "description": "«Три богатыря» — российская приключенческая комедийная франшиза, куда входят полнометражные мультипликационные фильмы, повествующих о приключениях трёх самых известных богатырей — Алёши Поповича, Добрыни Никитича и Ильи Муромца и сочетают в себе историю ранней России, Белоруссии и Украины, а также славянский и русский фольклор ",
+         "backdrop": "https://yt3.ggpht.com/a/AATXAJxe95B0Cf_kHLoivvCx-Q-M-uYvMLSrJsfWrQ=s900-c-k-c0xffffffff-no-rj-mo",
+         "image": "https://kartinki.pibig.info/uploads/posts/2023-04/1682339612_kartinki-pibig-info-p-kon-iz-trekh-bogatirei-kartinki-arti-pinte-45.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/tri_bogatyrya.json"
       }
    ]
 }
