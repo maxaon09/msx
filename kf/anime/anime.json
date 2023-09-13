@@ -125,6 +125,13 @@
          "backdrop": "https://yt3.googleusercontent.com/ytc/AOPolaRhV4klcywmL5Q1UZ3sPVCxif2neCCbPHHQbEVL=s900-c-k-c0x00ffffff-no-rj",
          "image": "https://skachat.online/assets/Uploads/youtube/2021-07/_resampled/Fit10241024-ivan-tsarevich-i-seryy-volk-4-s-3264860020.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/anime/ivan_tcarevich.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ХОЛОДНОЕ СЕРДЦЕ",
+         "description": "«Холодное сердце» — диснеевская медиафраншиза, начавшаяся с одноимённого мультфильма 2013 года, основанного на сказке Ханса Кристиана Андерсена «Снежная королева». «Фрозен: Холодное сердце» мало похожа на «Снежную королеву» Андерсона, но главное в том, что она передает сказочный дух, скрытый в его историях.",
+         "backdrop": "https://yt3.ggpht.com/ytc/AMLnZu_sNNPok-SeLjiNZWiesYF71ZYL4ohtJk1JkBE=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://i.servimg.com/u/f77/19/20/91/15/the-da15.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Frozen.json"
       }
    ]
 }
