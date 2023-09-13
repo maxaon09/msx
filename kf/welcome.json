@@ -527,6 +527,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Jack_Reacher.json"
       },
       {
+         "titleHeader": "{col:msx-white}МИССИЯ НЕВЫПОЛНИМА",
+         "description": "Миссия невыполнима - серия американских шпионских боевиков. Фильмы рассказывают о миссиях спецкоманды под руководством Ханта по остановке вражеских сил и предотвращению надвигающейся глобальной катастрофы. Продюсером сериала и исполнителем главной роли является Том Круз, который играет Итана Ханта, агента Сил по выполнению невыполнимых миссий",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AOPolaT9UuFMdAozQVvP6xI5k7MqVPZRYWExugJ5m2NA=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://thecinemaholic.com/wp-content/uploads/2018/07/mission-impossible-cast.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Mission_Impossible.json"
+      },
+      {
          "titleHeader": "{col:msx-white}МЕХАНИК",
          "description": "Остросюжетный боевик с Джейсоном Стетхэмом в главной роли. Таких как Артур Бишоп в узких кругах называют «механики» — это кодовое обозначение для профессиональных киллеров высокого класса. Когда нужно убрать кого-то быстро и незаметно, дело поручают Артуру, ведь он — лучший в своём деле: умный, ловкий, сильный, с идеальными навыками убийцы",
          "backdrop": "https://pbs.twimg.com/media/CoYC37BWgAAUT5V?format=jpg&name=large",
