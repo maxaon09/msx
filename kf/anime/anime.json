@@ -106,11 +106,25 @@
          "action": "content: https://maxaon09.github.io/msx/kf/anime/Tangled.json"
       },
       {
+         "titleHeader": "{col:msx-white}ХОЛОДНОЕ СЕРДЦЕ",
+         "description": "«Холодное сердце» — диснеевская медиафраншиза, начавшаяся с одноимённого мультфильма 2013 года, основанного на сказке Ханса Кристиана Андерсена «Снежная королева». «Фрозен: Холодное сердце» мало похожа на «Снежную королеву» Андерсона, но главное в том, что она передает сказочный дух, скрытый в его историях.",
+         "backdrop": "https://yt3.ggpht.com/ytc/AMLnZu_sNNPok-SeLjiNZWiesYF71ZYL4ohtJk1JkBE=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://i.servimg.com/u/f77/19/20/91/15/the-da15.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Frozen.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ЛЕДНИКОВЫЙ ПЕРИОД",
          "description": "«Ледниковый период» — серия мультипликационных фильмов киностудии Blue Sky Studios, повествующая о приключениях Мамонта, Саблезубого тигра, Ленивца и Саблезубой белки в доисторические времена: от Ледникового периода до Дрейфа континентов.",
          "backdrop": "https://yt3.ggpht.com/a/AATXAJxoAi5_LxZfCAyO2qjgxQRzhURXygPYG5R4vw=s900-c-k-c0xffffffff-no-rj-mo",
          "image": "https://w.forfun.com/fetch/2c/2c7f368a182431c8864bede16929762c.jpeg",
          "action": "content: https://maxaon09.github.io/msx/kf/anime/Ace_Age.json"
+      },
+            {
+         "titleHeader": "{col:msx-white}МОНСТРЫ НА КАНИКУЛАХ",
+         "description": "«Монстры на каникулах» — серия комедийных мультфильмов американского производства повествует о жизни графа Дракулы, который владеет отелем под названием «Трансильвания» куда могут приезжать монстры, чтобы отдохнуть от повседневных забот и не встречаться с шумными, опасными и надоедливыми людьми. ",
+         "backdrop": "https://yt3.ggpht.com/a/AATXAJyNfxSHuzlkzurMdF0--JlXMhNBX_e8Wu8ILYEN=s900-c-k-c0xffffffff-no-rj-mo",
+         "image": "https://www.desktopbackground.org/download/1024x768/2011/03/07/168443_hotel-transylvania-wallpapers_2560x1600_h.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Hotel_Transylvania.json"
       },
       {
          "titleHeader": "{col:msx-white}ТРИ БОГАТЫРЯ",
@@ -125,13 +139,6 @@
          "backdrop": "https://yt3.googleusercontent.com/ytc/AOPolaRhV4klcywmL5Q1UZ3sPVCxif2neCCbPHHQbEVL=s900-c-k-c0x00ffffff-no-rj",
          "image": "https://skachat.online/assets/Uploads/youtube/2021-07/_resampled/Fit10241024-ivan-tsarevich-i-seryy-volk-4-s-3264860020.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/anime/ivan_tcarevich.json"
-      },
-      {
-         "titleHeader": "{col:msx-white}ХОЛОДНОЕ СЕРДЦЕ",
-         "description": "«Холодное сердце» — диснеевская медиафраншиза, начавшаяся с одноимённого мультфильма 2013 года, основанного на сказке Ханса Кристиана Андерсена «Снежная королева». «Фрозен: Холодное сердце» мало похожа на «Снежную королеву» Андерсона, но главное в том, что она передает сказочный дух, скрытый в его историях.",
-         "backdrop": "https://yt3.ggpht.com/ytc/AMLnZu_sNNPok-SeLjiNZWiesYF71ZYL4ohtJk1JkBE=s900-c-k-c0x00ffffff-no-rj",
-         "image": "https://i.servimg.com/u/f77/19/20/91/15/the-da15.jpg",
-         "action": "content: https://maxaon09.github.io/msx/kf/anime/Frozen.json"
       }
    ]
 }
