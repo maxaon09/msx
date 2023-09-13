@@ -1,0 +1,160 @@
+{
+   "type": "list",
+   "headline": "ЛЕДНИКОВЫЙ ПЕРИОД",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Ледниковый период ",
+         "titleFooter": "Ледниковый период ",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Ледниковый период  {col}{br}В надежде спастись от неминуемо приближающегося холода, доисторические животные собираются в стаи и начинают медленно мигрировать на юг. Угрюмый мамонт Манфред и его приятель – бесшабашный, но в то же время трусливый ленивец Сид бродя бесцельно по окрестностям обнаруживает сверток, внутри которого оказывается человеческое дитя.",
+               "image": "https://i.ytimg.com/vi/0Th3vD2gA1k/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/0Th3vD2gA1k/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_17_23/01/17/15/2GIMHUYO/OMCP4DU3.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Ледниковый период 2",
+         "titleFooter": "Глобальное потепление",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Ледниковый период 2: Глобальное потепление (2006){col}{br}Пережив глобальное похолодание, трое друзей — мамонт Манфред по прозвищу Мэнни, ленивый неряха Сид и саблезубый тигр Диего — отправляются в новое путешествие, на сей раз спасаясь от потепления и таяния ледников. ",
+               "image": "https://i.ytimg.com/vi/DOyPspqPz2M/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/DOyPspqPz2M/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/12/WLEO2J4V/5CI6TJ5E.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Ледниковый период ",
+         "titleFooter": "Эра динозавров",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Ледниковый период 3: Эра динозавров (2009){col}{br}История про дружную компанию доисторических зверей. На этот раз они нос к носу встречаются с самыми настоящими динозаврами. А все из-за неугомонного ленивца Сида, который, как всегда, вляпался в большие неприятности. ",
+               "image": "https://i.pinimg.com/originals/8b/b1/9a/8bb19a5a48f696e0d013fe3ddfa992be.jpg"
+            }
+         },
+         "image": "https://i.pinimg.com/originals/8b/b1/9a/8bb19a5a48f696e0d013fe3ddfa992be.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_01_20/10/01/07/NKO5GECQ/S2TN5WYM.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Ледниковый период 4",
+         "titleFooter": "Континентальный дрейф",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Ледниковый период 4: Континентальный дрейф (2012){col}{br}Неугомонная Белка стала причиной разделения земной суши на континенты. Мэнни, Сид и Диего, отрезанные от стада, вынуждены использовать айсберг в качестве плота. Они пересекают океан и попадают в неизвестные им ранее земли с экзотическими животными и пиратами",
+               "image": "https://img.moviesrankings.com/t/p/w1280/b5CcHOtwBeyz58v44xj53kplBWZ.jpg"
+            }
+         },
+         "image": "https://img.moviesrankings.com/t/p/w1280/b5CcHOtwBeyz58v44xj53kplBWZ.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/20/VXFLU7KU/3ZMYWZO5.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Ледниковый период ",
+         "titleFooter": "Столкновение неизбежно",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Ледниковый период: Столкновение неизбежно (2016){col}{br}Погоня за неуловимым желудем катапультирует Скрата прямо в космос, где он случайно запускает целую серию космических событий. Именно они изменят весь мир Ледникового периода и станут реальной угрозой. Чтобы спастись, Сид, Мэнни, Диего и остальные звери должны покинуть свои дома и отправиться в забавное и захватывающее приключение",
+               "image": "https://i.ytimg.com/vi/NMTVxm9bRdk/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/NMTVxm9bRdk/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/03_20_23/03/20/18/WKK3PLV7/M7PZXRCL.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Ледниковый период",
+         "titleFooter": "Погоня за яйцами (2016)",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Ледниковый период: Погоня за яйцами (2016){col}{br} У ленивца Сида новая гениальная идея – он решил высиживать яйца. У него уже был опыт с яйцами динозавров, поэтому Сид уверен – дело будет иметь успех. Назвать свое предприятие он решил «Яичные ясли».",
+               "image": "https://i.ytimg.com/vi/bkKY9kzwmJI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGBUgVCh_MA8=&amp;rs=AOn4CLBO_XuN4q7jsDFkT6X4cSzyUvE1kA"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/bkKY9kzwmJI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGBUgVCh_MA8=&amp;rs=AOn4CLBO_XuN4q7jsDFkT6X4cSzyUvE1kA",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_22_19/10/22/11/78eZMWJj/1080_2tAV6yrA.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Ледниковый период ",
+         "titleFooter": "Приключения Бака (2022)",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Ледниковый период: Приключения Бака (2022){col}{br}Прихватив с собой пару озорных братьев-опоссумов Крэша и Эдди, бесстрашный Баки отправляется в удивительный Мир динозавров.",
+               "image": "https://pic.rutubelist.ru/video/e2/d8/e2d86382fb34ce9af393788bf99c5078.jpg"
+            }
+         },
+         "image": "https://pic.rutubelist.ru/video/e2/d8/e2d86382fb34ce9af393788bf99c5078.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_31_22/01/31/10/PPCKXWZT/BR3SJ3C7.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      }
+   ]
+}
