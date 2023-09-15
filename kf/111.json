@@ -1,44 +1,49 @@
 {
    "type": "list",
-    "dictionary": "https://maxaon09.github.io/lampaset/msx/lang/ru.json",
+   "dictionary": "https://maxaon09.github.io/lampaset/msx/lang/ru.json",
+   "headline": "{col:msx-red}ЛУЧШИЕ КИНОФРАНШИЗЫ ОНЛАЙН   \n {col:default}Коллекция медиаподборок от {col:white}OLSIB TV",
    "preload": "next",
    "pages": [
       {
-         "important": false,
+         "important": true,
          "offset": "0,0,0,0.25",
          "items": [
             {
                "type": "space",
                "layout": "0,0,12,5",
+               "offset": "-1.25,-1,2,1",
                "color": "msx-glass",
                "image": "https://maxaon09.github.io/msx/kf/img/photo_2023-08-06_21-58-52.jpg",
-               "text": "\n\n {col:msx-red}ЛУЧШИЕ КИНОФРАНШИЗЫ ОНЛАЙН    {col:default}Коллекция медиаподборок от {col:white}OLSIB TV",
                "imageFiller": "cover",
                "imageOverlay": 4
             },
             {
-               "type": "control",
+               "type": "space",
+               "layout": "0,4,12,1",
+               "offset": "-1.25,1,2,0",
+               "color": "msx-black-soft"
+            },
+            {
+               "type": "default",
+               "layout": "0,5,4,1",
+               "color": "transparent",
+               "label": "Каталог",
+               "action": "menu: https://maxaon09.github.io/msx/kf/katalog.json"
+            },
+            {
+               "type": "default",
                "layout": "4,5,4,1",
-               "icon": "play-circle-outline",
-               "iconSize": "extra-large",
-               "label": "Кинофраншизы",
+               "focus": true,
+               "color": "msx-white-soft",
+               "label": "{col:msx-black}Кинофраншизы",
                "action": "content: https://maxaon09.github.io/msx/kf/welcome.json"
             },
             {
-               "type": "control",
+               "type": "default",
                "layout": "8,5,4,1",
-               "icon": "play-circle-outline",
-               "iconSize": "extra-large",
+               "color": "transparent",
                "label": "Мультфраншизы",
                "action": "content: https://maxaon09.github.io/msx/kf/anime/anime.json"
-            },
-            {
-               "type": "control",
-               "layout": "0,5,4,1",
-               "icon": "vertical-split",
-               "iconSize": "extra-large",
-               "label": "Каталог",
-               "action": "menu: https://maxaon09.github.io/msx/kf/katalog.json"
             }
          ]
       }
