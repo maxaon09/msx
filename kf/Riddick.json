@@ -87,6 +87,23 @@
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
-      }
+      },
+      {
+         "titleHeader": "{col:msx-white}Риддик",
+         "titleFooter": "Риддик",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Риддик{col}{br}Преданный своими и брошенный умирать на пустынной планете, Риддик сражается с хищниками за жизнь и становится сильнее и опаснее себя прежнего. Открывшие на него охоту галактические наемники оказываются пешками в грандиозном плане отмщения. С врагами, возникающими на его пути тогда, когда это нужно самому Риддику, он начинает поход во имя мести.",
+               "image": "https://i.ytimg.com/vi/ZdNP8ywa8_A/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/ZdNP8ywa8_A/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_17_20/09/17/13/UM3OGPLA/HUNDXPXA.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }      
    ]
 }
