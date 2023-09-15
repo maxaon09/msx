@@ -69,6 +69,13 @@
       {
          "icon": "tv",
          "iconSize": "extra-large",
+         "label": "Криминал",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/kf/pl/crime.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
          "label": "Роман",
          "extensionLabel": "",
          "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/kf/pl/roman.m3u8"
@@ -79,6 +86,23 @@
          "label": "Комедия",
          "extensionLabel": "",
          "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/kf/pl/comedy.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "СССР, ех-СССР",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/kf/pl/USSR.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "Анимационные",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/kf/pl/mult.m3u8"
+      },
+      {
+         "type": "separator"
       }
    ]
 }
