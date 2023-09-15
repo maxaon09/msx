@@ -1,7 +1,6 @@
 {
    "type": "list",
-   "background": "https://catherineasquithgallery.com/uploads/posts/2021-02/1614147664_30-p-serebryanii-fon-na-telefon-33.jpg",
-   "dictionary": "https://maxaon09.github.io/lampaset/msx/lang/ru.json",
+    "dictionary": "https://maxaon09.github.io/lampaset/msx/lang/ru.json",
    "preload": "next",
    "pages": [
       {
