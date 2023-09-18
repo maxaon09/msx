@@ -99,7 +99,7 @@
          "iconSize": "extra-large",
          "label": "Анимационные",
          "extensionLabel": "",
-         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/kf/pl/mult2.m3u8"
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/kf/pl/mult.m3u8"
       },
       {
          "type": "separator"
