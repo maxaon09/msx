@@ -1372,14 +1372,14 @@
          "description": "Советский и российский фильмы ужасов про потустороннюю силу. Одно из самых захватывающих и мистических произведений Николая Гоголя «Вий» стало основой для сюжета фильмов. В смешении реалистичных и фантастических событий происходит борьба Добра и Зла за душу человека.",
          "backdrop": "https://yt3.googleusercontent.com/ytc/AOPolaTV6DwTlJVYEgB5ADlOCVZxpwYRIxQr76bEDF8T=s900-c-k-c0x00ffffff-no-rj",
          "image": "https://myrussia.life/upload/post/2018/09/04/7451/gallery/orig.jpg",
-         "action": "content: https://maxaon09.github.io/msx/kf/The_best_movie.json"
+         "action": "content: https://maxaon09.github.io/msx/kf/Viy.json"
       },
       {
          "titleHeader": "{col:msx-white}ФАНАТ",
          "description": "Непобедимый «Малыш» - фанат карате, полон светлых планов на будущее. Однако, невольное соучастие в ограблении, и только чудом вместо тюрьмы он попадает в армию. Оттуда возвращается жестокий зверь, боец без тени жалости даже к друзьям. ",
          "backdrop": "https://img1-hindilinks4u.unblockedonline.net/media/files/s2/zx/xw/fanat.jpg",
          "image": "https://i.ytimg.com/vi/iB4kVGQcv3g/maxresdefault.jpg",
-         "action": "content: https://maxaon09.github.io/msx/kf/The_best_movie.json"
+         "action": "content: https://maxaon09.github.io/msx/kf/fanat.json"
       }
    ]
 }
