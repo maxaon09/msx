@@ -639,6 +639,20 @@
          "action": "content: https://maxaon09.github.io/msx/kf/ludi_x.json"
       },
       {
+         "titleHeader": "{col:msx-white}ЧУДО-ЖЕНЩИНА",
+         "description": " До того, как стать Чудо-Женщиной, она была известна как Диана, принцесса амазонок, выросшая на укрытом от внешнего мира райском острове и обученная быть непобедимым воином. ",
+         "backdrop": "https://yt3.ggpht.com/ytc/AKedOLTVyO6yGxpYpgAntSpFep4VaeNHIhjBuzL28AKadw=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://i.pinimg.com/originals/23/67/ae/2367aef93331aeeea26c37eee454b256.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Wonde_Woman.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ЛИГА СПРАВЕДЛИВОСТИ",
+         "description": "Бэтмен и Чудо-Женщина быстро набирают команду сверхлюдей для борьбы с пробудившейся угрозой. Но, несмотря на уникальный состав отряда супергероев — Бэтмен, Чудо-Женщина, Аквамен, Киборг и Флэш — быть может, спасать планету от вторжения катастрофических масштабов уже слишком поздно.",
+         "backdrop": "https://yt3.ggpht.com/a/AGF-l7-PDsEj3mb99mhYkbaJvMDSd3ttKyHb3CltsQ=s900-c-k-c0xffffffff-no-rj-mo",
+         "image": "https://images7.alphacoders.com/972/thumb-1920-972659.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Justice_League.json"
+      },
+      {
          "titleHeader": "{col:msx-white}МСТИТЕЛИ",
          "description": "Мстители - команда вымышленных супергероев и главных героев медиа-франшизы Marvel Cinematic Universe (MCU). Основанная директором «Щ.И.Т.А» Ником Фьюри, команда представляет собой организацию состоящую в основном из наделенных сверхспособностями и одаренных «Мстителей», которые привержены защите мира от различных угроз.",
          "backdrop": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/10/25/09/avengers-age-of-ultron.jpg",
@@ -1284,6 +1298,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Grandmothe_ of_easy_virtue.json"
       },
       {
+         "titleHeader": "{col:msx-white}САМЫЙ ЛУЧШИЙ ФИЛЬМ",
+         "description": "Комедийные фильмы - пародии на современные блокбастеры с Гариком Харламовым, Михаилом Галустяном, Павлом Волей и Дмитрием Нагиевым. Один единственный необдуманный поступок может привести к тому, что свою же свадьбу придется отмечать на небесах...",
+         "backdrop": "https://yt3.googleusercontent.com/Q03CMOFqCxtQHM_Kxlj8j00rM_iouHo52CTHySql8qgo2h8eysGwXkJbwq5jWSA5RtVNoko37w=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://media.kg-portal.ru/images/samyjluchshijfilm2/samyjluchshijfilm2_2.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/The_best_movie.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ДЕНЬ РАДИО",
          "description": "На радиостанции случается ЧП, но совершенно нет времени выяснять его причины и искать виноватых. Нужно срочно действовать! И радиостанция «Как бы радио» готова ко всему.",
          "backdrop": "http://media.filmz.ru/photos/full/f_17072.jpg",
@@ -1305,13 +1326,6 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Gorko.json"
       },
       {
-         "titleHeader": "{col:msx-white}ОСВОБОЖДЕНИЕ",
-         "description": "«Освобождение» — киноэпопея о Великой Отечественной войне режиссёра Юрия Озерова по сценарию Юрия Бондарева и Оскара Курганова. (1968-1972). Фильм отреставрирован в 2020 году  Группы компьютерной графики Мосфильма.",
-         "backdrop": "https://an2-img.amz.wtchn.net/image/v2/TFWLlhCH7bz5gN0GcxcT8g.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakl2YzNSdmNtVXZhVzFoWjJVdk1UWXpOVEl6TVRBNU16QTNOREV5TURZeU15SjkuTWV6Mk5SZGE0bzJLdl9lZlQ0bGNCaHNoNjQxYjU0NkxXWTducUdRM0lNYw",
-         "image": "https://cdn.fishki.net/upload/post/2021/01/18/3559789/4738add899799860cf3a066d5b3d8c61.jpg",
-         "action": "content: https://maxaon09.github.io/msx/kf/Osvobozhdenie.json"
-      },
-      {
          "titleHeader": "{col:msx-white}ОСОБЕННОСТИ НАЦИОНАЛЬНОЙ ОХОТЫ",
          "description": "«Особенности национальной охоты» – это философская комедия о глубокой и загадочной русской душе, влюбившая в себя миллионы телезрителей. B серию о Кузьмиче, Михалыче и Леве Соловейчике на данный момент входят целых шесть разных фильмов.",
          "backdrop": "https://yt3.ggpht.com/a/AATXAJwG8j1Jgm3OQ4sqm1P1PYS_yoTIeU_wIYa5Dg=s900-c-k-c0xffffffff-no-rj-mo",
@@ -1331,6 +1345,41 @@
          "backdrop": "https://sun1-89.userapi.com/impg/TUFckBJPjH9bbwQwHNNYfdMTaZSYMMnAgyOH7w/HvPKyXinXx0.jpg?size=1280x935&quality=96&sign=34b91697261c0ab7f2c510c8d37bc2d2&c_uniq_tag=o1feoslUbT3O6cUeRFLDlKkvAeaJ9vY6dReo5Eux5kc&type=album",
          "image": "https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/367/227/1.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/moonshiners.json"
+      },
+            {
+         "titleHeader": "{col:msx-white}НЕУЛОВИМЫЕ МСТИТЕЛИ",
+         "description": "«Неуловимые мстители» — советский приключенческий фильм, поставленный режиссёром Эдмондом Кеосаяном на киностудии «Мосфильм» в 1966 году. Фильм снят по мотивам повести Павла Бляхина «Красные дьяволята» о приключениях четырёх подростков в годы Гражданской войны в России.",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AOPolaRIxy2uP2sG1Ujkt5XDZBWIvUWyUA6fLs-tK3iq=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://i.imgur.com/oxzpXAH.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Elusive_Avengers.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ОСВОБОЖДЕНИЕ",
+         "description": "«Освобождение» — киноэпопея о Великой Отечественной войне режиссёра Юрия Озерова по сценарию Юрия Бондарева и Оскара Курганова. (1968-1972). Фильм отреставрирован в 2020 году  Группы компьютерной графики Мосфильма.",
+         "backdrop": "https://an2-img.amz.wtchn.net/image/v2/TFWLlhCH7bz5gN0GcxcT8g.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakl2YzNSdmNtVXZhVzFoWjJVdk1UWXpOVEl6TVRBNU16QTNOREV5TURZeU15SjkuTWV6Mk5SZGE0bzJLdl9lZlQ0bGNCaHNoNjQxYjU0NkxXWTducUdRM0lNYw",
+         "image": "https://cdn.fishki.net/upload/post/2021/01/18/3559789/4738add899799860cf3a066d5b3d8c61.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Osvobozhdenie.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}РЕЗИДЕНТ",
+         "description": "Шпионские фильмы о герое советской контрразведки Михаиле Тульеве, который оказывается перед сложным выбором. Профессиональный шпион Тульев задержан, но советская контрразведка ещё может его использовать для дальнейшего разоблачения иностранной шпионской сети. ",
+         "backdrop": "https://pbs.twimg.com/media/CeGgRXBWoAE5hzc?format=jpg&name=large",
+         "image": "https://www.on-off-on.ru/upload/iblock/fc2/fc28b5b54b13cc1077d4784fed7eadfa.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Resident_error.json"
+      },
+            {
+         "titleHeader": "{col:msx-white}ВИЙ",
+         "description": "Советский и российский фильмы ужасов про потустороннюю силу. Одно из самых захватывающих и мистических произведений Николая Гоголя «Вий» стало основой для сюжета фильмов. В смешении реалистичных и фантастических событий происходит борьба Добра и Зла за душу человека.",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AOPolaTV6DwTlJVYEgB5ADlOCVZxpwYRIxQr76bEDF8T=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://myrussia.life/upload/post/2018/09/04/7451/gallery/orig.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/The_best_movie.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ФАНАТ",
+         "description": "Непобедимый «Малыш» - фанат карате, полон светлых планов на будущее. Однако, невольное соучастие в ограблении, и только чудом вместо тюрьмы он попадает в армию. Оттуда возвращается жестокий зверь, боец без тени жалости даже к друзьям. ",
+         "backdrop": "https://img1-hindilinks4u.unblockedonline.net/media/files/s2/zx/xw/fanat.jpg",
+         "image": "https://i.ytimg.com/vi/iB4kVGQcv3g/maxresdefault.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/The_best_movie.json"
       }
    ]
 }
