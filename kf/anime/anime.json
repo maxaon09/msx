@@ -139,6 +139,13 @@
          "backdrop": "https://yt3.googleusercontent.com/ytc/AOPolaRhV4klcywmL5Q1UZ3sPVCxif2neCCbPHHQbEVL=s900-c-k-c0x00ffffff-no-rj",
          "image": "https://skachat.online/assets/Uploads/youtube/2021-07/_resampled/Fit10241024-ivan-tsarevich-i-seryy-volk-4-s-3264860020.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/anime/ivan_tcarevich.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ТОМ И ДЖЕРРИ",
+         "description": "Непобедимый «Малыш» - фанат карате, полон светлых планов на будущее. Однако, невольное соучастие в ограблении, и только чудом вместо тюрьмы он попадает в армию. Оттуда возвращается жестокий зверь, боец без тени жалости даже к друзьям. ",
+         "backdrop": "https://yt3.googleusercontent.com/Y3ycm0H3CE-A5gOIevR142_rgC7fqdEbczVP8bkvMGAtnHZJx5JUzh4T5zS2Js2CqOhbGUFg7VE=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://www.kolpaper.com/wp-content/uploads/2021/02/Tom-and-Jerry-Background.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Tom_and_Jerry.json"
       }
    ]
 }
