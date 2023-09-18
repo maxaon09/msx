@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "Самый лучший фильм",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Самый лучший фильм ",
+         "titleFooter": "Самый лучший фильм",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Самый лучший фильм{col}{br}Всего один легкомысленный поступок может привести к тому, что собственную свадьбу придется праздновать на небесах. Вадик даже не догадывался, что, желая сделать праздник веселее, он попадет в Чистилище, где предстанет перед Небесной канцелярией и будет отчитываться за всю свою короткую, но насыщенную жизнь. Как доказать богам, что ты хороший, если у них записан каждый твой шаг?Вадик пытается вспомнить о себе хоть что-то хорошее, но память его все время подводит. На восьмилетие он умудрился напиться, в армии устроил оргию, а в 90-е стал таким конкретным бизнесменом, что теперь ему в концепцию рая вписаться абсолютно нереально. Впрочем, есть и позитивный момент: своей жизнью он насмешил Бога, значит, еще не все потеряно.",
+               "image": "https://static.etvnet.com/shared/albums/media/43/438937-samyij-luchshij-film-lg.jpg"
+            }
+         },
+         "image": "https://static.etvnet.com/shared/albums/media/43/438937-samyij-luchshij-film-lg.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/11_19_19/11/19/20/cJUErFQs/1080_etfB8jg2.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Самый лучший фильм ",
+         "titleFooter": "Самый лучший фильм 2 ",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Самый лучший фильм 2 {col}{br}Четверо закадычных друзей – Моряк, Актер, Мажор и Димати – после долгой разлуки встречаются в московском кафе отметить день рождения Мажора. На сей раз у них есть наличные, чтобы расплатиться с официанткой. И бегать по городу в поисках денег они будут совершенно по другой причине. Мажора похитили и требуют выкуп – миллион евро.ем друзья будут расплачиваться с бандитами, кто найдет новую любовь, а вместе с ней и приключения на все органы жизнедеятельности, кому придется испытать все тяготы сложного пути шоу-бизнеса к популярности, каково рэпперу кавказской наружности гулять одному по безлюдным улицам?! Но все это впереди, а пока они молоды, красивы, полны сил, надежд и ждут приключений!",
+               "image": "https://i.ytimg.com/vi/UJsKB2m-nZ8/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/UJsKB2m-nZ8/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_17_20/07/17/05/GX6BGEZV/QJX6NZEM.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Самый лучший фильм",
+         "titleFooter": "Самый лучший фильм 3-ДЭ (2011)",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Самый лучший фильм 3-ДЭ (2011){col}{br}Макс Утесов – недооцененный режиссер-любитель. Утесов снимает свои фильмы на любительскую камеру. В это же время российские киноакадемики проводят конкурс «Самый лучший фильм России», в финал которого вышли 7 известнейших кинокартин. До церемонии объявления победителя конкурса пленки с фильмами (все в единственном экземпляре) запираются в сейф.Но Виктор Палыч подкупает организатора премии Эдуарда Рыкова, чтобы получить картины для нелицензионного копирования. Макс Утесов должен перевезти фильмы от Рыкова к Виктору Палычу, но он проваливает задание: пленки сгорают, и друзей начинают разыскивать видеопираты. Единственный способ выжить - за несколько дней переснять знаменитые российские кинокартины. Но вот в чем парадокс: копии Утёсова вполне могут оказаться качественней оригиналов.",
+               "image": "https://gorod.dp.ua/afisha/images/special/0111/16457.jpg"
+            }
+         },
+         "image": "https://gorod.dp.ua/afisha/images/special/0111/16457.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/06_27_20/06/27/09/AZWKRMZY/PDJNN4TO.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}
