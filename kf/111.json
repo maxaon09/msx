@@ -1,27 +1,32 @@
 {
    "type": "list",
+   "background": "https://catherineasquithgallery.com/uploads/posts/2023-01/1674302824_catherineasquithgallery-com-p-fon-serii-graficheskii-foto-21.jpg",
    "dictionary": "https://maxaon09.github.io/lampaset/msx/lang/ru.json",
-   "headline": "{col:msx-red}ЛУЧШИЕ КИНОФРАНШИЗЫ ОНЛАЙН   \n {col:default}Коллекция медиаподборок от {col:white}OLSIB TV",
    "preload": "next",
    "pages": [
       {
-         "important": true,
          "offset": "0,0,0,0.25",
          "items": [
             {
                "type": "space",
-               "layout": "0,0,12,5",
+               "layout": "0,0,12,1",
+               "color": "transparent",
+               "title": "{col:msx-red}ЛУЧШИЕ КИНОФРАНШИЗЫ ОНЛАЙН",
+               "titleFooter": "Коллекция медиаподборок от {col:white}OLSIB TV"
+            },
+            {
+               "type": "space",
+               "layout": "2,1,8,4",
                "offset": "-1.25,-1,2,1",
-               "color": "msx-glass",
                "image": "https://maxaon09.github.io/msx/kf/img/logo111.png",
                "imageFiller": "cover",
-               "imageOverlay": 4
+               "imageOverlay": 5
             },
             {
                "type": "space",
                "layout": "0,4,12,1",
                "offset": "-1.25,1,2,0",
-               "color": "msx-black-soft"
+               "color": "msx-gray-soft"
             },
             {
                "type": "default",
@@ -34,8 +39,8 @@
                "type": "default",
                "layout": "4,5,4,1",
                "focus": true,
-               "color": "msx-white-soft",
-               "label": "{col:msx-black}Кинофраншизы",
+               "color": "transparent",
+               "label": "Кинофраншизы",
                "action": "content: https://maxaon09.github.io/msx/kf/welcome.json"
             },
             {
