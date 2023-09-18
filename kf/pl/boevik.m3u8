@@ -305,8 +305,10 @@ https://hye1eaipby4w.takedwn.ws/05_18_20/05/18/16/XFWK5H66/Y76G3DAZ.mp4/master.m
 https://hye1eaipby4w.takedwn.ws/07_15_20/07/15/03/KGZ5J5GZ/ZWWJCHNF.mp4/master.m3u8
 
 #EXTINF:0 group-title="Мачо и ботан" tvg-logo="https://st.kp.yandex.net/images/film_big/413080.jpg",Мачо и ботан (2012)
+#EXTGRP:Мачо и ботан
 https://hye1eaipby4w.takedwn.ws/06_27_20/06/27/04/TUSVSIGG/OGRGJUW6.mp4/master.m3u8
-EXTINF:0 group-title="Мачо и ботан" tvg-logo="https://st.kp.yandex.net/images/film_big/672899.jpg",Мачо и ботан 2 (2014)
+#EXTINF:0 group-title="Мачо и ботан" tvg-logo="https://st.kp.yandex.net/images/film_big/672899.jpg",Мачо и ботан 2 (2014)
+#EXTGRP:Мачо и ботан
 https://hye1eaipby4w.takedwn.ws/06_27_20/06/27/01/SX4TY5HK/GC2DBDU5.mp4/master.m3u8 
 
 #EXTINF:0 group-title="Плохие парни" tvg-logo="https://st.kp.yandex.net/images/film_big/3908.jpg",Плохие парни (1995)
