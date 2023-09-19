@@ -146,6 +146,27 @@
          "backdrop": "https://yt3.googleusercontent.com/Y3ycm0H3CE-A5gOIevR142_rgC7fqdEbczVP8bkvMGAtnHZJx5JUzh4T5zS2Js2CqOhbGUFg7VE=s900-c-k-c0x00ffffff-no-rj",
          "image": "https://www.kolpaper.com/wp-content/uploads/2021/02/Tom-and-Jerry-Background.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/anime/Tom_and_Jerry.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}МАДАГАСКАР",
+         "description": "Мадагаскар — серия анимационных фильмов, созданных компанией «DreamWorks Animationсм» о приключениях четырех животных из зоопарка, которые провели свою жизнь в блаженном плену и неожиданно были отправлены обратно в Африку. Теперь они должны бороться за выживание и попытаться вернуться в Нью-Йорк",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AGIKgqP50dXQOSzGm4V4gKRjf7d_2X5KgqSk0R2ida7PoA=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://gsflash.ru/images/gallery/15175.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Madagascar.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}Кунг-фу Панда",
+         "description": "Толстый, неуклюжий и ленивый панда по имени По мечтает стать Великим Воином. И однажды он отправляется на турнир, где легендарные воины — Тигр, Богомол, Обезьяна, Журавль и Гадюка — должны выбрать ученика. По предстоит постигнуть тайны боевого искусства кунг-фу и — самое важное! — поверить в себя. ",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AGIKgqOKOXmCUsSx1QG0WDUO5LaUzGb13vIibkDZiq7zRA=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://wallpapers.com/images/hd/kung-fu-panda-posing-with-other-heroes-up6sn2f2g87v6dgz.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Kung_Fu_Panda.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ГАДКИЙ Я",
+         "description": "«Гaдкий я» — aнимaциoннaя кoмeдийнaя фpaншизa, выпущeннaя кoмпaниeй Illumination и pacпpocтpaняeмaя cтудиeй Universal Pictures. Фpaншизa cocpeдoтoчeнa нa Гpю, cупep-злoдee (кoтopый пoзжe cтaнoвитcя oтцoм и ceкpeтным aгeнтoм), Миньoнax , eгo тpёx пpиёмныx дoчepяx (Мapгo, Эдит и Агнec) и eгo жeнe Люcи Уaйлд. ",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AGIKgqOnz3mmWCg81ExjfbbQYXKvSTjGBTGSZONxkAyPuQ=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://w.forfun.com/fetch/c4/c449ef5c78b430361b63711f1eac22f7.jpeg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Despicable_Me.json"
       }
    ]
 }
