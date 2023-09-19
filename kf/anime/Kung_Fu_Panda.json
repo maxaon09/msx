@@ -1,0 +1,160 @@
+{
+   "type": "list",
+   "headline": "Кунг-фу Панда",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Кунг-фу Панда",
+         "titleFooter": "Кунг-фу Панда",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Кунг-фу Панда{col}{br}Спасение Долины Мира и всех ее обитателей от непобедимого и безжалостного мастера Тай Лунга должно лечь на плечи Воина Дракона, Избранного среди лучших из лучших, коим становится… неуклюжий, ленивый и вечно голодный панда По.",
+               "image": "https://thumbs.dfs.ivi.ru/storage4/contents/8/7/7ec5a389c4b4841d6070714932bf41.jpg/400x226/"
+            }
+         },
+         "image": "https://thumbs.dfs.ivi.ru/storage4/contents/8/7/7ec5a389c4b4841d6070714932bf41.jpg/400x226/",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/06_16_21/06/16/15/G3JWZRB2/7SKGBXKW.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Кунг-фу Панда",
+         "titleFooter": "Секреты неистовой пятерки",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Кунг-фу Панда: Секреты неистовой пятерки {col}{br}Неизвестные истории о так полюбившихся нам героях: увалень Панда По, Тигрица, Богомол, Обезьяна, Гадюка и Журавль. Хотите узнать, как все начиналось? Тогда смотрите рассказ об обычных буднях и забавных приключениях неистовой пятерки, Панды и их учителя.",
+               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL5gTDC3ShBNU9bsd28BLEftpF4e7CbE5nIw&usqp=CAU"
+            }
+         },
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL5gTDC3ShBNU9bsd28BLEftpF4e7CbE5nIw&usqp=CAU",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/04_08_20/04/08/13/4LCQ6BJ2/WEF2UA6B.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Кунг-фу Панда",
+         "titleFooter": "Праздничный выпуск",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Праздничный выпуск{col}{br}Каждый год, По и его отец развешивают игрушки и вместе готовят суп с лапшой для жителей своей деревни. Но в этом году Шифу сообщает По, что он, как воин дракона обязан устроить праздник в нефритовом дворце. По разрывается между обязанностями воина дракона и семейной традицией.",
+               "image": "https://img.rgstatic.com/content/movie/68cea37d-344e-4f49-ac07-9c03f8aeeafe/backdrop-1920.jpg"
+            }
+         },
+         "image": "https://img.rgstatic.com/content/movie/68cea37d-344e-4f49-ac07-9c03f8aeeafe/backdrop-1920.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/11_14_18/11/14/18/R552QrZr/1080_nc4n6hB2.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Кунг-фу Панда",
+         "titleFooter": "Кунг-фу Панда 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Кунг-фу Панда 2{col}{br}Панда По наконец-то исполнит свою мечту, станет Воином Дракона и со своими друзьями и мастерами кунг-фу — Неистовой Пятеркой — защитит Великую Долину от страшного злодея и его легиона...",
+               "image": "https://cdn-ksvod.kyivstar.ua/content/HLS/VOD/IMAGE2/60d1e4d059d4b53c1f14c7ee/IMAGE_16_9_XL.jpg"
+            }
+         },
+         "image": "https://cdn-ksvod.kyivstar.ua/content/HLS/VOD/IMAGE2/60d1e4d059d4b53c1f14c7ee/IMAGE_16_9_XL.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/23/Y6JWU3ES/VDA2CFHZ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Кунг-фу Панда",
+         "titleFooter": "Секреты мастеров",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Кунг-Фу Панда: Секреты мастеров{col}{br}Новые приключения панды По - Секреты Мастеров! В этом мультфильме По и Неистовая Пятерка раскроют секреты трех величайших героев кунг-фу: Носорога Громовержца, мастера Бушующего Быка и мастера Крока.",
+               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8UdX5EMy_-XpL9Q_bxIJXsR7ZqJcH3DRkoy0GpMHZp29yEwb6r3MCn_KU3BtwoW6DjgY&usqp=CAU"
+            }
+         },
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8UdX5EMy_-XpL9Q_bxIJXsR7ZqJcH3DRkoy0GpMHZp29yEwb6r3MCn_KU3BtwoW6DjgY&usqp=CAU",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/04_08_20/04/08/12/47SSFQDK/WBTDPZL3.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fifth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Кунг-фу Панда",
+         "titleFooter": "Загадки свитка",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Кунг-Фу Панда: Загадки свитка{col}{br}Тигрица, Змея, Обезьяна, Журавль и Богомол из обычных незнакомцев превращаются в легендарную Неистовую Пятерку Кунг-Фу.",
+               "image": "https://vignette.wikia.nocookie.net/kungfupanda/images/6/6e/Sots-title-card.png/revision/latest?cb=20170831071421"
+            }
+         },
+         "image": "https://vignette.wikia.nocookie.net/kungfupanda/images/6/6e/Sots-title-card.png/revision/latest?cb=20170831071421",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/04_08_20/04/08/13/35PLR22M/27MZ3SPQ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Кунг-фу Панда",
+         "titleFooter": "Кунг-фу Панда 3",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Кунг-фу Панда 3{col}{br}Воссоединившись со своим давно потерянным отцом, По отправляется в тайный рай для панд, где его ожидает встреча с множеством веселых сородичей. Однако вскоре злодей Кай начинает зачистку - он уничтожает кунг-фу мастеров по всему Китаю.По предстоит сделать невозможное - обучить боевому искусству деревню, полную его веселых, неуклюжих собратьев, и тем самым превратить их в отряд кунг-фу панд.",
+               "image": "https://i.ytimg.com/vi/10r9ozshGVE/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/10r9ozshGVE/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/05_05_23/05/05/12/WZFCYG5R/7W6M6CAO.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      }
+   ]
+}
