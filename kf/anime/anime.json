@@ -167,6 +167,27 @@
          "backdrop": "https://yt3.googleusercontent.com/ytc/AGIKgqOnz3mmWCg81ExjfbbQYXKvSTjGBTGSZONxkAyPuQ=s900-c-k-c0x00ffffff-no-rj",
          "image": "https://w.forfun.com/fetch/c4/c449ef5c78b430361b63711f1eac22f7.jpeg",
          "action": "content: https://maxaon09.github.io/msx/kf/anime/Despicable_Me.json"
+      },
+            {
+         "titleHeader": "{col:msx-white}КОРПОРАЦИЯ МОНСТРОВ",
+         "description": " Все дети знают, что как только они ложатся спать и гаснет свет, отовсюду начинают появляться монстры. Но они даже не подозревают, что монстры их пугают не просто так, а потому что это их работа. Ни одному ребенку не позволено пересекать границу мира чудищ. Но однажды любопытной Бу все же удается пробраться в Монстрополис.",
+         "backdrop": "https://yt3.ggpht.com/0TTRnXhXkFgg6afPkvUtR1973a4aba-Sat8LmGVZx0wR4fFclvucFvfZtih278Gf853AMPFR7g=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://top10a.ru/wp-content/uploads/2021/03/korporaciya-monstrov-2001.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Monsters.json"
+      },
+            {
+         "titleHeader": "{col:msx-white}ТАЙНАЯ ЖИЗНЬ ДОМАШНИХ ЖИВОТНЫХ",
+         "description": "Что делают домашние животные, пока хозяева пропадают на работе? С тоской смотрят в окно? Смиренно дремлют на коврике у двери? Как бы не так. Они ведут свою тайную жизнь. ",
+         "backdrop": "https://yt3.ggpht.com/ytc/AMLnZu_6Ow2AYwfauHFRiYubJep-pj9MJ-8EsVUBg_tM7Q=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://lost-film-tv.ru/wp-content/uploads/2020/08/40.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Secret_Life_of_Pets.json"
+      },
+            {
+         "titleHeader": "{col:msx-white}СЕЗОН ОХОТЫ",
+         "description": "Что делают домашние животные, пока хозяева пропадают на работе? С тоской смотрят в окно? Смиренно дремлют на коврике у двери? Как бы не так. Они ведут свою тайную жизнь. ",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AOPolaS08DUstSLEoVrovZGr42kezw6cBstzzYGocSSY=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://www.stardust.it/uploads/img/movie/gallery/373861afd71257df4710ebeac19a82de1553469787-1620w.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Open_Season.json"
       }
    ]
 }
