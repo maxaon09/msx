@@ -100,6 +100,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Jeepers_Creepers.json"
       },
       {
+         "titleHeader": "{col:msx-white}ЛЕПРЕКОН",
+         "description": "Лепрекон — американский киносериал ужасов с элементами чёрного юмора.  Лепрекон — зловещий карлик, разыскивающий своё украденное золото и попутно убивая тех, кто его украл.",
+         "backdrop": "https://yt3.ggpht.com/ytc/AKedOLRXPzcHQEwc780gry4red9fFTzPgQ3Mvjq9rvTU=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/12/Leprechaun-Returns-and-Warwick-Davis.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Leprechaun.json"
+      },
+      {
          "titleHeader": "{col:msx-white}СПУСК",
          "description": "«Спуск» — британский фильм ужасов режиссёра Нила Маршалла. Фильм рассказывает о компании девушек, спустившихся в пещеру. Малобюджетная картина собрала в мировом прокате более 57 млн долларов, став лауреатом премии «Сатурн» 2007 года в номинации «лучший фильм ужасов»",
          "backdrop": "https://images.kinorium.com/movie/shot/331222/w1500_48522544.jpg",
@@ -163,11 +170,25 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Final_Destination.json"
       },
       {
+         "titleHeader": "{col:msx-white}КУБ",
+         "description": "Трилогия ужасов «Куб» – один из лучших циклов в жанре фантастики ужасов и психологического триллера. Клаустрофобия, сложные отношения внутри команды похищенных, смертельные опасности, непонимание, неприятие, поиски выхода и попытки понять – почему именно я? И все это на фоне грандиозной теории заговора…",
+         "backdrop": "https://yt3.ggpht.com/ytc/AKedOLT2rc8KHU0g6UJ49JHcL_Sm3WxCU3SoX60rVjlM=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://cult-cinema.ru/pictures/screenshots/cube2/cube2_14.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Cube.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ZОМБИЛЕНД",
          "description": "«Добро пожаловать в Zомбилэнд» рисует Америку после нашествия живых мертвецов. Небольшая группа уцелевших скитается по стране, время от времени постреливая по зомби. Путешествие по опустевшим краям сулит не только опасные, но и довольно интригующие встречи с такими же выжившими бедолагами. ",
          "backdrop": "https://yt3.ggpht.com/a/AATXAJztw45X4v86tbP_A9KRZ286TQySiRAJ5KH1r3fb=s900-c-k-c0xffffffff-no-rj-mo",
          "image": "https://intrld.com/wp-content/uploads/2018/05/Zombieland.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/Zombieland.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ПОЕЗД В ПУСАН",
+         "description": "Серия фильмов Поезд в Пусан состоит из южнокорейских остросюжетных фильмов ужасов о зомби. Сюжет разворачивается вокруг вспышки эпидемии зомби, которая берет начало в Южной Корее. Каждая соответствующая часть подробно описывает борьбу главных героев за то, чтобы противостоять наступлению нежити и пережить события, позволяющие им сбежать.",
+         "backdrop": "https://pbs.twimg.com/media/FHhSIPwXEAMe_EZ.jpg",
+         "image": "https://play-lh.googleusercontent.com/proxy/U3tQsYpjdKSsvX0hQFcuQkaIvp-w0iIIq_99XEDS5dRNArovWJyIcFcjlpYi-u_7kjXZTEvrUlp7cPYlykV5zGfB1zJi7QTj3qGO8ZJZ5_deD1LvJLxWXAvlGEWZHNmBhIbJN7R5SlN5PG9ea5nuOal9abyiBG_ml556Cg=s1920-w1920-h1080",
+         "action": "content: https://maxaon09.github.io/msx/kf/Busanhaeng.json"
       },
       {
          "titleHeader": "{col:msx-white}СУДНАЯ НОЧЬ",
@@ -542,6 +563,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Mission_Impossible.json"
       },
       {
+         "titleHeader": "{col:msx-white}ТАЙЛЕР РЕЙК",
+         "description": "«Тайлер Рейк: Операция по спасению» — американский фильм в жанре боевик режиссёра Сэма Харгрейва по сценарию Джо Руссо, основанный на комиксе «Ciudad».  Бывший офицер Тайлер Рейк, берётся освободить подростка и доставить его в безопасное место, но… Когда на тебя объявлена охота, выбраться из городских трущоб, практически нереально. ",
+         "backdrop": "https://yt3.ggpht.com/US6MHjaFhXQtPWTqOqzJG9yaaBYWS6o_KqD4AgM80Gw_6DVy35NtBUkWYauodU3mrbuJu2lN8A=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://two-films.ru/wp-content/uploads/2020/04/1587717604_maxresdefault.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Extraction.json"
+      },
+      {
          "titleHeader": "{col:msx-white}МЕХАНИК",
          "description": "Остросюжетный боевик с Джейсоном Стетхэмом в главной роли. Таких как Артур Бишоп в узких кругах называют «механики» — это кодовое обозначение для профессиональных киллеров высокого класса. Когда нужно убрать кого-то быстро и незаметно, дело поручают Артуру, ведь он — лучший в своём деле: умный, ловкий, сильный, с идеальными навыками убийцы",
          "backdrop": "https://pbs.twimg.com/media/CoYC37BWgAAUT5V?format=jpg&name=large",
@@ -729,6 +757,13 @@
          "backdrop": "https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/08/Ayo-Black-Panther.jpg",
          "image": "https://images.hdqwalls.com/download/black-panther-theatre-poster-4k-js-2048x1152.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/Black_Panther.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}КУБ",
+         "description": "Бросок кобры - серия фильмов по мотивам комиксов о команде G.I.Joe. Даже опытнейшие бойцы иногда предпочитают работать в команде. В таком случае им любое задание по плечу и никакой враг не страшен, даже если это не жалкая банда, а огромная компания по производству оружия. ",
+         "backdrop": "https://yt3.ggpht.com/a/AATXAJx8APMrVekCOEM4Fg3yXLASGYASOQxMsbCEmJqIVw=s900-c-k-c0xffffffff-no-rj-mo",
+         "image": "https://zetimage.net/uploads/posts/2021-06/1623582730_1344x756.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/G.I.json"
       },
       {
          "titleHeader": "{col:msx-white}ЖЕЛЕЗНЫЙ ЧЕЛОВЕК ",
