@@ -93,6 +93,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Halloween.json"
       },
       {
+         "titleHeader": "{col:msx-white}ДЖИПЕР КРИПЕРС",
+         "description": "«Джиперс Криперс» — американская серия фильмов ужасов. Антагонистом в каждом из фильмов является Крипер, демонический серийный убийца, неизвестное человекоподобное существо на 23-х дней весны похищает и пожирает людей, а свои части тела заменяет органами своих жертва, и впадает в спячку на 23 года.",
+         "backdrop": "https://yt3.ggpht.com/ytc/AKedOLRskFCCi5ydP6f26GzcyGx7MZvkzU8ZNHP22o3L=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://pic.rutubelist.ru/video/e6/0d/e60daff08d7276cb34789044e1a3b6a9.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Jeepers_Creepers.json"
+      },
+      {
          "titleHeader": "{col:msx-white}СПУСК",
          "description": "«Спуск» — британский фильм ужасов режиссёра Нила Маршалла. Фильм рассказывает о компании девушек, спустившихся в пещеру. Малобюджетная картина собрала в мировом прокате более 57 млн долларов, став лауреатом премии «Сатурн» 2007 года в номинации «лучший фильм ужасов»",
          "backdrop": "https://images.kinorium.com/movie/shot/331222/w1500_48522544.jpg",
@@ -876,6 +883,13 @@
          "backdrop": "https://images.squarespace-cdn.com/content/v1/56d8580027d4bd2dbfc4e0fd/1457981577735-GG0Z3IE1B0O3A1A4U97Z/IMG_9218.jpg?format=1500w",
          "image": "https://www.desktopbackground.org/p/2010/04/27/8739_43-sin-city-hd-wallpapers_4450x2503_h.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/Sin_City.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}МИСТЕРИУМ",
+         "description": "Мистериум - экранизация серии романов датского писателя Юсси Адлера-Ольсена, рассказывает о работе нового отдела Q, цель которого - разгрести архивные нераскрытые дела. Отличные детективные истории, со всеми классическими сценарными поворотами, в рамках жанра. Каждый фильм смотрится как самостоятельная картина, главное начать с первой части",
+         "backdrop": "https://yt3.ggpht.com/a/AGF-l79OpXM2o079hMwjiHypS1K12ZrDRE9fdXuUxw=s900-c-k-c0xffffffff-no-rj-mo",
+         "image": "https://pic.rutubelist.ru/video/39/3c/393ce94a08a749ed426d298921e886af.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Kvinden_i_buret.json"
       },
       {
          "titleHeader": "{col:msx-white}КРЕСТНЫЙ ОТЕЦ",
