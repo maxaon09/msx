@@ -149,13 +149,6 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Insidious.json"
       },
       {
-         "titleHeader": "{col:msx-white}ПРОКЛЯТИЕ АННАБЕЛЬ",
-         "description": "В «Проклятии Аннабель» герой фильма дарит своей супруге редкую куклу по случаю скорого рождения дочери. Радость длится недолго: в ту же ночь к ним в квартиру врываются члены сатанинской секты. Одного из сектантов ликвидируют на месте стражи порядка, а вторая, девушка по имени Аннабель, перерезает себе горло, держа в руках намедни подаренную Мие куклу... ",
-         "backdrop": "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GB/wb-888574106409-Full-Image_GalleryBackground-en-GB-1504651645478._SX2160_.jpg",
-         "image": "https://img5.goodfon.ru/original/1920x1080/b/c2/annabelle-comes-home-annabelle-comes-home-prokliatie-annabel.jpg",
-         "action": "content: https://maxaon09.github.io/msx/kf/Annabelle.json"
-      },
-      {
          "titleHeader": "{col:msx-white}ДЕТСКИЕ ИГРЫ",
          "description": "«Детские игры» — американская франшиза ужасов, основанная на оригинальной серии из семи фильмов, созданных Доном Манчини. Фильмы в основном посвящены Чаки, печально известному серийному убийце, который избегает смерти, выполняя ритуал вуду, чтобы передать свою душу в куклу.",
          "backdrop": "https://static.kino.de/wp-content/uploads/2016/01/curse-of-chucky-2013-film.jpg",
@@ -231,6 +224,20 @@
          "backdrop": "https://yt3.ggpht.com/a/AGF-l78ok-J4zLk7YjaXC4A1KDCxYuWeCd1VG7Gikg=s900-c-k-c0xffffffff-no-rj-mo",
          "image": "https://amifromthisworld.files.wordpress.com/2013/08/conjuring.png",
          "action": "content: https://maxaon09.github.io/msx/kf/The_Conjuring.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ПРОКЛЯТИЕ АННАБЕЛЬ",
+         "description": "В «Проклятии Аннабель» герой фильма дарит своей супруге редкую куклу по случаю скорого рождения дочери. Радость длится недолго: в ту же ночь к ним в квартиру врываются члены сатанинской секты. Одного из сектантов ликвидируют на месте стражи порядка, а вторая, девушка по имени Аннабель, перерезает себе горло, держа в руках намедни подаренную Мие куклу... ",
+         "backdrop": "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GB/wb-888574106409-Full-Image_GalleryBackground-en-GB-1504651645478._SX2160_.jpg",
+         "image": "https://img5.goodfon.ru/original/1920x1080/b/c2/annabelle-comes-home-annabelle-comes-home-prokliatie-annabel.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Annabelle.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ПРОКЛЯТИЕ МОНАХИНИ",
+         "description": "Когда в уединенном монастыре в Румынии молодая монахиня совершает самоубийство, Ватикан отправляет расследовать происшествие священника с туманным прошлым и послушницу на пороге невозвратных обетов. Рискуя не только жизнью, но и душой, они сталкиваются со злобной силой, принявшей облик демонической монахини. ",
+         "backdrop": "https://yt3.ggpht.com/ytc/AKedOLTmSkiPG4C9oEHc0LBFkvrsjaDDUQz_gatAtXN8=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://cinema2cinema.com/tu/wp-content/uploads/2020/08/The-Nun-Blu-ray-Dijital-Yayin-Tarihi-Aciklandi.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/The_Nun.json"
       },
       {
          "titleHeader": "{col:msx-white}КРИК",
@@ -598,11 +605,25 @@
          "action": "content: https://maxaon09.github.io/msx/kf/The_Expendables.json"
       },
       {
+         "titleHeader": "{col:msx-white}МЕГ",
+         "description": "Фантастический фильм ужасов о гигантской и свирепой первобытной акуле, угрожающей экипажу исследователей, которые застряли на дне океана в неисправной подводной лодке. Во главе самоубийственной спасательной миссии оказывается отставной капитан Джонас Тэйлор. Он уже сталкивался с чудищем и расплатился за это сломанной судьбой. ",
+         "backdrop": "https://yt3.ggpht.com/ytc/AKedOLRVfUkKQWo5JRNIw9R5bwMhibcpZ93yALHAP5CI=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://i.playground.ru/e/fg74KGhkaSM4aHSRvl0PoA.jpeg",
+         "action": "content: https://maxaon09.github.io/msx/kf/The_Meg.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ПЛАН ПОБЕГА",
          "description": "Серия фильмов План побега состоит из американских тюремных остросюжетных триллеров. В центре сериала Рэй Бреслин, аналитик по безопасности и специалист по побегам, который помогает проектировать тюрьму строгого режима, выдавая себя за заключенного, чтобы найти их недостатки",
          "backdrop": "https://3.bp.blogspot.com/-kXTUBHgXWhM/W0Oav4bNUVI/AAAAAAAASnU/xDrmxdUi95Ilk0PVALAIuiu-A4IrwHPSQCLcBGAs/s1600/asdffawqtrtqtete.jpg",
          "image": "https://player.hu/uploads/2019/07/Szupercella-3-Az-ordogverem.jpeg",
          "action": "content: https://maxaon09.github.io/msx/kf/Escape_Plan.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ЗАЛОЖНИЦА",
+         "description": "«Заложница» — цикл фильмов в жанре боевика, созданных Люком Бессоном. Серия фильмов «Заложница» рассказывает о похождениях отставного агента ЦРУ Брайана Миллса, который волей обстоятельств вынужден возвращаться к борьбе с преступностью, когда под угрозой оказывается его семья. ",
+         "backdrop": "https://yt3.ggpht.com/a/AGF-l78TEPZnFjkatyNfI5ahqsOaH1FefXBq28xZ0Q=s900-c-k-c0xffffffff-no-rj-mo",
+         "image": "https://w.forfun.com/fetch/52/52ba57845d1484a12d929fd207bd35b6.jpeg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Taken.json"
       },
       {
          "titleHeader": "{col:msx-white}ТРАНСФОРМЕРЫ",
@@ -694,6 +715,13 @@
          "backdrop": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/10/25/09/avengers-age-of-ultron.jpg",
          "image": "https://images.hdqwalls.com/download/captain-america-original-poster-1920x1200.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/mstiteli.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ТОР",
+         "description": " Тор - высокомерный и гордый бог грома, был лишён своей силы и изгнан из Асгарда — одного из девяти миров. Оказавшись на Земле, он знакомится с молодым астрофизиком Джейн Фостер, к которой у него появляются некие чувства. Кроме того, Тор должен остановить своего брата Локи, который намерен стать новым царём Асгарда",
+         "backdrop": "https://yt3.ggpht.com/ytc/AKedOLRnPNDC3GgE-D1AFdyUWN22IymmxgQlcGK_vIA4=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://w.forfun.com/fetch/48/48ba7ce0377848eba6113bb6f9057a63.jpeg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Thor.json"
       },
       {
          "titleHeader": "{col:msx-white}СТРАЖИ ГАЛАКТИКИ",
@@ -1206,6 +1234,13 @@
          "backdrop": "https://www.novochag.ru/upload/img_cache/a3a/a3ace48147724509193a1e76f7252738_ce_1155x798x0x0_cropped_1332x888.jpg",
          "image": "https://w.forfun.com/fetch/d2/d2c9a6e5e4fcbae0a2653b9ef18ee3a9.jpeg",
          "action": "content: https://maxaon09.github.io/msx/kf/odin_doma.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ТРУДНЫЙ РЕБЕНОК",
+         "description": "Озорник Джуниор Хили — невозможный ребенок, но приемный отец терпит его выходки и старается сдержать свой гнев, ведь Джуниор — всего лишь маленький мальчик, хотя и трудный. ",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AGIKgqNND1bGcaxlwnzBGEeSPwAzN5inWflL1cOB4BGi=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://m.media-amazon.com/images/M/MV5BNWEyMmY0NDktYTc1Mi00OWQxLWE0NTQtYWYyYTYyMWM4ZWE4XkEyXkFqcGdeQXVyNzQ1NjgzOTA@._V1_.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Problem_Child.json"
       },
       {
          "titleHeader": "{col:msx-white}ГОНКИ «ПУШЕЧНОЕ ЯДРО»",
