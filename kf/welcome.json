@@ -261,6 +261,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Piranha.json"
       },
       {
+         "titleHeader": "{col:msx-white}Анаконда",
+         "description": "«Анаконда» — американская серия фильмов ужасов, созданная Хансом Бауэром, Джимом Кэшем и Джеком Эппсом.  Наслаждаясь пейзажами великой реки, они не подозревают, что их проводник - сумасшедший охотник, помешавшийся на идее поймать гигантскую змею. Никто не верит его рассказам, пока их путешествие не превращается в борьбу за выживание. ",
+         "backdrop": "https://thumbnailer.mixcloud.com/unsafe/900x900/extaudio/b/e/2/f/3797-6704-41e6-8611-1e5cf6bc7bac",
+         "image": "https://s3.cine3.com/2020/06/a-bad-moms-christmas.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Anaconda.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ОМЕН",
          "description": "«Омен» — серия фильмов ужасов о приходе и становлении Антихриста. Он был рождён в 6 часов 6 июня. Как предсказано в Книге откровений, настанет конец света, последнее противостояние сил добра и зла, и началом его будет рождение сына Сатаны в облике человеческом. ",
          "backdrop": "https://i.imgflip.com/1oj3w7.jpg",
@@ -598,6 +605,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/The_Transporter.json"
       },
       {
+         "titleHeader": "{col:msx-white}Падение Олимпа",
+         "description": "Удар был нанесен в самое сердце. Но он заставит его биться вновь. Террористы захватывают президентский дворец и, уничтожив службу охраны, берут в заложники главу государства. Все попытки властей справиться с ситуацией безуспешны...",
+         "backdrop": "https://yt3.ggpht.com/a/AATXAJyK69fvM5NmkI5wu6H35caGdIab4qZwV03XVw=s900-c-k-c0xffffffff-no-rj-mo",
+         "image": "https://cdn.wallpapersafari.com/34/95/dAPzRS.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Olympus_Has_Fallen.json"
+      },
+      {
          "titleHeader": "{col:msx-white}НЕУДЕРЖИМЫЕ",
          "description": "Неудержимые - американская франшиза охватывающая серию фильмов, написанных Сильвестром Сталлоне по мотивам персонажей, созданных Дэвидом Каллахемом.  Серия фильмов, посвященная бывшим боевикам-блокбастерам, снятым в 1980-х и 1990-х годах, также отдает дань уважения звездам боевиков прошлых десятилетий и новым звездам экшенов.",
          "backdrop": "https://yt3.ggpht.com/a/AGF-l7-VJLle7lnRSBqrGcli2K6F5YxSl58PJC5KTg=s900-c-k-c0xffffffff-no-rj-mo",
@@ -793,6 +807,13 @@
          "image": "https://zetimage.net/uploads/posts/2021-06/1623582730_1344x756.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/G.I.json"
       },
+            {
+         "titleHeader": "{col:msx-white}Халк",
+         "description": "«Халк» — американский супергеройский фильм 2003 года основанный на персонаже Marvel Comics - Халке.  Абсолютно безобидный ученый стал жертвой собственного неудачного эксперимента превращающим его в нечто, абсолютно противоположное собственной натуре. ",
+         "backdrop": "https://yt3.ggpht.com/ytc/AKedOLQ_DJ7prZIYeEpCHfdT5HRS1UUl-gTPgsZsYEVwmQ=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://life-secrets.ru/wp-content/uploads/2022/06/halk-3.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Hulk.json"
+      },
       {
          "titleHeader": "{col:msx-white}ЖЕЛЕЗНЫЙ ЧЕЛОВЕК ",
          "description": "Железный человек — персонаж изданий Marvel Comics и их адаптаций, созданный писателем Стэном Ли, сценаристом Ларри Либером и художниками Доном Хэком и Джеком Кёрби; первое его появление состоялось в комиксе Tales of Suspense #39 в марте 1963 года.",
@@ -862,6 +883,13 @@
          "backdrop": "https://yt3.ggpht.com/ytc/AKedOLSDn2Lrpga_12Eqt2ysULPdCc8tlNH9DUJ8vCSe=s900-c-k-c0x00ffffff-no-rj",
          "image": "https://img.moviesrankings.com/t/p/w1280/sIylU0TAE2jd9PXqUvLRmWjFYgu.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/Rush_Hour.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}Американский ниндзя",
+         "description": "Американский ниндзя - американский боевик о боевых искусствах. 18-летний рядовой филиппинского отряда армии США, сопровождает военный конвой, который подвергается нападению бандитов. В одном из них Джо узнает черного воина — ниндзя. Обороняясь, он инстинктивно начинает использовать технику ниндзюцу.",
+         "backdrop": "https://yt3.ggpht.com/a/AATXAJxdNvLYvVElUbtMQBfiQ4GWCiDv8nlnKdYF-ZLm=s900-c-k-c0xffffffff-no-rj-mo",
+         "image": "https://i.ytimg.com/vi/Fa9B-02HKI0/maxresdefault.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/American_Ninja.json"
       },
       {
          "titleHeader": "{col:msx-white}ПРОЕКТ А",
@@ -1061,6 +1089,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/Bad_Boys.json"
       },
       {
+         "titleHeader": "{col:msx-white}Шерлок Холмс",
+         "description": "«Шерлок Холмс» — детективный боевик Гая Ричи, в основе которого лежат произведения Артура Конан Дойля о Шерлоке Холмсе, хотя основной сюжет оригинален.",
+         "backdrop": "https://yt3.googleusercontent.com/NuZByDG1X070T2buTDGSsVM5NqJXs8JFwRRN5qAWbPn7jwxjiv213i5LoPKatVeWU9_d_SOC=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://sinemahanedani.com/wp-content/uploads/2020/04/491597.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Sherlock_Holmes.json"
+      },
+      {
          "titleHeader": "{col:msx-white}ОСТИН ПАУЭРС",
          "description": "Остин Пауэрс – это своеобразный Джеймс Бонд, харизма и сексуальность которого увеличены ровно настолько, насколько уменьшены его мыслительные процессы. Однако, при всей своей глупости, Пауэрс является невероятно притягательным образом, так как всегда действует на стороне добра и любое, даже самое тяжелое задание, ладно правится у него в руках.",
          "backdrop": "https://yt3.ggpht.com/ytc/AKedOLQ_sWkDRVR3BbYc_kRgRJ0K_Sv_bAYT7nNSjAurzA=s900-c-k-c0x00ffffff-no-rj",
@@ -1166,6 +1201,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/malchishnik.json"
       },
       {
+         "titleHeader": "{col:msx-white}Очень плохие мамочки",
+         "description": "Замученные молодые мамы уходят в отрыв. Жизненная комедия с Милой Кунис от сценаристов «Мальчишника в Вегасе». ",
+         "backdrop": "https://thumbnailer.mixcloud.com/unsafe/900x900/extaudio/b/e/2/f/3797-6704-41e6-8611-1e5cf6bc7bac",
+         "image": "https://s3.cine3.com/2020/06/a-bad-moms-christmas.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/BadMoms.json"
+      },
+      {
          "titleHeader": "{col:msx-white}АСТЕРИКС И ОБЕЛИКС",
          "description": "Астерикс и Обеликс - французская кинофраншиза основанная на одноименной серии комиксов французских. Фильмы посвящены приключениям Астерикса и Обеликса, двух галлов в оккупированной римлянами Европе. С помощью волшебного зелья, придающего сверхчеловеческую силу, крошечной галльской деревушке удается противостоять Риму.",
          "backdrop": "https://yt3.googleusercontent.com/ytc/AOPolaTcS5uS-qJChC_X57eaXuXXb7NikZcCL3aFs-AY=s900-c-k-c0x00ffffff-no-rj",
@@ -1234,6 +1276,13 @@
          "backdrop": "https://yt3.ggpht.com/ytc/AKedOLQg-G53RbNy8d7u7RvBwLL9_7sq09YwMjwLc-Y=s900-c-k-c0x00ffffff-no-rj",
          "image": "https://i.ytimg.com/vi/SqIYxQ-fJEE/maxresdefault.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/Dumb_and_Dumber.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}Дети шпионов",
+         "description": "«Дети шпионов» — серия приключенческо-комедийных фильмов, придуманная, поставленная и спродюсированная режиссёром Робертом Родригесом.",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AOPolaSK8KRyt0dsNrx_9zsvCSx2iUbJHdqvN91WDqw6=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://static.hdrezka.ac/i/2017/9/4/zd3d3a9231507gg43e56w.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/Spy_Kids.json"
       },
       {
          "titleHeader": "{col:msx-white}ОДИН ДОМА",
