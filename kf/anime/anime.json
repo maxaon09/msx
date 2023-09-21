@@ -188,6 +188,13 @@
          "backdrop": "https://yt3.googleusercontent.com/ytc/AOPolaS08DUstSLEoVrovZGr42kezw6cBstzzYGocSSY=s900-c-k-c0x00ffffff-no-rj",
          "image": "https://www.stardust.it/uploads/img/movie/gallery/373861afd71257df4710ebeac19a82de1553469787-1620w.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/anime/Open_Season.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ИСТОРИЯ ИГРУШЕК",
+         "description": " В спальне Энди его игрушки начинают жить своей жизнью, как только он выходит из комнаты. В день рождения мальчика царит паника — все боятся появления новой игрушки, которая перетянет внимание на себя. И только любимчик Эдди, ковбой Вуди, ни о чем не переживает.",
+         "backdrop": "https://yt3.ggpht.com/ytc/AKedOLQnxZxl7En5gk7PhWgjjf6Hzglc4B4CJZXE2hEE=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://w.forfun.com/fetch/fc/fc9c42bc7c203afc40cd90347a5ad1c5.jpeg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Toy_Story.json"
       }
    ]
 }
