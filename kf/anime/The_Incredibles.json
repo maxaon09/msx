@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "Суперсемейка",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Суперсемейка",
+         "titleFooter": "Суперсемейка",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Суперсемейка{col}{br}История семьи супергероев, члены которой уже отошли от больших дел и предпочитают жить непримечательной жизнью обычных землян. Они обладают сверхъестественными способностями и относительно легко справлялись с мировым злом.Но в один прекрасный день папаше и его домочадцам приходится вновь облачиться в прорезиненные костюмы супергероев (а для этого нужно срочно сбросить лишние килограммы) и в очередной раз спасти человечество от таинственного злодея.",
+               "image": "https://thumbs.dfs.ivi.ru/storage4/contents/a/5/54942f75c419028601a0c1273d8abc.jpg/400x226/"
+            }
+         },
+         "image": "https://thumbs.dfs.ivi.ru/storage4/contents/a/5/54942f75c419028601a0c1273d8abc.jpg/400x226/",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/05_27_21/05/27/04/HJ76VUEX/JMLAC6TV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Суперсемейка",
+         "titleFooter": "Джек-Джек атакует (2005)",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Джек-Джек атакует (2005){col}{br}Все считали, что самый младший из Суперсемейки - обычный ребенок. В то время, как остальные супергерои воевали со злодеем Синдромом, Джек-Джек был оставлен под присмотром соседской девочки. Кэри решила стимулировать развитие ребенка логическими задачами и музыкой Моцарта. Однако результат превзошел все ожидания.",
+               "image": "https://m.media-amazon.com/images/M/MV5BZDI0NGY2MWQtMWU3MC00ZjU5LTllYmEtNzcyOGE5NDExZTVmXkEyXkFqcGdeQXVyMTM5MDQ3MzU1._V1_.jpg"
+            }
+         },
+         "image": "https://m.media-amazon.com/images/M/MV5BZDI0NGY2MWQtMWU3MC00ZjU5LTllYmEtNzcyOGE5NDExZTVmXkEyXkFqcGdeQXVyMTM5MDQ3MzU1._V1_.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_14_20/07/14/07/XHLBIBMT/PRRIVD3B.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Суперсемейка",
+         "titleFooter": "Суперсемейка 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Суперсемейка 2{col}{br}После событий первой части суперсемейка пользуется повышенным вниманием со стороны журналистов. Неожиданно оказалось, что обаятельная Миссис Исключительная гораздо лучше смотрится на экране телевизора, чем её муж. Мистеру Исключительному все чаще приходится сидеть дома и приглядывать за детьми, у каждого из которых есть свои причины быть недовольным собственными суперспособностями. Однако семейным проблемам предстоит отступить на второй план, когда окажется, что спокойствию Суперсемейки угрожает новый могущественный враг.",
+               "image": "https://topvideo.tj/contents/videos_screenshots/132000/132012/preview.jpg"
+            }
+         },
+         "image": "https://topvideo.tj/contents/videos_screenshots/132000/132012/preview.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/05_15_21/05/15/18/BQM3HC5Q/F6Z2GQHV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}
