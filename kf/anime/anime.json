@@ -195,6 +195,13 @@
          "backdrop": "https://yt3.ggpht.com/ytc/AKedOLQnxZxl7En5gk7PhWgjjf6Hzglc4B4CJZXE2hEE=s900-c-k-c0x00ffffff-no-rj",
          "image": "https://w.forfun.com/fetch/fc/fc9c42bc7c203afc40cd90347a5ad1c5.jpeg",
          "action": "content: https://maxaon09.github.io/msx/kf/anime/Toy_Story.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}Суперсемейка",
+         "description": " Они обладают сверхъестественными способностями и относительно легко справлялись с мировым злом. Но в один прекрасный день папаше и его домочадцам приходится вновь облачиться в прорезиненные костюмы супергероев (а для этого нужно срочно сбросить лишние килограммы) и в очередной раз спасти человечество от таинственного злодея. ",
+         "backdrop": "https://yt3.ggpht.com/a/AGF-l79wTSDmd_16Z3toDmV4l1japJ1wG0ADEY58Ww=s900-c-k-c0xffffffff-no-rj-mo",
+         "image": "https://pic.rutubelist.ru/video/75/fb/75fb2bb864a390d62d9e14f421aa4650.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/The_Incredibles.json"
       }
    ]
 }
