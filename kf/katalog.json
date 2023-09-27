@@ -104,6 +104,43 @@
       },
       {
          "type": "separator"
+      },
+      {
+         "type": "separator",
+         "icon": "vertical-split",
+         "iconSize": "extra-large",
+         "label": "{col:msx-white}БОНУС КОНТЕНТ"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "Сериалы",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://olsib.at.ua/Serial/OLSIB_serials.m3u"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "Сериалы 2",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://olsib.at.ua/Serial/Serial_2.m3u"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "В гостях у сказки",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://olsib.at.ua/Free/Playlist/tales_free.m3u"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "more.tv",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://olsib.at.ua/playlist/OLSIB-moretv.m3u"
+      },
+      {
+         "type": "separator"
       }
    ]
 }
