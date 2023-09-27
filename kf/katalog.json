@@ -114,13 +114,6 @@
       {
          "icon": "tv",
          "iconSize": "extra-large",
-         "label": "Сериалы",
-         "extensionLabel": "",
-         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://olsib.at.ua/Serial/OLSIB_serials.m3u"
-      },
-      {
-         "icon": "tv",
-         "iconSize": "extra-large",
          "label": "Сериалы 2",
          "extensionLabel": "",
          "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://olsib.at.ua/Serial/Serial_2.m3u"
