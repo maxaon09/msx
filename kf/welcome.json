@@ -240,6 +240,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/The_Nun.json"
       },
       {
+         "titleHeader": "{col:msx-white}Сияние",
+         "description": "«Сияние» – экранизация одноименного культового романа короля ужасов Стивена Кинга, снятая непревзойденным Стэнли Кубриком. Этот жуткий, мастерски сделанный триллер до сих пор остается одним из лучших представителей жанра ужасов",
+         "backdrop": "https://miro.medium.com/v2/resize:fill:1360:1360/1*jCZCHhWuueOpqY2_8l7JEg.jpeg",
+         "image": "https://img.moviesrankings.com/t/p/w1280/eyVLGgir9AmEgD9wOYoTYsMHdzL.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/The_Shining.json"
+      },
+      {
          "titleHeader": "{col:msx-white}КРИК",
          "description": "«Крик» — американская кинофраншиза, созданная сценаристом Кевином Уильямсоном и режиссёром Уэсом Крэйвеном, куда входят фильмы-триллеры. Серия фильмов получила значительное признание критиков. «Крику» приписывают возрождение жанра хоррор в конце 90-х, совмещая традиционный фильм ужасов с юмором и оригинальным сюжетом.",
          "backdrop": "https://i0.wp.com/www.ecodelcinema.com/wp-content/uploads/2020/10/scream-4-sfondo-1200x630-1.jpg",
