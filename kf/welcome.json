@@ -1194,6 +1194,13 @@
          "action": "content: https://maxaon09.github.io/msx/kf/noch_v_muzee.json"
       },
       {
+         "titleHeader": "{col:msx-white}Знакомство с Факерами",
+         "description": " Знакомство с Факерами - серия фильмов, рассказывающая о том, как персонаж Грега Факера (Бен Стиллер) общается со своей семьей и родственниками супруги. Сериал состоит из трех фильмов",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AOPolaSLzBPc7rIa7JqAjWf85Oc7LlYaU2_yFSg4yI1Y=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://d1o422jskmy5yw.cloudfront.net/wp-content/uploads/2018/03/Conocer-a-los-padres-de-mi-novia-1024x576.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/fackers.json"
+      },
+      {
          "titleHeader": "{col:msx-white}Эйс Вентура",
          "description": "Детектива со странной прической и специфическим чувством юмора забыть сложно. Для него не имеет значения, что о нем думают настоящие полицейские. Поиск пропавших животных – его стихия. Эйс Вентура не раз докажет, что в этом деле он лучший. ",
          "backdrop": "https://i.ibb.co/2Y9pbzz/vlcsnap-2020-07-10-18h18m48s419.png",
