@@ -202,6 +202,13 @@
          "backdrop": "https://yt3.ggpht.com/a/AGF-l79wTSDmd_16Z3toDmV4l1japJ1wG0ADEY58Ww=s900-c-k-c0xffffffff-no-rj-mo",
          "image": "https://pic.rutubelist.ru/video/75/fb/75fb2bb864a390d62d9e14f421aa4650.jpg",
          "action": "content: https://maxaon09.github.io/msx/kf/anime/The_Incredibles.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}Тачки",
+         "description": "«Тачки» — серия компьютерно-анимационных мультфильмов и медиафраншиза Disney, события которой разворачиваются в мире, населённом антропоморфными автомобилями.",
+         "backdrop": "https://yt3.ggpht.com/ytc/AMLnZu_Wa4BEHrGmlI7rQab5RDu6-KR4-pPB1auZIf16JQ=s900-c-k-c0x00ffffff-no-rj",
+         "image": "http://yesofcorsa.com/wp-content/uploads/2017/12/Cars-2-Best-Wallpaper-1024x576.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/The_cars.json"
       }
    ]
 }
