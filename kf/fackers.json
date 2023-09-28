@@ -83,7 +83,7 @@
             }
          },
          "image": "https://uztel.server-img.lfstrm.tv/image/aHR0cDovL3V6dGVsLnNlcnZlci1jbXMubGZzdHJtLnR2L2FyY2hpdmUtaW1nL3N0YXRpYy9tZWRpYS9jMy9lZi9jM2VmNzk5ZTczOTZjNjU4ZTA1ZThmZTNhNmYxMDRlYw==",
-         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/05_04_20/05/04/15/EBRJO4T5/NZB4A5CK.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/22/JBXAVSPF/IUV5RWZZ.mp4/master.m3@http://msx.benzac.de/interaction/play.html",
          "properties": {
             "image:extension": "| {col:msx-white}Third Item"
          }
