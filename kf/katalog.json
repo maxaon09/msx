@@ -132,6 +132,13 @@
          "extensionLabel": "",
          "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://olsib.at.ua/playlist/OLSIB-moretv.m3u"
       },
+            {
+         "icon": "live-tv",
+         "iconSize": "extra-large",
+         "label": "OLSIB live-tv",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://olsib.at.ua/vip/List/OLSIB-tv.m3u"
+      },
       {
          "type": "separator"
       }
