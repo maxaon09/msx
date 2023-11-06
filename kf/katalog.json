@@ -3,7 +3,7 @@
    "version": "1.0.0",
    "background": "https://maxaon09.github.io/msx/kf/img/bac.jpg",
    "headline": "КАТАЛОГ",
-   "dictionary": "https://maxaon09.github.io/lampaset/msx/lang/ru.json",
+   "dictionary": "https://maxaon09.github.io/msx/mru.json",
    "menu": [
       {
          "type": "separator"
