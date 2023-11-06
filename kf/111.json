@@ -1,7 +1,7 @@
 {
    "type": "list",
    "background": "https://maxaon09.github.io/msx/kf/img/bac.jpg",
-   "dictionary": "https://github.com/maxaon09/msx/raw/main/aru.json",
+   "dictionary": "https://maxaon09.github.io/lampaset/msx/lang/ru.json",
    "preload": "next",
    "pages": [
       {
