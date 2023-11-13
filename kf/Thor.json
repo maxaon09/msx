@@ -1,0 +1,126 @@
+{
+   "type": "list",
+   "headline": "ТОР",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Тор",
+         "titleFooter": "Тор",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Тор{col}{br}Эпическое приключение происходит как на нашей планете Земля, так и в королевстве богов Асгарде. В центре истории - Могучий Тор, сильный, но высокомерный воин, чьи безрассудные поступки возрождают древнюю войну в Асгарде. Тора отправляют в ссылку на Землю, лишают сил и заставляют жить среди обычных людей в качестве наказания...",
+               "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/6950/636950-h"
+            }
+         },
+         "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/6950/636950-h",
+         "action": "video:resolve:request:interaction: https://ab.takedwn.ws/05_15_21/05/15/19/J5MBMJWY/K3DW3WP3.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Тор",
+         "titleFooter": "Тор 2: Царство тьмы",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Тор 2: Царство тьмы{col}{br}Могучему Тору предстоит вновь сразиться за восстановление порядка в галактике, встретившись лицом к лицу с древней инопланетной расой, ведомой злодеем Малекитом, который жаждет установить в девяти мирах власть тьмы. Столкнувшись с врагом, более могущественным, чем сам Один и всё воинство Асгарда, Тор должен собрать силы для решающей битвы. Его ждёт опасное путешествие и долгожданная встреча со своей земной возлюбленной Джейн Фостер. Сможет ли Тор рискнуть самым дорогим, чтобы не дать тьме воцариться на просторах вселенной?",
+               "image": "https://images4.alphacoders.com/112/thumb-1920-1120595.jpg"
+            }
+         },
+         "image": "https://images4.alphacoders.com/112/thumb-1920-1120595.jpg",
+         "action": "video:resolve:request:interaction:https://ab.takedwn.ws/10_20_22/10/20/18/BBYEEFX4/76HESZUC.mp4/master.m3u8 @http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Тор",
+         "titleFooter": "Тор: Рагнарёк",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Тор: Рагнарёк{col}{br}Вернувшись в Асгард в поисках таинственного врага, ведущего охоту на Камни Бесконечности, Тор обнаруживает, что действия его брата Локи, захватившего трон Асгарда, привели к приближению наиболее страшного события - Рагнарёка. По легенде это ознаменует последнюю битву Асгарда, последствием которой станет его полное уничтожение. В попытке предотвратить это событие Тору предстоит прибегнуть к помощи своего товарища из Мстителей - Халка. Вместе им предстоит столкнуться лицом к лицу со злейшим врагом всех девяти миров - огненным демоном Суртуром, целью которого является исполнение пророчества о Рагнарёке и уничтожение девяти миров.",
+               "image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/32E303CF7716B53DEAF7874615A17C0EAB062AD76DDD8681EF860B8844A119A5/scale?width=1200&aspectRatio=1.78&format=jpeg"
+            }
+         },
+         "image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/32E303CF7716B53DEAF7874615A17C0EAB062AD76DDD8681EF860B8844A119A5/scale?width=1200&aspectRatio=1.78&format=jpeg",
+         "action": "video:resolve:request:interaction: https://ab.takedwn.ws/10_18_22/10/18/19/WHMWGKK4/7RFNOFAY.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Тор",
+         "titleFooter": "Команда Дэррила ",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Команда Дэррила {col}{br}Прошло больше года с тех пор, как Тор покинул Австралию, оставив Дэррила одного в съёмной квартире. Теперь Дэррил нуждается в новом соседе, который разделит с ним ежемесячную квартплату за аренду. К несчастью для Дэррила, единственным откликнувшимся на его объявление оказался Грандмастер – недавно свергнутый бывший правитель планеты Сакаар, у которого свои планы по захвату власти над Землей.",
+               "image": "https://i.ytimg.com/vi/ozdAk0ztx6k/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/ozdAk0ztx6k/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/02_09_22/02/09/01/7ROJTG6S/6P72XLME.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Тор",
+         "titleFooter": "Тор: Любовь и гром",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Тор: Любовь и гром{col}{br}Джейн Фостер берет на себя обязанности Бога-громовержца и становится обладательницей молота Мьёльнира.",
+               "image": "https://pluggedin.ru/images/upload/1680704187.jpg"
+            }
+         },
+         "image": "https://pluggedin.ru/images/upload/1680704187.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/09_09_18/09/09/06/MkMrGTsq/1080_arifWBCC.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fifth Item"
+         }
+      }
+   ]
+}

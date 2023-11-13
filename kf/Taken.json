@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "ЗАЛОЖНИЦА",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Заложница",
+         "titleFooter": "Заложница",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Заложница{col}{br}Молодую девушку похитили во время туристического отдыха. Её отец пускается в опасное приключение-спасение, чтобы вернуть дочь и наказать виновных лично.",
+               "image": "https://i.ytimg.com/vi/RfUMAUj3pJE/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/RfUMAUj3pJE/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_20_23/07/20/01/UDO5COTE/35XQEGSX.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Заложница",
+         "titleFooter": "Заложница 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Заложница 2{col}{br}Брайану Миллсу придется расхлебывать последствия своих действий. Спасая свою дочь, он убил главаря банды, у которого — сюрприз! — есть отец по имени Мурад. Мурад жаждет отмщения, и описывается как человек, отдающий приказы, но сам никогда никому не подчиняющийся. Мурад берет в заложники Миллса с супругой, и тут уже Ким Миллс нужно будет спасать своих родителей.",
+               "image": "https://images.kinorium.com/movie/poster/478233/w1500_50510555.jpg"
+            }
+         },
+         "image": "https://images.kinorium.com/movie/poster/478233/w1500_50510555.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_25_20/09/25/19/KZX455OL/T4RLMCT4.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Заложница ",
+         "titleFooter": "Заложница 3",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Заложница 3{col}{br}Жизнь бывшего правительственного агента Брайана Миллса рушится, когда его обвиняют в убийстве, которого он не совершал. Преследуемый опытным инспектором полиции, Миллс пытается отследить настоящего убийцу…",
+               "image": "https://ins.server-img.lfstrm.tv/image/aHR0cDovL2lucy5zZXJ2ZXItY21zLmxmc3RybS50di9hcmNoaXZlLWltZy9zdGF0aWMvbWVkaWEvN2MvNGIvN2M0YmIwNWFkMTI1NWY4ZTc3ZTE2Y2I0ZWVjNTNmMzc="
+            }
+         },
+         "image": "https://ins.server-img.lfstrm.tv/image/aHR0cDovL2lucy5zZXJ2ZXItY21zLmxmc3RybS50di9hcmNoaXZlLWltZy9zdGF0aWMvbWVkaWEvN2MvNGIvN2M0YmIwNWFkMTI1NWY4ZTc3ZTE2Y2I0ZWVjNTNmMzc=",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/10_03_20/10/03/01/EDSQYLVW/A6BYREOZ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}

@@ -1,0 +1,143 @@
+{
+   "type": "list",
+   "headline": "ТЕРМИНАТОР",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Терминатор",
+         "titleFooter": "Терминатор",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Терминатор (1984){col}{br}Солдат Кайл Риз получил задание: разыскать и спасти американку по имени Сара Коннор. Дело в том, что юной девушке предстоит стать матерью героя, от которого зависит судьба всего человечества. Но другой путешественник во времени не знающий жалости и сомнений робот, уже открыл охоту на молодую женщину",
+               "image": "https://pbs.twimg.com/media/CTgefKDUsAAqDmV.jpg"
+            }
+         },
+         "image": "https://pbs.twimg.com/media/CTgefKDUsAAqDmV.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_03_20/07/03/17/JT3FKOXS/YPBXLZVG.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Терминатор",
+         "titleFooter": "Судный день",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Терминатор 2: Судный день (1991){col}{br}Сара Коннор загремела в психушку. Женщине никто не верит, даже ее собственный сын Джон Коннор, который живет с приемными родителями. Из будущего прибывает киборг Т-800, который запрограммирован на защиту Джона. Вслед за Т-800 материализуется Т-1000, киборг новой модификации. Пришельцы из будущего отправляются на поиски мальчика, один, чтобы убить его, второй - чтобы защитить.",
+               "image": "https://avatars.dzeninfra.ru/get-zen_doc/987771/pub_6373c154f07a1a66661a4240_6373c19a3f9fa41e51b53bf6/scale_1200"
+            }
+         },
+         "image": "https://avatars.dzeninfra.ru/get-zen_doc/987771/pub_6373c154f07a1a66661a4240_6373c19a3f9fa41e51b53bf6/scale_1200",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_18_21/05/18/14/DOBMCOAZ/CZQT3UL6.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Терминатор",
+         "titleFooter": "Восстание машин",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Терминатор 3: Восстание машин (2003){col}{br}Прошло десять лет с тех пор, как Джон Коннор помог предотвратить Судный День и спасти человечество от массового уничтожения. Его существование нигде не зарегистрировано. Он не может быть прослежен системой Skynet. Пока из теней будущего не появляется T-X - Терминатрикс, самый сложный киборг-убийца Skynet.",
+               "image": "https://i.ytimg.com/vi/VDiAT-D0Syc/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/VDiAT-D0Syc/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_02_20/07/02/21/R4PNEVZT/IJZ2EPPG.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Терминатор",
+         "titleFooter": "Да придёт спаситель",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Терминатор: Да придёт спаситель (2009){col}{br}У Коннора появляется новый союзник – загадочный Маркус Райт, не помнящий ничего из своего прошлого кроме смутных картин из камеры смертников. Коннор и Маркус вместе отправляются в очередной рейд, и в ходе этой рисковой операции оказываются в самом сердце Скайнета.",
+               "image": "https://avatars.dzeninfra.ru/get-zen_doc/4821428/pub_6295c4c2aaecdd3346ad89d8_6295cc03032e585ab6f79e74/scale_1200"
+            }
+         },
+         "image": "https://avatars.dzeninfra.ru/get-zen_doc/4821428/pub_6295c4c2aaecdd3346ad89d8_6295cc03032e585ab6f79e74/scale_1200",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_26_20/06/26/14/F6MAB3Y5/GITKKDZI.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Терминатор",
+         "titleFooter": "Генезис",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Терминатор: Генезис (2015){col}{br}Когда Джон Коннор, лидер сопротивления, посылает сержанта Кайла Риза назад в 1984 год, чтобы защитить Сару Коннор и спасти будущее, неожиданный поворот событий создает разлом во времени. Риз оказывается в новой, незнакомой версии прошлого, где он встречает неожиданных союзников, в том числе Терминатора, новых опасных врагов, и новую миссию: изменить будущее..",
+               "image": "https://i.ytimg.com/vi/bVN1nL3u3J4/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/bVN1nL3u3J4/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_08_20/07/08/18/E4PXCGS6/JQ2MMEYX.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Терминатор",
+         "titleFooter": "Тёмные судьбы",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Терминатор: Тёмные судьбы (2019){col}{br}Даниэла вместе с братом приходит работать на завод, но выясняется, что их вскоре заменят автоматикой. И это не единственная угроза, которую представляют для девушки машины: на неё нападает присланная из будущего и практически неубиваемая модель терминатора REV-9. На защиту Дани встает Грэйс - прибывшая из будущего. Вскоре к ним на помощь придёт и Сара Коннор",
+               "image": "https://static.toiimg.com/photo.cms?msid=71389184&resizemode=4"
+            }
+         },
+         "image": "https://static.toiimg.com/photo.cms?msid=71389184&resizemode=4",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_15_21/05/15/15/52VGRUOH/GLTONCP3.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      }
+   ]
+}

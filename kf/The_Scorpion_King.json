@@ -1,0 +1,126 @@
+{
+   "type": "list",
+   "headline": "ЦАРЬ СКОРПИОНОВ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Царь скорпионов",
+         "titleFooter": "Царь скорпионов",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Царь скорпионов{col}{br}Эта история произошла 5 тыс. лет назад в Египте, еще задолго до постройки первых пирамид. Злой правитель и могущественный воин Мемнон решил поработить все народы, живущие в пустыне. Со своей многочисленной армией Мемнон выигрывает одно сражение за другим. Удача сопутствует жестокому злодею, потому что все злодеяния Мемнон совершает, опираясь на предсказания своего провидца. Осталась только горстка непокорных народов в пустыне, которые еще противостоят власти Мемнона.Немногие оставшиеся племена нанимают воина акадца Метаеса - человека убивающего за деньги - чтобы тот убил провидца Мемнона. Оказавшись во вражеском лагере, Метаес к своему удивлению обнаруживает, что ясновидец - это красивая молодая женщина Кассандра. Он оставляет ее в живых и берет с собой в пустыню, чтобы выманить Мемнона из его города-крепости Гоморры. Единственное, что может успокоить теперь Метаеса - это смерть Мемнона...",
+               "image": "https://static.okko.tv/images/v3/8967668"
+            }
+         },
+         "image": "https://static.okko.tv/images/v3/8967668",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/08_03_20/08/03/12/RTASEZZM/5S3F5BUB.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Царь скорпионов",
+         "titleFooter": "Царь скорпионов 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Царь скорпионов 2: Восхождение воина{col}{br}Молодой Масьюз видит смерть своего отца, самого великого воина его народа. Всем известно, кто убил его. Годы проходят, и Масьюз становится воином Черным Скорпионом, готовым служить своему царю, человеку, что убил его отца. Как его остановить, если царь - владеет черной магией и поддержкой Богини Смерти.Масьюз встретится с Минотавром и попадет в Подземный мир и все ради мести.",
+               "image": "https://img.smotreshka.tv/image/aHR0cHM6Ly9jbXMuc21vdHJlc2hrYS50di9hcmNoaXZlLWltZy9zdGF0aWMvbWVkaWEvNTgvOTEvNTg5MTVkYTU0YjlkOGEyNzBjMDYwZmY0YWM4MjJjZDA="
+            }
+         },
+         "image": "https://img.smotreshka.tv/image/aHR0cHM6Ly9jbXMuc21vdHJlc2hrYS50di9hcmNoaXZlLWltZy9zdGF0aWMvbWVkaWEvNTgvOTEvNTg5MTVkYTU0YjlkOGEyNzBjMDYwZmY0YWM4MjJjZDA=",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/04_20_23/04/20/15/TGAFNTAE/UUNQ6OZT.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Царь скорпионов",
+         "titleFooter": "Царь скорпионов 3",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Царь скорпионов 3: Книга мертвых{col}{br}С момента триумфального восхождения Матиуса к власти немало изменилось: он потерял трон и любимую. Вновь став воином-наемником, герой намерен защитить свое царство от гнета злого тирана и его армии призраков и вернуть прежнее могущество и славу.",
+               "image": "https://ao.dramas7.com/uploads/thumbs/dd7729acd-1.jpg"
+            }
+         },
+         "image": "https://ao.dramas7.com/uploads/thumbs/dd7729acd-1.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/04_20_23/04/20/22/XWV3LSVP/43NPF6NL.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Царь скорпионов",
+         "titleFooter": "Царь скорпионов 4",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Царь скорпионов 4: Утерянный трон{col}{br}История о том, как отстранённый от своего трона король-воин Матайюс принимает решение отправиться на самое страшное и ужасное задание в своей жизни. Все это Матайюс решает сделать ради того, чтобы мир на его земле снова возродился. Все вроде бы шло своим чередом, но однажды от Матайюса отворачивается его самый близкий и лучший друг. Теперь герой самолично должен противостоять страшному злодею...",
+               "image": "https://anh.24h.com.vn/upload/3-2016/images/2016-07-05/1467709090-the-scorpion-king-4.jpg"
+            }
+         },
+         "image": "https://anh.24h.com.vn/upload/3-2016/images/2016-07-05/1467709090-the-scorpion-king-4.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/04_21_23/04/21/01/FBEMZXFC/ZOCHWDKX.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Царь скорпионов",
+         "titleFooter": "Царь Скорпионов 5",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Царь Скорпионов: Книга Душ{col}{br}Царь Скорпионов объединяется с воином-женщиной по имени Тала, сестрой нубийского царя. Вместе они ищут легендарную реликвию, известную как «Книга душ», которая поможет им победить ужасного монстра.",
+               "image": "https://static.okko.tv/images/v3/11677930?scale=1&quality=80"
+            }
+         },
+         "image": "https://static.okko.tv/images/v3/11677930?scale=1&quality=80",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/04_20_23/04/20/13/BIJ53I73/BWTR2PFJ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}

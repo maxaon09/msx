@@ -1,0 +1,211 @@
+{
+   "type": "list",
+   "headline": "ВОСТАВШИЙ ИЗ АДА",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Восставший из ада",
+         "titleFooter": "Восставший из ада",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Восставший из ада (1987){col}{br}Фрэнк открывает купленную им на восточном базаре старинную шкатулку. Легенда гласит, что живущие в ней демоны могут доставить владельцу неописуемые наслаждения. Но Фрэнк не мог и предположить, что эта шкатулка — ключ к вратам Ада.",
+               "image": "https://avatars.dzeninfra.ru/get-zen_doc/3507111/pub_62418079d90de20a9a0d7ac5_62695fd41d8ef21b3649f07a/scale_1200"
+            }
+         },
+         "image": "https://avatars.dzeninfra.ru/get-zen_doc/3507111/pub_62418079d90de20a9a0d7ac5_62695fd41d8ef21b3649f07a/scale_1200",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/14/AHMBH2UB/2VZN65XP.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Восставший из ада",
+         "titleFooter": "Восставший из ада 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Восставший из ада 2 (1988){col}{br} Кёрсти, содержащаяся в психиатрической лечебнице, решает спасти своего томящегося в потусторонней неволе отца, для чего ей снова необходимо проникнуть за ту не всегда видимую и не всегда прочную грань, которая отделяет мир живых от мира не очень живых.",
+               "image": "https://image.tmdb.org/t/p/w1280/k3dYvVOpWgiaZYNN4duou5GvgyI.jpg"
+            }
+         },
+         "image": "https://image.tmdb.org/t/p/w1280/k3dYvVOpWgiaZYNN4duou5GvgyI.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/12/MCBR45V7/M3ODU4ZJ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Восставший из ада",
+         "titleFooter": "Ад на Земле",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Восставший из ада 3: Ад на Земле (1992){col}{br}Недремлющее Зло вновь вырывается из своего потустороннего плена и начинает настоящую бойню. И на всей планете есть только один человек, который в состоянии противостоять темной адской воле этого исчадия - милая и очаровательная тележурналистка Джоуи.",
+               "image": "https://horrorzone.ru/uploads/_pages2/61947/h3wallpaper3c.jpg"
+            }
+         },
+         "image": "https://horrorzone.ru/uploads/_pages2/61947/h3wallpaper3c.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_04_20/06/04/12/DCLZQIGX/QTKXLLFZ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Восставший из ада",
+         "titleFooter": "Кровное родство",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Восставший из ада 4: Кровное родство (1996){col}{br}События происходят в 2127-ом году на космической станции Минос, Доктор Мерчант, одержимый какими-то странными, безумными идеями, захватил станцию, чтобы провести в жизнь свои таинственные эксперименты, Доктора «повязали», и он рассказал, как же он дошел до жизни такой, И выяснилось, что причина безумия доктора - в магическом кубике.",
+             "image": "https://psy-pie.ru/wp-content/uploads/2022/10/4umiapwuss1kvtew9kaj2jljw23-1024x576.jpg"
+            }
+         },
+         "image": "https://psy-pie.ru/wp-content/uploads/2022/10/4umiapwuss1kvtew9kaj2jljw23-1024x576.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/13/6WOKQZZS/2EKL72DV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Восставший из ада",
+         "titleFooter": "Преисподняя",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Восставший из ада 5: Преисподняя (2000){col}{br}Созданная в 18-м веке магическая головоломка, способная открыть дорогу в ад, попадает в руки порочного полицейского из Лос-Анджелеса. И с этого момента все вокруг становится кошмаром. Может это возмездие за его неправедную жизнь? ",
+               "image": "https://pbs.twimg.com/media/FDutxptXsAMlRrO.jpg"
+            }
+         },
+         "image": "https://pbs.twimg.com/media/FDutxptXsAMlRrO.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/14/PP7XETSE/HPJJOWTG.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Восставший из ада",
+         "titleFooter": "Поиски ада",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Восставший из ада 6: Поиски ада (2001){col}{br}Спустя месяц после автокатастрофы, когда Тревор пришел в себя, выясняется, что тело его жены Кирсти так и не было найдено! Он возвращается к работе, но с ним начинают происходить ужасные вещи. Тревор оказывается в адском лабиринте, где непостижимым кошмаром сплелись жизнь и смерть. И он должен заплатить цену прежде, чем узнает ответ…",
+               "image": "https://aiptcomics.com/wp-content/uploads/2016/10/hellraiser-hellseeker-featured.jpg"
+            }
+         },
+         "image": "https://aiptcomics.com/wp-content/uploads/2016/10/hellraiser-hellseeker-featured.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/16/ZCLKVDWO/Z6ZW2KTE.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Восставший из ада",
+         "titleFooter": "Армия мертвецов",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Восставший из ада 7: Армия мертвецов (2003){col}{br}Журналистка Эми Кляйн отправляется в Бухарест, чтобы расследовать там действия тайной секты, члены которой расстаются с жизнью путем самоубийства. Она с проникает в мрачный мир секты, но вскоре понимает, что теперь у нее нет другого пути кроме как присоединиться к ее участникам в приготовлениях к пришествию их божества...",
+               "image": "https://image.tmdb.org/t/p/w1280/4qJB7amzeGVAcnOeCt4QHWswNfn.jpg"
+            }
+         },
+         "image": "https://image.tmdb.org/t/p/w1280/4qJB7amzeGVAcnOeCt4QHWswNfn.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/19/END3BIOS/CCECKEGM.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Восставший из ада",
+         "titleFooter": "Адский мир",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Восставший из ада 8: Адский мир (2003){col}{br}Группа подростков, увлечённых игрой Hellraiser и достигших в ней определённых успехов, получает от сайта Hellworld.com приглашение на закрытую вечеринку. Попав туда, ребята понимают, что совершили ужасную ошибку, и теперь их любимая игра стала кошмарной реальностью...",
+             "image": "https://i.ytimg.com/vi/GSNXwqBHBNI/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/GSNXwqBHBNI/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/20/UQQWLWN4/2BJ2IW5J.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Восставший из ада",
+         "titleFooter": "Откровения",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Восставший из ада: Откровения (2010){col}{br}Двое путешествующих друзей Стив и Нико находят в Мексике коробку-паззл. Нико предлагает Стивену открыть коробку и тот оказывается во власти Пинхэда. Родные Стивена всеми силами будут стараться вернуть его обратно в мир живых.",
+               "image": "https://i.ytimg.com/vi/1E784poGCAA/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/1E784poGCAA/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_23_20/06/23/18/URPRISGL/BJZX6O65.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Восставший из ада",
+         "titleFooter": "Приговор",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Восставший из ада: Приговор (2018){col}{br}Детективы Шон и Дэвид Картеры расследует дело о жутких серийных убийствах. Объединив усилия с другим детективом, они следуют за убийцей всё дальше и дальше в лабиринт ужаса, которому нет места в мире живых. ",
+             "image": "https://www.doostihaa.com/img/uploads/2022/09/Hellraiser-Judgment-2018-Poster.jpg"
+            }
+         },
+         "image": "https://www.doostihaa.com/img/uploads/2022/09/Hellraiser-Judgment-2018-Poster.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/04_29_20/04/29/11/7Q7BCL3K/EKH4L3XK.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}

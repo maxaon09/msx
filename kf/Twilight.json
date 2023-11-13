@@ -1,0 +1,126 @@
+{
+   "type": "list",
+   "headline": "Сумерки",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Сумерки",
+         "titleFooter": "Сумерки",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Сумерки{col}{br}Семнадцатилетняя девушка Белла переезжает к отцу в небольшой городок Форкс. Она влюбляется в загадочного одноклассника, который, как оказалось, происходит из семьи вампиров, отказавшихся от нападений на людей. Влюбиться в вампира. Это страшно? Это романтично, это прекрасно и мучительно, но это не может кончиться добром, особенно в вечном противостоянии вампирских кланов, где малейшее отличие от окружающих уже превращает вас во врага.",
+               "image": "https://blog.okko.tv/thumb/1320x0/filters:quality(75):no_upscale()/imgs/2023/06/20/16/5948982/6b0b18d338148592cc61d6c5cb63db3a6d5b3ef8.jpeg"
+            }
+         },
+         "image": "https://blog.okko.tv/thumb/1320x0/filters:quality(75):no_upscale()/imgs/2023/06/20/16/5948982/6b0b18d338148592cc61d6c5cb63db3a6d5b3ef8.jpeg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_12_23/01/12/22/ZEOGB6NU/XYDWWSLK.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Сумерки",
+         "titleFooter": "Сумерки. Сага. Новолуние",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Сумерки. Сага. Новолуние{col}{br}Влюбиться в вампира - страшно и романтично. Но потерять любимого, решившего ценой разрыва спасти свою девушку от роли пешки в вечном противостоянии кланов «ночных охотников», - это просто невыносимо. Белла Свон мучительно переживает исчезновение Эдварда и безуспешно ищет забвения в дружбе с мальчишкой-индейцем Джейкобом Блэком. Она даже не подозревает, что её лучший друг - порождение ещё одного «народа Тьмы». Народа, куда более жестокого и опасного, чем аристократы-вампиры... ",
+               "image": "https://www.nastroy.net/pic/images/202007/371806-1595101648.jpg"
+            }
+         },
+         "image": "https://www.nastroy.net/pic/images/202007/371806-1595101648.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_14_21/05/14/00/MVF3U7WW/EKYG6I56.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Сумерки",
+         "titleFooter": "Сумерки. Сага. Затмение",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Сумерки. Сага. Затмение{col}{br}Сиэтл охвачен чередой таинственных убийств, а обуреваемая жаждой мести вампирша продолжает поиски Беллы, снова оказавшейся в смертельной опасности. Кроме того, находясь в эпицентре всех событий, Белла вынуждена делать выбор между любовью к Эдварду и дружбой с Джейкобом, зная что ее решение может послужить толчком к возобновлению давнего противостояния между вампирами и оборотнями.",
+               "image": "https://static.okko.tv/images/v2/9512637?scale=1&quality=80"
+            }
+         },
+         "image": "https://static.okko.tv/images/v2/9512637?scale=1&quality=80",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_13_21/05/13/19/CCKTIKXW/75X4OG7I.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Сумерки",
+         "titleFooter": "Сумерки. Сага. Рассвет: Часть 1",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Сумерки. Сага. Рассвет: Часть 1{col}{br}В четвертой части Белла Свон оказывается перед непростым выбором — сохранить жизнь себе или своему ребенку (наполовину вампиру, наполовину человеку). Она решает оставить малыша, но Эдвард и остальные члены семьи Каллен категорически против.Помощи Белле ждать не от кого, но она приходит неожиданно, от того, от кого её совсем не ждали. Вдвоем Белла и Розали пытаются сохранить жизнь малышу, даже не догадываясь, к каким ужасающим последствиям это приведет.",
+               "image": "https://www.kino-teatr.ru/art/2312/20157.jpg"
+            }
+         },
+         "image": "https://www.kino-teatr.ru/art/2312/20157.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_18_23/01/18/13/SSATFXCE/JWXQJWWN.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Сумерки",
+         "titleFooter": "Сумерки. Сага. Рассвет: Часть 2 ",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Сумерки. Сага. Рассвет: Часть 2 {col}{br}Белла, став вампиром, постепенно свыкается со своей новой природой. В этом ей помогают Эдвард и остальные члены семьи Калленов. К тому же теперь у Беллы есть дочь Ренесми и вечность впереди. Джейкоб, запечатленный с Ренесми, становится для девочки другом и наставником. Ненадолго для героев наступают спокойные, счастливые дни.Все заканчивается, когда вести о Ренесми доходят до Вольтури. «Обращение» детей строго запрещено в мире вампиров. Не зная о необычном происхождении Ренесми, Вольтури собирают армию и направляются в Форкс, чтобы уничтожить Калленов.",
+               "image": "https://thumbs.dfs.ivi.ru/storage2/contents/0/1/d82aa64b2a467a93a432f85d67121f.jpg/400x226//"
+            }
+         },
+         "image": "https://thumbs.dfs.ivi.ru/storage2/contents/0/1/d82aa64b2a467a93a432f85d67121f.jpg/400x226//",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_13_21/05/13/19/FYTMCYDM/GIJSHT5B.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fifth Item"
+         }
+      }
+   ]
+}

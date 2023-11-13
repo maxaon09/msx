@@ -1,0 +1,160 @@
+{
+   "type": "list",
+   "headline": "ТРАНСФОРМЕРЫ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Трансформеры",
+         "titleFooter": "Трансформеры",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Трансформеры (2007){col}{br}Планета Кибертрон никак не может восстановиться после войны, а автоботы и десептиконы не могут решить, кто же из них прав, и потому продолжают сражаться за обладание Великой Искрой, гарантом жизни на планете. Ожесточенные бои охватывают все большую территорию.",
+               "image": "https://cdn.smartfacts.ru/176486/transformery_19.jpg"
+            }
+         },
+         "image": "https://cdn.smartfacts.ru/176486/transformery_19.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_11_21/05/11/10/M6C4GGWO/2OSIXJRI.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Трансформеры",
+         "titleFooter": "Месть падших",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Трансформеры: Месть падших (2009){col}{br}Сэм изо всех сил пытается забыть о конфликте в Мишн Сити и вернуться к нормальной жизни. Однако битва между Автоботами и Десептиконами, несмотря на гриф полной секретности, многое изменила...",
+               "image": "https://i.servimg.com/u/f63/13/23/27/18/tf2_dt12.jpg"
+            }
+         },
+         "image": "https://i.servimg.com/u/f63/13/23/27/18/tf2_dt12.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_14_21/05/14/22/H6Q3XKS3/MRFTDVP3.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Трансформеры",
+         "titleFooter": "Тёмная сторона Луны",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Трансформеры 3: Тёмная сторона Луны (2011){col}{br}Сем Уитвики и его новая подружка Карли оказываются в самом эпицентре новой глобальной заварушки с участием десептиконов и автоботов, в основу которого положена тайна, которую хранит темная сторона Луны.",
+               "image": "https://wallpapercave.com/wp/wp11019775.jpg"
+            }
+         },
+         "image": "https://wallpapercave.com/wp/wp11019775.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_11_22/10/11/22/WVWKGKLR/V3OMSMUU.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Трансформеры",
+         "titleFooter": "Эпоха истребления",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Трансформеры: Эпоха истребления (2014){col}{br}Автоботы и десептиконы оставили человечество собирать планету по кусочкам. Между тем группа могущественных бизнесменов и гениальных ученых пытается извлечь уроки из ошибок прошлого и улучшить технологии до такой степени, чтобы выйти за пределы контролируемого ранее. В это время другая группа — древних мощных трансформеров — берет Землю под прицел.",
+               "image": "https://i.ytimg.com/vi/KUeqkAlOCpY/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/KUeqkAlOCpY/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_11_22/10/11/23/4HBQAJ32/WVN3PHID.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Трансформеры",
+         "titleFooter": "Последний рыцарь",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Трансформеры: Последний рыцарь (2017){col}{br}Оптимус Прайм исчез. Люди ведут войну с Трансформерами. Ключ к нашему будущему погребен в тайнах прошлого, в скрытой истории Трансформеров на Земле… Миссия по спасению мира ложится на плечи разношерстной компании, состоящей из Кейда Йегера, Бамблби, английского лорда и профессора из Оксфорда. Пришла пора действовать! Жертвы станут героями. Герои станут злодеями.",
+               "image": "https://static.digit.in/OTT/v2/images/transformers-the-last-knight-108559jpg"
+            }
+         },
+         "image": "https://static.digit.in/OTT/v2/images/transformers-the-last-knight-108559jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_11_21/05/11/12/MDZKJFIJ/LDDEYSOQ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Трансформеры",
+         "titleFooter": "Бамблби",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Бамблби (2018){col}{br}Первый спин-офф мегапопулярной фантастической франшизы «Трансформеры», который расскажет о приключениях одного из ее главных героев – автобота Бамблби.",
+               "image": "https://i.ytimg.com/vi/OFnRGkDNIlA/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/OFnRGkDNIlA/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_24_22/10/24/13/TWTMZFI6/DIV2BRSO.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Трансформеры",
+         "titleFooter": "Восхождение Звероботов",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Трансформеры: Восхождение Звероботов (2023){col}{br}В 1994 году двое археологов, Елена и Ной, вступают в древний конфликт, связанный с максималами, предаконами и террорконами.",
+               "image": "https://mezha.media/wp-content/uploads/2023/05/Transformers_Rise_of_the_Beasts_00.jpg"
+            }
+         },
+         "image": "https://mezha.media/wp-content/uploads/2023/05/Transformers_Rise_of_the_Beasts_00.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_17_23/07/17/21/JJHVVWPC/FUJK5CZM.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      }
+   ]
+}

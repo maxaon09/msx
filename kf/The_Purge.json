@@ -1,0 +1,126 @@
+{
+   "type": "list",
+   "headline": "СУДНАЯ НОЧЬ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Судная ночь ",
+         "titleFooter": "Судная ночь ",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Судная ночь{col}{br}Мир будущего – мир без преступности… безработицы… войн. И все это благодаря одной ночи в году, когда можно отправить на тот свет любого – злобного босса, шумных соседей, надоевших родственников. В Судную ночь дозволено все – главное дожить до рассвета.",
+               "image": "https://kartinkof.club/uploads/posts/2022-10/1665932619_17-kartinkof-club-p-sudnaya-noch-kartinki-19.jpg"
+            }
+         },
+         "image": "https://kartinkof.club/uploads/posts/2022-10/1665932619_17-kartinkof-club-p-sudnaya-noch-kartinki-19.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/06_30_20/06/30/15/JJXL35BE/AZ3RG5WA.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Судная ночь",
+         "titleFooter": "Судная ночь 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Судная ночь 2{col}{br}Добро пожаловать в идеальный мир будущего, мир без преступности и войн. И только один раз в году роскошная спокойная жизнь сменяется анархией. Этой ночью дозволено все: во тьме улиц одни жаждут мести, другие ищут развлечений, остальные пытаются дожить до рассвета...",
+               "image": "https://static.okko.tv/images/v2/11969277?presetId=4000&amp;width=NaN&amp;scale=1&amp;quality=80"
+            }
+         },
+         "image": "https://static.okko.tv/images/v2/11969277?presetId=4000&amp;width=NaN&amp;scale=1&amp;quality=80",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_03_20/07/03/13/4SO3XMWE/R73Q76NG.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Судная ночь",
+         "titleFooter": "Судная ночь 3",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Судная ночь 3{col}{br}Добро пожаловать в идеальное будущее, в котором Судная ночь превратилась в международный тренд. Туристы со всего мира прибывают в аэропорты Америки: ведь всего лишь раз в году здесь позволено все, главное – дожить до рассвета.",
+               "image": "https://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/330515/3zVEDI9P2emM8fYesQziA.jpg"
+            }
+         },
+         "image": "https://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/330515/3zVEDI9P2emM8fYesQziA.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_03_20/07/03/13/4SO3XMWE/R73Q76NG.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Судная ночь",
+         "titleFooter": "Судная ночь. Начало",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Судная ночь. Начало{col}{br}Хотели бы вы жить в идеальном мире, где нет преступности, безработицы и войн?Единственная плата за такое счастливое будущее – это одна ночь абсолютного беззакония в году.Ночь, когда дозволено всё. Согласны поучаствовать в таком социальном эксперименте?",
+               "image": "https://i.ytimg.com/vi/UlGJ40zv_4U/hqdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/UlGJ40zv_4U/hqdefault.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/12_01_22/12/01/14/KZYUPYIW/V4W2C2OV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Судная ночь",
+         "titleFooter": "Судная ночь навсегда",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Судная ночь навсегда{col}{br}Этим летом все правила будут нарушены. Группа мародеров решает, что ежегодная Судная ночь не должна заканчиваться с наступлением утра, а может продолжаться бесконечно. Никто больше не будет в безопасности.",
+               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyN2ZV15DFeEQIpe-YSxk-NGF91Yev8xzd0xs3Du493ao92iRkgqS1YkEG7ePF05x0K3k&usqp=CAU"
+            }
+         },
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyN2ZV15DFeEQIpe-YSxk-NGF91Yev8xzd0xs3Du493ao92iRkgqS1YkEG7ePF05x0K3k&usqp=CAU",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/08_27_21/08/27/18/MGEP23M2/Q7CEHDQW.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      }
+   ]
+}

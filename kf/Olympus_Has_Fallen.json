@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "Падение Олимпа",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Падение Олимпа",
+         "titleFooter": "Падение Олимпа",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Падение Олимпа{col}{br}Когда на Белый Дом нападают террористы, а президента берут в заложники, дискредитированный бывший охранник главы государства Майк Бэннинг оказывается внутри захваченного здания. И теперь он единственный, кто сможет спасти президента…",
+               "image": "https://i.ytimg.com/vi/zhJGgnasNCQ/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/zhJGgnasNCQ/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/18/R7EJVVL7/EX37PAL2.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Падение Олимпа",
+         "titleFooter": "Падение Лондона",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Падение Лондона {col}{br}Действие фильма начинается в Лондоне, где премьер-министр Великобритании погибает при загадочных обстоятельствах. На похоронах безусловно присутствуют руководители западного мира. Но то, что начиналось как наиболее безопасное событие на земле, превращается в опаснейшее покушение на самых мощных мировых лидеров, что в свою очередь ставит под угрозу будущее всего мира. Только три человека сохраняют надежду на предотвращение катастрофы: президент США, его верный помощник - агент спецслужбы и английский агент МИ-6, который никому не доверяет.",
+               "image": "https://i.ytimg.com/vi/IV2PNHNcDtk/sddefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/IV2PNHNcDtk/sddefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_29_20/06/29/23/KENOUVLW/C3S2RB7T.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Падение Олимпа",
+         "titleFooter": "Падение ангела",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Падение ангела {col}{br}На президента США совершено покушение, главный обвиняемый – верный ангел-хранитель главы государства и агент секретной службы Майк Бэннинг. Скрываясь от ФБР, он должен найти тех, кто его подставил, и спасти страну и ее лидера от смертельной угрозы.",
+               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgRLm6wfe7HLg22kSP0cVe4B1BxQWt-Bpvyw&usqp=CAU"
+            }
+         },
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgRLm6wfe7HLg22kSP0cVe4B1BxQWt-Bpvyw&usqp=CAU",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/02_15_22/02/15/19/ZIBNUNYZ/VJOSRCAO.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}

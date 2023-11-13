@@ -1,0 +1,126 @@
+{
+   "type": "list",
+   "headline": "ЛЮДИ В ЧЁРНОМ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Пираты Карибского моря",
+         "titleFooter": "Проклятие Черной жемчужины",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Пираты Карибского моря: Проклятие Черной жемчужины (2003){col}{br}Капитан Джек Воробей — один из самых странных пиратов, но слава о нём разлетелась по всем морям и океанам. Однажды вспыхнувший на его корабле бунт привёл к тому, что он остался и без судна, и без команды. Джек Воробей готов сделать всё, лишь бы вернуть свою самую быструю шхуну «Чёрную жемчужину».",
+               "image": "http://images-s.kinorium.com/movie/poster/256936/w1500_50646338.jpg"
+            }
+         },
+         "image": "http://images-s.kinorium.com/movie/poster/256936/w1500_50646338.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_06_21/05/06/05/Z7KS4ZTR/AUDSQQ2U.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Пираты Карибского моря",
+         "titleFooter": "На краю света",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Пираты Карибского моря: На краю света (2007){col}{br}Проходит 25 лет и на Землю прилетает уничтожительница миров Серлина. Приняв образ сексапильной фотомодели, она начала поиски «Светоча». Чтобы не дать ни единого шанса Серлине артефакт нужно отыскать раньше неё, но есть одна проблема - после того как агенты Кей и Джей уничтожили четыре года назад хищного инопланетного таракана, Кею стёрли память. ",
+               "image": "https://pbs.twimg.com/media/EOGW1uWUEAAb2ur?format=jpg&name=medium"
+            }
+         },
+         "image": "https://pbs.twimg.com/media/EOGW1uWUEAAb2ur?format=jpg&name=medium",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_05_21/05/05/19/P526X7N5/6BQEZGO4.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Пираты Карибского моря",
+         "titleFooter": "На странных берегах",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Пираты Карибского моря: На странных берегах (2011){col}{br}Капитану Джеку Воробью предстоит столкнуться с женщиной из своего прошлого Анжеликой. Она вынуждает его взойти на корабль «Месть Королевы Анны», которым управляет коварный злодей Черная Борода. И теперь Джек не знает, кого бояться больше — ужасного злодея или же своей давней подруги.",
+               "image": "https://graco-nsk.ru/wp-content/uploads/6/6/a/66a4ee53ae4cf091ef7e89fd90c75a43.jpeg"
+            }
+         },
+         "image": "https://graco-nsk.ru/wp-content/uploads/6/6/a/66a4ee53ae4cf091ef7e89fd90c75a43.jpeg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_06_21/05/06/04/ZNYCQXW7/HWMJLFYC.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Пираты Карибского моря",
+         "titleFooter": "Истории Кодекса: Замужество",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Пираты Карибского моря. Истории Кодекса: Замужество (2011){col}{br}Капитан Джек Воробей сделал предложение одновременно двум дамам: Жизель и Скарлет. Они решают ему отомстить и дырявят его лодку...",
+               "image": "https://i.ytimg.com/vi/1vlEXo24yXg/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/1vlEXo24yXg/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/03_16_23/03/16/11/XV3YJ7RN/ZY7IY6DX.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Пираты Карибского моря",
+         "titleFooter": "Мертвецы не рассказывают сказки",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Пираты Карибского моря: Мертвецы не рассказывают сказки (2017){col}{br}Исчерпавший свою удачу капитан Джек Воробей обнаруживает, что за ним охотится его старый неприятель, ужасный капитан Салазар и его мертвецы. Они только что сбежали из Дьявольского треугольника и намерены уничтожить всех пиратов, включая Джека...",
+               "image": "https://img.moviesrankings.com/t/p/w1280/qZ6LdnXtzs49cHfU8czmFyi0ea3.jpg"
+            }
+         },
+         "image": "https://img.moviesrankings.com/t/p/w1280/qZ6LdnXtzs49cHfU8czmFyi0ea3.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_06_21/05/06/04/FYZHF246/GT2WJFXV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      }
+   ]
+}

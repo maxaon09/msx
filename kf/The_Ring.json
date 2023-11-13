@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "Звонок",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Звонок",
+         "titleFooter": "Звонок",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Звонок (2002){col}{br}Телефонный звонок раздаётся после просмотра некой загадочной видеокассеты. Жертве даётся ровно семь дней, а после следует неминуемая смерть. Журналистка Рэйчел расследует загадочные смерти молодых людей, и случайно кассета-убийца попадает в руки к её маленькому сыну, над которым теперь нависает смертельная угроза. ",
+               "image": "http://img.smotreshka.tv/image/aHR0cHM6Ly9jbXMuc21vdHJlc2hrYS50di9hcmNoaXZlLWltZy9zdGF0aWMvbWVkaWEvOGMvOWIvOGM5YjA1NDlkOTM5YmNmNzU0ZGJhYzFhNDdhY2I0ZDcuanBn"
+            }
+         },
+         "image": "http://img.smotreshka.tv/image/aHR0cHM6Ly9jbXMuc21vdHJlc2hrYS50di9hcmNoaXZlLWltZy9zdGF0aWMvbWVkaWEvOGMvOWIvOGM5YjA1NDlkOTM5YmNmNzU0ZGJhYzFhNDdhY2I0ZDcuanBn",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_18_21/06/18/11/6VD2N7W3/6ZAU44T5.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Звонок",
+         "titleFooter": "Звонок 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Звонок 2 (2005){col}{br}Казалось бы, все кончено: Рейчел вместе со своим сыном переезжает в новый дом в штате Орегон. Они готовы сделать все, лишь бы забыть кошмар минувших дней. Но их счастливой новой жизни начаться было не суждено. ",
+               "image": "https://cs13.pikabu.ru/post_img/2019/09/12/4/og_og_156826732823703821.jpg"
+            }
+         },
+         "image": "https://cs13.pikabu.ru/post_img/2019/09/12/4/og_og_156826732823703821.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_14_19/01/14/20/j9ByUaV7/1080_CfIVhKNF.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Звонок",
+         "titleFooter": "Звонки",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Звонки (2016){col}{br}Молодой человек увлеченно исследует мрачную субкультуру, связанную с таинственной видеокассетой, через 7 дней после просмотра которой гибнет всякий увидевший запись. Однако его девушка уверена, что бойфренду грозит опасность, и чтобы спасти его, она решает принять удар на себя…",
+               "image": "https://i.ytimg.com/vi/jPlZ7Fk0ak8/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/jPlZ7Fk0ak8/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_21_21/01/21/22/6A5KKGJX/7BFWHHZ2.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      }
+   ]
+}
