@@ -1,0 +1,126 @@
+{
+   "type": "list",
+   "headline": "АСТЕРИКС И ОБЕЛИКС",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Астерикс и Обеликс",
+         "titleFooter": "Астерикс и Обеликс против Цезаря",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Астерикс и Обеликс против Цезаря{col}{br}В 50-м году до нашей эры римский император Юлий Цезарь покорил Галлию. Только жители одной маленькой деревеньки отказались платить налоги римлянам, ведь у них есть волшебный напиток, с помощью которого они с лёгкостью могут дать отпор римским легионам. А однажды неразлучные друзья Астерикс и Обеликс и вовсе бросают вызов самому Цезарю.",
+               "image": "https://img.moviesrankings.com/t/p/w1280/pyLduHyz7ruI2QS1JQhNGy4CVAg.jpg"
+            }
+         },
+         "image": "https://img.moviesrankings.com/t/p/w1280/pyLduHyz7ruI2QS1JQhNGy4CVAg.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_31_23/01/31/14/NFDUZVWZ/6U6A7KLH.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Астерикс и Обеликс",
+         "titleFooter": " Миссия Клеопатра",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Астерикс и Обеликс: Миссия Клеопатра{col}{br}Царица Египта Клеопатра заключает пари с римским императором Юлием Цезарем о том, что её подданные смогут всего за три месяца построить для него грандиозный дворец. Великой чести руководить строительством удостоен архитектор Нумеробис, которого в случае неудачи бросят на растерзание крокодилам.Понимая, что в такие краткие сроки ему не уложиться, Нумеробис вызывает на помощь своего старого друга друида Панорамикса с зельем, дарующим сверхъестественную силу. А весёлые и находчивые друзья Астерикс и Обеликс сопровождают старца в Египет, чтобы помешать проискам Цезаря, не желающего проигрывать Клеопатре.",
+               "image": "https://resize.prod.femina.ladmedia.fr/rblr/1200,806/img/var/2023-06/asterix.jpg"
+            }
+         },
+         "image": "https://resize.prod.femina.ladmedia.fr/rblr/1200,806/img/var/2023-06/asterix.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_31_23/01/31/20/JMD7KIZJ/Y7DTNWMM.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Астерикс и Обеликс",
+         "titleFooter": "Астерикс на Олимпийских играх",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Астерикс на Олимпийских играх{col}{br}50 лет до Рождества Христова. Вся Галлия под властью Римской Империи. Но не стоит огорчаться: одна деревня продолжает героическое сопротивление. Ведь ее жители уверены в собственной непобедимости.Уже несколько месяцев сердце Полюбвикса бьется только ради греческой принцессы Ирины. Но, увы, он не единственный претендент на ее руку. Большая политика предназначила Ирину в жены Бруту, сыну Юлия Цезаря. Чтобы оттянуть нежеланный брак и дать шанс Полюбвиксу Ирина объявляет, что выйдет замуж за победителя Олимпийских Игр. Итак, Полюбвикс приступает к тренировкам под руководством тех, кто быстрее, выше, сильнее, и, разумеется, умнее всех — Астерикса и Обеликса. А хитрый Брут — к разработке коварного плана.",
+               "image": "https://api.start.ru/images/unsafe/filters:quality(70)/908891375e4045c198e5e14cf46d5ee9/images-horizontal_poster_1x"
+            }
+         },
+         "image": "https://api.start.ru/images/unsafe/filters:quality(70)/908891375e4045c198e5e14cf46d5ee9/images-horizontal_poster_1x",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_31_23/01/31/13/6SSIIGWY/5SJXDORF.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Астерикс и Обеликс",
+         "titleFooter": "Астерикс и Обеликс в Британии",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Астерикс и Обеликс в Британии{col}{br}Пятидесятый год до нашей эры. Юлий Цезарь рвется к новым завоеваниям. Во главе своих прославленных легионов он собирается захватить остров, который находится на самом краю света – таинственную страну, именуемую Британией.Войско Цезаря одерживает быструю и безоговорочную победу. Ну… почти безоговорочную: одна крошечная деревушка продолжает яростно обороняться, однако силы на исходе, и королева бриттов Корделия отправляет своего самого надежного офицера Красовакса за подмогой в Галлию, где находится такая же маленькая деревушка, известная своим упорным сопротивлением римлянам.Между тем, у Астерикса с Обеликсом и так забот хватает. Вождь поручил им сделать настоящего мужчину из Гадорикса, своего надоедливого племянника, недавно приехавшего из Лютеции, а выполнить это крайне непросто. Когда к галлам приезжает Красовакс, те снабжают его бочонком своего знаменитого волшебного зелья, а Астерикс и Обеликс отправляются вместе с ним в Британию. Гадорикса они тоже берут с собой, ведь путешествие – отличный способ пополнить образование молодого человека.Но, к сожалению, все идет не так, как задумывалось…",
+               "image": "https://pic.uma.media/pic/cardimage/71/91/7191cdad33b8de9adefa344cec581458.jpg"
+            }
+         },
+         "image": "https://pic.uma.media/pic/cardimage/71/91/7191cdad33b8de9adefa344cec581458.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/01_31_23/01/31/15/EHV2DPM5/REFFKAR7.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Астерикс и Обеликс",
+         "titleFooter": "Астерикс и Обеликс: Поднебесная",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Астерикс и Обеликс: Поднебесная{col}{br}50 год до нашей эры. В Китае происходит переворот, из-за чего принцесса Сюан-ди, единственная дочь императора, бежит в Галлию, где просит Астерикса и Обеликса помочь освободить её страну. Они отправляются в Китай, не подозревая, что туда же движется Юлий Цезарь.",
+               "image": "https://i.ytimg.com/vi/4w7DFUjBcm4/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/4w7DFUjBcm4/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/05_06_23/05/06/18/VWZCTL4B/ZIGJXIRF.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      }
+   ]
+}

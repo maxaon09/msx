@@ -1,0 +1,75 @@
+{
+   "type": "list",
+   "headline": "ПРОЕКТ А",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Проект А",
+         "titleFooter": "Проект А",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Проект А{col}{br}Гонконг начала XX века. На китайском море свирепствуют пираты под предводительством зловещего босса Ло. Все надежды правительство возлагает на план борьбы с пиратами под кодовым названием «Проект А». Но Ло всегда на шаг опережает власти, подрывает их корабли, и проект оказывается под угрозой срыва. Его выполнение берут на себя борец береговой охраны по кличке Дракон и его товарищи.",
+               "image": "https://avatars.dzeninfra.ru/get-zen_doc/1328583/pub_62cadb4a80b31a6a9966916d_62caf628b155126753bfc67f/scale_1200"
+            }
+         },
+         "image": "https://avatars.dzeninfra.ru/get-zen_doc/1328583/pub_62cadb4a80b31a6a9966916d_62caf628b155126753bfc67f/scale_1200",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/05_18_20/05/18/16/XFWK5H66/Y76G3DAZ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Проект А",
+         "titleFooter": "Проект А: Часть 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Проект А: Часть 2{col}{br}Отважный Дракон Ма, прославившийся благодаря уничтожению пиратской шайки Ло Сэм По, получает новое назначение — его делают начальником округа. Основная причина этого назначения состоит в том, что власти сомневаются в чистоплотности его предшественника Чуна. В результате мастерски выполненной подставы Дракона арестовывают, но он не прекращает попыток разоблачить Чуна...",
+               "image": "https://i.ytimg.com/vi/ScP4UN603gk/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/ScP4UN603gk/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_15_20/07/15/03/KGZ5J5GZ/ZWWJCHNF.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      }
+   ]
+}

@@ -1,0 +1,75 @@
+{
+   "type": "list",
+   "headline": "Поезд в Пусан",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Поезд в Пусан",
+         "titleFooter": "Поезд в Пусан",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Поезд в Пусан{col}{br}У маленькой Су-ан день рождения. Девочка живет с отцом в Сеуле и очень хочет отправиться к маме в Пусан. По дороге случается непредвиденное, и на страну обрушивается загадочный вирус. Пассажирам поезда в Пусан — единственного города, отразившего атаки вируса — придется бороться за выживание. 442 километра в пути. Добро пожаловать на борт и помните — в этой гонке недостаточно выжить, чтобы остаться человеком.",
+               "image": "https://api.start.ru/images/unsafe/filters:quality(70)/6d559b78f22e461e8977214f61abf5fd/images-horizontal_poster_1x"
+            }
+         },
+         "image": "https://api.start.ru/images/unsafe/filters:quality(70)/6d559b78f22e461e8977214f61abf5fd/images-horizontal_poster_1x",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_03_20/07/03/17/7WO3F4QU/PISRRSAX.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Поезд в Пусан",
+         "titleFooter": "Поезд в Пусан 2: Полуостров",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Поезд в Пусан 2: Полуостров{col}{br}Через четыре года после вспышки страшного вируса, распространение которого Южная Корея сдержать не смогла, то, что осталось от страны, находится в блокаде, а полчища зомби разгуливают по всему полуострову. Бывший военный Хан Джон-сок, в своё время сумевший эвакуироваться, в составе небольшого отряда отправляется из Гонконга в закрытую зону, чтобы отыскать грузовик с деньгами. Ему предстоит пробираться по жуткому миру, где помимо означенной угрозы опасность представляют и люди, устраивающие жестокие игры на выживание.",
+               "image": "https://thumbs.dfs.ivi.ru/storage37/contents/7/b/3f27b93472a27b1f05b2abcfc173bc.jpg/400x226/"
+            }
+         },
+         "image": "https://thumbs.dfs.ivi.ru/storage37/contents/7/b/3f27b93472a27b1f05b2abcfc173bc.jpg/400x226/",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_17_21/05/17/12/MGIWXSFT/7K3NM7RU.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      }
+   ]
+}

@@ -1,0 +1,449 @@
+{
+   "type": "list",
+   "headline": "АГЕНТ 007",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Агент 007",
+         "titleFooter": "Доктор Ноу",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Доктор Ноу (1962){col}{br}Бонду дано задание выяснить что является источником электронных помех в компьютерах американских пусковых шахт на мысе Канаверал. По агентурным данным мозговой центр вражеских сил находится на Ямайке. Бонд незамедлительно выдвигается туда.",
+               "image": "https://pic.rutubelist.ru/video/ef/87/ef8702a423e30aef2fe09fc91550ffc3.jpg"
+            }
+         },
+         "image": "https://pic.rutubelist.ru/video/ef/87/ef8702a423e30aef2fe09fc91550ffc3.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_19_20/10/19/17/4NKW7474/NFM7FMRZ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент 007",
+         "titleFooter": "Из России с любовью",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Из России с любовью (1963){col}{br}Второе задание для Джеймса Бонда - это спасти и вывезти из Стамбула русского агента, красавицу владеющую тайной сверхсекретного шифровального аппарата Лектор, а также сам аппарат. ",
+               "image": "https://img.moviesrankings.com/t/p/w1280/q4zeOCaMhIHLAV2OGmZWEdONFj7.jpg"
+            }
+         },
+         "image": "https://img.moviesrankings.com/t/p/w1280/q4zeOCaMhIHLAV2OGmZWEdONFj7.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_01_20/10/01/23/Z4YP6GDC/TU7DJVZQ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент 007",
+         "titleFooter": "Голдфингер",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Голдфингер (1964){col}{br}На этот раз Джеймс Бонд борется со злом в лице международного преступника Голдфингера. Негодяй планирует уничтожить золотой запас США, и таким образом ввергнуть в пучину хаоса все капиталистическое общество.",
+               "image": "https://miro.medium.com/v2/resize:fit:1200/1*6EobDuQ2SLtEcLSYkJ9xMA.jpeg"
+            }
+         },
+         "image": "https://miro.medium.com/v2/resize:fit:1200/1*6EobDuQ2SLtEcLSYkJ9xMA.jpeg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_18_21/05/18/15/KTYWHVW3/7ODRVTCK.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент 007",
+         "titleFooter": "Шаровая молния",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Шаровая молния (1965){col}{br}Террористы из организации «Спектр» захватывают бомбардировщик с двумя атомными бомбами на борту и угрожают взорвать их, если британское правительство не доставит им алмазов на 100 миллионов фунтов стерлингов.",
+               "image": "https://i.pinimg.com/originals/a6/7e/fd/a67efdb4820aaeb7e0e5d7d35dd8cec1.jpg"
+            }
+         },
+         "image": "https://i.pinimg.com/originals/a6/7e/fd/a67efdb4820aaeb7e0e5d7d35dd8cec1.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_29_20/09/29/01/5GWA3PMV/5TWBL2EE.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент 007",
+         "titleFooter": "Живешь только дважды",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Живешь только дважды (1967){col}{br}Коварство злодеев из международной преступной организации СПЕКТР не знает границ. На этот раз враги человечества пытаются поссорить самые могущественные государства мира и тем самым спровоцировать начало ядерной войны. До полного уничтожения жизни на Земле остаются считанные мгновения.",
+               "image": "https://static.digit.in/OTT/v2/images/you-only-live-twice-828283.jpg"
+            }
+         },
+         "image": "https://static.digit.in/OTT/v2/images/you-only-live-twice-828283.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/02_20_23/02/20/22/U2FSM3NS/DGIDMEAP.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент 007",
+         "titleFooter": "На секретной службе Её Величества",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}На секретной службе Её Величества (1969){col}{br}Возлюбленная Бонда попадает в лапы к негодяю и теперь одним махом Бонд может спасти человечество от вымирания, доказать девушке серьезность своих отношений и свести счеты с Блофельдом.",
+               "image": "https://i.ytimg.com/vi/C5M5jPrmFFg/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/C5M5jPrmFFg/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/22/CRMMF2GW/SG7T6U47.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент 007",
+         "titleFooter": "Живи и дай умереть",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Живи и дай умереть (1973){col}{br}Торговля наркотиками в США принимает угрожающие масштабы. Подрывается генофонд нации, от былой экономической мощи не остается и следа. Виной всему является таинственный наркобарон, король преступного мира Док. Кананга. Остановить злодея берется суперагент Джеймс Бонд. ",
+               "image": "https://vigiato.net/wp-content/uploads/2021/09/21-1024x576.jpg"
+            }
+         },
+         "image": "https://vigiato.net/wp-content/uploads/2021/09/21-1024x576.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/11_26_20/11/26/00/BWFLDYL5/P2QVYAMY.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент 007",
+         "titleFooter": "Человек с золотым пистолетом",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Человек с золотым пистолетом (1974){col}{br}Агент 007 получает задание найти и вернуть секретное оборудование, с помощью которого террористы смогут использовать солнечную энергию как мощнейшее оружие. Чтобы помешать Бонду выполнить задание, на него натравливают самого опасного и неуловимого наемного убийцу по имени Скараманга.",
+               "image": "https://i.ytimg.com/vi/T-bGRMlPOYc/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/T-bGRMlPOYc/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_01_20/10/01/22/GX4IYB7G/NW56DCK4.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент 007",
+         "titleFooter": "Шпион, который меня любил",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Шпион, который меня любил (1977){col}{br}Спасая мир от безумного злодея Стромберга, который разрабатывает план по уничтожению жизни на земле с помощью сверхмощного звука, Джеймс Бонд знакомится с очаровательной русской разведчицей. Вместе они вступают в неравную схватку с негодяем и его преданным слугой Джозом.",
+               "image": "https://i2.wp.com/www.newsfromthecouch.com/wp-content/uploads/2019/11/The-Spy-Who-Loved-Me.jpg?fit=1280%2C720&ssl=1"
+            }
+         },
+         "image": "https://i2.wp.com/www.newsfromthecouch.com/wp-content/uploads/2019/11/The-Spy-Who-Loved-Me.jpg?fit=1280%2C720&ssl=1",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_19_20/06/19/19/LGDYHIRI/EHLDGV3L.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент 007",
+         "titleFooter": "Лунный гонщик",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Лунный гонщик (1979){col}{br}За маской добропорядочного американского миллиардера Дракса скрывается сумасшедший учёный. Он вынашивает безумный план: устроить на Земле апокалипсис. Чтобы помешать планам Дракса, Бонду приходится побывать в Калифорнии, Бразилии, джунглях Амазонки и, в конце концов, даже отправиться в космос.",
+               "image": "https://s2.dmcdn.net/v/MxMSR1QMCvdGHcGK7/x1080"
+            }
+         },
+"image": "https://s2.dmcdn.net/v/MxMSR1QMCvdGHcGK7/x1080",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_19_20/06/19/19/MVJ3XVEB/AECZELH5.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент 007",
+         "titleFooter": "Только для твоих глаз",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Только для твоих глаз (1981){col}{br}Агенту 007 предстоит гонка с русскими коллегами. Дело в том, что Британские военные умудрились утопить в Ионическом море абсолютно секретное оборудование. Если аппаратура попадет в руки советским разведчикам, это может привести к ужасающим для Великобритании и всего мира последствиям.",
+               "image": "https://pbs.twimg.com/media/FW2oAZsVsAAuoYp?format=jpg&name=medium"
+            }
+         },
+         "image": "https://pbs.twimg.com/media/FW2oAZsVsAAuoYp?format=jpg&name=medium",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_19_20/06/19/19/2BCRLCVW/TQFCV3WS.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент 007",
+         "titleFooter": "Осьминожка",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Осьминожка (1983){col}{br}При таинственных обстоятельствах погибает коллега Джеймса Бонда агент 009. Чтобы разобраться в этом преступлении Бонду предстоит прокатиться в Индию, где он встречается с роковой женщиной, умопомрачительной красоткой по прозвищу Осьминожка.",
+               "image": "https://geekblog.com.br/wp-content/uploads/2020/05/maxresdefault-1024x576.jpg"
+            }
+         },
+         "image": "https://geekblog.com.br/wp-content/uploads/2020/05/maxresdefault-1024x576.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_29_20/09/29/02/XDKGBK4X/VMONE37O.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент 007",
+         "titleFooter": "Вид на убийство",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Вид на убийство (1985){col}{br}На этот раз агент 007 сражается сразу с двумя негодяями, одного из которых зовут Макс Зорин, и он — продукт генетических испытаний нацистов. Макс задумал уничтожить Кремниевую долину, центр научно-технических исследований США.",
+               "image": "https://ww.elmstba.com/wp-content/uploads/A-View-to-a-Kill-1985.jpg"
+            }
+         },
+         "image": "https://ww.elmstba.com/wp-content/uploads/A-View-to-a-Kill-1985.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_01_20/10/01/19/XIB37SC5/XMAOZ6NO.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент 007",
+         "titleFooter": "Искры из глаз",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Искры из глаз (1987){col}{br}Продажный советский генерал Косков хочет устроить войну между КГБ и MI-6 и поссорить две страны. Джеймсу Бонду предстоит докопаться до истины, понять, кто лжет, и остановить злодея.",
+               "image": "https://geekblog.com.br/wp-content/uploads/2020/05/maxresdefault-1.jpg"
+            }
+         },
+         "image": "https://geekblog.com.br/wp-content/uploads/2020/05/maxresdefault-1.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_01_20/10/01/21/J3QQ354D/OZ27CSUY.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент 007",
+         "titleFooter": "Лицензия на убийство",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Лицензия на убийство (1989){col}{br}Не успев как следует насладиться прелестями семейной жизни, молодожён, агент ЦРУ и старый друг Джеймса Бонда Феликс на собственной шкуре познаёт жестокость колумбийской наркомафии. Его красавицу-жену убивают, а его самого кидают на съедение акулам.",
+               "image": "https://mixnews.lv/wp-content/uploads/2021/11/26/2021-11-26-mixnews-licence-to-kill-1989.jpg"
+            }
+         },
+         "image": "https://mixnews.lv/wp-content/uploads/2021/11/26/2021-11-26-mixnews-licence-to-kill-1989.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/23/FSBQR535/7GAHVSRQ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент 007",
+         "titleFooter": "Золотой глаз",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Золотой глаз (1995){col}{br}Джеймс Бонд отправляется в Россию на поиски террористов, захвативших управление новым секретным оружейным комплексом «Золотой глаз». В руках негодяев это оружие превращается в мощнейший инструмент давления на правительства развитых государств.",
+               "image": "https://image.tmdb.org/t/p/original/ruFyPcUT9X1AfRoCInL71VAThPK.jpg"
+            }
+         },
+         "image": "https://image.tmdb.org/t/p/original/ruFyPcUT9X1AfRoCInL71VAThPK.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/01/IGYCVRV5/IAAXQK5X.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент 007",
+         "titleFooter": "Завтра не умрет никогда",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Завтра не умрет никогда (1997){col}{br}Медиамагнат Элиот Карвер, один из самых влиятельных и богатых людей планеты. Он хочет присоединить Китай к своей глобальной телекоммуникационной империи. Китай как всегда не спешит с решением, и это выводит Карвера из равновесия. Для достижения своих целей он не остановится ни перед чем.",
+               "image": "https://img.moviesrankings.com/t/p/w1280/rhFgtBBdqiZQAwyJWPKbfuolwyk.jpg"
+            }
+         },
+         "image": "https://img.moviesrankings.com/t/p/w1280/rhFgtBBdqiZQAwyJWPKbfuolwyk.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/12_11_20/12/11/22/5NRJSTBO/LI6NYF4C.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент 007",
+         "titleFooter": "И целого мира мало",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}И целого мира мало (1999){col}{br}Когда Ренард изобретает хитроумную схему, позволяющую взять под контроль все нефтяные ресурсы планеты, Агент 007 становится последней надеждой человечества. Миссия сулит ему как опасности, так и удовольствия — в лице знойной «нефтяной принцессы» и неотразимой ученой.",
+               "image": "https://maximumwallhd.com/wp-content/uploads/2015/08/fonds-ecran-james-bond-19-the-world-is-not-enough-9.jpg"
+            }
+         },
+"image": "https://maximumwallhd.com/wp-content/uploads/2015/08/fonds-ecran-james-bond-19-the-world-is-not-enough-9.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/01/ESA7OYRZ/GE5FEJSE.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент 007",
+         "titleFooter": "Умри, но не сейчас",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Умри, но не сейчас (2002){col}{br}На этот раз Джеймс Бонд в глубокой конспирации проводит операцию в Северной Корее. Однако его разоблачают, после чего Бонд оказывается за решеткой. Сумев выбраться из плена только через несколько месяцев 007 возвращается к своей привычной жизни, однако вскоре ему вновь приходится вступить в противоборство со своими корейскими «друзьями»",
+               "image": "https://i.pinimg.com/originals/17/e2/26/17e22687c23b0d3c059d9a6fde4015f6.jpg"
+            }
+         },
+         "image": "https://i.pinimg.com/originals/17/e2/26/17e22687c23b0d3c059d9a6fde4015f6.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_01_20/10/01/22/QZ4LJZI6/C6M6R7HO.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент 007",
+         "titleFooter": "Казино Рояль",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Казино Рояль (2006){col}{br}Используя богатый шпионский арсенал, Джеймс Бонд вступает в поединок с финансовым гением преступного мира Ле Шиффром. Но генеральное сражение против него можно выиграть лишь силой ума, и не на поле боя, а на зеленом сукне казино «Рояль».",
+               "image": "https://www.legendarytrips.com/wp-content/uploads/Casino_Royale_filming_locations1.webp"
+            }
+         },
+         "image": "https://www.legendarytrips.com/wp-content/uploads/Casino_Royale_filming_locations1.webp",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_28_20/09/28/20/FRUK6A5Z/AR2NKN3M.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент 007",
+         "titleFooter": "Квант милосердия",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Квант милосердия (2008){col}{br}После предательства Веспер агент 007 борется с желанием превратить последнее задание в личную вендетту. В поисках истины Бонд и М допрашивают мистера Уайта, от которого узнают, что шантажировавшая Веспер организация намного сложнее и опаснее, чем можно было подумать.",
+               "image": "https://pbs.twimg.com/media/EX8PfHHWAAAZ9-e.jpg:large"
+            }
+         },
+         "image": "https://pbs.twimg.com/media/EX8PfHHWAAAZ9-e.jpg:large",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/12_16_22/12/16/19/V62SVVJW/2BUPEXCM.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент 007",
+         "titleFooter": "Координаты «Скайфолл»",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Координаты «Скайфолл» (2012){col}{br}Преданность Бонда своей начальнице М оказывается под угрозой, когда всплывают неприятные тайны её прошлого. MI6 подвергается нападению, и агент 007 должен ликвидировать угрозу любой ценой.",
+               "image": "https://www.desktopbackground.org/download/1366x768/2014/10/16/840794_hot-james-bond-skyfall-wallpapers-movie-wallpapers-free-hd_1400x1050_h.jpg"
+            }
+         },
+         "image": "https://www.desktopbackground.org/download/1366x768/2014/10/16/840794_hot-james-bond-skyfall-wallpapers-movie-wallpapers-free-hd_1400x1050_h.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_27_23/01/27/18/JFTM27Y5/M7OQL77D.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент 007",
+         "titleFooter": "СПЕКТР",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}СПЕКТР (2015){col}{br}Зашифрованное послание из неизвестного источника выводит Бонда на след зловещей глобальной организации под кодовым названием СПЕКТР, в то время как М пытается спасти секретную разведывательную службу от ликвидации.",
+               "image": "https://elle.ua/i/photos/1000_1000/31307-3093-31307.jpeg"
+            }
+         },
+         "image": "https://elle.ua/i/photos/1000_1000/31307-3093-31307.jpeg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_26_23/01/26/20/HHIOGO4K/PPJL74KW.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент 007",
+         "titleFooter": "Не время умирать",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Не время умирать (2020){col}{br}Миссия по спасению похищенного ученого оказывается опаснее, чем предполагалось изначально. Бонд попадает в ловушку таинственного злодея, вооруженного опасным биологическим оружием...",
+               "image": "https://s1.dmcdn.net/v/RjRLy1Tw0wBJTGrLO/x1080"
+            }
+         },
+         "image": "https://s1.dmcdn.net/v/RjRLy1Tw0wBJTGrLO/x1080",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_12_23/01/12/15/ILGPKMMK/QXQI5F7I.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}

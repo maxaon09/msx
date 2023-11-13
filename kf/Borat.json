@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "БОРАТ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Борат",
+         "titleFooter": "Борат",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Борат{col}{br}Телеведущий из Казахстана Борат отправляется в США, чтобы сделать репортаж об этой «величайшей в мире стране». Однако по прибытии оказалось, что главная цель его визита — поиски Памелы Андерсон с целью жениться на ней, а вовсе не съемки документального фильма.",
+               "image": "https://wallpapers.com/images/hd/sacha-baron-cohen-borat-movie-poster-k1dcnx3431uwpbrd.jpg"
+            }
+         },
+         "image": "https://wallpapers.com/images/hd/sacha-baron-cohen-borat-movie-poster-k1dcnx3431uwpbrd.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/10_19_20/10/19/15/5EUVN7DL/NGE4POCQ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Борат",
+         "titleFooter": "Борат 2 ",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Борат 2 {col}{br}По мнению президента Казахстана 14 лет назад журналист Борат Сагдиев опозорил родину на весь мир, поэтому его сослали на рудники, а из продюсера Азамата сделали кожаное кресло. Теперь президент больше обеспокоен тем, что влиятельные державы не воспринимают его страну всерьёз. И вот Борату выдаётся новое задание: отправиться в Америку и подарить вице-президенту Майку Пенсу обезьяну Джонни — министра культуры Казахстана и порно-звезду № 1. Но по прибытии в ящике вместо обезьяны Борат обнаруживает собственную 15-летнюю дочь Тутар. И решает сделать подарком её.",
+               "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2020/09/Borat-2-Header.jpg"
+            }
+         },
+         "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2020/09/Borat-2-Header.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_23_22/09/23/17/53QGCUVS/WPUPGMMT.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Борат",
+         "titleFooter": "Диктатор (Бонус) ",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Диктатор (Бонус) {col}{br}Героическая история диктатора, который рискует своей жизнью, чтобы ни в коем случае не допустить демократию в свою столь любовно угнетаемую страну.",
+               "image": "https://kartinki.pics/uploads/posts/2022-12/thumbs/1670426620_29-kartinkin-net-p-diktator-kartinki-oboi-30.jpg"
+            }
+         },
+         "image": "https://img.rl0.ru/afisha/375x210q85i/s.afisha.ru/mediastorage/f2/45/1b07a48dc55c494e9391e4cc45f2.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_02_20/06/02/16/CJM2YAB3/PPAZOVFL.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      }
+   ]
+}

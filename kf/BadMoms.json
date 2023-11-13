@@ -1,0 +1,75 @@
+{
+   "type": "list",
+   "headline": "Очень плохие мамочки",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Очень плохие мамочки",
+         "titleFooter": "Очень плохие мамочки",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Очень плохие мамочки{col}{br}Идеальная мать, прекрасная жена, хорошая домохозяйка с успешной карьерой… Но стоит немного расслабиться, как тебе сразу напоминают о твоих обязанностях. Почему только мужчины имеют право развлекаться? Сколько же можно это терпеть?! Пора команде отчаянных мамочек пуститься во все тяжкие.",
+               "image": "https://i.ytimg.com/vi/aaruGLUGvrI/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/aaruGLUGvrI/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/23/HV4K3M3S/AWQXMKXC.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Очень плохие мамочки",
+         "titleFooter": "Очень плохие мамочки 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Очень плохие мамочки 2{col}{br}Идеальных во всех отношениях женщин — прекрасных жён, матерей, домохозяек и карьеристок, позволявших себе немного уйти в отрыв, — неожиданно на Рождество навещают их респектабельные мамочки.",
+               "image": "https://img.moviesrankings.com/t/p/w1280/zarEEqq3s6GbmtPGpuAGq00S5hV.jpg"
+            }
+         },
+         "image": "https://img.moviesrankings.com/t/p/w1280/zarEEqq3s6GbmtPGpuAGq00S5hV.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/11_29_22/11/29/12/TUQGLYHM/MAYEOBAV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      }
+   ]
+}
