@@ -1,0 +1,76 @@
+{
+   "type": "list",
+   "headline": "ХИТМЭН",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Хитмэн",
+         "titleFooter": "Хитмэн",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Хитмэн{col}{br}Хитмэн был обучен, как высоко профессиональный убийца, чье самое мощное оружие — это хладнокровие и безмерная гордость за свою работу. 47 — это две последние цифры на штрихкоде, вытатуированном на его затылке, а также его единственное имя.Но охотник становится добычей, когда 47-й оказывается втянутым в политические интриги. Интерпол и русские военные начинают охоту на киллера по всей восточной Европе, в то время как он сам пытается понять, кто его подставил и почему они пытаются вывести его из игры. Но самую большую угрозу для 47-го представляет волнение его совести и незнакомые эмоции, пробудившиеся в нем после встречи с прекрасной девушкой…",
+               "image": "https://m.media-amazon.com/images/S/pv-target-images/5df4d8965927b74feb79e8a8bf7128f65e92f5cfa2dd580c8210b2aa5a86ffbf._UR1920,1080_.jpg"
+            }
+         },
+         "image": "https://m.media-amazon.com/images/S/pv-target-images/5df4d8965927b74feb79e8a8bf7128f65e92f5cfa2dd580c8210b2aa5a86ffbf._UR1920,1080_.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_07_20/07/07/21/K2ZP3SSB/W7SHVAO2.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Хитмэн",
+         "titleFooter": "Хитмэн: Агент 47 ",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Хитмэн: Агент 47 {col}{br}История об элитном убийце, созданном при помощи генной инженерии, который объединяется с женщиной, чтобы помочь ей найти отца и раскрыть тайну своего происхождения.",
+               "image": "https://media.comicbook.com/uploads1/2015/06/hitmanagent47-141946.png"
+            }
+         },
+         "image": "https://media.comicbook.com/uploads1/2015/06/hitmanagent47-141946.png",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_06_20/07/06/11/DBAYBOYM/NWKHGXEE.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      }
+      
+   ]
+}

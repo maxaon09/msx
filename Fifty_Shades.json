@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "ПЯТЬДЕСЯТ ОТТЕНКОВ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Пятьдесят оттенков",
+         "titleFooter": "Пятьдесят оттенков серого",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Пятьдесят оттенков серого{col}{br}Анастейша Стил — скромная студентка, живущая вместе с близкой подругой-сокурсницей Кейт. За неделю до выпускного в университете Анастейша, по просьбе заболевшей Кейт заменить её, берёт интервью у молодого красавца-миллиардера Кристиана Грея. Интервью складывается не очень удачно, и Анастейша не думает, что они когда-либо встретятся вновь. Неожиданно Грей появляется в хозяйственном магазине, где девушка работает продавцом. Их знакомство продолжается, и Анастейша постепенно узнаёт о тайных сексуальных увлечениях богача.",
+               "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/e2bfbd41-648a-4dda-a777-9cea0db9748e/orig"
+            }
+         },
+         "image": "https://img08.rl0.ru/afisha/375x210q85i/s4.afisha.ru/mediastorage/45/32/6a653abef2cf48038d70d0323245.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/04_20_23/04/20/14/VOFQK7RS/ZCDW2C5I.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Пятьдесят оттенков",
+         "titleFooter": "На пятьдесят оттенков темнее",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}На пятьдесят оттенков темнее{col}{br}Пока Кристиан Грей борется со своими внутренними демонами, Анастейша Стил вынуждена противостоять гневу и зависти тех женщин, что были с Кристианом до нее.",
+               "image": "https://thumbs.dfs.ivi.ru/storage38/contents/1/9/05bd4e0f1e2163ed0b46432a03c9e9.jpg/858x483//?q=85"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/LBWB89aVsGE/mqdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_19_23/01/19/19/MC6DFXKM/JL2C4H7V.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Пятьдесят оттенков",
+         "titleFooter": "Пятьдесят оттенков свободы",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Пятьдесят оттенков свободы{col}{br}Кристиан и Анастейша поженились и живут в своё удовольствие, наслаждаясь обществом друг друга. Однако жизнь новоиспечённой миссис Грей находится в опасности, поскольку объявляется недруг, который собирается мстить, используя свою богатую фантазию. Призраки прошлого Кристиана вновь вернулись, а тучи над супругами сгущаются всё сильнее.",
+               "image": "https://avatars.dzeninfra.ru/get-zen_doc/135437/pub_5a7dd2aa55876b0d05f1bc8c_5a7dda053dceb721f5447411/scale_1200"
+            }
+         },
+         "image": "https://oxvo.ru/wp-content/uploads/2017/06/Fifty-Shades-Freed-2018.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_19_23/01/19/17/JYRGMJHE/E3AFAYVR.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}

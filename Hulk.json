@@ -1,0 +1,75 @@
+{
+   "type": "list",
+   "headline": "Халк",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Халк",
+         "titleFooter": "Халк",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Халк{col}{br}Доктор Брюс Бэннер (ученый, работающий над изобретением новой бомбы) подвергся воздействию гамма-лучей и превратился в Халка - существо невероятной физической силы, которое в состоянии ярости становится огромным зеленым монстром.Его преследуют военные под предводительством генерала Росса, ему приходится бежать через всю страну. В конце концов, у него возникает любовная история с генеральской дочкой Бетти...",
+               "image": "https://w.forfun.com/fetch/79/79e48c6feeb6324914e58cf84439806b.jpeg"
+            }
+         },
+         "image": "https://w.forfun.com/fetch/79/79e48c6feeb6324914e58cf84439806b.jpeg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/06_30_20/06/30/04/IO3E452J/DDAAENYL.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Халк",
+         "titleFooter": "Невероятный Халк",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Невероятный Халк{col}{br}История доктора Брюса Баннера, который ищет лекарство от своего необычного «заболевания», превращающего его во время эмоционального стресса в гигантского зеленого монстра Халка. Находясь в бегах от армии, стремящейся его захватить, Брюс почти находит лекарство, но все старания идут прахом, когда у Халка вдруг появляется новый, невероятно сильный противник.",
+               "image": "https://i.ytimg.com/vi/idK2iIwdIWA/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/idK2iIwdIWA/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_25_22/10/25/10/VQEJLX4T/ELKMOZA5.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      }
+   ]
+}

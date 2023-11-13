@@ -1,0 +1,75 @@
+{
+   "type": "list",
+   "headline": "ВЕЛИКИЙ УРАВНИТЕЛЬ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Великий уравнитель",
+         "titleFooter": "Великий уравнитель",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Великий уравнитель (2014){col}{br}Маккол прекращает свою добровольную отставку и начинает самостоятельные поиски правосудия. Все, кто страдает от криминальных авторитетов, коррумпированных чиновников и не может найти помощи у государства, находят помощь в лице Маккола. Он поможет. Потому что он — великий уравнитель.",
+               "image": "https://7wallpapers.net/wp-content/uploads/6_The-Equalizer.jpg"
+            }
+         },
+         "image": "https://7wallpapers.net/wp-content/uploads/6_The-Equalizer.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_08_20/07/08/16/N6656CPU/PGD5AKC7.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Великий уравнитель",
+         "titleFooter": "Великий уравнитель 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Великий уравнитель 2 (2018){col}{br}Роберт Маккол продолжает помогать хорошим, по его мнению, людям и наказывать плохих. ЦРУ считает его погибшим, и только старый друг и бывшая коллега Сьюзан знает его тайну. Когда на очередном задании в Брюсселе Сьюзан убивают, пытаясь замаскировать это под ограбление, Маккол решает разобраться и отомстить всем причастным.",
+               "image": "https://i.ytimg.com/vi/W8xgZMUoHNU/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/W8xgZMUoHNU/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/03_09_22/03/09/12/XLWZV7MK/UYTUEWPF.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      }
+   ]
+}

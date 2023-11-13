@@ -1,0 +1,109 @@
+{
+   "type": "list",
+   "headline": "Лига Справедливости",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Лига Справедливости",
+         "titleFooter": "Человек из стали ",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Человек из стали  {col}{br}Кларк Кент (Кал-Эл) - молодой человек, который чувствует себя чужаком из-за своей невероятной силы. Много лет назад он был отправлен на Землю с развитой планеты Криптон, и теперь задается вопросом: зачем?Воспитанный приемными родителями Мартой и Джонатаном Кентами, Кларк знает: обладать сверхспособностями - значит принимать сложные решения. Но когда человечество более всего нуждается в стабильности, оно подвергается нападению. Сможет ли герой восстановить мир или воспользуется своей силой для того, чтобы окончательно его разрушить?",
+               "image": "https://10wallpaper.com/wallpaper/1280x800/1207/Superman-Man_Of_Steel_2013_Movie_HD_Wallpaper_02_1280x800.jpg"
+            }
+         },
+         "image": "https://10wallpaper.com/wallpaper/1280x800/1207/Superman-Man_Of_Steel_2013_Movie_HD_Wallpaper_02_1280x800.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_18_23/01/18/14/JQE3L5I5/KJ2X6K4N.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Лига Справедливости",
+         "titleFooter": "Лига справедливости",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Лига справедливости{col}{br}Вдохновившись самопожертвованием Супермена, Брюс Уэйн вновь обретает веру в человечество. Он заручается поддержкой новой союзницы Дианы Принс, чтобы сразиться с еще более могущественным противником. Бэтмен и Чудо-Женщина быстро набирают команду сверхлюдей для борьбы с пробудившейся угрозой. Но, несмотря на уникальный состав отряда супергероев — Бэтмен, Чудо-Женщина, Аквамен, Киборг и Флэш — быть может, спасать планету от вторжения катастрофических масштабов уже слишком поздно.",
+               "image": "https://s5.afisha.ru/mediastorage/d1/60/fde7224193fb4667b6d47d2f60d1.jpg"
+            }
+         },
+         "image": "https://s5.afisha.ru/mediastorage/d1/60/fde7224193fb4667b6d47d2f60d1.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/11_26_20/11/26/15/S743MTFY/B232R7ML.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Лига Справедливости",
+         "titleFooter": "Лига справедливости Зака Снайдера",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Лига справедливости Зака Снайдера{col}{br}Вдохновившись самопожертвованием Супермена, Брюс Уэйн вновь обретает веру в человечество. Он заручается поддержкой новой союзницы Дианы Принс, чтобы сразиться с ещё более могущественным противником. Бэтмен и Чудо-женщина набирают команду сверхлюдей для борьбы с пробудившейся угрозой.",
+               "image": "https://gamemag.ru/images/cache/News/News155680/255f9bdac2-2_1390x600.jpg"
+            }
+         },
+         "image": "https://gamemag.ru/images/cache/News/News155680/255f9bdac2-2_1390x600.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/09_23_22/09/23/22/OB3EOLTX/6OQKCWUL.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Лига Справедливости",
+         "titleFooter": "Лига Справедливости: Мир войны ",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Лига Справедливости: Мир войны {col}{br}До сих пор Лига Справедливости представляла собой свободную ассоциацию сверхсильных личностей. Но когда их уносит в Мир войны, место бесконечных жестоких гладиаторских боев, Бэтмен, Супермен, Чудо-женщина и другие должны объединиться, чтобы привести всю планету к свободе.",
+               "image": "https://i.ytimg.com/vi/P2Hm28di9_g/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/P2Hm28di9_g/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/08_09_23/08/09/11/JIKXO6WA/RSNN6D7Z.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      }
+   ]
+}

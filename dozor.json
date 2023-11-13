@@ -1,0 +1,75 @@
+{
+   "type": "list",
+   "headline": "НОЧНОЙ ДОЗОР",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Ночной дозор",
+         "titleFooter": "Ночной дозор",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Ночной дозор (2004){col}{br}Ночью можно столкнуться с темными магами, вампирами и прочей нечистью. Но по следу «ночных охотников» идет Ночной Дозор. Его предназначение — сохранение равновесия между добром и злом, нарушение которого вызывает разрушения, войны, революции, вселенские катастрофы.",
+               "image": "https://i.ytimg.com/vi/wJsRNII2FPU/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/wJsRNII2FPU/maxresdefault.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/10_03_20/10/03/00/FIIZUAWL/7V5MFQYN.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Дневной дозор",
+         "titleFooter": "Дневной дозор",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Дневной дозор (2005){col}{br}Ночью в подъезде своего дома убита молодая женщина. Убитая — Тёмная иная, а значит подозрение падает на Светлых. Гессер срочно собирает команду: обвинение в убийстве — серьезная проблема. Он должен понять, кто где был и чем занимался в указанное Тёмными время. Выясняется, что алиби отсутствует только у Городецкого.",
+               "image": "https://рецензия-на-фильм.рф/wp-content/uploads/2023/06/Snimok-ekrana-2023-06-08-v-16.07.46-870x400.png"
+            }
+         },
+         "image": "https://рецензия-на-фильм.рф/wp-content/uploads/2023/06/Snimok-ekrana-2023-06-08-v-16.07.46-870x400.png",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/07_18_20/07/18/09/5DSXTVK2/W5XSZXKB.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}

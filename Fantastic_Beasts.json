@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "ФАНТАСТИЧЕСКИЕ ТВАРИ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Фантастические твари",
+         "titleFooter": "и где они обитают",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Фантастические твари и где они обитают{col}{br}Поиск и изучение необычайных волшебных существ приводят магозоолога Ньюта Саламандера в Нью-Йорк. Скорее всего, он отбыл бы на поезде дальше, если бы не немаг (так в Америке называют магглов) по имени Якоб, оставленный в неположенном месте магический чемодан и побег из него фантастических животных Ньюта.",
+               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkeaWIHZ7nQsyXjcJNFELTQDQ4vEKeR5wSXfG3bFSajrQwa3heIn4ZNKjeOFnuGiGON8&usqp=CAU"
+            }
+         },
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkeaWIHZ7nQsyXjcJNFELTQDQ4vEKeR5wSXfG3bFSajrQwa3heIn4ZNKjeOFnuGiGON8&usqp=CAU",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/11_17_20/11/17/18/NVWVK37K/4VER5ITD.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Фантастические твари",
+         "titleFooter": "Преступления Грин-де-Вальда",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Фантастические твари: Преступления Грин-де-Вальда{col}{br}Могущественный тёмный волшебник Геллерт Грин-де-Вальд пойман в Штатах, но не собирается молча сидеть в темнице и устраивает грандиозный побег. Теперь ничто не помешает ему добиться своей цели — установить превосходство волшебников над всеми немагическими существами на планете. Чтобы сорвать планы Грин-де-Вальда, Альбус Дамблдор обращается к своему бывшему студенту Ньюту Саламандеру, который соглашается помочь, не подозревая, какая опасность ему грозит. В раскалывающемся на части волшебном мире любовь и верность проверяются на прочность, а конфликт разделяет даже настоящих друзей и членов семей.",
+               "image": "https://www.invictory.org/articles/wp-content/uploads/sites/3/2018/11/youtu.be-6byC1vgwKNc-3.jpg"
+            }
+         },
+         "image": "https://www.invictory.org/articles/wp-content/uploads/sites/3/2018/11/youtu.be-6byC1vgwKNc-3.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_28_21/05/28/19/VRTSBFJE/4MODISPV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Фантастические твари",
+         "titleFooter": "Тайны Дамблдора",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Фантастические твари: Тайны Дамблдора{col}{br}Профессор Альбус Дамблдор узнаёт, что могущественный тёмный волшебник Геллерт Грин-де-Вальд планирует захватить власть над миром. Понимая, что не сможет остановить его в одиночку, Дамблдор просит магозоолога Ньюта Саламандера возглавить команду выдающихся волшебников и одного отважного магла-пекаря. Им предстоят невероятно опасные приключения, встреча со старыми и укрощение новых магических существ и борьба со сторонниками Грин-де-Вальда, которых становится всё больше.",
+               "image": "https://hpclub.ru/wp-content/uploads/2022/02/fb-poster-1-800x445.jpeg"
+            }
+         },
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuv6Mrigy2tWPmeKepZjAyYVCfpw6OEaiodI27bA17lhPmmlHXNZ38oiGjXZAsEsiXuuY&usqp=CAU",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_31_22/07/31/16/UOVY5EE5/TSQNGTX4.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}

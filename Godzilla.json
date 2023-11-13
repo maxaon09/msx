@@ -1,0 +1,109 @@
+{
+   "type": "list",
+   "headline": "ГОДЗИЛЛА",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Годзилла",
+         "titleFooter": "Годзилла",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Годзилла{col}{br}Человечество случайно разбудило гигантское древнее существо, что повлекло за собой ужасающие последствия.",
+               "image": "https://ntvb.tmsimg.com/assets/p10184809_v_h10_ab.jpg?w=1280&h=720"
+            }
+         },
+         "image": "https://ntvb.tmsimg.com/assets/p10184809_v_h10_ab.jpg?w=1280&h=720",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/05_06_21/05/06/06/Y6Q7FCML/WRTEBMFK.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Годзилла",
+         "titleFooter": "Конг: Остров черепа",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Конг: Остров черепа{col}{br}1973 год. На неизвестный остров в Тихом океане попадает команда ученых, военных и искателей приключений. Они вторгаются во владения могучего Конга и тем самым развязывают сражение между человеком и природой. Очень скоро исследовательская миссия превратится в игру на выживание, а её участники будут вынуждены буквально прорубать себе путь к спасению.",
+               "image": "https://news.store.rambler.ru/img/7a86af799e5b034ce8f4cd6dbd3c5b74?img-format=auto&img-1-resize=height:400,fit:max&img-2-filter=sharpen"
+            }
+         },
+         "image": "https://news.store.rambler.ru/img/7a86af799e5b034ce8f4cd6dbd3c5b74?img-format=auto&img-1-resize=height:400,fit:max&img-2-filter=sharpen",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/05_06_21/05/06/00/2NDRXI5Q/TKLN5624.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Годзилла",
+         "titleFooter": "Годзилла 2: Король монстров",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Годзилла 2: Король монстров{col}{br}История рассказывает о героических усилиях криптозоологического агентства «Монарх» по сдерживанию гигантских монстров. В этот раз против могучего Годзиллы выступают Родан и ультимативный кайдзю — трёхголовый монстр Кинг Гидора. Когда эти древние суперхищники, со временем превратившиеся в полузабытые мифы, восстают снова, чтобы сойтись в схватке, человечеству остаётся отойти в сторонку и постараться не погибнуть.",
+               "image": "https://mcswebsites.blob.core.windows.net/1011/Event_6297/landscape_xlarge/GodzillaKingOfMonsters_FCB_851x315_EE.jpg"
+            }
+         },
+         "image": "https://mcswebsites.blob.core.windows.net/1011/Event_6297/landscape_xlarge/GodzillaKingOfMonsters_FCB_851x315_EE.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/05_05_21/05/05/18/CRBE57RS/PMLVXTA4.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Годзилла",
+         "titleFooter": "Годзилла против Конга",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Годзилла против Конга{col}{br}Конг и группа ученых отправляются в опасное путешествие в поисках родного дома гиганта. Среди них девочка Джия, единственная, кто умеет общаться с Конгом. Неожиданно они сталкиваются с разъяренным Годзиллой, разрушающим все на своем пути. Битва двух титанов, спровоцированная неведомыми силами — лишь малая часть тайны, спрятанной в недрах Земли.",
+               "image": "https://radiosferamusic.com/wp-content/uploads/2022/01/14497982.jpg"
+            }
+         },
+         "image": "https://radiosferamusic.com/wp-content/uploads/2022/01/14497982.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/01_18_23/01/18/18/36UTXE6U/BOBMMA7X.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}

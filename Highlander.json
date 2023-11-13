@@ -1,0 +1,109 @@
+{
+   "type": "list",
+   "headline": "ГОРЕЦ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Горец",
+         "titleFooter": "Горец",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Горец (1986){col}{br}В 1536 году шотландец Коннор Маклауд был сражен в битве, но мистическим образом воскрес, и родной клан изгнал его. Сражение между Маклаудом и его вечным врагом Курганом, начавшееся в Шотландии XVI века, продолжается на современном Манхеттене. От исхода этой битвы зависит судьба всех смертных.",
+               "image": "https://image.film.at/images/cfs_1864w/5026596/iz3k081oPbRLMKVsjfukOppzEzR.jpg"
+            }
+         },
+         "image": "https://image.film.at/images/cfs_1864w/5026596/iz3k081oPbRLMKVsjfukOppzEzR.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_26_21/01/26/18/F5VEISPY/SEW2KDAV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Горец 2",
+         "titleFooter": "Оживление",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Горец 2: Оживление (1990){col}{br}Коннор Маклауд ведет жизнь простого смертного. Но когда Катана — правитель планеты Зейст, прародины всех бессмертных воинов — бросает вызов Горцу, Маклауд вновь обретает свою мистическую силу. Он оживляет своего учителя Рамиреса, и они вступают в решающее сражение ",
+               "image": "http://image.tmdb.org/t/p/original/e2Crxo9GLUXGmln47RcKfvhbzsg.jpg"
+            }
+         },
+         "image": "http://image.tmdb.org/t/p/original/e2Crxo9GLUXGmln47RcKfvhbzsg.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/12/Q6XEDNGZ/7W575DIX.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Горец 3",
+         "titleFooter": "Последнее измерение",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Горец 3: Последнее измерение (1994){col}{br}Бессмертный воин Коннор Маклауд вновь вызван на поединок, на этот раз своим самым могущественным врагом, Колдуном Кейном, заточенным под мистической горой в Японии 300 лет назад и достигшим невероятной магической силы.",
+               "image": "https://image.tmdb.org/t/p/original/2GXOngmv1e8uOK13v8rDwFFuNZa.jpg"
+            }
+         },
+         "image": "https://image.tmdb.org/t/p/original/2GXOngmv1e8uOK13v8rDwFFuNZa.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/02_05_20/02/05/01/5iVJEBIm/1080_7U8oT0B8.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Горец 4",
+         "titleFooter": "Конец игры",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Горец 4: Конец игры (2000){col}{br}Прошедшие сквозь пространство и время двое бессмертных: Коннор и Дункан Маклауды сталкиваются с общим врагом - Джейкобом Келлом, самым могущественным из оставшихся воинов. И теперь, когда впервые нарушены незыблемые правила, время подводит жестокий итог: в схватке бессмертных должен остаться только один!",
+               "image": "https://k.cima400.com/uploads/thumbs/08ae80ac8-1.jpg"
+            }
+         },
+         "image": "https://k.cima400.com/uploads/thumbs/08ae80ac8-1.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/02_03_20/02/03/19/dtSQvZJ3/1080_LnwAUREh.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}
