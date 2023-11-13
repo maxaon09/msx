@@ -1,0 +1,160 @@
+{
+   "type": "list",
+   "headline": "ЛЕПРЕКОН",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Лепрекон",
+         "titleFooter": "Лепрекон",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Лепрекон{col}{br}Мистер О`Грейди неожиданно приезжает из Ирландии богатым человеком. Его жена думает, что он просто пьян и не в своём уме, когда он заявляет, что украл золото у лепрекона, и сейчас они заживут по-новому. Правда, мистер О`Грейди не учёл маленькой детали: сам лепрекон каким-то образом приехал вместе с ним в чемодане и теперь одержим местью тому, кто позарился на его богатства.",
+               "image": "https://i.ytimg.com/vi/daU9Sk0mVwQ/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/daU9Sk0mVwQ/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_15_20/07/15/11/CGBGTPUD/YOG4NJXP.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Лепрекон",
+         "titleFooter": "Одна свадьба и много похорон",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Лепрекон 2: Одна свадьба и много похорон{col}{br}Время лечит раны, но не стирает обиды. Злой и кровожадный гном Лепрекон, хранитель подземных запасов золота, которого не берут ни пуля, ни огонь, ни яд, вновь выходит из подземелья и в поисках наследника своего заклятого врага продолжает смертельную жатву, уничтожая всех, кто покушается на принадлежащие ему, Лепрекону, сокровища.Пусть и прошла тысяча лет после нанесенной Лепрекону обиды - он ничего и никогда не прощает!.. К тому же он теперь одержим еще одной мечтой: Лепрекон хочет жениться, и в поисках невесты карлик-убийца не останавливается ни перед чем...",
+               "image": "https://i.ytimg.com/vi/yyAhYCLP2Ug/hqdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/yyAhYCLP2Ug/hqdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_27_20/06/27/21/JVILRQVG/FSL7YMVF.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Лепрекон",
+         "titleFooter": "Приключения в Лас-Вегасе",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Лепрекон 3: Приключения в Лас-Вегасе{col}{br}Город, который поклоняется золоту, может поставить памятник злому гному Лепрекону, вечному хранителю желтого металла. В лас-вегасском ломбарде карлик опять оживает, сеет на своем пути смерть и ужас, а однажды, в поисках оброненного золотого шиллинга, попадает в казино, где чувствует себя, как дома. Шиллинг между тем начинает переходить из рук в руки, и каждому новому его владельцу достаточно произнести слово «хочу»...",
+               "image": "https://www.justwatch.com/images/backdrop/253215598/s1440/leprechaun-3"
+            }
+         },
+         "image": "https://www.justwatch.com/images/backdrop/253215598/s1440/leprechaun-3",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/10_15_20/10/15/05/PFX7HZ4P/V4GNDF5Y.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Лепрекон",
+         "titleFooter": "Лепрекон 4: В космосе",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Лепрекон 4: В космосе{col}{br}В межпланетных глубинах 21-го века злой гном Лепрекон задумал жениться на прекрасной принцессе Зарине. Ей на помощь приходит отряд космических рейнджеров, но и кровожадный карлик проникает на звездолет. Здесь, где возможны самые невероятные фантастические перевоплощения, начинается очередной раунд битвы с Лепреконом...",
+               "image": "https://i.ytimg.com/vi/TnBDsVyl3Hk/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/TnBDsVyl3Hk/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_15_20/07/15/04/ZH2VLXRL/BLSRZ2IV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Лепрекон",
+         "titleFooter": "Лепрекон 5: Сосед",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Лепрекон 5: Сосед{col}{br}Четверо рэпперов решают отомстить влиятельному импресарио Маку Дэдди, который отказался взять их в мир гангстерской музыки, и грабят его офис. В результате в их руках оказывается магическая золотая флейта, принадлежащая когда-то Лепрекону.Но страшное было в другом: они случайно снимают чары с Лепрекона, этого маленького чудовища, пребывавшего в оцепенении последние 25 лет. И теперь только чудо может спасти парней от возмездия коварного монстра...",
+               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl2WQ7W8NLJ977V1Xc6LVrcsnTYhOgijHsyg&usqp=CAU"
+            }
+         },
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl2WQ7W8NLJ977V1Xc6LVrcsnTYhOgijHsyg&usqp=CAU",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/05_29_20/05/29/08/6BM4ODSL/4OODUWNP.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fifth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Лепрекон",
+         "titleFooter": "Лепрекон 6: Домой ",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Лепрекон 6: Домой {col}{br}Банда молодых ребят без гроша в кармане промышляет мелкими кражами. Случай сводит их с небольшим сундучком золота. Сундучок оказался странным — золото не убывало, несмотря на траты банды. Началась веселая беззаботная жизнь... пока не нашелся Хозяин этого золота.",
+               "image": "https://occ-0-768-769.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABaivKBwOaGetOZchP1jL94PzOEUGIRyPqesYvmtCsbxlLxw89SjPyilwtqDuFN1EfRmXrz80VKXMe1MaNvck7zWTPMQB.jpg?r=4be"
+            }
+         },
+         "image": "https://occ-0-768-769.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABaivKBwOaGetOZchP1jL94PzOEUGIRyPqesYvmtCsbxlLxw89SjPyilwtqDuFN1EfRmXrz80VKXMe1MaNvck7zWTPMQB.jpg?r=4be",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/06_28_20/06/28/06/F4LBB5WL/MK2OBGLJ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Лепрекон",
+         "titleFooter": "Лепрекон возвращается",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Лепрекон возвращается{col}{br}Лепрекон оживает в современном мире, когда группа девушек из сестринства по незнанию будит его, снеся хижину, чтобы построить новый дом для сестринства.",
+               "image": "https://maison-hantee.net/wp-content/uploads/2021/02/bpJHJF0D4tQ6g9V4eSkujqOf3pB.jpg"
+            }
+         },
+         "image": "https://maison-hantee.net/wp-content/uploads/2021/02/bpJHJF0D4tQ6g9V4eSkujqOf3pB.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/06_28_21/06/28/11/MLTVIPOZ/U3Z7DNSL.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      }
+   ]
+}

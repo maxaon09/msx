@@ -1,0 +1,126 @@
+{
+   "type": "list",
+   "headline": "МИСТЕРИУМ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Мистериум",
+         "titleFooter": "Начало",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Мистериум. Начало{col}{br}Детективы Карл Мёрк и Ассад работают в отделе Q, занимающемся «глухарями». Взявшись за дело пятилетней давности об исчезновении женщины по имени Мерет, они внезапно выходят на след маньяка-психопата. Но преследуя его по всей стране, всё равно на шаг отстают.",
+               "image": "https://img.moviesrankings.com/t/p/w1280/3AOVvtvOhxxyZMtsymAXYbN36gG.jpg"
+            }
+         },
+         "image": "https://img.moviesrankings.com/t/p/w1280/3AOVvtvOhxxyZMtsymAXYbN36gG.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/11_19_19/11/19/21/kiQpa6O7/1080_TlIO9y1q.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Мистериум",
+         "titleFooter": "Мистериум 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Мистериум: Охотники на фазанов{col}{br}В 1994 году двое детей-близнецов были найдены зверски убитыми в летнем загородном доме. Ряд фактов указывал на причастность к делу группы студентов, но расследование было прекращено, после того как местный отшельник признал себя виновным. 20 лет спустя это дело попадает на стол Карла Мёрка, который начинает подозревать, что в нём что-то не сходится.",
+               "image": "https://images.kinorium.com/movie/poster/719666/h280_50440963.jpg"
+            }
+         },
+         "image": "https://images.kinorium.com/movie/poster/719666/h280_50440963.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_10_20/06/10/15/2EF366IS/N3UEN4OI.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Мистериум",
+         "titleFooter": "Мистериум 3",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Мистериум. Тьма в бутылке{col}{br}Выброшенная на берег моря бутылка с леденящим душу посланием, написанным восемь лет назад, привлекает внимание особого отдела полиции Копенгагена. За расследование берутся детективы Карл Мёрк и Ассад. Они выходят на след убийцы-психопата и раскрывают жуткую историю похищенных детей, об исчезновении которых никто не заявлял.",
+               "image": "https://i.ytimg.com/vi/cqEjShG2zwA/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/cqEjShG2zwA/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/01_23_23/01/23/11/AMRCBIDL/OX5ZIMM2.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Мистериум",
+         "titleFooter": "Мистериум 4",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Мистериум. Журнал 64{col}{br}В копенгагенской квартире найдены замурованными три мумифицированных трупа, сидящих вокруг стола. За дело берётся отдел Q, специализирующийся на давних нераскрытых преступлениях. Расследование приводит детективов Карла Мёрка и Ассада в закрытое много лет назад женское учреждение на острове, куда раньше ссылали девушек, несоответствовавших общественной морали.",
+               "image": "https://i.ytimg.com/vi/XLIXhCC5rPA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDKYwNea90WBkV1ePk0XZ7K169CRw"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/XLIXhCC5rPA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDKYwNea90WBkV1ePk0XZ7K169CRw",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/02_09_23/02/09/17/GNAGW7OQ/ALTH24BY.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Мистериум",
+         "titleFooter": "Мистериум 5",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Мистериум: Эффект Марко{col}{br}14-летнего Марко задерживают на датской границе — у мальчика обнаруживают паспорт пропавшего без вести чиновника, которого когда-то обвинили в педофилии. Начальник отдела полиции Карл Мёрк берется за повторное расследование старого дела.",
+               "image": "https://pic.rutubelist.ru/video/85/9b/859bbf25fb6d6bf1d6f6cbc1756997da.jpg"
+            }
+         },
+         "image": "https://pic.rutubelist.ru/video/85/9b/859bbf25fb6d6bf1d6f6cbc1756997da.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/11_03_21/11/03/15/LZQWJJCO/WVI46SV4.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fifth Item"
+         }
+      }
+   ]
+}

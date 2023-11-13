@@ -1,0 +1,160 @@
+{
+   "type": "list",
+   "headline": "МИССИЯ НЕВЫПОЛНИМА",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Миссия невыполнима",
+         "titleFooter": "Миссия невыполнима",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Миссия невыполнима (1996){col}{br}Агента ЦРУ Итана Ханта коварно подставляют. Из-за обвинения в предательстве погибает несколько человек из его команды. Теперь ему предстоит восстановить свое честное имя и вычислить настоящего «крота».",
+               "image": "https://static.digit.in/OTT/v2/images/mission-impossible-100097jpg"
+            }
+         },
+         "image": "https://static.digit.in/OTT/v2/images/mission-impossible-100097jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_10_23/05/10/13/6OW6VRDY/WLZN2LVY.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Миссия невыполнима",
+         "titleFooter": "Миссия невыполнима 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Миссия невыполнима 2{col}{br}Агенту Итону Ханту вновь поручена особая миссия: обнаружить и уничтожить источник распространения страшного заболевания под названием Химера, выведенного генетическим путeм. Но выполнить секретное задание почти невозможно. Хант - не единственный, кто охотится за образцами ",
+               "image": "https://picfiles.alphacoders.com/685/68592.jpg"
+            }
+         },
+         "image": "https://picfiles.alphacoders.com/685/68592.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_13_23/05/13/05/TEGRUCYA/FELW2X2Y.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Миссия невыполнима",
+         "titleFooter": "Миссия невыполнима 3",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Миссия невыполнима 3{col}{br}Итан Хант решил расстаться с оперативной работой и заняться подготовкой курсантов. Он даже решил жениться на привлекательной, ни о чём не ведающей Джулии. Руководство ЦРУ просит его принять участие в последней операции: спасении его бывшей ученицы Линдси Феррис из лап торговца оружием Оуэна Дэвиана. ",
+               "image": "https://i.ytimg.com/vi/uPIy23rA_04/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/uPIy23rA_04/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/08_01_23/08/01/15/XLTZ3SZA/LZXKCUWV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Миссия невыполнима",
+         "titleFooter": "Протокол Фантом",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Миссия невыполнима: Протокол Фантом (2011){col}{br}В России происходит страшный теракт, в его организации обвиняют спецотряд «Миссия невыполнима». Президент инициирует протокол, который подразумевает ликвидацию подразделения. Агенты оказываются брошенными на произвол судьбы, не имея прикрытия и поддержки властей. Они начинают действовать самостоятельно, чтобы доказать свою непричастность к произошедшему.",
+               "image": "https://i.ytimg.com/vi/SYK9sUYwKA0/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/SYK9sUYwKA0/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_20_23/07/20/00/4MXNMR5J/MHKUHCRG.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Миссия невыполнима",
+         "titleFooter": "Миссия невыполнима: Племя изгоев",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Миссия невыполнима: Племя изгоев (2015){col}{br} Итану Ханту и его команде предстоит познакомиться с “Синдикатом” — международной сетью профессиональных спецагентов и киллеров, которые готовят масштабные теракты по всей планете. Изгои спецслужб, посредством террора они хотят изменить расстановку сил в мире и установить новый порядок. ",
+               "image": "https://1.bp.blogspot.com/-tgkmtqOcKJc/Var1KvSTdqI/AAAAAAAAe40/aOU-T4n5iIc/s1600/mission%2Bimpossible%2Brogue%2Bnation%2B1.jpg"
+            }
+         },
+         "image": "https://1.bp.blogspot.com/-tgkmtqOcKJc/Var1KvSTdqI/AAAAAAAAe40/aOU-T4n5iIc/s1600/mission%2Bimpossible%2Brogue%2Bnation%2B1.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/08_01_23/08/01/13/XDU2FGJO/HG25ESWO.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Миссия невыполнима",
+         "titleFooter": "Миссия невыполнима: Последствия",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Миссия невыполнима: Последствия (2018){col}{br}Итан Хант, получает новое задание. Ему необходимо не допустить попадания в руки террориста Ларка трех плутониевых зарядов, которые недавно были украдены с русской военной базы на Колыме. ",
+               "image": "https://is3-ssl.mzstatic.com/image/thumb/Video124/v4/44/ba/d2/44bad2e9-9c4d-42d2-23e5-db53ec2fc8f4/PAR_MISSION_IMPOSSIBLE_FALLOUT_WW_ARTWORK_EN_3840x2160_1ME0U1000000CH.lsr/1200x675.jpg"
+            }
+         },
+         "image": "https://is3-ssl.mzstatic.com/image/thumb/Video124/v4/44/ba/d2/44bad2e9-9c4d-42d2-23e5-db53ec2fc8f4/PAR_MISSION_IMPOSSIBLE_FALLOUT_WW_ARTWORK_EN_3840x2160_1ME0U1000000CH.lsr/1200x675.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/08_01_23/08/01/19/PAGIUQZS/PPAYT7RH.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Миссия невыполнима",
+         "titleFooter": "Смертельная расплата. Часть 1",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Миссия невыполнима: Смертельная расплата. Часть первая (2023){col}{br} Герои приступают к своей самой опасной миссии, охотясь за ужасающим новым оружием, которое угрожает всему человечеству. ",
+               "image": "https://pic.rutubelist.ru/video/dd/f8/ddf83adb7e51e54f2cda63dc51b6ea9d.jpg"
+            }
+         },
+         "image": "https://pic.rutubelist.ru/video/dd/f8/ddf83adb7e51e54f2cda63dc51b6ea9d.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_17_23/07/17/01/QN2OMSUA/N4QHWC2Q.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      }
+   ]
+}

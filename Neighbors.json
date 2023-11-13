@@ -1,0 +1,76 @@
+{
+   "type": "list",
+   "headline": "Соседи. На тропе войны",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Соседи. На тропе войны",
+         "titleFooter": "Соседи. На тропе войны",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Соседи. На тропе войны{col}{br}Как известно, мужчины бывают двух типов: холостые и глубоко женатые. Первые молоды, мускулисты и точно магнит притягивают блондинок и шумных друзей. Вторые обитают дома, выращивают детей и поглощают сериалы по телеку. Обычно их пути не пересекаются. Но стоит им стать соседями, мужчины выходят на тропу войны.",
+               "image": "https://thumbs.dfs.ivi.ru/storage31/contents/2/4/f630a3b6bdd38c85d6e5a97c117fad.jpg/400x226//"
+            }
+         },
+         "image": "https://thumbs.dfs.ivi.ru/storage31/contents/2/4/f630a3b6bdd38c85d6e5a97c117fad.jpg/400x226//",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_10_20/07/10/16/WHOIS7XA/WEKZWP72.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Соседи. На тропе войны",
+         "titleFooter": "Соседи. На тропе войны 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Соседи. На тропе войны 2{col}{br}Отважный Дракон Ма, прославившийся благодаря уничтожению пиратской шайки Ло Сэм По, получает новое назначение — его делают начальником округа. Основная причина этого назначения состоит в том, что власти сомневаются в чистоплотности его предшественника Чуна. В результате мастерски выполненной подставы Дракона арестовывают, но он не прекращает попыток разоблачить Чуна...",
+               "image": "https://premiere-movies.ru/wp-content/uploads/2016/05/Neighbors-2-Sorority-Rising.jpg"
+            }
+         },
+         "image": "https://premiere-movies.ru/wp-content/uploads/2016/05/Neighbors-2-Sorority-Rising.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/11_07_19/11/07/09/QFSClX61/1080_EfbaSxGa.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      }
+      
+   ]
+}

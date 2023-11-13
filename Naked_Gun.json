@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "ГОЛЫЙ ПИСТОЛЕТ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Голый пистолет",
+         "titleFooter": "Голый пистолет",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Голый пистолет (1988){col}{br}Самый некомпетентный полицейский, лейтенант Фрэнк Дребин, должен в одиночку противостоять международному заговору, цель которого — погубить королеву Елизавету II. Ко всеобщему удивлению и радости глупейший из глупых лейтенант Дребин разберётся со всеми врагами Её Величества так лихо, как не снилось и агенту 007",
+               "image": "https://pbs.twimg.com/ext_tw_video_thumb/1201497976637657088/pu/img/coh00qmiUXm21BaH.jpg"
+            }
+         },
+         "image": "https://pbs.twimg.com/ext_tw_video_thumb/1201497976637657088/pu/img/coh00qmiUXm21BaH.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_30_20/09/30/17/HEZWIEDR/CLBIIHO2.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Голый пистолет",
+         "titleFooter": "Голый пистолет 2 1/2: Запах страха",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Голый пистолет 2 1/2: Запах страха (1991){col}{br}Некий злодей плетет страшные козни и замышляет уничтожить весь мир. Но не тут-то было, храбрый полицейский как всегда начеку!",
+               "image": "https://cdn.images.simply.tv/12527206747487131814?aspect_ratio=16:9"
+            }
+         },
+         "image": "https://cdn.images.simply.tv/12527206747487131814?aspect_ratio=16:9",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/22/QQEUFOR4/RXWMLRRF.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "",
+         "titleFooter": "{col:msx-white}Голый пистолет{col} 33 1/3: Последний выпад",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Голый пистолет 33 1/3: Последний выпад (1994){col}{br}В тюрьму к известному террористу-смертнику Рокко приходит представитель арабских террористов и предлагает ему и его матери совершить крупный теракт за 5 миллионов долларов. Остановить его может только лейтенант Фрэнк Дребин, который сейчас на пенсии и занимается решением брачных проблем со своей супругой.",
+               "image": "https://sp.rmbl.ws/s8/1/U/S/0/g/US0gh.qR4e-small-33-And-13-The-Final-Insult-.jpg"
+            }
+         },
+         "image": "https://sp.rmbl.ws/s8/1/U/S/0/g/US0gh.qR4e-small-33-And-13-The-Final-Insult-.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/20/PVY3AYX3/H44KY6OX.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}
