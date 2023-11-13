@@ -1,0 +1,109 @@
+{
+   "type": "list",
+   "headline": "ГАННИБАЛ ЛЕКТОР",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Ганнибал Лектор",
+         "titleFooter": "Молчание ягнят",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Молчание ягнят{col}{br}Психопат похищает и убивает молодых женщин по всему Среднему Западу. ФБР, уверенное, что все преступления совершены одним и тем же человеком, поручает агенту Клариссе Старлинг встретиться с заключенным-маньяком Ганнибалом Лектером, который мог бы помочь составить психологический портрет убийцы. Сам Лектер отбывает наказание за убийства и каннибализм. Он согласен помочь Клариссе лишь в том случае, если она попотчует его больное воображение подробностями своей личной жизни.",
+               "image": "https://static.tildacdn.info/tild3434-6239-4131-b834-346331656165/photo.jpg"
+            }
+         },
+         "image": "https://static.tildacdn.info/tild3434-6239-4131-b834-346331656165/photo.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/09_16_22/09/16/11/KU2SNZOW/XNYTJXGY.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Ганнибал Лектор",
+         "titleFooter": "Ганнибал",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Ганнибал{col}{br}После десяти лет молчания Ганнибал Лектер пишет письмо агенту ФБР Клариссе Старлинг, предлагая ей возобновить их прервавшуюся интеллектуальную дуэль. С помощью миллионера Мейсона Верджера, ставшего очередной жертвой безумного доктора и мечтающего теперь скормить Лектера стае прожорливых кабанов, Кларисса выходит на след неуловимого маньяка и вскоре узнаёт, что за ним уже охотится инспектор флорентийской полиции Ринальдо Пацци.",
+               "image": "https://thumbs.dfs.ivi.ru/storage31/contents/6/f/1012c9267893495b3c798864cd24cc.jpg"
+            }
+         },
+         "image": "https://thumbs.dfs.ivi.ru/storage31/contents/6/f/1012c9267893495b3c798864cd24cc.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/11_11_22/11/11/20/4YJ2M2GX/SZ7MPFNX.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Ганнибал Лектор",
+         "titleFooter": "Красный Дракон",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Красный Дракон{col}{br}Агент ФБР Уилл Грэм получает тяжелые ранения при исполнении и покидает службу. Но через несколько лет его втягивают в новое расследование – в городе появился серийный убийца, которого пресса окрестила как Зубная фея. Чтобы поймать маньяка, Грэму приходится обратиться за помощью к Ганнибалу Лектеру.",
+               "image": "https://i0.wp.com/moviesandmania.com/wp-content/uploads/2015/04/red-dragon-international-posters-red-dragon-2002-26616893-1000-752.jpg?ssl=1"
+            }
+         },
+         "image": "https://i0.wp.com/moviesandmania.com/wp-content/uploads/2015/04/red-dragon-international-posters-red-dragon-2002-26616893-1000-752.jpg?ssl=1",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/09_14_22/09/14/06/NHURLW2X/WPTJLIZV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Ганнибал Лектор",
+         "titleFooter": "Ганнибал: Восхождение",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Ганнибал: Восхождение{col}{br}Первая глава жизни самого знаменитого и хитроумного маньяка всех времен… Ему было шесть, когда на его глазах жестоко убили его семью. В двадцать, бежав во Францию, а затем в США, он получил блестящее образование психиатра. Впереди его ждала жизнь, полная привилегий. Но жажда мести за убийство семьи только разгоралась в нем…",
+               "image": "https://images.kinorium.com/movie/poster/287661/w1500_37508751.jpg"
+            }
+         },
+         "image": "https://images.kinorium.com/movie/poster/287661/w1500_37508751.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/09_25_20/09/25/23/5SVLR7F3/LXSMMBXU.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}

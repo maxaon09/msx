@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "ДИВЕРГЕНТ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Дивергент",
+         "titleFooter": "Дивергент",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Дивергент{col}{br}В антиутопическом Чикаго будущего существует общество, члены которого придумали способ избегать конфликтов и поддерживать вокруг незыблемый порядок. Каждый человек по достижении 16 лет должен определить, к чему лежит его душа, и в зависимости от своих личностных качеств присоединиться к одной из пяти фракций – Искренность, Бесстрашие, Эрудиция, Дружелюбие или Отречение.Для того, чтобы и не ошибиться с фракцией, накануне церемонии выбора подростки проходят специальное тестирование. Юная Беатрис оказывается угрозой для всей сложившейся системы, когда тесты выявляют в ней дивергента – человека, которого невозможно однозначно определить в одну из фракций. Способные мыслить независимо и не питающие особого уважения к правительству, дивергенты одним своим существованием дискредитируют принципы, на которых строится общество. И теперь Беатрис – одна из таких людей, живущих вне закона и борющихся с системой, которая намерена любой ценой от них избавиться.",
+               "image": "https://www.wallpaperup.com/uploads/wallpapers/2014/07/07/390453/b8e0cad81d02043dce561df5b1548eac.jpg"
+            }
+         },
+         "image": "https://www.wallpaperup.com/uploads/wallpapers/2014/07/07/390453/b8e0cad81d02043dce561df5b1548eac.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/08_21_23/08/21/21/GVVRNJSK/KC25H5GU.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Дивергент",
+         "titleFooter": "Дивергент, глава 2: Инсургент",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Дивергент, глава 2: Инсургент{col}{br}В новой главе антиутопии об обществе, где все расставлено по полочкам, а любая индивидуальность подлежит искоренению, Трис должна найти способ борьбы со страшной системой, уничтожающей ее близких. Кто из них на очереди? Она узнает все больше страшных подробностей, стоящих за кажущимся порядком, и уже не может не видеть, что в ее мире пора что-то менять. Но главное в этой борьбе – справиться с расколом, который враг порождает в ее собственной душе.",
+               "image": "https://images.kinorium.com/movie/fanart/703003/w1500_50463130.jpg"
+            }
+         },
+         "image": "https://images.kinorium.com/movie/fanart/703003/w1500_50463130.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_24_20/09/24/15/STDBKSTK/56KFXCTA.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Дивергент",
+         "titleFooter": "Дивергент, глава 3: За стеной",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Дивергент, глава 3: За стеной{col}{br}Трис и Фор впервые покидают город и своих близких и оказываются в опасном мире за стеной, отделяющей Чикаго, где им открывается шокирующая правда.Они должны быстро разобраться, кому можно доверять, так как битва, разгорающаяся за стенами города , угрожает всему человечеству. Чтобы выжить, Трис придется сделать непростой выбор между мужеством, верностью, любовью и необходимостью идти на жертвы.",
+               "image": "https://liveam.tv/assets/images/2021/divergent--glava-3--za-stenoj.jpg"
+            }
+         },
+         "image": "https://liveam.tv/assets/images/2021/divergent--glava-3--za-stenoj.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/02_07_22/02/07/22/VNNPOBZ3/LVJ4SH3G.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}

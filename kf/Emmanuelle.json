@@ -1,0 +1,126 @@
+{
+   "type": "list",
+   "headline": "ЭММАНУЭЛЬ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Эммануэль",
+         "titleFooter": "Эммануэль",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Эммануэль{col}{br}Первый фильм о жрице любви Эммануэль. Сюжет служит канвой для описания сексуальных похождений героини в Юго-Восточной Азии.Муж Эммануэль, работающий в посольстве, поощряет в ней стремление к раскрепощенности в сексе, благо весь дипломатический корпус, особенно женщины, изнывают от скуки. За её воспитание берется уже пожилой специалист. Эммануэль делает большие успехи в искусстве любви.",
+               "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kdLgqTtbQOWXlfJlMgDjPlyLYDg.jpg"
+            }
+         },
+         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kdLgqTtbQOWXlfJlMgDjPlyLYDg.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_07_20/07/07/11/ATER3N2C/JUWEOSJV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Эммануэль",
+         "titleFooter": "Эммануэль 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Эммануэль 2{col}{br}Во втором фильме знаменитого сериала Эммануэль из прилежной ученицы, усваивающей уроки любви, превращается в неистовую и ненасытную охотницу за наслаждениями.",
+               "image": "https://cfm.yidio.com/images/movie/172183/backdrop-1280x720.jpg"
+            }
+         },
+         "image": "https://cfm.yidio.com/images/movie/172183/backdrop-1280x720.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_11_23/01/11/14/7MVXX3D2/SK6HIL36.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Эммануэль",
+         "titleFooter": "Прощай, Эммануэль",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Прощай, Эммануэль{col}{br}Она была рьяной искательницей эротических приключений, никогда не прекращающей своей неистовой гонки за наслаждением. И вдруг произошло совершенно невероятное.Исполненная сексуальной свободы, Эммануэль попадает в классическую, но парадоксальную ситуацию - ситуацию Любви с большой буквы. Страстно и безоглядно она порывает с привычной жизнью, влекомая этим неведомым доселе чувством.",
+               "image": "https://www.okino.ua/media/var/cache/12/af/12afccf7541cf26bdb7ca351193600d2.jpg"
+            }
+         },
+         "image": "https://www.okino.ua/media/var/cache/12/af/12afccf7541cf26bdb7ca351193600d2.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_26_21/01/26/23/D6EU5ESL/HK3SMEN5.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Эммануэль",
+         "titleFooter": "Эммануэль 4",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Эммануэль 4{col}{br}Благодаря чудесам пластической хирургии легендарная Эммануэль преображается в юную прекрасную фотомодель и решительно меняет свой привычный круг общения.",
+               "image": "https://metadata-static.plex.tv/7/gracenote/74b9772003168a87e82faa1d4cfd0d62.jpg"
+            }
+         },
+         "image": "https://metadata-static.plex.tv/7/gracenote/74b9772003168a87e82faa1d4cfd0d62.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_25_20/09/25/19/6E77GWEU/WJ75JM5I.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Эммануэль",
+         "titleFooter": "Эммануэль 5 ",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Эммануэль 5{col}{br}Загадочный принц Рашид добивается встречи с Эммануэль после премьеры ее фильма на Каннском кинофестивале и приглашает ее в гости в свой дворец на Карибских островах. Но галантное приглашение Рашида оказывается коварной ловушкой, и Эммануэль становится пленницей в гареме принца,в котором уже томятся 50 красавиц со всего мира.",
+               "image": "https://images.tv-archiv.sk/428/e02d5d8569d40ff7df0c33e875af3692.jpg"
+            }
+         },
+         "image": "https://images.tv-archiv.sk/428/e02d5d8569d40ff7df0c33e875af3692.jpg",
+         "action": "video:hresolve:request:interaction:ttps://hye1eaipby4w.takedwn.ws/02_06_20/02/06/14/lCtFJV1D/1080_1tgz2Owf.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fifth Item"
+         }
+      }
+   ]
+}

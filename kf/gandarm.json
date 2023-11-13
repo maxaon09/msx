@@ -1,0 +1,143 @@
+{
+   "type": "list",
+   "headline": "ЖАНДАРМ ИЗ СЕН-ТРОПЕ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Жандарм из Сен-Тропе",
+         "titleFooter": "Жандарм из Сен-Тропе",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Жандарм из Сен-Тропе (1964){col}{br}С приездом в Сен-Тропе жандарма Крюшо «мирная» жизнь городка заканчивается: охота на нудистов, поиски украденной из музея бесценной картины, поимка банды опасных преступников - бестолковому жандарму всегда найдется занятие.",
+               "image": "https://wernerstalpaert.files.wordpress.com/2015/04/gendarme-de-saint-tropez-1.jpg"
+            }
+         },
+         "image": "https://wernerstalpaert.files.wordpress.com/2015/04/gendarme-de-saint-tropez-1.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_08_20/05/08/12/IICMTST5/EFSBNLQS.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Жандарм из Сен-Тропе",
+         "titleFooter": "Жандарм в Нью-Йорке",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Жандарм в Нью-Йорке (1965){col}{br}Как не уронить чести мундира, если вас ждет страна соблазнов, да и по-английски вы не знаете ни слова? К тому же Крюшо с ужасом обнаруживает, что его дочь Николь, вопреки воле отца, тоже приехала в Нью-Йорк. Если это откроется - его карьере конец.",
+               "image": "https://static.okko.tv/images/v2/12447977?presetId=4000&width=725&scale=1&quality=80"
+            }
+         },
+         "image": "https://static.okko.tv/images/v2/12447977?presetId=4000&width=725&scale=1&quality=80",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_12_20/07/12/10/6XVYKYL3/DKVTPO7B.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Жандарм из Сен-Тропе",
+         "titleFooter": "Жандарм женится",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Жандарм женится (1968){col}{br}Толпы обезумевших от жажды развлечений туристов ринулись к морю. Блюстители порядка из курортного Сен-Тропе должны во что бы то ни стало, любой ценой сдержать бурный натиск отдыхающих. И вот, за отчаянно-быструю езду по горным дорогам Крюшо арестовывает очаровательную Жозефу, которая оказывается вдовой полковника жандармерии.",
+               "image": "https://sun1-20.userapi.com/c638128/v638128891/5460d/TLwhPt0TJpw.jpg"
+            }
+         },
+         "image": "https://sun1-20.userapi.com/c638128/v638128891/5460d/TLwhPt0TJpw.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_09_20/07/09/12/LV5RQBBU/4ZHJM5DU.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Жандарм из Сен-Тропе",
+         "titleFooter": "Жандарм на отдыхе",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Жандарм на отдыхе (1970){col}{br}Начальство сочло наших героев слишком старыми и отправило их на заслуженный отдых. Это трагический момент в жизни такого мужественного офицера как сержант Крюшо. Запершись в роскошном замке своей жены, он предается унынию. Приезд бывшего начальника Жербера выводит его из спячки. Они собирают своих подчиненных, надевают любимую жандармскую форму и отправляются навстречу новым подвигам.",
+               "image": "https://pbs.twimg.com/media/EN9CwL-WkAA0RYI.jpg"
+            }
+         },
+         "image": "https://pbs.twimg.com/media/EN9CwL-WkAA0RYI.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_25_20/07/25/03/XPR55HRO/QB4XWBAG.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Жандарм из Сен-Тропе",
+         "titleFooter": "Жандарм и инопланетяне",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Жандарм и инопланетяне (1978){col}{br}Все земные враги уже побеждены. Осталось помериться силами с пришельцами, и они действительно высаживаются в окрестностях Сен-Тропе. Коварные существа принимают вид обычных людей, отличаясь от них только тем, что пьют масло и ржавеют от воды.",
+               "image": "http://media.filmz.ru/photos/big/b_183109.jpg"
+            }
+         },
+         "image": "http://media.filmz.ru/photos/big/b_183109.jpg",
+         "action": "video:hresolve:request:interaction:ttps://hye1eaipby4w.takedwn.ws/05_25_20/05/25/18/F4UYWCLE/2ZE2SKQJ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Жандарм из Сен-Тропе",
+         "titleFooter": "Жандарм и жандарметки",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Жандарм и жандарметки (1982){col}{br}К жандармам прислали стажеров — девушек. Жандармы в восторге — проводят учения с новенькими в три смены, 24 часа в сутки. А их жены в шоке — закатывают скандалы и требуют увольнения новых сотрудниц. Через неделю всех девушек похитили",
+               "image": "https://cdn.tvc.ru/pictures/mc/173/168.jpg"
+            }
+         },
+         "image": "https://cdn.tvc.ru/pictures/mc/173/168.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/04_20_21/04/20/07/O4D2M6TX/R5NZYHDP.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}

@@ -1,0 +1,75 @@
+{
+   "type": "list",
+   "headline": "АДРЕНАЛИН",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Адреналин",
+         "titleFooter": "Адреналин",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Адреналин{col}{br}Наемный убийца Чев узнает, что недоброжелатели отравили его редким китайским ядом и отрава начнет действовать немедленно, как только пульс перестанет биться ниже определенной отметки.И теперь Чеву нужно успеть сделать все свои дела, попробовать раздобыть противоядие и отомстить своим отравителям в прямом смысле слова впопыхах - стараясь создавать вокруг себя как можно более напряженную обстановку и не расслабляться ни на секунду.",
+               "image": "https://thumbs.dfs.ivi.ru/storage6/contents/b/7/560835a41033913e012f98c488a708.jpg/400x226//"
+            }
+         },
+         "image": "https://thumbs.dfs.ivi.ru/storage6/contents/b/7/560835a41033913e012f98c488a708.jpg/400x226//",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/03_27_23/03/27/19/3OA2EZXA/V25YDFKU.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Адреналин",
+         "titleFooter": "Адреналин: Высокое напряжение ",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Адреналин: Высокое напряжение {col}{br}Он умер, но обещал вернуться! Не чудом, а благодаря современным медицинским технологиям Чев Челиос получает новое сердце и новый шанс отомстить своим врагам. Теперь для постоянной подзарядки ему требуется электрический разряд мощностью не меньше, чем у автомобильного аккумулятора.",
+               "image": "https://static.okko.tv/images/v2/7909115?scale=1&quality=80"
+            }
+         },
+         "image": "https://static.okko.tv/images/v2/7909115?scale=1&quality=80",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/03_27_23/03/27/21/F4HUKAKZ/MJ4CZ6IX.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      }
+   ]
+}

@@ -1,0 +1,126 @@
+{
+   "type": "list",
+   "headline": "ПУНКТ НАЗНАЧЕНИЯ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Пункт назначения",
+         "titleFooter": "Пункт назначения",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Пункт назначения{col}{br}Алекс летит с классом в Париж на 10 дней. В аэропорту он узнает, что время вылета совпадает с его днем рождения. Потом, повинуясь плохому предчувствию, Алекс в панике покидает самолет, и некоторое время спустя самолет взрывается. Но вскоре пассажиры, сошедшие вместе с Алексом, начинают гибнуть один за другим.",
+               "image": "https://2x2tv.ru/upload/iblock/d8c/1cf5cu4j2jgmvlzajbnupxywrdg2bek7.jpg"
+            }
+         },
+         "image": "https://2x2tv.ru/upload/iblock/d8c/1cf5cu4j2jgmvlzajbnupxywrdg2bek7.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/06_17_21/06/17/21/I77PS6ZY/QUOIEMTH.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Пункт назначения",
+         "titleFooter": "Пункт назначения 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Пункт назначения 2{col}{br}Решив провести уикэнд с друзьями подальше от дома, Кимберли становится свидетелем жуткой автокатастрофы: на скоростной магистрали из грузовика начинают выпадать брёвна, что приводит к серии столкновений автомобилей и множеству жертв, среди которых она сама. Секунду спустя Кимберли снова чувствует биение своего сердца: она жива и по-прежнему за рулём машины. Видение? А может быть, предупреждение? Однако теперь и Кимберли, и водители, чьи машины из-за неё не смогли выехать к смерти, обречены — старуха с косой отказывается вычёркивать их из своего списка.",
+               "image": "https://i.ytimg.com/vi/fWVZ97O0pYw/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/fWVZ97O0pYw/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/09_24_20/09/24/19/HLHO6TDK/ORF5BILB.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Пункт назначения",
+         "titleFooter": "Пункт назначения 3",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Пункт назначения 3{col}{br}У старшеклассницы Венди однажды возникает предчувствие, что она и её друзья станут жертвами несчастного случая, который произойдёт на «американских горках». Когда же самые страшные опасения Венди подтверждаются, те, кто сумел всё-таки обмануть смерть, теперь вынуждены за это расплачиваться.",
+               "image": "https://i.ytimg.com/vi/Uv9BeuLQoV0/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/Uv9BeuLQoV0/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/06_29_20/06/29/18/J5OLTDH3/BU2RZ7PZ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Пункт назначения",
+         "titleFooter": "Пункт назначения 4",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Пункт назначения 4{col}{br}У Ника было видение — на автогонках произойдёт ужасная трагедия, жертвами которой станут его друзья и он сам. Благодаря Нику группе счастливчиков удаётся избежать гибели, но смерть не спешит вычёркивать их из своего списка.",
+               "image": "https://2x2tv.ru/upload/iblock/9e2/wo6f7slc82ch71ambo8rgwtw3vv65gd8.jpg"
+            }
+         },
+         "image": "https://2x2tv.ru/upload/iblock/9e2/wo6f7slc82ch71ambo8rgwtw3vv65gd8.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/09_24_20/09/24/20/AJI37VNE/W3F3FPEZ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Пункт назначения",
+         "titleFooter": "Пункт назначения 5",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Пункт назначения 5{col}{br}У Сэма происходит жуткое видение: подвесной мост, на котором он стоит в пробке, рушится, и гибнет множество людей, включая его самого. Парень паникует и уговаривает своих друзей и ещё нескольких случайных людей уйти с моста. И как раз вовремя — мост обваливается и утягивает за собой множество людей. Но вскоре выжившие начинают погибать один за другим.",
+               "image": "https://images.kinorium.com/movie/poster/526838/w1500_3529187.jpg"
+            }
+         },
+         "image": "https://images.kinorium.com/movie/poster/526838/w1500_3529187.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_24_20/09/24/21/YDXIN2IB/R6JUAKTI.mp4/master.m3u8 @http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fifth Item"
+         }
+      }
+   ]
+}

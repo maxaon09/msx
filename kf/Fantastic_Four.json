@@ -1,0 +1,75 @@
+{
+   "type": "list",
+   "headline": "ФАНТАСТИЧЕСКАЯ ЧЕТВЕРКА",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Фантастическая четверка",
+         "titleFooter": "Фантастическая четверка",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Фантастическая четверка{col}{br}Четыре космонавта в далёком космосе попали под действие неизвестных лучей и приобрели каждый свою суперспособность. После возвращения на Землю четверка встаёт на пути у врагов цивилизации, которые усиленно портят жизнь всего прогрессивного человечества.",
+               "image": "https://i.ytimg.com/vi/TXwRTRONSRU/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/TXwRTRONSRU/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/02_09_23/02/09/18/LHCSHMXR/2VYN4HB5.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Фантастическая четверка",
+         "titleFooter": "Вторжение Серебряного серфера",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Фантастическая четверка: Вторжение Серебряного серфера{col}{br}Фантастическая четверка получает вызов со стороны великого и могучего Серебряного Серфера - таинственного межгалактического вестника, который прилетает на Землю, чтобы подготовить ее к полному разрушению. Пока Серебряный Серфер носится по всему земному шару, разрушая все на своём пути, Рид, Сью, Джонни и Бен должны разгадать его тайну и найти способ противостоять внезапному появлению их смертельного врага - доктора Дума.",
+               "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/fe239154-f14e-404a-87ed-cde9c18224df/800x800"
+            }
+         },
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLVuG2ojP1-2iyUECbZzP54ghx6NJXVCSFjw&usqp=CAU",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_01_20/10/01/23/7JCVVFVF/6LYKFFXY.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      }
+   ]
+}

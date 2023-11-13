@@ -1,0 +1,75 @@
+{
+   "type": "list",
+   "headline": "Бросок кобры",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Бросок кобры",
+         "titleFooter": "Бросок кобры",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Бросок кобры{col}{br}Базирующееся в Египте высокотехнологичное международное военное подразделение, известное как G.I. Joe, противостоит зловещей корпорации, руководимой знаменитым оружейным бароном.",
+               "image": "https://img08.rl0.ru/afisha/375x210q85i/s1.afisha.ru/mediastorage/f4/96/ac8665bc674d4430bbe6aeac96f4.jpg"
+            }
+         },
+         "image": "https://img08.rl0.ru/afisha/375x210q85i/s1.afisha.ru/mediastorage/f4/96/ac8665bc674d4430bbe6aeac96f4.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_07_20/07/07/18/6BLHWL6S/VDF65VCU.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}G.I. Joe: Бросок кобры ",
+         "titleFooter": "G.I. Joe: Бросок кобры 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}G.I. Joe: Бросок кобры 2{col}{br}Отряд G. I. Joe вновь бросит вызов группировке «Кобра» и вступит в противостояние с правительством.",
+               "image": "https://thumbs.dfs.ivi.ru/storage15/contents/d/1/38cf395d8723d0e03e892204735195.jpg/400x226/"
+            }
+         },
+         "image": "https://thumbs.dfs.ivi.ru/storage15/contents/d/1/38cf395d8723d0e03e892204735195.jpg/400x226/",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/08_17_23/08/17/02/JBQEE6XG/EBBGDG5I.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      }
+   ]
+}
