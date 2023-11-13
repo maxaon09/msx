@@ -1,0 +1,126 @@
+{
+   "type": "list",
+   "headline": "АСТРАЛ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Астрал",
+         "titleFooter": "Астрал",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Астрал{col}{br}Джош и Рене переезжают с детьми в новый дом, но не успевают толком распаковать вещи, как начинаются странные события. Необъяснимо перемещаются предметы, в детской звучат странные звуки, но настоящий кошмар начинается, когда их десятилетний сын Далтон впадает в кому. Все усилия врачей помочь мальчику безуспешны. Несколько месяцев спустя его возвращают домой, и загадочные явления продолжаются. Вскоре выясняется, что Далтон в бессознательном состоянии связан с паранормальным миром.",
+               "image": "https://static.okko.tv/images/v3/14413693?scale=1&quality=80"
+            }
+         },
+         "image": "https://static.okko.tv/images/v3/14413693?scale=1&quality=80",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_18_23/07/18/21/MJFDA5CB/2HKWPXDE.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Астрал",
+         "titleFooter": "Астрал: Глава 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Астрал: Глава 2{col}{br}Семья Ламберт стремится раскрыть тайну, из-за которой они оказались в опасной связи с миром духов. Они переезжают в дом матери Джоша, но, как оказывается, туда вселяются не только они. Путешествие в мир призраков не прошло бесследно — вместе с Джошем в мир людей проник дух, который хочет быть живым.",
+               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPo7A4Ab2Im6b4f-IAQEX1y5B06StUa4eA_g&usqp=CAU"
+            }
+         },
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPo7A4Ab2Im6b4f-IAQEX1y5B06StUa4eA_g&usqp=CAU",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_14_23/07/14/14/LQ6VS7AQ/4GC3MF37.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Астрал",
+         "titleFooter": "Астрал 3",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Астрал 3{col}{br}Медиум Элиза Рейнер неохотно соглашается использовать свои способности для установления связи с мертвыми, чтобы помочь девочке-подростку, которая стала мишенью опасной сверхъестественной сущности.",
+               "image": "https://static.okko.tv/images/v2/14579795"
+            }
+         },
+         "image": "https://static.okko.tv/images/v2/14579795",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_14_23/07/14/13/CXL56B34/WJLGGWZH.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Астрал",
+         "titleFooter": "Астрал 4: Последний ключ",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Астрал 4: Последний ключ{col}{br}Детство Элизы было трудным — жестокий отец считал, что девочка придумывает истории о потустороннем, поэтому бил её и запирал в подвале. Однажды, сидя в тёмном подвале, Элиза начинает общаться с коварным призраком, который убеждает её открыть дверь. Вырвавшееся наружу зло тут же убивает мать девочки.Много лет спустя Элиза всё ещё пытается восстановить в памяти события той ужасной ночи, когда получает просьбу о помощи. Мужчину одолели призраки, и живёт он в том самом доме, где прошло детство Элизы.",
+               "image": "https://i.ytimg.com/vi/Mnu1SWorZkY/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/Mnu1SWorZkY/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/07_14_23/07/14/14/PCW53SVZ/A7RXQB2U.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Астрал",
+         "titleFooter": "Астрал 5: Красная дверь",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Астрал 5: Красная дверь{col}{br}Далтон вырос и отправляется в художественное училище, где, следуя указаниям преподавательницы, пытается погрузиться в собственное подсознание. Парень начинает рисовать загадочную дверь, которая как-то связана с его детскими годами, о которых он ничего не помнит. А Джош, который тоже забыл важную часть своей жизни, уже некоторое время жалуется на спутанность сознания и во время обследования вдруг видит страшного призрака.",
+               "image": "https://i.ytimg.com/vi/b9E63Ocjq6s/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/b9E63Ocjq6s/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/08_21_23/08/21/10/SHFD7EAK/IU6HLJV3.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fifth Item"
+         }
+      }
+   ]
+}

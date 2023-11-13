@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "АГЕНТ ДЖОНИ ИНГЛИШ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Агент Джонни Инглиш",
+         "titleFooter": "Агент Джонни Инглиш",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Агент Джонни Инглиш (2003){col}{br}История самого некомпетентного и недалекого Британского дипломата, которого только можно представить, которого ошибочно принимают за самого знаменитого и опасного шпиона Великобритании, Джонни Инглиша.",
+               "image": "https://elfinalde.s3-accelerate.amazonaws.com/2017/06/cq3970WasmeW4Bx2cgJ7IF67HTW-1024x576.jpg"
+            }
+         },
+         "image": "https://elfinalde.s3-accelerate.amazonaws.com/2017/06/cq3970WasmeW4Bx2cgJ7IF67HTW-1024x576.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_29_20/06/29/16/C5AJI2JG/WYHFYCE3.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент Джонни Инглиш",
+         "titleFooter": "Перезагрузка",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Агент Джонни Инглиш: Перезагрузка (2011){col}{br} Джонни Инглиш находится на крайне низком моральном уровне, пока ему не дают ещё один шанс. Британская разведка МИ-7 снова нуждается в нём и ей надо вернуть агента, чтобы тот сорвал заговор группы киллеров, планирующих убить китайского премьер-министра.",
+               "image": "https://m.media-amazon.com/images/M/MV5BYmVhNDQ3NWEtYWMwNy00MzgwLTlkNTMtZDg3ZTYxMmY3Zjc5XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg"
+            }
+         },
+         "image": "https://m.media-amazon.com/images/M/MV5BYmVhNDQ3NWEtYWMwNy00MzgwLTlkNTMtZDg3ZTYxMmY3Zjc5XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_24_20/09/24/13/REXV6SQN/7JC3SDKI.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Агент Джонни Инглиш",
+         "titleFooter": "Агент Джонни Инглиш 3.0",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Агент Джонни Инглиш 3.0 (2018){col}{br}Образец английского стиля и любимец роковых красоток; король безвыходных ситуаций и хранитель аналоговых традиций в цифровом мире, агент Джонни Инглиш – боль и гордость британской разведки. Этому парню есть что взбалтывать, и он взболтает не по-детски.",
+               "image": "https://i.ibb.co/4VGJ4Rg/347112-logo-johnny-english-3-estreno-medium-claim.jpg"
+            }
+         },
+         "image": "https://i.ibb.co/4VGJ4Rg/347112-logo-johnny-english-3-estreno-medium-claim.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_03_23/01/03/22/E5G6YLT3/HTJ2AY4D.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}

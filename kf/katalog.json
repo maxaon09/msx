@@ -1,0 +1,146 @@
+{
+   "name": "Список",
+   "version": "1.0.0",
+   "background": "https://maxaon09.github.io/msx/kf/img/bac.jpg",
+   "headline": "КАТАЛОГ",
+   "dictionary": "https://maxaon09.github.io/lampaset/msx/lang/ru111.json",
+   "menu": [
+      {
+         "type": "separator"
+      },
+      {
+         "icon": "vertical-split",
+         "iconSize": "extra-large",
+         "label": "Все фильмы",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://olsib.at.ua/Project_Free/All.m3u8"
+      },
+      {
+         "type": "separator"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "Боевик",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/kf/pl/boeviky.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "Фантастика",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/kf/pl/fantastic.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "Фэнтези",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/kf/pl/fantasy.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "Комикс",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/kf/pl/komix.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "Приключения",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/kf/pl/adventure.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "small",
+         "label": "Ужастик",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/kf/pl/horror.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "Триллер",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/kf/pl/triler.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "Криминал",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/kf/pl/crime.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "Роман",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/kf/pl/roman.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "Комедия",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/kf/pl/comedy.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "СССР, ех-СССР",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/kf/pl/USSR.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "Анимационные",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/msx/kf/pl/mult.m3u8"
+      },
+      {
+         "type": "separator"
+      },
+      {
+         "type": "separator",
+         "icon": "vertical-split",
+         "iconSize": "extra-large",
+         "label": "{col:msx-white}БОНУС КОНТЕНТ"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "Сериалы 2",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://olsib.at.ua/Serial/Serial_2.m3u"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "В гостях у сказки",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://olsib.at.ua/Free/Playlist/tales_free.m3u"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "more.tv",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://olsib.at.ua/playlist/OLSIB-moretv.m3u"
+      },
+            {
+         "icon": "live-tv",
+         "iconSize": "extra-large",
+         "label": "OLSIB live-tv",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://olsib.at.ua/vip/List/OLSIB-tv.m3u"
+      },
+      {
+         "type": "separator"
+      }
+   ]
+}

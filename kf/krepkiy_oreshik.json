@@ -1,0 +1,126 @@
+{
+   "type": "list",
+   "headline": "КРЕПКИЙ ОРЕШЕК",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Крепкий орешек",
+         "titleFooter": "Крепкий орешек",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Крепкий орешек (1988){col}{br}Джон Макклейн попадает на корпоратив коллег своей жены, и чувствует себя чужим на этом празднике жизни. Но всё меняется, когда праздник сорван самым неожиданным образом. Небоскрёб компании захватывают террористы из Германии. Все в заложниках — один лишь Джон улизнул без ботинок и без рубашки.",
+               "image": "https://w.forfun.com/fetch/08/0813b8791474fdae4cb42eef3931fc6b.jpeg"
+            }
+         },
+         "image": "https://w.forfun.com/fetch/08/0813b8791474fdae4cb42eef3931fc6b.jpeg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_24_21/01/24/04/2KBIUWOH/2ZOYOKWD.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Крепкий орешек",
+         "titleFooter": "Крепкий орешек 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Крепкий орешек 2 (1990){col}{br}В канун Рождества группа террористов захватила международный аэропорт и теперь удерживает тысячи путешествующих в качестве заложников. Банда подготовлена ко всевозможным случайностям, за исключением одной, встречи с Джоном Макклейном, полицейским, который сражается не только с террористами, но и с некомпетентным шефом полиции аэропорта, тупоголовым начальником антитеррористического подразделения и страшным снежным бураном.",
+               "image": "https://pbs.twimg.com/media/EN1jZimWsAAZR-U.jpg"
+            }
+         },
+         "image": "https://pbs.twimg.com/media/EN1jZimWsAAZR-U.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_21_21/01/21/20/B2WD3JOO/NBQWZGTE.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Крепкий орешек",
+         "titleFooter": "Крепкий орешек 3: Возмездие",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Крепкий орешек 3: Возмездие (1995){col}{br} Над Нью-Йорком нависла угроза: некий террорист готов взрывать всех налево и направо. Вести переговоры он согласен лишь с лейтенантом Макклейном, хотя переговорами это сложно назвать: упивающийся своим могуществом преступник вынуждает копа сыграть с ним в игру...",
+               "image": "https://image.tmdb.org/t/p/w1280/ubo0EzdhGaL15NIkCnQO89D45do.jpg"
+            }
+         },
+         "image": "https://image.tmdb.org/t/p/w1280/ubo0EzdhGaL15NIkCnQO89D45do.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/01/CKDJXBRF/WZLADMBA.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Крепкий орешек",
+         "titleFooter": "Крепкий орешек 4",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Крепкий орешек 4 (2007){col}{br}Фильм о глобальной катастрофе, созданной одним конкретным человеком. Кто он? Злой гений, способный подчинить себе современные технологии. ФБР в замешательстве, но тут на помощь спецслужбам приходит полицейский в отставке Джон Маклейн. Он уже давно не ловит преступников, но это дело становится исключением.",
+               "image": "https://lumiere-a.akamaihd.net/v1/images/image_08ca8a72.jpeg"
+            }
+         },
+         "image": "https://lumiere-a.akamaihd.net/v1/images/image_08ca8a72.jpeg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/12_02_20/12/02/20/BNVKHPVL/JPSAWU2H.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Крепкий орешек",
+         "titleFooter": "Хороший день, чтобы умереть",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Крепкий орешек: Хороший день, чтобы умереть (2013){col}{br}Джон МакКлейн прибывает в Россию, чтобы спасти своего сына Джека, которого обвиняют в заказном убийстве. МакКлейн разрабатывает план действий, но по приезде в Москву понимает, что придется импровизировать. А тут еще оказывается, что Джек работает на ЦРУ и выполняет в России особую миссию по эвакуации диссидента-олигарха в США.",
+               "image": "https://picfiles.alphacoders.com/669/66971.jpg"
+            }
+         },
+         "image": "https://picfiles.alphacoders.com/669/66971.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/02_20_23/02/20/00/JTZ22OMT/SJRHSFDY.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fifth Item"
+         }
+      }
+   ]
+}

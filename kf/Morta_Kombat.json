@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "МОРТАЛ КОМБАТ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Мортал Комбат",
+         "titleFooter": "Смертельное оружие",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Смертельное оружие{col}{br}Несколько столетий назад маг из другого мира Шан Цзун захватил древний воинский турнир. Его цель — ввергнуть наш мир в хаос. Чтобы спасти человечество от гибели, троим воинам предстоит смертельная битва с силами мрака",
+               "image": "https://i.ytimg.com/vi/EYtnNqFIlvE/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/EYtnNqFIlvE/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/01_06_22/01/06/17/H67DOPHH/LTMNCC5N.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Мортал Комбат",
+         "titleFooter": "Смертельная битва 2: Истребление",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Смертельная битва 2: Истребление{col}{br}Мартин и его напарник Роджер напали на след могущественной наркомафии, которой заправляли выходцы из Южно-Африканского Союза. Полиции удалось арестовать одного из мошенников, помогавших мафиозо отмывать их грязные деньги.Этого важного свидетеля поручили охранять Мартину и Роджеру. Сами бандиты были неуязвимы, так как пользовались дипломатической неприкосновенностью...",
+               "image": "https://i.ytimg.com/vi/piwVPS-vZxE/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/piwVPS-vZxE/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/16/LAUDXXDY/HQSZAHGC.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Мортал Комбат",
+         "titleFooter": "Мортал Комбат (2021)",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Мортал Комбат{col}{br}Боец смешанных единоборств Коул Янг не раз соглашался проиграть за деньги. Он не знает о своем наследии и почему император Внешнего мира Шан Цзун посылает могущественного криомансера Саб-Зиро на охоту за Коулом. Янг боится за безопасность своей семьи, и майор спецназа Джакс, обладатель такой же отметки в виде дракона, как и у Коула, советует ему отправиться на поиски Сони Блейд. Вскоре Коул, Соня и наёмник Кано оказываются в храме Лорда Рейдена, Старшего Бога и защитника Земного царства, который дает убежище тем, кто носит метку. Здесь прибывшие тренируются с опытными воинами Лю Каном и Кун Лао, готовясь противостоять врагам из Внешнего мира, а для этого им нужно раскрыть в себе аркану — могущественную силу души.",
+               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3CakOb5mX15tzGgxmB3Yx34MMV-BbUv2r_w&usqp=CAU"
+            }
+         },
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3CakOb5mX15tzGgxmB3Yx34MMV-BbUv2r_w&usqp=CAU",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/01_21_22/01/21/20/HYOAGTGI/EJQZKQWS.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}

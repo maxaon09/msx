@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "БЕГУЩИЙ В ЛАБИРИНТЕ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Бегущий в лабиринте",
+         "titleFooter": "Бегущий в лабиринте",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Бегущий в лабиринте{col}{br}Главный герой — подросток Томас, который просыпается в лифте, но ничего не помнит, кроме своего имени. Он оказывается среди других подростков, научившихся выживать в замкнутом пространстве. Раз в 30 дней прибывает новый мальчик. Группа ребят проживает в «Приюте» уже три года. Они кормятся тем, что удается вырастить на земле, и пытаются найти выход из лабиринта, окружающего их место жительства. Но однажды появляется девочка в состоянии комы...",
+               "image": "https://thumbs.dfs.ivi.ru/storage28/contents/4/8/e621972d24d5dc21d3bf11aaa553cd.jpg/858x483//?q=85"
+            }
+         },
+         "image": "https://thumbs.dfs.ivi.ru/storage28/contents/4/8/e621972d24d5dc21d3bf11aaa553cd.jpg/858x483//?q=85",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_30_20/09/30/18/Q3BTMNZN/2SYVCDOI.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Бегущий в лабиринте",
+         "titleFooter": "Испытание огнём",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Бегущий в лабиринте: Испытание огнём{col}{br}Лабиринт пройден, но Томасу, Терезе, Минхо и прочим глэйдерам не приходится расслабляться. Таинственное руководство ПОРОКА - секретной организации, устроившей гонки на выживание - назначает ребятам новые, смертельно опасные испытания. На сей раз их ждет переход по раскаленной пустыне и встреча с жертвами неизлечимой болезни, которые отличаются буйным нравом и непредсказуемым поведением.",
+               "image": "http://images-s.kinorium.com/movie/poster/1442853/w1500_51639816.jpg"
+            }
+         },
+         "image": "http://images-s.kinorium.com/movie/poster/1442853/w1500_51639816.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_04_22/10/04/19/UHJR3WZQ/J2PH67KZ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Бегущий в лабиринте",
+         "titleFooter": "Лекарство от смерти",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Бегущий в лабиринте: Лекарство от смерти{col}{br}Томас возглавляет отряд выживших глейдеров, чтобы выполнить последнюю и самую опасную миссию. Ради спасения своих друзей они должны проникнуть в легендарный Последний город, смертоносный лабиринт, контролируемый ПОРОКом. Каждый, кто выживет там, наконец-то получит ответы на все вопросы, которые мучили глейдеров с момента попадания в лабиринт.",
+               "image": "https://img2.beritasatu.com/cache/beritasatu/910x580-2/1517214388.jpg"
+            }
+         },
+         "image": "https://img2.beritasatu.com/cache/beritasatu/910x580-2/1517214388.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_05_22/10/05/13/5XFS7CKZ/FBHMW5TP.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}

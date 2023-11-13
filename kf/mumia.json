@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "МУМИЯ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Мумия",
+         "titleFooter": "Мумия",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Мумия (1999){col}{br}На бескрайних просторах египетской пустыни компания сорвиголов разных национальностей рыщет в поисках несметных сокровищ фараона, над которыми тяготеет жуткое древнее проклятие. Золотоискатели потревожили многовековой покой гробницы, и мумия встает из могилы, чтобы погрузить мир в царство кошмара...",
+               "image": "http://images-s.kinorium.com/movie/poster/109217/w1500_50323794.jpg"
+            }
+         },
+         "image": "http://images-s.kinorium.com/movie/poster/109217/w1500_50323794.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_20_23/07/20/04/UBCKLTEM/QVF4TXEV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Мумия",
+         "titleFooter": "Мумия возвращается",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Мумия возвращается (2001){col}{br}Злой рок не дает очаровательной семье О'Конеллов насладиться спокойной жизнью. Зловещий жрец Имхотеп снова восстал из мертвых! Теперь у Рика, Эвелин и малютки Алекса есть всего семь дней, чтобы спасти мир...",
+               "image": "https://i.ytimg.com/vi_webp/0lW8UheWb5g/maxresdefault.webp"
+            }
+         },
+         "image": "https://i.ytimg.com/vi_webp/0lW8UheWb5g/maxresdefault.webp",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_09_23/05/09/18/LN6A2OWJ/X6N6QCXZ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Мумия",
+         "titleFooter": "Гробница Императора Драконов",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Мумия: Гробница Императора Драконов (2008){col}{br} Когда искатель приключений Алекс О`Коннелл случайно пробуждает властителя от вечной спячки, он вынужден искать помощи у единственных людей, которые знают, как справиться с воскресшими мертвецами: у своих родителей.",
+               "image": "https://pic.uma.media/pic/cardimage/9b/cb/9bcb7e1d6c2cfaea1c9ff738d4fc4be7.jpg?size=1603&quality=80"
+            }
+         },
+         "image": "https://pic.uma.media/pic/cardimage/9b/cb/9bcb7e1d6c2cfaea1c9ff738d4fc4be7.jpg?size=1603&quality=80",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_02_20/07/02/19/HTMA37MR/RXSVGPKB.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}

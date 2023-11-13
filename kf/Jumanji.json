@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "ДЖУМАНДЖИ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Джуманджи",
+         "titleFooter": "Джуманджи",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Джуманджи{col}{br}Случайно обнаружив настольную игру со странным названием «Джуманджи», Алан Пэрриш на глазах изумленной подружки перенёсся в джунгли. Он находился в этом мире до тех пор, пока двое ни о чем не подозревающих подростков не нашли игру и не сняли волшебные чары, освободив Алана из многолетнего плена. Теперь им предстоит решить нелегкую задачу - пройти немыслимые препятствия и одержать победу над силами магии.",
+               "image": "https://fons.pibig.info/uploads/posts/2023-06/thumbs/1685585366_fons-pibig-info-p-dzhumandzhi-fon-instagram-38.jpg"
+            }
+         },
+         "image": "https://fons.pibig.info/uploads/posts/2023-06/thumbs/1685585366_fons-pibig-info-p-dzhumandzhi-fon-instagram-38.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/04_04_22/04/04/00/P6HO5FBF/JGMSYRB3.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Джуманджи",
+         "titleFooter": "Джуманджи: Зов джунглей",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Джуманджи: Зов джунглей{col}{br}Четверо подростков оказываются внутри игры Джуманджи. Их ждет схватка с носорогами, черными мамбами, а на каждом шагу будет подстерегать бесконечная череда ловушек и головоломок. В игре они перевоплощаются: робкий и застенчивый Спенсер превращается в отважного и сильного исследователя, здоровяк Фридж – в коротышку-зоолога, модница и красавица Беттани – в полного профессора, а неуклюжая Марта становится бесстрашной и ловкой амазонкой. Друзьям придется привыкнуть к новым ролям, постараться не погибнуть и найти дорогу домой.",
+               "image": "https://d2eib6r9tuf5y8.cloudfront.net/l/assets/img/article/article-1669-gkpaejvt/keyvisual.jpg"
+            }
+         },
+         "image": "https://d2eib6r9tuf5y8.cloudfront.net/l/assets/img/article/article-1669-gkpaejvt/keyvisual.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/04_23_20/04/23/05/BUQZYIW4/ACWVHCBB.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Джуманджи",
+         "titleFooter": "Джуманджи: Новый уровень",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Джуманджи: Новый уровень{col}{br}Пытаясь спасти Спенсера, снова попавшего в игру, туда же отправляются и остальные. К их удивлению, правила Джуманджи изменились, и более того - на этот раз в игру затянуло дедулю Спенсера и его престарелого друга Майло. Чтобы выполнить задания и вернуться домой, друзьям предстоит отправиться в путешествие по ранее неизведанным и таинственным уголкам Джуманджи – от засушливой пустыни до заснеженных гор.",
+               "image": "https://static.okko.tv/images/v2/14578974?scale=1&quality=80"
+            }
+         },
+         "image": "https://static.okko.tv/images/v2/14578974?scale=1&quality=80",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/03_10_23/03/10/13/OSUXLYJY/6K2GIG7E.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}
