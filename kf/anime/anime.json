@@ -1,0 +1,214 @@
+{
+   "type": "list",
+   "dictionary": "https://maxaon09.github.io/msx/dictionary.json",
+   "headline": "МУЛЬТФРАНШИЗЫ",
+   "transparent": 2,
+   "preload": "next",
+   "underlay": {
+      "action": "[quiet|delay:backdrop:1:interaction:load:http://msx.benzac.de/interaction/backdrop.html]",
+      "data": {
+         "url": "none"
+      },
+      "items": [
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "0,0,6,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,3,3",
+      "area": "0,3,12,3",
+      "wrapperColor": "msx-glass",
+      "imageHeight": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover",
+      "truncation": "titleHeader|titleFooter",
+      "titleHeader": "",
+      "titleFooter": "",
+      "description": "No description available.",
+      "backdrop": "none",
+      "image": "none",
+      "selection": {
+         "important": true,
+         "action": "data",
+         "data": {
+            "actions": [
+               {
+                  "action": "invalidate:content:underlay:text"
+               },
+               {
+                  "action": "delay:text:1:update:content:underlay:text",
+                  "data": {
+                     "headline": "{context:titleHeader}",
+                     "text": "{context:titleFooter}{br}{br}{context:description}"
+                  }
+               },
+               {
+                  "action": "delay:backdrop:1:interaction:load:http://msx.benzac.de/interaction/backdrop.html",
+                  "data": {
+                     "url": "{context:backdrop}",
+                     "type": 1
+                  }
+               }
+            ]
+         }
+      },
+      "properties": {
+         "image:extension": "| {context:titleHeader}"
+      }
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Лего Бэтмен Супергерои",
+         "description": "Снятый на видео анимационный комедийный боевик о супергероях, основанный на видеоигре. Хотя в фильме есть ролики из видеоигры, игровой процесс заменен новыми сценами с теми же актерами. Сюжет вращается вокруг Лекса Лютора и Джокера, объединяющихся, чтобы уничтожить Готэм-Сити, а Бэтмен и Робин объединяются с Лигой справедливости, чтобы спасти Готэм. ",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AL5GRJWfcZ5oj_unuItjfzwrlP-frg0MOH05j-Boc1Dd=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://i.pinimg.com/originals/86/45/4c/86454c1710f16398e451ffd4e9eaf88f.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/LEGO.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}РАЛЬФ",
+         "description": "Ральф — второстепенный персонаж компьютерной игры, и ему надоело находиться в тени главного героя. После тридцати лет добросовестной работы в роли злодея Ральф больше не хочет быть плохим и отправляется в путешествие по играм разных жанров, чтобы доказать всем, что и он тоже может быть героем",
+         "backdrop": "https://yt3.ggpht.com/ytc/AKedOLTx5VEEpm5REogdfJU95Vmhcu8shrmqxPQ0qtk-=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://pbs.twimg.com/media/EYYX5laU0AMRYxM.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Ralph.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}КАК ПРИРУЧИТЬ ДРАКОНА",
+         "description": "Сериал повествует о дальнейших приключениях Иккинга и его верного дракона Беззубика, а также остальных юных викингов. Судьба занесёт героев в самые разные места, где они откроют совершенно новых драконов, найдут новые приключения и будут сражаться с новыми злодеями, познавая мир, о котором даже и не подозревали.",
+         "backdrop": "https://yt3.ggpht.com/a/AATXAJwu7mSJkfSK9JSjaB0A-SfFFV9AA4qMzuZ8=s900-c-k-c0xffffffff-no-rj-mo",
+         "image": "https://m.media-amazon.com/images/M/MV5BMTk2NTA4NTc5MF5BMl5BanBnXkFtZTcwNTI0Nzc4OQ@@._V1_.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/How_to_Train_Your_Dragon.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ШРЭК",
+         "description": "Погрузитесь в удивительный мир зеленого огра и его друзей через эту захватывающую и смешную франшизу. ... Все в сказочном королевстве боятся зеленого великана-отшельника, живущего на болоте в глубине леса. В один ужасный день его дом заполоняют всевозможные сказочные существа, изгнанные коварным лордом Фаркуадом.",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AOPolaS7oHDV4qd8z7ZYdoD3fro7IbtgaQ9ZLNqWqSe8=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://i.ytimg.com/vi/hSxrUUPNkzo/maxresdefault.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Shrek.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}КОТ В САПОГАХ",
+         "description": " Невероятные приключения хвостатого обольстителя, который мечтает найти волшебные бобы. Кот-авантюрист скрывается от властей, ведь за его мохнатую голову обещают солидную награду. ",
+         "backdrop": "https://yt3.ggpht.com/a/AATXAJx67J0tTdIZuK7JJbbu66K0NIVc4VQjHKmlRzNR=s900-c-k-c0xffffffff-no-rj-mo",
+         "image": "https://img.ixbt.site/live/topics/preview/00/03/80/47/adeee7376a.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Puss_in_ Boots.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}РАПУНЦЕЛЬ",
+         "description": " Она — принцесса королевства Корона, известная за свои волшебные длинные золотые волосы. Ещё ребёнком Рапунцель была похищена злобной старухой и спрятана в уединённой башне на восемнадцать лет, за время которых увлеклась тайной «летающих огоньков», появляющихся только в её день рождения. ",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AGIKgqOJldUyekiU5bgvgmEsf_4mXiWqAq9CQWUcoTbf=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://news.store.rambler.ru/img/fc616b1872530c97fa9004d757fd45e0?img-format=auto&img-1-resize=height:400,fit:max&img-2-filter=sharpen",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Tangled.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ХОЛОДНОЕ СЕРДЦЕ",
+         "description": "«Холодное сердце» — диснеевская медиафраншиза, начавшаяся с одноимённого мультфильма 2013 года, основанного на сказке Ханса Кристиана Андерсена «Снежная королева». «Фрозен: Холодное сердце» мало похожа на «Снежную королеву» Андерсона, но главное в том, что она передает сказочный дух, скрытый в его историях.",
+         "backdrop": "https://yt3.ggpht.com/ytc/AMLnZu_sNNPok-SeLjiNZWiesYF71ZYL4ohtJk1JkBE=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://i.servimg.com/u/f77/19/20/91/15/the-da15.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Frozen.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ЛЕДНИКОВЫЙ ПЕРИОД",
+         "description": "«Ледниковый период» — серия мультипликационных фильмов киностудии Blue Sky Studios, повествующая о приключениях Мамонта, Саблезубого тигра, Ленивца и Саблезубой белки в доисторические времена: от Ледникового периода до Дрейфа континентов.",
+         "backdrop": "https://yt3.ggpht.com/a/AATXAJxoAi5_LxZfCAyO2qjgxQRzhURXygPYG5R4vw=s900-c-k-c0xffffffff-no-rj-mo",
+         "image": "https://w.forfun.com/fetch/2c/2c7f368a182431c8864bede16929762c.jpeg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Ace_Age.json"
+      },
+            {
+         "titleHeader": "{col:msx-white}МОНСТРЫ НА КАНИКУЛАХ",
+         "description": "«Монстры на каникулах» — серия комедийных мультфильмов американского производства повествует о жизни графа Дракулы, который владеет отелем под названием «Трансильвания» куда могут приезжать монстры, чтобы отдохнуть от повседневных забот и не встречаться с шумными, опасными и надоедливыми людьми. ",
+         "backdrop": "https://yt3.ggpht.com/a/AATXAJyNfxSHuzlkzurMdF0--JlXMhNBX_e8Wu8ILYEN=s900-c-k-c0xffffffff-no-rj-mo",
+         "image": "https://www.desktopbackground.org/download/1024x768/2011/03/07/168443_hotel-transylvania-wallpapers_2560x1600_h.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Hotel_Transylvania.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ТРИ БОГАТЫРЯ",
+         "description": "«Три богатыря» — российская приключенческая комедийная франшиза, куда входят полнометражные мультипликационные фильмы, повествующих о приключениях трёх самых известных богатырей — Алёши Поповича, Добрыни Никитича и Ильи Муромца и сочетают в себе историю ранней России, Белоруссии и Украины, а также славянский и русский фольклор ",
+         "backdrop": "https://yt3.ggpht.com/a/AATXAJxe95B0Cf_kHLoivvCx-Q-M-uYvMLSrJsfWrQ=s900-c-k-c0xffffffff-no-rj-mo",
+         "image": "https://kartinki.pibig.info/uploads/posts/2023-04/1682339612_kartinki-pibig-info-p-kon-iz-trekh-bogatirei-kartinki-arti-pinte-45.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/tri_bogatyrya.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ИВАН ЦАРЕВИЧ И СЕРЫЙ ВОЛК",
+         "description": "Иван Царевич и Серый волк — русская франшизна полнометражных мультипликационных фильмов, повествующих о приключениях Ивана Царевича и Серого волка. Действие происходит в Тридевятом царстве. Каждый из мультфильмов имеет отдельный сюжет, но связан основными героями. Сюжет здесь переплетается с русским фольклором и современностью",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AOPolaRhV4klcywmL5Q1UZ3sPVCxif2neCCbPHHQbEVL=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://skachat.online/assets/Uploads/youtube/2021-07/_resampled/Fit10241024-ivan-tsarevich-i-seryy-volk-4-s-3264860020.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/ivan_tcarevich.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ТОМ И ДЖЕРРИ",
+         "description": "Непобедимый «Малыш» - фанат карате, полон светлых планов на будущее. Однако, невольное соучастие в ограблении, и только чудом вместо тюрьмы он попадает в армию. Оттуда возвращается жестокий зверь, боец без тени жалости даже к друзьям. ",
+         "backdrop": "https://yt3.googleusercontent.com/Y3ycm0H3CE-A5gOIevR142_rgC7fqdEbczVP8bkvMGAtnHZJx5JUzh4T5zS2Js2CqOhbGUFg7VE=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://www.kolpaper.com/wp-content/uploads/2021/02/Tom-and-Jerry-Background.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Tom_and_Jerry.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}МАДАГАСКАР",
+         "description": "Мадагаскар — серия анимационных фильмов, созданных компанией «DreamWorks Animationсм» о приключениях четырех животных из зоопарка, которые провели свою жизнь в блаженном плену и неожиданно были отправлены обратно в Африку. Теперь они должны бороться за выживание и попытаться вернуться в Нью-Йорк",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AGIKgqP50dXQOSzGm4V4gKRjf7d_2X5KgqSk0R2ida7PoA=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://gsflash.ru/images/gallery/15175.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Madagascar.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}Кунг-фу Панда",
+         "description": "Толстый, неуклюжий и ленивый панда по имени По мечтает стать Великим Воином. И однажды он отправляется на турнир, где легендарные воины — Тигр, Богомол, Обезьяна, Журавль и Гадюка — должны выбрать ученика. По предстоит постигнуть тайны боевого искусства кунг-фу и — самое важное! — поверить в себя. ",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AGIKgqOKOXmCUsSx1QG0WDUO5LaUzGb13vIibkDZiq7zRA=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://wallpapers.com/images/hd/kung-fu-panda-posing-with-other-heroes-up6sn2f2g87v6dgz.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Kung_Fu_Panda.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ГАДКИЙ Я",
+         "description": "«Гaдкий я» — aнимaциoннaя кoмeдийнaя фpaншизa, выпущeннaя кoмпaниeй Illumination и pacпpocтpaняeмaя cтудиeй Universal Pictures. Фpaншизa cocpeдoтoчeнa нa Гpю, cупep-злoдee (кoтopый пoзжe cтaнoвитcя oтцoм и ceкpeтным aгeнтoм), Миньoнax , eгo тpёx пpиёмныx дoчepяx (Мapгo, Эдит и Агнec) и eгo жeнe Люcи Уaйлд. ",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AGIKgqOnz3mmWCg81ExjfbbQYXKvSTjGBTGSZONxkAyPuQ=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://w.forfun.com/fetch/c4/c449ef5c78b430361b63711f1eac22f7.jpeg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Despicable_Me.json"
+      },
+            {
+         "titleHeader": "{col:msx-white}КОРПОРАЦИЯ МОНСТРОВ",
+         "description": " Все дети знают, что как только они ложатся спать и гаснет свет, отовсюду начинают появляться монстры. Но они даже не подозревают, что монстры их пугают не просто так, а потому что это их работа. Ни одному ребенку не позволено пересекать границу мира чудищ. Но однажды любопытной Бу все же удается пробраться в Монстрополис.",
+         "backdrop": "https://yt3.ggpht.com/0TTRnXhXkFgg6afPkvUtR1973a4aba-Sat8LmGVZx0wR4fFclvucFvfZtih278Gf853AMPFR7g=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://top10a.ru/wp-content/uploads/2021/03/korporaciya-monstrov-2001.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Monsters.json"
+      },
+            {
+         "titleHeader": "{col:msx-white}ТАЙНАЯ ЖИЗНЬ ДОМАШНИХ ЖИВОТНЫХ",
+         "description": "Что делают домашние животные, пока хозяева пропадают на работе? С тоской смотрят в окно? Смиренно дремлют на коврике у двери? Как бы не так. Они ведут свою тайную жизнь. ",
+         "backdrop": "https://yt3.ggpht.com/ytc/AMLnZu_6Ow2AYwfauHFRiYubJep-pj9MJ-8EsVUBg_tM7Q=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://lost-film-tv.ru/wp-content/uploads/2020/08/40.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Secret_Life_of_Pets.json"
+      },
+            {
+         "titleHeader": "{col:msx-white}СЕЗОН ОХОТЫ",
+         "description": "Что делают домашние животные, пока хозяева пропадают на работе? С тоской смотрят в окно? Смиренно дремлют на коврике у двери? Как бы не так. Они ведут свою тайную жизнь. ",
+         "backdrop": "https://yt3.googleusercontent.com/ytc/AOPolaS08DUstSLEoVrovZGr42kezw6cBstzzYGocSSY=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://www.stardust.it/uploads/img/movie/gallery/373861afd71257df4710ebeac19a82de1553469787-1620w.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Open_Season.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}ИСТОРИЯ ИГРУШЕК",
+         "description": " В спальне Энди его игрушки начинают жить своей жизнью, как только он выходит из комнаты. В день рождения мальчика царит паника — все боятся появления новой игрушки, которая перетянет внимание на себя. И только любимчик Эдди, ковбой Вуди, ни о чем не переживает.",
+         "backdrop": "https://yt3.ggpht.com/ytc/AKedOLQnxZxl7En5gk7PhWgjjf6Hzglc4B4CJZXE2hEE=s900-c-k-c0x00ffffff-no-rj",
+         "image": "https://w.forfun.com/fetch/fc/fc9c42bc7c203afc40cd90347a5ad1c5.jpeg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/Toy_Story.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}Суперсемейка",
+         "description": " Они обладают сверхъестественными способностями и относительно легко справлялись с мировым злом. Но в один прекрасный день папаше и его домочадцам приходится вновь облачиться в прорезиненные костюмы супергероев (а для этого нужно срочно сбросить лишние килограммы) и в очередной раз спасти человечество от таинственного злодея. ",
+         "backdrop": "https://yt3.ggpht.com/a/AGF-l79wTSDmd_16Z3toDmV4l1japJ1wG0ADEY58Ww=s900-c-k-c0xffffffff-no-rj-mo",
+         "image": "https://pic.rutubelist.ru/video/75/fb/75fb2bb864a390d62d9e14f421aa4650.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/The_Incredibles.json"
+      },
+      {
+         "titleHeader": "{col:msx-white}Тачки",
+         "description": "«Тачки» — серия компьютерно-анимационных мультфильмов и медиафраншиза Disney, события которой разворачиваются в мире, населённом антропоморфными автомобилями.",
+         "backdrop": "https://yt3.ggpht.com/ytc/AMLnZu_Wa4BEHrGmlI7rQab5RDu6-KR4-pPB1auZIf16JQ=s900-c-k-c0x00ffffff-no-rj",
+         "image": "http://yesofcorsa.com/wp-content/uploads/2017/12/Cars-2-Best-Wallpaper-1024x576.jpg",
+         "action": "content: https://maxaon09.github.io/msx/kf/anime/The_cars.json"
+      }
+   ]
+}

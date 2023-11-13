@@ -1,0 +1,126 @@
+{
+   "type": "list",
+   "headline": "Гадкий я",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Гадкий я",
+         "titleFooter": "Гадкий я",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Гадкий я{col}{br}Гадкий снаружи, но добрый внутри Грю намерен, тем не менее, закрепить за собой статус главного архизлодея в мире, для чего он решает выкрасть Луну при помощи созданной им армии миньонов. Дело осложняют конкуренты, вставляющие высокотехнические палки в колеса, и семейные обстоятельства в виде трех сироток, о которых Грю вынужден заботиться.",
+               "image": "https://mldentertainment.it/wp-content/uploads/2019/02/despicableme-1-1024x576.png"
+            }
+         },
+         "image": "https://mldentertainment.it/wp-content/uploads/2019/02/despicableme-1-1024x576.png",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/05_11_21/05/11/14/T2KCGGQJ/KYZMWY32.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Гадкий я",
+         "titleFooter": "Гадкий я 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Гадкий я 2{col}{br}В то время как Грю, бывший суперзлодей, приспосабливается к семейной жизни и пытается честным трудом зарабатывать в сфере бизнеса, тайные лаборатории Арктики оказываются украденными. Анти-Злодейская лига решает, что она нуждается в помощи Грю и его новобранцев в расследовании.",
+               "image": "https://i.ytimg.com/vi/LM4qAx04R94/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/LM4qAx04R94/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_11_21/05/11/00/MWR6FNUH/UYZCKBJB.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Гадкий я",
+         "titleFooter": "Миньоны (2015)",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Миньоны (2015){col}{br}Миньоны живут на планете гораздо дольше нас. У них одна навязчивая идея – служить самой Гадкой личности из имеющихся в наличии. Динозавры, фараоны, Дракула, Наполеон – все они оказались недолговечны. И тогда миньоны рванули в Нью-Йорк. Их ждут деньги, власть, роковая суперзлодейка Скарлет Оверкилл и, конечно же, вкуснейшая “банана”! Во всяком случае, так им кажется.",
+               "image": "https://i.ytimg.com/vi/A0SQ0HobtS8/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/A0SQ0HobtS8/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/06_17_21/06/17/18/BFFMFUE4/XGJLD7Q2.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Гадкий я",
+         "titleFooter": "Гадкий я 3",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Гадкий я 3{col}{br}Грядет третье пришествие. Многодетный суперагент, роковая красотка и бессмертные миньоны на подходе. Готовьтесь. Они будут править миром.",
+               "image": "https://thumbs.dfs.ivi.ru/storage15/contents/8/d/531263487b96b78328ea9f2a22b4c9.jpg/400x226/"
+            }
+         },
+         "image": "https://thumbs.dfs.ivi.ru/storage15/contents/8/d/531263487b96b78328ea9f2a22b4c9.jpg/400x226/",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/05_10_21/05/10/23/SYX66FMK/SARC7ZNK.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Гадкий я",
+         "titleFooter": "Миньоны: Грювитация",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Миньоны: Грювитация{col}{br}Миллион лет миньоны искали самого великого и ужасного предводителя, пока не встретили ЕГО. Знакомьтесь — Грю. Пусть он еще очень молод, но у него в планах по-настоящему гадкие дела, которые заставят планету содрогнуться.",
+               "image": "https://i.ytimg.com/vi/wfBThAlFqkI/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/wfBThAlFqkI/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/10_15_22/10/15/23/IMKGEUII/BWSAGPXU.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fifth Item"
+         }
+      }
+   ]
+}
