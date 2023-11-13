@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "СЕМЕЙКА АДДАМС",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Семейка Аддамс",
+         "titleFooter": "Семейка Аддамс",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Семейка Аддамс{col}{br}Черная комедия о колоритной семейке, обитающей в не менее колоритном доме. Глава семьи, Гомес Аддамс - очень самоуверенный и довольно импульсивный тип, который четверть века тому назад страшно поругался со своим старшим братом Фестером, после чего тот пропал без вести. Все попытки отыскать его были безуспешными. Но вот, однажды на пороге фамильного особняка появляется некто, очень похожий на Фестера. Но состоится ли триумфальное возвращение в семью «блудного брата»?",
+               "image": "https://images-s.kinorium.com/movie/poster/92499/w1500_51239216.jpg"
+            }
+         },
+         "image": "https://images-s.kinorium.com/movie/poster/92499/w1500_51239216.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_02_20/10/02/01/GBUJ6GL5/EFIIN5RX.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Семейка Аддамс",
+         "titleFooter": "Ценности семейки Аддамс",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Ценности семейки Аддамс{col}{br}У Гомеса и Мортиши Аддамсов рождается сын. Они нанимают для ухода за новорождённым няню Дебби Джелински, которая, соблазнившись богатством дяди Фестера, влюбляет его в себя и начинает плести интриги против остальной семьи. Юная Уэнсди Аддамс обнаруживает коварные замыслы няни и начинает слежку за ней. Но вскоре, за излишнюю любознательность, Уэнсди и Пагсли ссылают в детский лагерь...",
+               "image": "https://thumbs.dfs.ivi.ru/storage39/contents/4/2/2bd03401f782b1464abe5de3958573.jpg/400x226//"
+            }
+         },
+         "image": "https://thumbs.dfs.ivi.ru/storage39/contents/4/2/2bd03401f782b1464abe5de3958573.jpg/400x226//",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_22_21/01/22/18/JRKIS7V5/YEXSFJR7.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Семейка Аддамс",
+         "titleFooter": "Воссоединение семейки Аддамс",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Воссоединение семейки Аддамс{col}{br}Горестное известие поразило семью «вурдалаков» Адамсов: самые старшие - дедушка и бабушка - стали непонятным образом терять облик монстров.Чтобы предотвратить несчастье, Аддамсы собираются на семейный совет, где начинается целый каскад бесовских шуток и невероятных выходок со стороны всех Аддамсов от мала до велика. Итак, семейство Аддамсов снова вместе...",
+               "image": "https://horrorzone.ru/uploads/0-posters/posters-movie/a/addams-family-reunion/mini/addams-family-reunion00-377-216.jpg"
+            }
+         },
+         "image": "https://horrorzone.ru/uploads/0-posters/posters-movie/a/addams-family-reunion/mini/addams-family-reunion00-377-216.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/01_12_21/01/12/13/5BKGDWI3/MFDKCTWY.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}

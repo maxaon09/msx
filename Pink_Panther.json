@@ -1,0 +1,75 @@
+{
+   "type": "list",
+   "headline": "РОЗОВАЯ ПАНТЕРА",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Розовая пантера",
+         "titleFooter": "Розовая пантера",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Розовая пантера (2006){col}{br}С руки застреленного легендарного футбольного тренера исчезает огромный бриллиант, известный как «Розовая пантера». Расследование инцидента поручается недотепе-инспектору Клузо",
+               "image": "https://catherineasquithgallery.com/uploads/posts/2021-12/1639750094_255-catherineasquithgallery-com-p-rozovaya-pantera-fon-470.jpg"
+            }
+         },
+         "image": "https://catherineasquithgallery.com/uploads/posts/2021-12/1639750094_255-catherineasquithgallery-com-p-rozovaya-pantera-fon-470.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/12_27_18/12/27/22/H6yJxOeV/1080_JH0o74h6.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Розовая пантера",
+         "titleFooter": "Розовая пантера 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Розовая пантера 2 (2009){col}{br}Успех предыдущей миссии Жака Клюзо позволил инспектору-катастрофе занять место среди лучших детективов мира. В этот раз ему предстоит поймать международного преступника, похищающего исторические ценности, и снова вернуть «Розовую пантеру» на место.",
+               "image": "https://i.ytimg.com/vi/zwFI822sV3U/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/zwFI822sV3U/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/12_11_18/12/11/04/t2RNKEHg/1080_EmprthGp.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      }
+   ]
+}

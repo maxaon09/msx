@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "ЗАКЛЯТИЕ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Заклятие",
+         "titleFooter": "Заклятие",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Заклятие{col}{br}Эд и Лоррейн Уоррены — детективы, которые расследуют паранормальные дела. Однажды к ним обращается семья, страдающая от злого духа. Уоррены, вынужденные сражаться с могущественной демонической сущностью, сталкиваются с самым пугающим случаем в своей жизни.",
+               "image": "https://occ-0-300-58.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABdzMcdXJFu4a7G3FmYM2i3cP1yhIQWEYlU7kM0xubM1kfoY28jN5R3qKY87yY1xWxpGxO7k2ISbsPzGYWs9nBUzwSOi2VZ_39HaG.jpg?r=5c3"
+            }
+         },
+         "image": "https://occ-0-300-58.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABdzMcdXJFu4a7G3FmYM2i3cP1yhIQWEYlU7kM0xubM1kfoY28jN5R3qKY87yY1xWxpGxO7k2ISbsPzGYWs9nBUzwSOi2VZ_39HaG.jpg?r=5c3",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/04_21_23/04/21/14/OIQWKHVU/ZPBDTNTV.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Заклятие",
+         "titleFooter": "Заклятие 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Заклятие 2{col}{br}Новый случай, с которым столкнулись практикующие исследователи паранормальных явлений Эд и Лоррейн Уоррены. На этот раз вызов пришёл из северного пригорода Лондона, где семья из четырех детей и матери-одиночки подвергается нападениям потусторонних сил. Супругам предстоит выяснить, какова природа этих явлений, полтергейст ли это, или что-то другое, и главное — почему именно этот дом и именно эта семья.",
+               "image": "https://2x2tv.ru/upload/iblock/905/g9moreqyynu3qu2zbhfb6r5kfpcd9lsu.jpg"
+            }
+         },
+         "image": "https://2x2tv.ru/upload/iblock/905/g9moreqyynu3qu2zbhfb6r5kfpcd9lsu.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/04_21_23/04/21/15/VHR57CA4/AWCJKOVD.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Заклятие",
+         "titleFooter": "Заклятие 3: По воле дьявола",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Заклятие 3: По воле дьявола{col}{br}18 июля 1981 года Эд и Лоррейн Уоррены присутствовали при проведении экзорцизма над маленьким Дэвидом Глатцелом. Священник и семья мальчика безуспешно пытались изгнать злобную сущность, Эд заработал сердечный приступ, и тогда Арни — парень старшей сестры Дэвида — предложил демону свою душу.Некоторое время спустя Арни убивает своего домовладельца и после говорит, что не помнит произошедшего. Впервые в истории США подозреваемый в убийстве заявлет, что был одержим демоном, и теперь судьба парня зависит от того, смогут ли Уоррены найти этому доказательства.",
+               "image": "https://media.myshows.me/episodes/normal/a/00/a00ca68fcccca37477805fc4ee8fe188.jpg"
+            }
+         },
+         "image": "https://media.myshows.me/episodes/normal/a/00/a00ca68fcccca37477805fc4ee8fe188.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/04_22_23/04/22/00/INY4NIBW/VGCUASWP.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}

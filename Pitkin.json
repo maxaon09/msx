@@ -1,0 +1,143 @@
+{
+   "type": "list",
+   "headline": "Мистер Питкин",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Мистер Питкин",
+         "titleFooter": "Вверх тормашками",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Мистер Питкин: Вверх тормашками (1956){col}{br}Норман Питкин работает мойщиком окон в шикарном особняке. Однажды сына хозяев дома похищают бандиты. Однако они не учли, что окна в этом доме моет не кто-нибудь, а сам мистер Питкин! ",
+               "image": "https://i.ytimg.com/vi/MWBJnuPp4Bw/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/MWBJnuPp4Bw/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_22_20/09/22/11/475UT2KB/4ASLYE3O.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Мистер Питкин",
+         "titleFooter": "В тылу врага",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Мистер Питкин в тылу врага (1958){col}{br}В результате нелепой ошибки рядовой стройбата Питкин забрасывается с отрядом десантников в тыл противника. Преодолев растерянность и воспользовавшись своим сходством с немецким генералом, Питкин спасает попавших в плен друзей и возвращается домой настоящим героем.",
+               "image": "https://www.kino-teatr.ru/movie/poster/19829/90248.jpg"
+            }
+         },
+         "image": "https://www.kino-teatr.ru/movie/poster/19829/90248.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_22_20/09/22/11/MNQQCQHJ/Y54HU4C5.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Мистер Питкин",
+         "titleFooter": "Мистер Питкин на эстраде",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Мистер Питкин на эстраде (1959){col}{br}Мистер Питкин – работник прачечной, который мечтает о славе. Однажды он знакомится с известным певцом и получает приглашение на концерт. Этот день перевернет жизни им обоим.",
+               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-QlHrIE84zBQ66hewwrRTQhPgEAy0H91eyw&usqp=CAU"
+            }
+         },
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-QlHrIE84zBQ66hewwrRTQhPgEAy0H91eyw&usqp=CAU",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/09_22_20/09/22/12/T7RVMWGO/CROVHSAJ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Мистер Питкин",
+         "titleFooter": "Порода бульдог",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Мистер Питкин: Порода бульдог (1960){col}{br} Помощник бакалейщика Норман очень хотел любить и быть любимым, но… со вторым пунктом ему явно не повезло. От отчаяния и безысходности он вербуется на службу в Военно-Морской Флот Ее Величества. Тут-то и начинается самое интересное… ",
+               "image": "https://i1.wp.com/image.tmdb.org/t/p/w1280/mzLhm4dq9AOzAmIOMC3TRiCWU8d.jpg"
+            }
+         },
+         "image": "https://i1.wp.com/image.tmdb.org/t/p/w1280/mzLhm4dq9AOzAmIOMC3TRiCWU8d.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/09_22_20/09/22/12/T7RVMWGO/CROVHSAJ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Мистер Питкин",
+         "titleFooter": "Девушка на борту",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Мистер Питкин: Девушка на борту (1962){col}{br}Главные события этой комедии разворачиваются на борту трансатлантического лайнера, идущего из Нового Света в Европу. В Америке Сэма Марлоу постигла неудача. Его зловредная тетка отказала любимому племяннику в финансовой помощи. Во время путешествия Сэм знакомится с очаровательной Билли, и забывает обо всех неприятностях. Но приключения только начинаются…",
+               "image": "https://image.invaluable.com/housePhotos/Ewbank/46/626046/H0472-L144648027.jpg"
+            }
+         },
+         "image": "https://image.invaluable.com/housePhotos/Ewbank/46/626046/H0472-L144648027.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/09_22_20/09/22/11/NK724KGV/V5BXJNFJ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Мистер Питкин",
+         "titleFooter": "Приключения Питкина в больнице",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Приключения Питкина в больнице (1963){col}{br}Мистер Гримсдейл - хозяин мясной лавки, в которой работает Мистер Питкин, во время ограбления со страху проглатывает свои карманные часы. Питкин звонит в скорую помощь, и вместе с санитарами приезжает в больницу, где и начинается очередная серия смешных и нелепых приключений Питкина.",
+               "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rB4ZByKJ9t8pI5OdLdJx5z202Ed.jpg"
+            }
+         },
+         "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rB4ZByKJ9t8pI5OdLdJx5z202Ed.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/09_22_20/09/22/12/T7RVMWGO/CROVHSAJ.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}

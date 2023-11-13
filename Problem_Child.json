@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "Трудный ребенок",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Трудный ребенок",
+         "titleFooter": "Трудный ребенок",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Трудный ребенок{col}{br}Бен и его жена Фло, стремящаяся пробиться в высшее общество, усыновляют Джуниора, прелестное и забавное семилетнее существо. Однако вскоре они убеждаются, что их приемный сын — маленькое чудовище, которое ухитряется превратить отдых в кемпинге, праздник по случаю дня рождения и даже бейсбольный матч в подлинный кошмар.",
+               "image": "https://thumbs.dfs.ivi.ru/storage8/contents/3/7/256873ab9834c117f6134850148148.jpg/400x226/"
+            }
+         },
+         "image": "https://thumbs.dfs.ivi.ru/storage8/contents/3/7/256873ab9834c117f6134850148148.jpg/400x226/",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/10_05_22/10/05/14/KBSVF3EM/ZLKABBK4.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Трудный ребенок",
+         "titleFooter": "Трудный ребенок 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Трудный ребенок 2{col}{br}Озорник Джуниор Хили - невозможный ребенок, но приемный отец терпит его выходки и старается сдержать свой гнев, ведь Джуниор - всего лишь маленький мальчик, хотя и трудный. Ситуация в семье изменилась с момента первой части фильма. Папа Хили развелся со своей женой и переехал вместе с сыном в квартал, где живут в основном разведенные женщины.Сразу же папа Хили становится объектом пристального внимания этих «хищниц». Вскоре Хили-старший связывает себя обязательствами по отношению к женщине, которая ненавидит Хили-младшего. В ответ Джуниор приводит в дом свою маленькую подружку - трудного ребенка №2...",
+               "image": "https://i.ytimg.com/vi/7oKUOQgEf0U/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/7oKUOQgEf0U/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/10_05_22/10/05/13/RCHHGGMQ/OZIUGE6S.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Трудный ребенок",
+         "titleFooter": "Трудный ребенок 3",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Трудный ребенок 3{col}{br}Малыш Хили учится в начальной школе и с трудом поддается воспитательному процессу. Учительница считает маленького хулигана исчадием ада. Родители едва успевают отбиваться от жалоб. Вдруг, неожиданно для всех и для себя, мальчишка влюбляется в одноклассницу по имени Тиффани.Но девочка его даже не замечает. Зато она весьма благосклонна к трем другим мальчикам, его постоянным соперникам. Это означает только одно - войну! Для начала наш герой решает как следует поколотить конкурентов. Кроме того, у него в запасе есть масса средств, чтобы доказать, что он самый лучший.",
+               "image": "https://images.justwatch.com/backdrop/177680961/s1440/trudnyi-rebenok-3"
+            }
+         },
+         "image": "https://images.justwatch.com/backdrop/177680961/s1440/trudnyi-rebenok-3",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/05_04_20/05/04/15/EBRJO4T5/NZB4A5CK.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}

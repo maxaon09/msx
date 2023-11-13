@@ -1,0 +1,126 @@
+{
+   "type": "list",
+   "headline": "РЕЗИДЕНТ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Резидент ",
+         "titleFooter": "Ошибка резидента",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Ошибка резидента{col}{br}Опытный разведчик, сын русского эмигранта графа Тульева, должен добыть для западных спецслужб сведения о разработках в советской атомной промышленности.",
+               "image": "https://i.ytimg.com/vi/dzzjGsA3U70/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/dzzjGsA3U70/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/08_24_21/08/24/14/F4DJLKFU/JEBNS23J.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Резидент",
+         "titleFooter": "Судьба резидента",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Судьба резидента - 1 серия{col}{br}Советские контрразведчики решают не прекращать «игру» с противником, и используют перевербованного шпиона Тульева, находящегося в заключении. В западный разведцентр вновь идут шифровки за подписью «Надежда».",
+               "image": "https://i.ytimg.com/vi/4sr3TpEyF5M/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/4sr3TpEyF5M/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:http://divantv.zz.mu/kinomovie/collaps.master.m3u.php?kp_id=44023&t=1&v=1&e=1&s=1@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Резидент",
+         "titleFooter": "Судьба резидента",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Судьба резидента - 2 серия{col}{br}Советские контрразведчики решают не прекращать «игру» с противником, и используют перевербованного шпиона Тульева, находящегося в заключении. В западный разведцентр вновь идут шифровки за подписью «Надежда».",
+               "image": "https://i.ytimg.com/vi/4sr3TpEyF5M/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/4sr3TpEyF5M/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction: http://divantv.zz.mu/kinomovie/collaps.master.m3u.php?kp_id=44023&t=1&v=1&e=2&s=1@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Резидент",
+         "titleFooter": "Возвращение резидента",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Возвращение резидента{col}{br}Разведчик Михаил Тульев продолжает свою деятельность в стане врага. Вскоре ему предстоит узнать информацию о гибели отца, выйти на нацистского преступника и раскрыть планы о диверсионной акции западных спецслужб на территории СССР.",
+               "image": "https://i.ytimg.com/vi/hdCOAGSG1ts/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA3HhMHLb4mgG43no7r-F0kbmKaug"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/hdCOAGSG1ts/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA3HhMHLb4mgG43no7r-F0kbmKaug",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/08_24_21/08/24/16/L7FBFPIW/5NZ3EM5J.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Резидент",
+         "titleFooter": "Конец операции «Резидент»",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Конец операции «Резидент»{col}{br}На Михаила Тульева вновь совершается покушение. Тем временем на территории СССР действует резидент и наёмный убийца Брокман, обезвредить которого становится главной задачей советских контрразведчиков.",
+               "image": "https://i.ytimg.com/vi/fZeVzBusW80/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/fZeVzBusW80/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/08_24_21/08/24/14/FLBL5WSQ/6YQSKIFL.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      }
+   ]
+}

@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "ЧАС ПИК",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Час пик",
+         "titleFooter": "Час пик",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Час пик{col}{br}В Лос-Анджелесе злодеи похищают малолетнюю дочь китайского консула, которую в Гонконге учил кунг-фу инспектор Ли. Консул вызывает Ли в Америку, чтобы тот принял участие в освобождении девочки.Агенты ФБР обратились к полиции с просьбой выделить им самого никчемного сотрудника, чтобы тот взял китайца на себя и показал ему достопримечательности, а главное, не позволил вмешиваться в их дела.Им оказывается самый болтливый полицейский Картер. Естественно, после ряда разногласий и недоразумений они объединяют усилия и всерьез берутся за вызволение заложницы.",
+               "image": "https://cs14.pikabu.ru/post_img/big/2021/05/27/6/1622109150156568780.png"
+            }
+         },
+         "image": "https://2x2tv.ru/upload/iblock/9e0/0pkrkiovt6tsh0lapg4op77v5wnei1st.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/12_19_22/12/19/18/RQ67EWV6/BA3MJ2QR.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Час пик",
+         "titleFooter": "Час пик 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Час пик 2{col}{br}Полицейские Ли и Картер прибывают в Гонконг по следам преступников, замышляющих похищение китайских сокровищ и их продажу в США. По мере того как детективы всё больше и больше запутываются в преступном заговоре, поездка от Гонконга до Лос-Анджелеса и Лас-Вегаса оборачивается для них опасным и интересным приключением.",
+               "image": "https://g-rafa.co.il/wp-content/uploads/2019/10/01119U-1.jpg"
+            }
+         },
+         "image": "https://g-rafa.co.il/wp-content/uploads/2019/10/01119U-1.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/12_19_22/12/19/18/FRU5DGFJ/QILHDB5G.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Час пик",
+         "titleFooter": "Час пик 3",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Час пик 3{col}{br}Лос-анджелесского полицейского Картера понижают в должности. Гонконгский полицейский Ли должен охранять китайского посла Хана, который прибыл в Лос-Анджелес, чтобы разоблачить китайский криминальный синдикат. Наёмному убийце удаётся ранить посла. Ли бросается вдогонку за преступником. Картер мчится на место преступления, но только мешает Ли.",
+               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSokNEYOTr9lBBvN9s89HLlWWLcXFJzt7PSQ&usqp=CAU"
+            }
+         },
+         "image": "https://2x2tv.ru/upload/iblock/7b4/nfgubaa9zs27ptw0o1eu8692fdv3jbfs.jpg",
+         "action": "video:resolve:request:interaction: https://hye1eaipby4w.takedwn.ws/12_20_22/12/20/01/R5AGD44R/PE4Z53NR.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}

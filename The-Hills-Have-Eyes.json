@@ -1,0 +1,75 @@
+{
+   "type": "list",
+   "headline": "У ХОЛМОВ ЕСТЬ ГЛАЗА",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}У холмов есть глаза",
+         "titleFooter": "У холмов есть глаза",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}У холмов есть глаза (2006){col}{br}Путешествуя по Америке в доме на колесах, семейство Картеров, попав в аварию, оказывается в таинственной ядерной зоне, отрезанной от цивилизации. Однако со временем Картеры обнаруживают, что на этой вроде бы пустынной территории обитает кровожадная семейка мутантов, которые начинают вести охоту на них…",
+               "image": "https://www.disneyplusinformer.com/wp-content/uploads/2021/09/The-Hills-Have-Eyes.jpg"
+            }
+         },
+         "image": "https://www.disneyplusinformer.com/wp-content/uploads/2021/09/The-Hills-Have-Eyes.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/06_27_20/06/27/10/KWXB63OB/YW53E56K.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}У холмов есть глаза",
+         "titleFooter": "У холмов есть глаза 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}У холмов есть глаза 2 (2007){col}{br}Получив сигнал тревоги, исходящий с отдаленной горной возвышенности, группа военных решает отправиться в этот район, чтобы помочь терпящим бедствие. Спасатели не знают, что их поджидают кровожадные мутанты-каннибалы",
+               "image": "https://www.wallpaperup.com/uploads/wallpapers/2013/11/08/171670/cfe08dce590cbcfb663d187049bd10c5-700.jpg"
+            }
+         },
+         "image": "https://www.wallpaperup.com/uploads/wallpapers/2013/11/08/171670/cfe08dce590cbcfb663d187049bd10c5-700.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/11_07_19/11/07/03/s8IuPeAy/1080_VRiLXrzB.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}

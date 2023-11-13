@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "ПОСЛЕДНИЙ БОГАТЫРЬ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Последний богатырь",
+         "titleFooter": "Последний богатырь",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Последний богатырь (2017){col}{br}Победитель «Битвы магов» Святозар, а на самом деле — обычный парень Иван, привычно пудрит мозги телезрителям и доверчивым клиентам, готовым поверить во что угодно. Однажды, спасаясь бегством от крепких охранников мужа очередной одураченной им домохозяйки, парень внезапно переносится из Москвы в сказочную страну Белогорье.",
+               "image": "https://uhd.name/uploads/posts/2022-09/1663244060_1-uhd-name-p-sviter-poslednii-bogatir-devushka-oboi-3.jpg"
+            }
+         },
+         "image": "https://uhd.name/uploads/posts/2022-09/1663244060_1-uhd-name-p-sviter-poslednii-bogatir-devushka-oboi-3.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/11_25_20/11/25/15/C4ZPZWVB/DCJJGI5K.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Последний богатырь",
+         "titleFooter": "Корень зла",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Последний богатырь: Корень зла (2020){col}{br}Во второй части зрители узнают об истоках древнего зла, с которым героям пришлось столкнуться в первом фильме, увидят новые уголки сказочного Белогорья, и станут свидетелями захватывающих схваток с участием былинных богатырей.",
+               "image": "https://images.kinorium.com/movie/poster/1659329/w1500_50263481.jpg"
+            }
+         },
+         "image": "https://images.kinorium.com/movie/poster/1659329/w1500_50263481.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/05_05_21/05/05/15/J2LJU37L/PUNN4MQU.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Последний богатырь",
+         "titleFooter": "Посланник Тьмы",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Последний богатырь: Посланник Тьмы (2021){col}{br}Иван наконец обрел силушку богатырскую, злой чародей Роголеб повержен, и теперь все Белогорье готовится к пиру на весь мир: Иван и Василиса собираются праздновать свадьбу. В самый разгар приготовлений к празднику зло снова напоминает о себе: Василиса похищена, и в пылу погони Иван и его друзья оказываются в современной Москве",
+               "image": "https://ucare.timepad.ru/0cdd8e01-98eb-4ae5-ad67-4977184dde33/poster_event_2141095.jpg"
+            }
+         },
+         "image": "https://ucare.timepad.ru/0cdd8e01-98eb-4ae5-ad67-4977184dde33/poster_event_2141095.jpg",
+         "action": "video:https://hye1eaipby4w.takedwn.ws/02_17_22/02/17/09/MAZ2CZ2T/MRJGH7RC.mp4/master.m3u8",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      }
+   ]
+}

@@ -1,0 +1,194 @@
+{
+   "type": "list",
+   "headline": "ЗВЕЗДНЫЙ ПУТЬ",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "6,0,6,6",
+            "offset": "0.58,-1,0.17,1.67",
+            "color": "msx-black-soft"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "7,0,5,3",
+            "color": "msx-glass",
+            "image": "none",
+            "imageFiller": "cover"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "7,3,5,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,6,1",
+      "area": "0,0,6,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 1.83,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "titleHeader": "{col:msx-white}Звездный путь",
+         "titleFooter": "Звездный путь",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Звездный путь: Фильм (1979){col}{br}Из глубин космоса, через Клингонский сектор к Земле приближается неопознанный объект просто гигантских размеров с неясными, но, возможно, враждебными намерениями, и Энтерпрайз оказывается единственным кораблем, способным успеть вовремя добраться до этого объекта для его исследования и ликвидации потенциальной опасности для Земли.",
+               "image": "https://cdn.mos.cms.futurecdn.net/kmZSqddQFUohgnSFqRtbL3-1200-80.jpg"
+            }
+         },
+         "image": "https://cdn.mos.cms.futurecdn.net/kmZSqddQFUohgnSFqRtbL3-1200-80.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_23_22/09/23/18/UIUYN3KK/I3XZY2TR.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}First Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Звездный путь",
+         "titleFooter": "Звездный путь 2",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Звездный путь 2: Гнев Хана{col}{br}Кризис среднего возраста, случившийся у адмирала Кирка, казался ему вещью первостепенной важности. Но только до тех пор, пока он не получил сообщение с планеты Сеты Альфа 5 о том, что объявился его давний враг, жаждущий мщения.Хан, генетически созданный сверхчеловек, с сильно развитыми интеллектом, физической силой и амбициями, уже встречался один раз команде «Энтерпрайза », но тогда его и его людей, решивших захватить корабль, остановили и в наказание оставили на первой попавшейся пригодной для жизни планете.И вот теперь, спустя 15 лет, Хан смог выбраться из своего принудительного отшельничества. И цель у него только одна — уничтожить Кирка, которого он считает виновником всех своих несчастий. Давнее противостояние двух сильных личностей теперь развернется на фоне секретных экспериментов Федерации по терраформированию планет.Но на этот раз Кирку придется победить, чего бы это ни стоило, и начинать ему придется с победы над собственным эго...",
+               "image": "https://graphicnovelty2.files.wordpress.com/2022/09/khan.jpg?w=640"
+            }
+         },
+         "image": "https://graphicnovelty2.files.wordpress.com/2022/09/khan.jpg?w=640",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_14_20/07/14/08/G6Q36A2A/EGP3RK4D.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Second Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Звездный путь",
+         "titleFooter": "Звездный путь 3",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Звездный путь 3: В поисках Спока {col}{br}Поражение Хана и создание планеты Генезис стали очередным триумфом капитана Джеймса Т. Керка; но для него эти победы больше не имеют значения. Керк потерял одного из своих лучших друзей, Спока, который погиб, спасая «Энтерпрайз», и эта потеря невосполнима.Одновременно с этим Керк близок к тому, чтобы потерять еще одного своего лучшего друга, Мак-Коя, который потерял рассудок.Неожиданный визит Зарека, отца Спока, проясняет ситуацию и дает Керку надежду - Спок жив, и его разум в данный момент помещен в тело Мак-Коя. Чтобы помочь друзьям, Керк угоняет свой корабль, к тому времени уже предназначенный на слом, и нарушает установленный Федерацией карантин на планете Генезис, на которой работает научная экспедиция во главе с его сыном Дэвидом.Но в это же время о существовании Генезиса узнают Клингоны, и их боевой корабль под управлением командира Крюге спешно направляется к планете Генезис. Их встреча неизбежна...",
+               "image": "https://1.bp.blogspot.com/-s3IBUkcT-BA/YKv4GImInZI/AAAAAAAAccE/tYyApOG-DwwKYQt0iY0DvMkMu42f4_uRgCLcBGAsYHQ/s1000/Star%2BTrek%2BIII.jpgм"
+            }
+         },
+         "image": "https://1.bp.blogspot.com/-s3IBUkcT-BA/YKv4GImInZI/AAAAAAAAccE/tYyApOG-DwwKYQt0iY0DvMkMu42f4_uRgCLcBGAsYHQ/s1000/Star%2BTrek%2BIII.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_26_22/09/26/11/ZXK6OV3P/FYTERGPE.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Third Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Звездный путь",
+         "titleFooter": "Звездный путь",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Звездный путь 4: Дорога домой{col}{br}Возвращаясь домой с Вулкана на экспроприированном клингонском космическом корабле, Кирк и его команда заранее готовятся к худшему. Хотя долг чести выполнен, и Спок снова с нами живой и здоровый, у команды нет более причин радоваться, особенно когда они начинают вспоминать о попутно содеянных проступках.Неподчинение приказу, угнанный, а затем и самоликвидированный «Энтерпрайз», саботированный «Эксцельсиор» - все это заставляет их строить отнюдь не радужные предположения относительно того, чем их встретит Земля.",
+               "image": "https://i.ytimg.com/vi/NQYqpuU7MhY/maxresdefault.jpg"
+            }
+         },
+         "image": "https://i.ytimg.com/vi/NQYqpuU7MhY/maxresdefault.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_26_22/09/26/11/BFEGR3MI/7LVW3HAE.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fourth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Звездный путь",
+         "titleFooter": "Звездный путь 5",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Звездный путь 5: Последний рубеж{col}{br}Кризис, разразившийся на песчаной планете Нимбус III (Nimbus III), расположенной в нейтральной зоне, казалось бы, был всего лишь еще одним актом заявления о себе местного бунтарства, желающем лишь привлечь внимание Федерации - но не на этот раз.Теперь у повстанцев есть лидер, уроженец планеты Вулкан по имени Сайбок (Sybok), обладающий выдающимися даже по вулканеанским меркам парапсихологическими способностями - ему достаточно лишь краткого общения для того, чтобы человек либо другой инопланетянин испытывал к нему чувство безраздельного доверия.Сайбок объявляет себя новым мессией и собирается отправиться на поиски - кого бы вы думали? - Бога! И некстати подвернувшийся ему под руку «Энтерпрайз» со своей командой будет вынужден выполнить данную миссию, ведь даже Спок, один из немногих не поддавшися внушению, не может поднять руку на своего... родного брата.",
+               "image": "https://warpfactortrek.com/wp-content/uploads/2021/06/TFF.jpg"
+            }
+         },
+         "image": "https://warpfactortrek.com/wp-content/uploads/2021/06/TFF.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_26_22/09/26/11/TM543ULG/B5IGXPSA.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Fifth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Звездный путь",
+         "titleFooter": "Звездный путь 6",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Звездный путь 6: Неоткрытая страна{col}{br}После взрыва Праксиса, одной из лун Кроноса, уничтожившего у клингонов практически все средства к существованию, противостояние Федерации и Клингонской Империи окончилось. Настала пора мирных переговоров, но, как выяснилось, не все хотят мира — некоторых устраивает непрекращающаяся война.Кирк и его верный экипаж, уже «без пяти минут в отставке», получают секретное задание провести первый, подготовительный раунд мирных переговоров с Канцлером Клингонской Империи. Но происходит непредвиденное — на клингонский корабль совершено нападение, канцлер убит, переговоры сорваны, и в этом злодеянии обвиняется «Энтерпрайз», а конкретно — капитан Кирк и доктор МакКой.Пока высшие чины Федерации размышляют, как им поступить, Клингонский суд приговаривает их к тюремному заключению на отделенном, покрытом вечными льдами астероиде. Но они не теряют надежды — потому, что они офицеры Звездного Флота, и потому, что у Кирка есть миссия — он давно догадался, что это заговор, имеющий целью сорвать мирные переговоры, и постепенно он начинает раскрывать его.А в это время «Энтерпрайз» под командованием Спока тайно летит им на выручку...",
+               "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b9a551a-0102-4cbd-91d0-292a58acd680/de4hs1i-b992cad3-6547-4a61-8ffb-ae15faa6214b.png/v1/fill/w_1024,h_576,q_80,strp/star_trek_vi_the_undiscovered_country_wallpaper_by_pzns_de4hs1i-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvMWI5YTU1MWEtMDEwMi00Y2JkLTkxZDAtMjkyYTU4YWNkNjgwXC9kZTRoczFpLWI5OTJjYWQzLTY1NDctNGE2MS04ZmZiLWFlMTVmYWE2MjE0Yi5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.KQu_ez0D8C1A9TLBic6IL-DhKS5-r-FowIssqbjsgOY"
+            }
+         },
+         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b9a551a-0102-4cbd-91d0-292a58acd680/de4hs1i-b992cad3-6547-4a61-8ffb-ae15faa6214b.png/v1/fill/w_1024,h_576,q_80,strp/star_trek_vi_the_undiscovered_country_wallpaper_by_pzns_de4hs1i-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvMWI5YTU1MWEtMDEwMi00Y2JkLTkxZDAtMjkyYTU4YWNkNjgwXC9kZTRoczFpLWI5OTJjYWQzLTY1NDctNGE2MS04ZmZiLWFlMTVmYWE2MjE0Yi5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.KQu_ez0D8C1A9TLBic6IL-DhKS5-r-FowIssqbjsgOY",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/09_23_22/09/23/17/5KTCI6UA/3F447G3X.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Звездный путь",
+         "titleFooter": "Звездный путь 7",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Звездный путь 7: Поколения{col}{br}Капитан Кирк попадает в космическую воронку. 75 лет спустя потомки звёздных путешественников натыкаются на эту же самую воронку и сталкиваются с безумцем — разрушителем, мечущемся по звёздным дорожкам в поисках бессмертия. Капитан Пикард отказывается от собственного бессмертия во имя жизни будущих поколений и вступает в смертельную схватку с безумцем.",
+               "image": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/47acc5626e32d46b77b1bdfafab8b46e4a8dfb1b882ddf12a1d4db432ba1a9c7._UY500_UX667_RI_TTW_.jpg"
+            }
+         },
+         "image": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/47acc5626e32d46b77b1bdfafab8b46e4a8dfb1b882ddf12a1d4db432ba1a9c7._UY500_UX667_RI_TTW_.jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_12_20/07/12/04/ADQOJ326/CVKVJMFY.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Звездный путь",
+         "titleFooter": "Звездный путь 8",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Звездный путь: Первый контакт {col}{br}Посланцы враждебной инопланетной цивилизации проникают в прошлое, и первый контакт человечества с внеземным разумом, способный положить начало новой космической эры, оказывается под угрозой срыва. Перед экипажем легендарного космического корабля «Энтерпрайз» и его мужественным капитаном Пикардом стоит трудная и опасная задача — помешать осуществлению планов врага и спасти будущее Земли.",
+               "image": "https://thumbs.dfs.ivi.ru/storage2/contents/8/8/d2f87f99cefcf9580ff41ae5104232.jpg/858x483//?q=85"
+            }
+         },
+         "image": "https://thumbs.dfs.ivi.ru/storage2/contents/8/8/d2f87f99cefcf9580ff41ae5104232.jpg/858x483//?q=85",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/07_15_20/07/15/13/OBX5R773/LY45QVE7.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      },
+      {
+         "titleHeader": "{col:msx-white}Звездный путь",
+         "titleFooter": "Звездный путь 9",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "{col:msx-white}Звездный путь: Восстание{col}{br}С самого основания Федерации Генеральная директива четко гласит: «Ни одна из экспедиций Звездного флота не должна вмешиваться в естественное развитие других цивилизаций». В этот раз отважному Пикарду пришлось столкнуться с приказом, нарушающим это постановление.Если капитан звездолета «Энтерпрайз» подчинится приказу, 600 безобидных обитателей планеты Ба Ку будут насильственно вывезены за пределы их прекрасного мира. Это будет сделано во имя мнимого благоденствия миллионов, которые почерпнут энергию из знаменитого Фонтана омолаживающих сил. Если же Пикард откажется выполнить приказ, то он рискует своим кораблем, карьерой и жизнью.",
+               "image": "https://2.bp.blogspot.com/-GshNWsl6k1s/U38hMt9QCVI/AAAAAAAAFck/gKSWCzPgP_4/s1600/Star+Trek+IX.+Insurrección+(1998)+(22.05.14).jpg"
+            }
+         },
+         "image": "https://2.bp.blogspot.com/-GshNWsl6k1s/U38hMt9QCVI/AAAAAAAAFck/gKSWCzPgP_4/s1600/Star+Trek+IX.+Insurrección+(1998)+(22.05.14).jpg",
+         "action": "video:resolve:request:interaction:https://hye1eaipby4w.takedwn.ws/05_21_20/05/21/13/IXJY76I2/MPFMEJ7S.mp4/master.m3u8@http://msx.benzac.de/interaction/play.html",
+         "properties": {
+            "image:extension": "| {col:msx-white}Sixth Item"
+         }
+      }
+   ]
+}
